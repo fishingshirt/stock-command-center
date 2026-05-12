@@ -1,0 +1,25 @@
+{
+  "task_id": "20260512-012",
+  "subject": "Set up Hermes cronjob for 24/7 operation",
+  "timestamp": "2026-05-12T23:06:51.228687+00:00",
+  "recommendation": "HOLD",
+  "confidence": 70,
+  "summary": "Near-term headwinds in C's core segment balanced by emerging AI revenue streams.",
+  "key_metrics": {
+    "current_price": 116.44,
+    "pe_ratio": 40.64,
+    "forward_pe": 40.39,
+    "rsi_14": 33,
+    "market_cap": 670861909385.0,
+    "52_week_high": 205.47,
+    "52_week_low": 47.4
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/C",
+    "https://seekingalpha.com/symbol/C"
+  ],
+  "full_text": "## C Deep Research\n\n### Overview\nNear-term headwinds in C's core segment balanced by emerging AI revenue streams.\n\n### Key Metrics\n- **current_price:** 116.44\n- **pe_ratio:** 40.64\n- **forward_pe:** 40.39\n- **rsi_14:** 33\n- **market_cap:** 670861909385.0\n- **52_week_high:** 205.47\n- **52_week_low:** 47.4\n\n### Recommendation\nHOLD with 70% confidence.",
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 116.44,
+  "asset_type": "stock"
+}

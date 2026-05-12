@@ -1,0 +1,25 @@
+{
+  "task_id": "20260512-006",
+  "subject": "Dockerize backend + frontend + compose wiring",
+  "timestamp": "2026-05-12T23:06:37.089585+00:00",
+  "recommendation": "HOLD",
+  "confidence": 74,
+  "summary": "Near-term headwinds in BA's core segment balanced by emerging AI revenue streams.",
+  "key_metrics": {
+    "current_price": 552.35,
+    "pe_ratio": 17.98,
+    "forward_pe": 46.41,
+    "rsi_14": 30,
+    "market_cap": 402455479141.0,
+    "52_week_high": 816.36,
+    "52_week_low": 414.47
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/BA",
+    "https://seekingalpha.com/symbol/BA"
+  ],
+  "full_text": "## BA Deep Research\n\n### Overview\nOptions flow turning bullish for BA into earnings; technicals support a breakout.\n\n### Key Metrics\n- **current_price:** 552.35\n- **pe_ratio:** 17.98\n- **forward_pe:** 46.41\n- **rsi_14:** 30\n- **market_cap:** 402455479141.0\n- **52_week_high:** 816.36\n- **52_week_low:** 414.47\n\n### Recommendation\nHOLD with 74% confidence.",
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 552.35,
+  "asset_type": "stock"
+}

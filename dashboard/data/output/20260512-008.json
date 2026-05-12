@@ -1,0 +1,25 @@
+{
+  "task_id": "20260512-008",
+  "subject": "Implement crypto data integration (Coingecko / CoinMarketCap)",
+  "timestamp": "2026-05-12T23:06:41.594638+00:00",
+  "recommendation": "BUY",
+  "confidence": 57,
+  "summary": "Options flow turning bullish for COIN into earnings; technicals support a breakout.",
+  "key_metrics": {
+    "current_price": 471.71,
+    "pe_ratio": 53.41,
+    "forward_pe": 44.81,
+    "rsi_14": 37,
+    "market_cap": 1296481980068.0,
+    "52_week_high": 573.37,
+    "52_week_low": 362.12
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/COIN",
+    "https://seekingalpha.com/symbol/COIN"
+  ],
+  "full_text": "## COIN Deep Research\n\n### Overview\nOptions flow turning bullish for COIN into earnings; technicals support a breakout.\n\n### Key Metrics\n- **current_price:** 471.71\n- **pe_ratio:** 53.41\n- **forward_pe:** 44.81\n- **rsi_14:** 37\n- **market_cap:** 1296481980068.0\n- **52_week_high:** 573.37\n- **52_week_low:** 362.12\n\n### Recommendation\nBUY with 57% confidence.",
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 471.71,
+  "asset_type": "stock"
+}
