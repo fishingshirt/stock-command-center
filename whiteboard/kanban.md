@@ -126,20 +126,23 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Bind-mount `dashboard/data/` and `whiteboard/` for persistence
 - Verify `docker compose up` serves site at `http://localhost:8080`
 
-## In Progress
-
 ### Task ID: 20260512-007
 **Subject:** Implement stock data integration (yfinance + Alpha Vantage)
 **Assigned Bot:** researcher_bot
 **Priority:** high
 **Created:** 2026-05-12
 **Started At:** 2026-05-12T23:06:38.230538Z
+**Summary:** FAILED at 2026-05-12T23:06:39.376871Z — will retry next cycle
 **Details:**
 - Pull price, PE ratio, RSI, MACD, earnings dates via yfinance
 - Pull fundamentals, earnings, news sentiment via Alpha Vantage
 - Cache results in `dashboard/data/cache/<ticker>.json`
 - Handle API rate limits with exponential backoff (max 3 retries)
 - Store errors in `logs/api_errors/` without crashing the bot
+
+## In Progress
+
+_(No tasks in this section.)_
 
 ## Done
 
