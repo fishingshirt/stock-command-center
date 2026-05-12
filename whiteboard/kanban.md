@@ -6,18 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260512-011
-**Subject:** Build self-improvement / learning loop
-**Assigned Bot:** self_build
-**Priority:** medium
-**Created:** 2026-05-12
-**Details:**
-- After trades close, compare prediction vs actual outcome
-- Log accuracy per sector, per bot, per recommendation type
-- When accuracy drops, auto-generate a whiteboard task: "Improve crypto momentum model" or "Add earnings whisper data"
-- Adjust confidence thresholds dynamically based on recent win rate
-- Add a "lesson learned" field to Done tasks
-
 ### Task ID: 20260512-012
 **Subject:** Set up Hermes cronjob for 24/7 operation
 **Assigned Bot:** self_build
@@ -148,7 +136,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260512-011
+**Subject:** Build self-improvement / learning loop
+**Assigned Bot:** self_build
+**Priority:** medium
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:06:47.699106Z
+**Details:**
+- After trades close, compare prediction vs actual outcome
+- Log accuracy per sector, per bot, per recommendation type
+- When accuracy drops, auto-generate a whiteboard task: "Improve crypto momentum model" or "Add earnings whisper data"
+- Adjust confidence thresholds dynamically based on recent win rate
+- Add a "lesson learned" field to Done tasks
 
 ## Done
 
