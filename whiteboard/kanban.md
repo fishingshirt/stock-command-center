@@ -120,20 +120,23 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Confirm data persists after `docker compose down && docker compose up`
 - Screenshot or confirm via curl — this is a gate before moving to Phase 2
 
-## In Progress
-
 ### Task ID: 20260512-004
 **Subject:** Build FastAPI dashboard backend (`dashboard/backend/`)
 **Assigned Bot:** self_build
 **Priority:** critical
 **Created:** 2026-05-12
 **Started At:** 2026-05-12T23:06:30.935795Z
+**Summary:** FAILED at 2026-05-12T23:06:32.109750Z — will retry next cycle
 **Details:**
 - Serve recommendations from `dashboard/data/output/*.json`
 - Endpoints: `/api/recommendations`, `/api/recommendations/{ticker}`, `/api/sectors`, `/api/feed`, `/api/archive`, `/api/whiteboard`, `/api/trigger-cycle`, `/health`
 - Read whiteboard and serve parsed JSON
 - Accept POST `/api/trigger-cycle` to run one sync cycle manually
 - Log all API calls
+
+## In Progress
+
+_(No tasks in this section.)_
 
 ## Done
 
