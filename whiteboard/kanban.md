@@ -6,18 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260512-009
-**Subject:** Implement news sentiment aggregator
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-12
-**Details:**
-- Scrape / API fetch latest news for each researched ticker
-- Score sentiment: bullish, bearish, neutral
-- Weight by source credibility
-- Add sentiment score and top headlines to result JSON
-- Feed into final recommendation confidence
-
 ### Task ID: 20260512-010
 **Subject:** Build paper trading system (paper_trade.py)
 **Assigned Bot:** self_build
@@ -144,7 +132,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260512-009
+**Subject:** Implement news sentiment aggregator
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:06:42.657203Z
+**Details:**
+- Scrape / API fetch latest news for each researched ticker
+- Score sentiment: bullish, bearish, neutral
+- Weight by source credibility
+- Add sentiment score and top headlines to result JSON
+- Feed into final recommendation confidence
 
 ## Done
 
