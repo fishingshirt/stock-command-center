@@ -6,17 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260512-015
-**Subject:** Auto: S&P 500 top movers sentiment scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-12
-**Details:**
-- Pull top 20 S&P 500 movers of the day via yfinance
-- Score sentiment for each using headline analysis
-- Flag any ticker with extreme move >3% + positive news as ACCUMULATE
-- Flag any ticker with extreme move >3% + negative news as WATCH
-
 ### Task ID: 20260512-016
 **Subject:** Auto: Top 3 crypto momentum scan (BTC ETH SOL)
 **Assigned Bot:** researcher_bot
@@ -57,7 +46,17 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260512-015
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:18:09.444234Z
+**Details:**
+- Pull top 20 S&P 500 movers of the day via yfinance
+- Score sentiment for each using headline analysis
+- Flag any ticker with extreme move >3% + positive news as ACCUMULATE
+- Flag any ticker with extreme move >3% + negative news as WATCH
 
 ## Done
 
