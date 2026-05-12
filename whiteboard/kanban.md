@@ -6,17 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260512-017
-**Subject:** Auto: Micro-cap biotech watchlist sentiment scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-12
-**Details:**
-- Scan biotech/healthcare sector for earnings or trial catalysts this week
-- Pull news sentiment for XBI, ARKG, and top 5 micro-cap biotech movers
-- Flag any ticker with upcoming PDUFA or phase trial readout
-- Assess risk/reward for pipeline-stage companies
-
 ### Task ID: 20260512-018
 **Subject:** Auto: Macro economy snapshot — jobs, CPI, Fed sentiment
 **Assigned Bot:** researcher_bot
@@ -35,7 +24,17 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260512-017
+**Subject:** Auto: Micro-cap biotech watchlist sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:18:14.586569Z
+**Details:**
+- Scan biotech/healthcare sector for earnings or trial catalysts this week
+- Pull news sentiment for XBI, ARKG, and top 5 micro-cap biotech movers
+- Flag any ticker with upcoming PDUFA or phase trial readout
+- Assess risk/reward for pipeline-stage companies
 
 ## Done
 
