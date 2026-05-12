@@ -134,20 +134,23 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Display portfolio in dashboard `/portfolio` route
 - Integrate with orchestrator so recommendations auto-trigger paper trades when confidence > threshold
 
-## In Progress
-
 ### Task ID: 20260512-011
 **Subject:** Build self-improvement / learning loop
 **Assigned Bot:** self_build
 **Priority:** medium
 **Created:** 2026-05-12
 **Started At:** 2026-05-12T23:06:47.699106Z
+**Summary:** FAILED at 2026-05-12T23:06:48.926025Z — will retry next cycle
 **Details:**
 - After trades close, compare prediction vs actual outcome
 - Log accuracy per sector, per bot, per recommendation type
 - When accuracy drops, auto-generate a whiteboard task: "Improve crypto momentum model" or "Add earnings whisper data"
 - Adjust confidence thresholds dynamically based on recent win rate
 - Add a "lesson learned" field to Done tasks
+
+## In Progress
+
+_(No tasks in this section.)_
 
 ## Done
 
