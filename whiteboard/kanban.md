@@ -124,20 +124,23 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Responsive: 3-col desktop, 2-col tablet, 1-col mobile
 - Auto-refresh every 60 seconds
 
-## In Progress
-
 ### Task ID: 20260512-006
 **Subject:** Dockerize backend + frontend + compose wiring
 **Assigned Bot:** self_build
 **Priority:** high
 **Created:** 2026-05-12
 **Started At:** 2026-05-12T23:06:35.527273Z
+**Summary:** FAILED at 2026-05-12T23:06:37.101148Z — will retry next cycle
 **Details:**
 - `docker/Dockerfile.backend` — Python 3.12 + FastAPI + Uvicorn
 - `docker/Dockerfile.frontend` — Node 20 + Vite build → Nginx serve
 - `docker/docker-compose.yml` — backend on :8000, frontend on :8080, shared network
 - Bind-mount `dashboard/data/` and `whiteboard/` for persistence
 - Verify `docker compose up` serves site at `http://localhost:8080`
+
+## In Progress
+
+_(No tasks in this section.)_
 
 ## Done
 
