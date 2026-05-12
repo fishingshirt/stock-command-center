@@ -6,18 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260512-006
-**Subject:** Dockerize backend + frontend + compose wiring
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-12
-**Details:**
-- `docker/Dockerfile.backend` — Python 3.12 + FastAPI + Uvicorn
-- `docker/Dockerfile.frontend` — Node 20 + Vite build → Nginx serve
-- `docker/docker-compose.yml` — backend on :8000, frontend on :8080, shared network
-- Bind-mount `dashboard/data/` and `whiteboard/` for persistence
-- Verify `docker compose up` serves site at `http://localhost:8080`
-
 ### Task ID: 20260512-007
 **Subject:** Implement stock data integration (yfinance + Alpha Vantage)
 **Assigned Bot:** researcher_bot
@@ -138,7 +126,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260512-006
+**Subject:** Dockerize backend + frontend + compose wiring
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:06:35.527273Z
+**Details:**
+- `docker/Dockerfile.backend` — Python 3.12 + FastAPI + Uvicorn
+- `docker/Dockerfile.frontend` — Node 20 + Vite build → Nginx serve
+- `docker/docker-compose.yml` — backend on :8000, frontend on :8080, shared network
+- Bind-mount `dashboard/data/` and `whiteboard/` for persistence
+- Verify `docker compose up` serves site at `http://localhost:8080`
 
 ## Done
 
