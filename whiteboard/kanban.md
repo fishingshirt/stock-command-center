@@ -120,14 +120,13 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Accept POST `/api/trigger-cycle` to run one sync cycle manually
 - Log all API calls
 
-## In Progress
-
 ### Task ID: 20260512-005
 **Subject:** Build React dashboard frontend (`dashboard/frontend/`)
 **Assigned Bot:** self_build
 **Priority:** high
 **Created:** 2026-05-12
 **Started At:** 2026-05-12T23:06:33.314071Z
+**Summary:** FAILED at 2026-05-12T23:06:34.438965Z — will retry next cycle
 **Details:**
 - Dark-themed UI (slate-900 bg, slate-50 text)
 - Route `/` — recommendation cards with ticker, badge, confidence, summary, key metrics
@@ -136,6 +135,10 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Route `/settings` — API key status, log viewer, manual cycle trigger button
 - Responsive: 3-col desktop, 2-col tablet, 1-col mobile
 - Auto-refresh every 60 seconds
+
+## In Progress
+
+_(No tasks in this section.)_
 
 ## Done
 
