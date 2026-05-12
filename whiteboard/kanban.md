@@ -6,11 +6,16 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
+_(No tasks in this section.)_
+
+## In Progress
+
 ### Task ID: 20260512-018
 **Subject:** Auto: Macro economy snapshot — jobs, CPI, Fed sentiment
 **Assigned Bot:** researcher_bot
 **Priority:** medium
 **Created:** 2026-05-12
+**Started At:** 2026-05-12T23:18:16.748648Z
 **Details:**
 - Pull latest macro data: non-farm payrolls, CPI/PPI trends, unemployment
 - Scrape Fed officials latest speeches for dovish/hawkish signal
@@ -21,10 +26,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Compare sector ETF performance
 - Relative strength analysis
 - Rotation signal detection
-
-## In Progress
-
-_(No tasks in this section.)_
 
 ## Done
 
