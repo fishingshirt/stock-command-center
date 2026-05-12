@@ -6,18 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260512-007
-**Subject:** Implement stock data integration (yfinance + Alpha Vantage)
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-12
-**Details:**
-- Pull price, PE ratio, RSI, MACD, earnings dates via yfinance
-- Pull fundamentals, earnings, news sentiment via Alpha Vantage
-- Cache results in `dashboard/data/cache/<ticker>.json`
-- Handle API rate limits with exponential backoff (max 3 retries)
-- Store errors in `logs/api_errors/` without crashing the bot
-
 ### Task ID: 20260512-008
 **Subject:** Implement crypto data integration (Coingecko / CoinMarketCap)
 **Assigned Bot:** researcher_bot
@@ -140,7 +128,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260512-007
+**Subject:** Implement stock data integration (yfinance + Alpha Vantage)
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:06:38.230538Z
+**Details:**
+- Pull price, PE ratio, RSI, MACD, earnings dates via yfinance
+- Pull fundamentals, earnings, news sentiment via Alpha Vantage
+- Cache results in `dashboard/data/cache/<ticker>.json`
+- Handle API rate limits with exponential backoff (max 3 retries)
+- Store errors in `logs/api_errors/` without crashing the bot
 
 ## Done
 
