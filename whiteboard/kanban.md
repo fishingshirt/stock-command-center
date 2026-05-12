@@ -6,21 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260512-013
-**Subject:** Verify full local Docker site is live and accessible
-**Assigned Bot:** self_build
-**Priority:** low
-**Created:** 2026-05-12
-**Started At:** 2026-05-12T23:06:52.290161Z
-**Summary:** FAILED at 2026-05-12T23:06:53.474388Z — will retry next cycle
-**Details:**
-- Health check: `curl http://localhost:8080/health` returns 200
-- Verify all routes load without errors
-- Populate sample recommendation cards for demo
-- Test manual trigger cycle button from dashboard
-- Confirm data persists after `docker compose down && docker compose up`
-- Screenshot or confirm via curl — this is a gate before moving to Phase 2
-
 ### Task ID: 20260512-014
 **Subject:** Auto: Sector rotation — tech vs energy vs biotech
 **Assigned Bot:** researcher_bot
@@ -33,7 +18,20 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260512-013
+**Subject:** Verify full local Docker site is live and accessible
+**Assigned Bot:** self_build
+**Priority:** low
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:16:00.436512Z
+**Summary:** FAILED at 2026-05-12T23:06:53.474388Z — will retry next cycle
+**Details:**
+- Health check: `curl http://localhost:8080/health` returns 200
+- Verify all routes load without errors
+- Populate sample recommendation cards for demo
+- Test manual trigger cycle button from dashboard
+- Confirm data persists after `docker compose down && docker compose up`
+- Screenshot or confirm via curl — this is a gate before moving to Phase 2
 
 ## Done
 
