@@ -6,17 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260512-016
-**Subject:** Auto: Top 3 crypto momentum scan (BTC ETH SOL)
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-12
-**Details:**
-- Pull BTC, ETH, SOL price, volume, 24h change via CoinGecko
-- Evaluate trend strength (7d vs 30d momentum)
-- Check funding rates and futures sentiment if available
-- Output BUY/HOLD/SELL with confidence for each
-
 ### Task ID: 20260512-017
 **Subject:** Auto: Micro-cap biotech watchlist sentiment scan
 **Assigned Bot:** researcher_bot
@@ -46,7 +35,17 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260512-016
+**Subject:** Auto: Top 3 crypto momentum scan (BTC ETH SOL)
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:18:12.125306Z
+**Details:**
+- Pull BTC, ETH, SOL price, volume, 24h change via CoinGecko
+- Evaluate trend strength (7d vs 30d momentum)
+- Check funding rates and futures sentiment if available
+- Output BUY/HOLD/SELL with confidence for each
 
 ## Done
 
