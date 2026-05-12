@@ -1,0 +1,25 @@
+{
+  "task_id": "20260514-001",
+  "subject": "NVDA earnings risk",
+  "timestamp": "2026-05-12T23:20:25.761872+00:00",
+  "recommendation": "BUY",
+  "confidence": 54,
+  "summary": "Near-term headwinds in NVDA's core segment balanced by emerging AI revenue streams.",
+  "key_metrics": {
+    "current_price": 260.18,
+    "pe_ratio": 50.81,
+    "forward_pe": 19.92,
+    "rsi_14": 22,
+    "market_cap": 518849990435.0,
+    "52_week_high": 316.65,
+    "52_week_low": 155.57
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/NVDA",
+    "https://seekingalpha.com/symbol/NVDA"
+  ],
+  "full_text": "## NVDA Deep Research\n\n### Overview\nElevated PE but strong revenue trajectory suggests NVDA can grow into valuation.\n\n### Key Metrics\n- **current_price:** 260.18\n- **pe_ratio:** 50.81\n- **forward_pe:** 19.92\n- **rsi_14:** 22\n- **market_cap:** 518849990435.0\n- **52_week_high:** 316.65\n- **52_week_low:** 155.57\n\n### Recommendation\nBUY with 54% confidence.",
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 260.18,
+  "asset_type": "stock"
+}

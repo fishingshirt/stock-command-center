@@ -1,0 +1,19 @@
+{
+  "cash": 90000.014,
+  "initial_capital": 100000.0,
+  "positions": {
+    "NVDA": {
+      "ticker": "NVDA",
+      "shares": 21.7391,
+      "entry_price": 460,
+      "last_price": 460,
+      "confidence": 80,
+      "reasoning": "test",
+      "task_id": "",
+      "opened_at": "2026-05-12T23:20:25.794775+00:00"
+    }
+  },
+  "history": [],
+  "created_at": "2026-05-12T23:20:25.794758+00:00",
+  "updated_at": "2026-05-12T23:20:25.794778+00:00"
+}
