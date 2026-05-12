@@ -128,20 +128,23 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Handle API rate limits with exponential backoff (max 3 retries)
 - Store errors in `logs/api_errors/` without crashing the bot
 
-## In Progress
-
 ### Task ID: 20260512-008
 **Subject:** Implement crypto data integration (Coingecko / CoinMarketCap)
 **Assigned Bot:** researcher_bot
 **Priority:** high
 **Created:** 2026-05-12
 **Started At:** 2026-05-12T23:06:40.438840Z
+**Summary:** FAILED at 2026-05-12T23:06:41.606108Z — will retry next cycle
 **Details:**
 - Support top 100+ cryptocurrencies (not just BTC)
 - Pull price, market cap, 24h volume, 7d/30d change via Coingecko free API
 - Pull news sentiment for tokens
 - Same JSON output schema as stock tasks but with crypto-specific metrics
 - Evaluate BUY/HOLD/SELL for crypto based on momentum + sentiment
+
+## In Progress
+
+_(No tasks in this section.)_
 
 ## Done
 
