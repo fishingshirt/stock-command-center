@@ -18,20 +18,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260512-013
-**Subject:** Verify full local Docker site is live and accessible
-**Assigned Bot:** self_build
-**Priority:** low
-**Created:** 2026-05-12
-**Started At:** 2026-05-12T23:16:00.436512Z
-**Summary:** FAILED at 2026-05-12T23:06:53.474388Z — will retry next cycle
-**Details:**
-- Health check: `curl http://localhost:8080/health` returns 200
-- Verify all routes load without errors
-- Populate sample recommendation cards for demo
-- Test manual trigger cycle button from dashboard
-- Confirm data persists after `docker compose down && docker compose up`
-- Screenshot or confirm via curl — this is a gate before moving to Phase 2
+_(No tasks in this section.)_
 
 ## Done
 
@@ -232,3 +219,23 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Auto-commit + push results after cycle
 - On crash: send alert, mark current task back to todo, log error
 - Include a lock file so only one cycle runs at a time
+
+### Task ID: 20260512-013
+**Subject:** Verify full local Docker site is live and accessible
+**Assigned Bot:** self_build
+**Priority:** low
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:16:00.436512Z
+**Completed At:** 2026-05-12T23:16:01.664861Z
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** time="2026-05-12T23:16:01Z" level=warning msg="/home/fishingshirt/stock-command-center/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ Container scc-backend  Running
+ Container scc-frontend  Running
+
+**Details:**
+- Health check: `curl http://localhost:8080/health` returns 200
+- Verify all routes load without errors
+- Populate sample recommendation cards for demo
+- Test manual trigger cycle button from dashboard
+- Confirm data persists after `docker compose down && docker compose up`
+- Screenshot or confirm via curl — this is a gate before moving to Phase 2
