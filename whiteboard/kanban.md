@@ -10,22 +10,7 @@ _(No tasks in this section.)_
 
 ## In Progress
 
-### Task ID: 20260512-018
-**Subject:** Auto: Macro economy snapshot — jobs, CPI, Fed sentiment
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-12
-**Started At:** 2026-05-12T23:18:16.748648Z
-**Details:**
-- Pull latest macro data: non-farm payrolls, CPI/PPI trends, unemployment
-- Scrape Fed officials latest speeches for dovish/hawkish signal
-- Evaluate SPY, TLT, DXY, gold correlation
-- Output weekly macro summary with sector impact assessment
-
-**Details:**
-- Compare sector ETF performance
-- Relative strength analysis
-- Rotation signal detection
+_(No tasks in this section.)_
 
 ## Done
 
@@ -298,3 +283,23 @@ _(No tasks in this section.)_
 - Pull news sentiment for XBI, ARKG, and top 5 micro-cap biotech movers
 - Flag any ticker with upcoming PDUFA or phase trial readout
 - Assess risk/reward for pipeline-stage companies
+
+### Task ID: 20260512-018
+**Subject:** Auto: Macro economy snapshot — jobs, CPI, Fed sentiment
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:18:16.748648Z
+**Completed At:** 2026-05-12T23:18:17.995510Z
+**Result:** dashboard/data/output/20260512-018.json
+**Summary:** WATCH (confidence 49%) — Options flow turning bullish for C into earnings; technicals support a breakout.
+**Details:**
+- Pull latest macro data: non-farm payrolls, CPI/PPI trends, unemployment
+- Scrape Fed officials latest speeches for dovish/hawkish signal
+- Evaluate SPY, TLT, DXY, gold correlation
+- Output weekly macro summary with sector impact assessment
+
+**Details:**
+- Compare sector ETF performance
+- Relative strength analysis
+- Rotation signal detection
