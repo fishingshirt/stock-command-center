@@ -46,17 +46,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260512-015
-**Subject:** Auto: S&P 500 top movers sentiment scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-12
-**Started At:** 2026-05-12T23:18:09.444234Z
-**Details:**
-- Pull top 20 S&P 500 movers of the day via yfinance
-- Score sentiment for each using headline analysis
-- Flag any ticker with extreme move >3% + positive news as ACCUMULATE
-- Flag any ticker with extreme move >3% + negative news as WATCH
+_(No tasks in this section.)_
 
 ## Done
 
@@ -284,3 +274,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 **Completed At:** 2026-05-12T23:18:08.307921Z
 **Result:** dashboard/data/output/20260512-014.json
 **Summary:** WATCH (confidence 47%) — Near-term headwinds in C's core segment balanced by emerging AI revenue streams.
+
+### Task ID: 20260512-015
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:18:09.444234Z
+**Completed At:** 2026-05-12T23:18:10.631429Z
+**Result:** dashboard/data/output/20260512-015.json
+**Summary:** HOLD (confidence 80%) — Elevated PE but strong revenue trajectory suggests C can grow into valuation.
+**Details:**
+- Pull top 20 S&P 500 movers of the day via yfinance
+- Score sentiment for each using headline analysis
+- Flag any ticker with extreme move >3% + positive news as ACCUMULATE
+- Flag any ticker with extreme move >3% + negative news as WATCH
