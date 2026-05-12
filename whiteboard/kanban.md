@@ -150,19 +150,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260512-004
-**Subject:** Build FastAPI dashboard backend (`dashboard/backend/`)
-**Assigned Bot:** self_build
-**Priority:** critical
-**Created:** 2026-05-12
-**Started At:** 2026-05-12T23:15:25.471597Z
-**Summary:** FAILED at 2026-05-12T23:06:32.109750Z — will retry next cycle
-**Details:**
-- Serve recommendations from `dashboard/data/output/*.json`
-- Endpoints: `/api/recommendations`, `/api/recommendations/{ticker}`, `/api/sectors`, `/api/feed`, `/api/archive`, `/api/whiteboard`, `/api/trigger-cycle`, `/health`
-- Read whiteboard and serve parsed JSON
-- Accept POST `/api/trigger-cycle` to run one sync cycle manually
-- Log all API calls
+_(No tasks in this section.)_
 
 ## Done
 
@@ -214,3 +202,19 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Produce structured JSON result following `docs/BOT_ORCHESTRATION.md` schema
 - Support BUY / HOLD / SELL / WATCH / ACCUMULATE with confidence 0–100
 - Save output to `dashboard/data/output/<task_id>.json`
+
+### Task ID: 20260512-004
+**Subject:** Build FastAPI dashboard backend (`dashboard/backend/`)
+**Assigned Bot:** self_build
+**Priority:** critical
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:15:25.471597Z
+**Completed At:** 2026-05-12T23:15:26.699010Z
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** All Python files compile OK
+**Details:**
+- Serve recommendations from `dashboard/data/output/*.json`
+- Endpoints: `/api/recommendations`, `/api/recommendations/{ticker}`, `/api/sectors`, `/api/feed`, `/api/archive`, `/api/whiteboard`, `/api/trigger-cycle`, `/health`
+- Read whiteboard and serve parsed JSON
+- Accept POST `/api/trigger-cycle` to run one sync cycle manually
+- Log all API calls
