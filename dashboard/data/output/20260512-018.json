@@ -1,0 +1,25 @@
+{
+  "task_id": "20260512-018",
+  "subject": "Auto: Macro economy snapshot \u2014 jobs, CPI, Fed sentiment",
+  "timestamp": "2026-05-12T23:18:17.983955+00:00",
+  "recommendation": "WATCH",
+  "confidence": 49,
+  "summary": "Options flow turning bullish for C into earnings; technicals support a breakout.",
+  "key_metrics": {
+    "current_price": 523.4,
+    "pe_ratio": 55.38,
+    "forward_pe": 15.54,
+    "rsi_14": 64,
+    "market_cap": 852367384573.0,
+    "52_week_high": 805.62,
+    "52_week_low": 283.0
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/C",
+    "https://seekingalpha.com/symbol/C"
+  ],
+  "full_text": "## C Deep Research\n\n### Overview\nNear-term headwinds in C's core segment balanced by emerging AI revenue streams.\n\n### Key Metrics\n- **current_price:** 523.4\n- **pe_ratio:** 55.38\n- **forward_pe:** 15.54\n- **rsi_14:** 64\n- **market_cap:** 852367384573.0\n- **52_week_high:** 805.62\n- **52_week_low:** 283.0\n\n### Recommendation\nWATCH with 49% confidence.",
+  "paper_trade_signal": "WATCH",
+  "paper_trade_price": 523.4,
+  "asset_type": "stock"
+}

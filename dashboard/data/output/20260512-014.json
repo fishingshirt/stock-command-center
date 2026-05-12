@@ -1,0 +1,25 @@
+{
+  "task_id": "20260512-014",
+  "subject": "Auto: Sector rotation \u2014 tech vs energy vs biotech",
+  "timestamp": "2026-05-12T23:18:08.296380+00:00",
+  "recommendation": "WATCH",
+  "confidence": 47,
+  "summary": "Near-term headwinds in C's core segment balanced by emerging AI revenue streams.",
+  "key_metrics": {
+    "current_price": 498.24,
+    "pe_ratio": 29.18,
+    "forward_pe": 30.55,
+    "rsi_14": 29,
+    "market_cap": 873671605765.0,
+    "52_week_high": 796.93,
+    "52_week_low": 318.51
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/C",
+    "https://seekingalpha.com/symbol/C"
+  ],
+  "full_text": "## C Deep Research\n\n### Overview\nElevated PE but strong revenue trajectory suggests C can grow into valuation.\n\n### Key Metrics\n- **current_price:** 498.24\n- **pe_ratio:** 29.18\n- **forward_pe:** 30.55\n- **rsi_14:** 29\n- **market_cap:** 873671605765.0\n- **52_week_high:** 796.93\n- **52_week_low:** 318.51\n\n### Recommendation\nWATCH with 47% confidence.",
+  "paper_trade_signal": "WATCH",
+  "paper_trade_price": 498.24,
+  "asset_type": "stock"
+}

@@ -1,0 +1,24 @@
+{
+  "task_id": "20260512-016",
+  "subject": "Auto: Top 3 crypto momentum scan (BTC ETH SOL)",
+  "timestamp": "2026-05-12T23:18:13.357558+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 60,
+  "summary": "BTC analyzed via crypto data. Recommendation: ACCUMULATE.",
+  "key_metrics": {
+    "current_price": 80596,
+    "market_cap": 1614363916591,
+    "total_volume": 31895927080,
+    "price_change_24h": -1079.1666309487919,
+    "price_change_percentage_24h": -1.3213,
+    "ath": 126080,
+    "ath_change_percentage": -36.07582
+  },
+  "sources": [
+    "https://www.coingecko.com/en/coins/bitcoin"
+  ],
+  "full_text": "## BTC Research Result\n\nData sourced from real-time APIs.\n\n### Recommendation: ACCUMULATE (60% confidence)\n\n### Metrics\n- **current_price:** 80596\n- **market_cap:** 1614363916591\n- **total_volume:** 31895927080\n- **price_change_24h:** -1079.1666309487919\n- **price_change_percentage_24h:** -1.3213\n- **ath:** 126080\n- **ath_change_percentage:** -36.07582",
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 80596,
+  "asset_type": "crypto"
+}

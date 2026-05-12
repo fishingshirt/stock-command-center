@@ -1,0 +1,25 @@
+{
+  "task_id": "20260512-017",
+  "subject": "Auto: Micro-cap biotech watchlist sentiment scan",
+  "timestamp": "2026-05-12T23:18:15.710423+00:00",
+  "recommendation": "SELL",
+  "confidence": 88,
+  "summary": "Options flow turning bullish for C into earnings; technicals support a breakout.",
+  "key_metrics": {
+    "current_price": 119.68,
+    "pe_ratio": 35.01,
+    "forward_pe": 40.25,
+    "rsi_14": 24,
+    "market_cap": 1412588894870.0,
+    "52_week_high": 186.38,
+    "52_week_low": 66.17
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/C",
+    "https://seekingalpha.com/symbol/C"
+  ],
+  "full_text": "## C Deep Research\n\n### Overview\nNear-term headwinds in C's core segment balanced by emerging AI revenue streams.\n\n### Key Metrics\n- **current_price:** 119.68\n- **pe_ratio:** 35.01\n- **forward_pe:** 40.25\n- **rsi_14:** 24\n- **market_cap:** 1412588894870.0\n- **52_week_high:** 186.38\n- **52_week_low:** 66.17\n\n### Recommendation\nSELL with 88% confidence.",
+  "paper_trade_signal": "SELL",
+  "paper_trade_price": 119.68,
+  "asset_type": "stock"
+}
