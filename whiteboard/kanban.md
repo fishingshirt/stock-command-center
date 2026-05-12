@@ -6,19 +6,20 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
+_(No tasks in this section.)_
+
+## In Progress
+
 ### Task ID: 20260512-014
 **Subject:** Auto: Sector rotation — tech vs energy vs biotech
 **Assigned Bot:** researcher_bot
 **Priority:** low
 **Created:** 2026-05-12
+**Started At:** 2026-05-12T23:16:02.887756Z
 **Details:**
 - Compare sector ETF performance
 - Relative strength analysis
 - Rotation signal detection
-
-## In Progress
-
-_(No tasks in this section.)_
 
 ## Done
 
@@ -229,9 +230,6 @@ _(No tasks in this section.)_
 **Completed At:** 2026-05-12T23:16:01.664861Z
 **Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
 **Summary:** time="2026-05-12T23:16:01Z" level=warning msg="/home/fishingshirt/stock-command-center/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
- Container scc-backend  Running
- Container scc-frontend  Running
-
 **Details:**
 - Health check: `curl http://localhost:8080/health` returns 200
 - Verify all routes load without errors
