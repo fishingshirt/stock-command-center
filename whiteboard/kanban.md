@@ -130,14 +130,13 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Add sentiment score and top headlines to result JSON
 - Feed into final recommendation confidence
 
-## In Progress
-
 ### Task ID: 20260512-010
 **Subject:** Build paper trading system (paper_trade.py)
 **Assigned Bot:** self_build
 **Priority:** high
 **Created:** 2026-05-12
 **Started At:** 2026-05-12T23:06:45.479297Z
+**Summary:** FAILED at 2026-05-12T23:06:46.654108Z — will retry next cycle
 **Details:**
 - Virtual portfolio ledger: `dashboard/data/paper_ledger.json`
 - Treat paper trades as REAL money for learning
@@ -146,6 +145,10 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Track win rate, avg return, max drawdown
 - Display portfolio in dashboard `/portfolio` route
 - Integrate with orchestrator so recommendations auto-trigger paper trades when confidence > threshold
+
+## In Progress
+
+_(No tasks in this section.)_
 
 ## Done
 
