@@ -93,6 +93,29 @@ def spawn_researcher(task: dict) -> bool:
     return True
 
 
+def _run_self_build(task: dict) -> tuple:
+    """Execute a build/implementation/verification task."""
+    task_id = task.get("task_id", "UNKNOWN")
+    logger.info(f"Self-building task {task_id}: {task.get('subject', '')}")
+    
+    import json as _json
+    proc = subprocess.run(
+        [sys.executable, str(REPO_ROOT / "bots" / "self_build.py"), _json.dumps(task)],
+        capture_output=True, text=True, timeout=300,
+    )
+    if proc.returncode != 0:
+        logger.error(f"Self-build failed for {task_id}: {proc.stderr[:500]}")
+        return False, {"status": "error", "message": proc.stderr[:500]}
+    
+    try:
+        result = _json.loads(proc.stdout.strip().split('\n')[-1])
+    except Exception:
+        result = {"status": "ok", "message": "self-build completed with parsing fallback"}
+    
+    logger.info(f"Self-build result for {task_id}: {result.get('status')} — {result.get('message', '')[:100]}")
+    return result.get("status") == "ok", result
+
+
 def _load_summary(output_path: Path) -> str:
     try:
         with open(output_path, "r", encoding="utf-8") as f:
@@ -175,22 +198,41 @@ def run_cycle():
         move_task(str(BOARD_PATH), task_id, "To Do", "In Progress",
                   extra_fields={"started_at": datetime.utcnow().isoformat() + "Z"})
 
-        success = spawn_researcher(task)
-
-        if success:
-            output_path = OUTPUT_DIR / f"{task_id}.json"
-            extra = {
-                "completed_at": datetime.utcnow().isoformat() + "Z",
-                "result": str(output_path.relative_to(REPO_ROOT)),
-                "summary": _load_summary(output_path),
-            }
-            move_task(str(BOARD_PATH), task_id, "In Progress", "Done", extra_fields=extra)
-            logger.info(f"Task {task_id} completed and archived")
+        # Decide which bot to use
+        assigned_bot = task.get("assigned_bot", "researcher_bot")
+        subject = task.get("subject", "")
+        subj_lower = subject.lower()
+        
+        # Route task to the right executor
+        if assigned_bot == "self_build" or "build" in subj_lower or "docker" in subj_lower or "verify" in subj_lower or "test" in subj_lower or "implement" in subj_lower:
+            success, build_result = _run_self_build(task)
+            if success:
+                extra = {
+                    "completed_at": datetime.utcnow().isoformat() + "Z",
+                    "result": str(REPO_ROOT / "logs" / "self_build.log"),
+                    "summary": build_result.get("message", "Self-build task completed"),
+                }
+                move_task(str(BOARD_PATH), task_id, "In Progress", "Done", extra_fields=extra)
+                logger.info(f"Task {task_id} self-built and archived")
+            else:
+                extra = {"summary": f"BUILD FAILED at {datetime.utcnow().isoformat()}Z — {build_result.get('message', 'unknown')} — will retry next cycle"}
+                move_task(str(BOARD_PATH), task_id, "In Progress", "To Do", extra_fields=extra)
+                logger.warning(f"Task {task_id} self-build failed, moved back to To Do")
         else:
-            # Move back to To Do
-            extra = {"summary": f"FAILED at {datetime.utcnow().isoformat()}Z — will retry next cycle"}
-            move_task(str(BOARD_PATH), task_id, "In Progress", "To Do", extra_fields=extra)
-            logger.warning(f"Task {task_id} failed, moved back to To Do")
+            success = spawn_researcher(task)
+            if success:
+                output_path = OUTPUT_DIR / f"{task_id}.json"
+                extra = {
+                    "completed_at": datetime.utcnow().isoformat() + "Z",
+                    "result": str(output_path.relative_to(REPO_ROOT)),
+                    "summary": _load_summary(output_path),
+                }
+                move_task(str(BOARD_PATH), task_id, "In Progress", "Done", extra_fields=extra)
+                logger.info(f"Task {task_id} completed and archived")
+            else:
+                extra = {"summary": f"FAILED at {datetime.utcnow().isoformat()}Z — will retry next cycle"}
+                move_task(str(BOARD_PATH), task_id, "In Progress", "To Do", extra_fields=extra)
+                logger.warning(f"Task {task_id} failed, moved back to To Do")
 
     _generate_new_tasks(board)
     _git_push("orchestrator: cycle complete with manual push")

@@ -10,6 +10,9 @@ import os
 import re
 import random
 import subprocess
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent = os.path.dirname(current_dir)
+sys.path.insert(0, parent)
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -240,7 +243,9 @@ def run(args) -> bool:
     return True
 
 
+import sys
 if __name__ == "__main__":
+    import sys
     parser = argparse.ArgumentParser(description="Stock/Crypto Research Bot")
     parser.add_argument("--task-id", required=True)
     parser.add_argument("--subject", required=True)
