@@ -6,20 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260512-005
-**Subject:** Build React dashboard frontend (`dashboard/frontend/`)
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-12
-**Details:**
-- Dark-themed UI (slate-900 bg, slate-50 text)
-- Route `/` — recommendation cards with ticker, badge, confidence, summary, key metrics
-- Route `/archive` — paginated history of all completed tasks
-- Route `/whiteboard` — read-only kanban view rendered from markdown
-- Route `/settings` — API key status, log viewer, manual cycle trigger button
-- Responsive: 3-col desktop, 2-col tablet, 1-col mobile
-- Auto-refresh every 60 seconds
-
 ### Task ID: 20260512-006
 **Subject:** Dockerize backend + frontend + compose wiring
 **Assigned Bot:** self_build
@@ -136,7 +122,20 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260512-005
+**Subject:** Build React dashboard frontend (`dashboard/frontend/`)
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:06:33.314071Z
+**Details:**
+- Dark-themed UI (slate-900 bg, slate-50 text)
+- Route `/` — recommendation cards with ticker, badge, confidence, summary, key metrics
+- Route `/archive` — paginated history of all completed tasks
+- Route `/whiteboard` — read-only kanban view rendered from markdown
+- Route `/settings` — API key status, log viewer, manual cycle trigger button
+- Responsive: 3-col desktop, 2-col tablet, 1-col mobile
+- Auto-refresh every 60 seconds
 
 ## Done
 
