@@ -35,17 +35,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260512-016
-**Subject:** Auto: Top 3 crypto momentum scan (BTC ETH SOL)
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-12
-**Started At:** 2026-05-12T23:18:12.125306Z
-**Details:**
-- Pull BTC, ETH, SOL price, volume, 24h change via CoinGecko
-- Evaluate trend strength (7d vs 30d momentum)
-- Check funding rates and futures sentiment if available
-- Output BUY/HOLD/SELL with confidence for each
+_(No tasks in this section.)_
 
 ## Done
 
@@ -288,3 +278,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Score sentiment for each using headline analysis
 - Flag any ticker with extreme move >3% + positive news as ACCUMULATE
 - Flag any ticker with extreme move >3% + negative news as WATCH
+
+### Task ID: 20260512-016
+**Subject:** Auto: Top 3 crypto momentum scan (BTC ETH SOL)
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:18:12.125306Z
+**Completed At:** 2026-05-12T23:18:13.372302Z
+**Result:** dashboard/data/output/20260512-016.json
+**Summary:** ACCUMULATE (confidence 60%) — BTC analyzed via crypto data. Recommendation: ACCUMULATE.
+**Details:**
+- Pull BTC, ETH, SOL price, volume, 24h change via CoinGecko
+- Evaluate trend strength (7d vs 30d momentum)
+- Check funding rates and futures sentiment if available
+- Output BUY/HOLD/SELL with confidence for each
