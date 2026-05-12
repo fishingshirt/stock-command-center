@@ -6,20 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260512-010
-**Subject:** Build paper trading system (paper_trade.py)
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-12
-**Details:**
-- Virtual portfolio ledger: `dashboard/data/paper_ledger.json`
-- Treat paper trades as REAL money for learning
-- On BUY: log entry price, confidence, reasoning, timestamp
-- On SELL: log exit price, P&L, hold duration
-- Track win rate, avg return, max drawdown
-- Display portfolio in dashboard `/portfolio` route
-- Integrate with orchestrator so recommendations auto-trigger paper trades when confidence > threshold
-
 ### Task ID: 20260512-011
 **Subject:** Build self-improvement / learning loop
 **Assigned Bot:** self_build
@@ -146,7 +132,20 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260512-010
+**Subject:** Build paper trading system (paper_trade.py)
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:06:45.479297Z
+**Details:**
+- Virtual portfolio ledger: `dashboard/data/paper_ledger.json`
+- Treat paper trades as REAL money for learning
+- On BUY: log entry price, confidence, reasoning, timestamp
+- On SELL: log exit price, P&L, hold duration
+- Track win rate, avg return, max drawdown
+- Display portfolio in dashboard `/portfolio` route
+- Integrate with orchestrator so recommendations auto-trigger paper trades when confidence > threshold
 
 ## Done
 
