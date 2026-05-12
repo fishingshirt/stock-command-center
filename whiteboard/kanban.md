@@ -78,19 +78,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260512-009
-**Subject:** Implement news sentiment aggregator
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-12
-**Started At:** 2026-05-12T23:15:50.966450Z
-**Summary:** FAILED at 2026-05-12T23:06:44.437488Z — will retry next cycle
-**Details:**
-- Scrape / API fetch latest news for each researched ticker
-- Score sentiment: bullish, bearish, neutral
-- Weight by source credibility
-- Add sentiment score and top headlines to result JSON
-- Feed into final recommendation confidence
+_(No tasks in this section.)_
 
 ## Done
 
@@ -224,3 +212,20 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Pull news sentiment for tokens
 - Same JSON output schema as stock tasks but with crypto-specific metrics
 - Evaluate BUY/HOLD/SELL for crypto based on momentum + sentiment
+
+### Task ID: 20260512-009
+**Subject:** Implement news sentiment aggregator
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:15:50.966450Z
+**Completed At:** 2026-05-12T23:15:52.642303Z
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Scrape / API fetch latest news for each researched ticker
+- Score sentiment: bullish, bearish, neu
+**Details:**
+- Scrape / API fetch latest news for each researched ticker
+- Score sentiment: bullish, bearish, neutral
+- Weight by source credibility
+- Add sentiment score and top headlines to result JSON
+- Feed into final recommendation confidence
