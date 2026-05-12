@@ -24,17 +24,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260512-017
-**Subject:** Auto: Micro-cap biotech watchlist sentiment scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-12
-**Started At:** 2026-05-12T23:18:14.586569Z
-**Details:**
-- Scan biotech/healthcare sector for earnings or trial catalysts this week
-- Pull news sentiment for XBI, ARKG, and top 5 micro-cap biotech movers
-- Flag any ticker with upcoming PDUFA or phase trial readout
-- Assess risk/reward for pipeline-stage companies
+_(No tasks in this section.)_
 
 ## Done
 
@@ -292,3 +282,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Evaluate trend strength (7d vs 30d momentum)
 - Check funding rates and futures sentiment if available
 - Output BUY/HOLD/SELL with confidence for each
+
+### Task ID: 20260512-017
+**Subject:** Auto: Micro-cap biotech watchlist sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:18:14.586569Z
+**Completed At:** 2026-05-12T23:18:15.722053Z
+**Result:** dashboard/data/output/20260512-017.json
+**Summary:** SELL (confidence 88%) — Options flow turning bullish for C into earnings; technicals support a breakout.
+**Details:**
+- Scan biotech/healthcare sector for earnings or trial catalysts this week
+- Pull news sentiment for XBI, ARKG, and top 5 micro-cap biotech movers
+- Flag any ticker with upcoming PDUFA or phase trial readout
+- Assess risk/reward for pipeline-stage companies
