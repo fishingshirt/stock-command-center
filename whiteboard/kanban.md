@@ -134,21 +134,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260512-005
-**Subject:** Build React dashboard frontend (`dashboard/frontend/`)
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-12
-**Started At:** 2026-05-12T23:15:27.736696Z
-**Summary:** FAILED at 2026-05-12T23:06:34.438965Z — will retry next cycle
-**Details:**
-- Dark-themed UI (slate-900 bg, slate-50 text)
-- Route `/` — recommendation cards with ticker, badge, confidence, summary, key metrics
-- Route `/archive` — paginated history of all completed tasks
-- Route `/whiteboard` — read-only kanban view rendered from markdown
-- Route `/settings` — API key status, log viewer, manual cycle trigger button
-- Responsive: 3-col desktop, 2-col tablet, 1-col mobile
-- Auto-refresh every 60 seconds
+_(No tasks in this section.)_
 
 ## Done
 
@@ -216,3 +202,34 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Read whiteboard and serve parsed JSON
 - Accept POST `/api/trigger-cycle` to run one sync cycle manually
 - Log all API calls
+
+### Task ID: 20260512-005
+**Subject:** Build React dashboard frontend (`dashboard/frontend/`)
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:15:27.736696Z
+**Completed At:** 2026-05-12T23:15:42.370621Z
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** 
+> scc-frontend@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 38 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.39 kB │ gzip:  0.27 kB
+dist/assets/index-CPRCmX0T.css   12.45 kB │ gzip:  3.16 kB
+dist/assets/index-BFpPHENb.js   174.92 kB │ gzip: 56.13 kB
+✓ built in 1.01s
+
+**Details:**
+- Dark-themed UI (slate-900 bg, slate-50 text)
+- Route `/` — recommendation cards with ticker, badge, confidence, summary, key metrics
+- Route `/archive` — paginated history of all completed tasks
+- Route `/whiteboard` — read-only kanban view rendered from markdown
+- Route `/settings` — API key status, log viewer, manual cycle trigger button
+- Responsive: 3-col desktop, 2-col tablet, 1-col mobile
+- Auto-refresh every 60 seconds
