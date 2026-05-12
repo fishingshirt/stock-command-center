@@ -1,0 +1,34 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.backend
+    container_name: scc-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./dashboard/data:/app/dashboard/data
+      - ./whiteboard:/app/whiteboard
+      - ./logs:/app/logs
+    environment:
+      - PYTHONUNBUFFERED=1
+    networks:
+      - scc-net
+
+  frontend:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.frontend
+    container_name: scc-frontend
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
+    networks:
+      - scc-net
+
+networks:
+  scc-net:
+    driver: bridge

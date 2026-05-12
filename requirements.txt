@@ -1,0 +1,9 @@
+fastapi==0.112.0
+uvicorn[standard]==0.30.5
+pydantic==2.8.2
+yfinance==0.2.41
+requests==2.32.3
+python-dotenv==1.0.1
+fasteners==0.19
+sqlite_utils==3.36
+httpx==0.27.0

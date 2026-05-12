@@ -1,0 +1,24 @@
+{
+  "task_id": "20260512-004",
+  "subject": "ETH DeFi ecosystem health",
+  "timestamp": "2026-05-12T22:34:45.195355+00:00",
+  "recommendation": "BUY",
+  "confidence": 76,
+  "summary": "DeFi ecosystem around ETH expanding; TVL growth justifies elevated valuation.",
+  "key_metrics": {
+    "current_price": 47670.78,
+    "market_cap": 326059381368.0,
+    "total_volume_24h": 11301656663.0,
+    "price_change_24h_pct": -3.55,
+    "ath": 206702.63,
+    "dominance_pct": 22.6
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/ETH",
+    "https://www.coingecko.com/en/coins/eth"
+  ],
+  "full_text": "## ETH Deep Research\n\n### Overview\nDeFi ecosystem around ETH expanding; TVL growth justifies elevated valuation.\n\n### Key Metrics\n- **current_price:** 47670.78\n- **market_cap:** 326059381368.0\n- **total_volume_24h:** 11301656663.0\n- **price_change_24h_pct:** -3.55\n- **ath:** 206702.63\n- **dominance_pct:** 22.6\n\n### Recommendation\nBUY with 76% confidence.",
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 47670.78,
+  "asset_type": "crypto"
+}

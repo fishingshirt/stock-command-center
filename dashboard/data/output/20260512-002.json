@@ -1,0 +1,24 @@
+{
+  "task_id": "20260512-002",
+  "subject": "BTC macro sentiment scan",
+  "timestamp": "2026-05-12T22:34:45.195207+00:00",
+  "recommendation": "BUY",
+  "confidence": 54,
+  "summary": "BTC showing mixed signals with strong on-chain accumulation but regulatory uncertainty weighing near-term.",
+  "key_metrics": {
+    "current_price": 6925.68,
+    "market_cap": 1498564388845.0,
+    "total_volume_24h": 5964235941.0,
+    "price_change_24h_pct": 1.36,
+    "ath": 18026.69,
+    "dominance_pct": 7.53
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/BTC",
+    "https://www.coingecko.com/en/coins/btc"
+  ],
+  "full_text": "## BTC Deep Research\n\n### Overview\nDeFi ecosystem around BTC expanding; TVL growth justifies elevated valuation.\n\n### Key Metrics\n- **current_price:** 6925.68\n- **market_cap:** 1498564388845.0\n- **total_volume_24h:** 5964235941.0\n- **price_change_24h_pct:** 1.36\n- **ath:** 18026.69\n- **dominance_pct:** 7.53\n\n### Recommendation\nBUY with 54% confidence.",
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 6925.68,
+  "asset_type": "crypto"
+}

@@ -1,0 +1,25 @@
+{
+  "task_id": "20260512-005",
+  "subject": "AAPL product cycle impact",
+  "timestamp": "2026-05-12T22:34:45.195423+00:00",
+  "recommendation": "HOLD",
+  "confidence": 95,
+  "summary": "Elevated PE but strong revenue trajectory suggests AAPL can grow into valuation.",
+  "key_metrics": {
+    "current_price": 443.51,
+    "pe_ratio": 31.53,
+    "forward_pe": 28.79,
+    "rsi_14": 67,
+    "market_cap": 800277069324.0,
+    "52_week_high": 739.47,
+    "52_week_low": 381.55
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/AAPL",
+    "https://seekingalpha.com/symbol/AAPL"
+  ],
+  "full_text": "## AAPL Deep Research\n\n### Overview\nElevated PE but strong revenue trajectory suggests AAPL can grow into valuation.\n\n### Key Metrics\n- **current_price:** 443.51\n- **pe_ratio:** 31.53\n- **forward_pe:** 28.79\n- **rsi_14:** 67\n- **market_cap:** 800277069324.0\n- **52_week_high:** 739.47\n- **52_week_low:** 381.55\n\n### Recommendation\nHOLD with 95% confidence.",
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 443.51,
+  "asset_type": "stock"
+}

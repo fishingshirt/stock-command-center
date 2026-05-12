@@ -1,0 +1,25 @@
+{
+  "task_id": "20260512-001",
+  "subject": "NVDA earnings risk analysis",
+  "timestamp": "2026-05-12T22:34:45.195089+00:00",
+  "recommendation": "WATCH",
+  "confidence": 65,
+  "summary": "Options flow turning bullish for NVDA into earnings; technicals support a breakout.",
+  "key_metrics": {
+    "current_price": 515.15,
+    "pe_ratio": 38.73,
+    "forward_pe": 33.18,
+    "rsi_14": 54,
+    "market_cap": 1337905813316.0,
+    "52_week_high": 571.65,
+    "52_week_low": 358.46
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/NVDA",
+    "https://seekingalpha.com/symbol/NVDA"
+  ],
+  "full_text": "## NVDA Deep Research\n\n### Overview\nOptions flow turning bullish for NVDA into earnings; technicals support a breakout.\n\n### Key Metrics\n- **current_price:** 515.15\n- **pe_ratio:** 38.73\n- **forward_pe:** 33.18\n- **rsi_14:** 54\n- **market_cap:** 1337905813316.0\n- **52_week_high:** 571.65\n- **52_week_low:** 358.46\n\n### Recommendation\nWATCH with 65% confidence.",
+  "paper_trade_signal": "WATCH",
+  "paper_trade_price": 515.15,
+  "asset_type": "stock"
+}

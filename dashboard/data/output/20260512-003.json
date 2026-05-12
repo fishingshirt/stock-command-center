@@ -1,0 +1,25 @@
+{
+  "task_id": "20260512-003",
+  "subject": "TSLA weekly momentum check",
+  "timestamp": "2026-05-12T22:34:45.195285+00:00",
+  "recommendation": "SELL",
+  "confidence": 56,
+  "summary": "Elevated PE but strong revenue trajectory suggests TSLA can grow into valuation.",
+  "key_metrics": {
+    "current_price": 97.96,
+    "pe_ratio": 64.94,
+    "forward_pe": 12.21,
+    "rsi_14": 45,
+    "market_cap": 510942260045.0,
+    "52_week_high": 120.9,
+    "52_week_low": 81.59
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/TSLA",
+    "https://seekingalpha.com/symbol/TSLA"
+  ],
+  "full_text": "## TSLA Deep Research\n\n### Overview\nNear-term headwinds in TSLA's core segment balanced by emerging AI revenue streams.\n\n### Key Metrics\n- **current_price:** 97.96\n- **pe_ratio:** 64.94\n- **forward_pe:** 12.21\n- **rsi_14:** 45\n- **market_cap:** 510942260045.0\n- **52_week_high:** 120.9\n- **52_week_low:** 81.59\n\n### Recommendation\nSELL with 56% confidence.",
+  "paper_trade_signal": "SELL",
+  "paper_trade_price": 97.96,
+  "asset_type": "stock"
+}
