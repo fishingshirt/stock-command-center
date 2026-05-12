@@ -6,18 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260512-004
-**Subject:** Build FastAPI dashboard backend (`dashboard/backend/`)
-**Assigned Bot:** self_build
-**Priority:** critical
-**Created:** 2026-05-12
-**Details:**
-- Serve recommendations from `dashboard/data/output/*.json`
-- Endpoints: `/api/recommendations`, `/api/recommendations/{ticker}`, `/api/sectors`, `/api/feed`, `/api/archive`, `/api/whiteboard`, `/api/trigger-cycle`, `/health`
-- Read whiteboard and serve parsed JSON
-- Accept POST `/api/trigger-cycle` to run one sync cycle manually
-- Log all API calls
-
 ### Task ID: 20260512-005
 **Subject:** Build React dashboard frontend (`dashboard/frontend/`)
 **Assigned Bot:** self_build
@@ -134,7 +122,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260512-004
+**Subject:** Build FastAPI dashboard backend (`dashboard/backend/`)
+**Assigned Bot:** self_build
+**Priority:** critical
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:06:30.935795Z
+**Details:**
+- Serve recommendations from `dashboard/data/output/*.json`
+- Endpoints: `/api/recommendations`, `/api/recommendations/{ticker}`, `/api/sectors`, `/api/feed`, `/api/archive`, `/api/whiteboard`, `/api/trigger-cycle`, `/health`
+- Read whiteboard and serve parsed JSON
+- Accept POST `/api/trigger-cycle` to run one sync cycle manually
+- Log all API calls
 
 ## Done
 
