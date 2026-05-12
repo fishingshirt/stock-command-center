@@ -6,46 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260512-001
-**Subject:** Build whiteboard parser (`whiteboard/parser.py`)
-**Assigned Bot:** self_build
-**Priority:** critical
-**Created:** 2026-05-12
-**Details:**
-- Implement `load_board(path) → dict` with todo / in_progress / done lists
-- Implement `move_task(path, task_id, from_section, to_section, extra_fields=None)`
-- Implement `add_task(path, subject, details, priority="medium", bot="researcher_bot")`
-- Auto-generate next Task ID as `YYYYMMDD-NNN`
-- Commit and push changes back to GitHub after every edit
-- This parser is a hard dependency for all other tasks
-
-### Task ID: 20260512-002
-**Subject:** Build main orchestrator (`bots/main_orchestrator.py`)
-**Assigned Bot:** self_build
-**Priority:** critical
-**Created:** 2026-05-12
-**Details:**
-- Head Manager AI — reads `whiteboard/kanban.md` every tick
-- Decide which domains need coverage (stocks, crypto, macro, sectors)
-- Spawns researcher sub-bots via Hermes `delegate_task` or `subprocess`
-- Moves tasks: todo → in_progress → done
-- Writes structured result JSON to `dashboard/data/output/`
-- Logs all activity to `logs/orchestrator.log`
-- Auto-generates new tasks when gaps are discovered
-
-### Task ID: 20260512-003
-**Subject:** Build researcher bot (`bots/researcher_bot.py`)
-**Assigned Bot:** self_build
-**Priority:** critical
-**Created:** 2026-05-12
-**Details:**
-- Stateless worker — accepts task via CLI args or env vars
-- Gather data from: yfinance, Alpha Vantage, Finnhub, Coingecko
-- Gather news sentiment via web search / news API
-- Produce structured JSON result following `docs/BOT_ORCHESTRATION.md` schema
-- Support BUY / HOLD / SELL / WATCH / ACCUMULATE with confidence 0–100
-- Save output to `dashboard/data/output/<task_id>.json`
-
 ### Task ID: 20260512-004
 **Subject:** Build FastAPI dashboard backend (`dashboard/backend/`)
 **Assigned Bot:** self_build
@@ -174,8 +134,55 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(Nothing running right now.)_
+_(No tasks in this section.)_
 
 ## Done
 
-_(Nothing archived yet.)_
+### Task ID: 20260512-001
+**Subject:** Build whiteboard parser (`whiteboard/parser.py`)
+**Assigned Bot:** self_build
+**Priority:** critical
+**Created:** 2026-05-12
+**Completed At:** 2026-05-12T22:35:00Z
+**Result:** dashboard/data/output/20260512-001.json
+**Summary:** Completed — code built, tested, and pushed to repo
+**Details:**
+- Implement `load_board(path) → dict` with todo / in_progress / done lists
+- Implement `move_task(path, task_id, from_section, to_section, extra_fields=None)`
+- Implement `add_task(path, subject, details, priority="medium", bot="researcher_bot")`
+- Auto-generate next Task ID as `YYYYMMDD-NNN`
+- Commit and push changes back to GitHub after every edit
+- This parser is a hard dependency for all other tasks
+
+### Task ID: 20260512-002
+**Subject:** Build main orchestrator (`bots/main_orchestrator.py`)
+**Assigned Bot:** self_build
+**Priority:** critical
+**Created:** 2026-05-12
+**Completed At:** 2026-05-12T22:35:00Z
+**Result:** dashboard/data/output/20260512-002.json
+**Summary:** Completed — code built, tested, and pushed to repo
+**Details:**
+- Head Manager AI — reads `whiteboard/kanban.md` every tick
+- Decide which domains need coverage (stocks, crypto, macro, sectors)
+- Spawns researcher sub-bots via Hermes `delegate_task` or `subprocess`
+- Moves tasks: todo → in_progress → done
+- Writes structured result JSON to `dashboard/data/output/`
+- Logs all activity to `logs/orchestrator.log`
+- Auto-generates new tasks when gaps are discovered
+
+### Task ID: 20260512-003
+**Subject:** Build researcher bot (`bots/researcher_bot.py`)
+**Assigned Bot:** self_build
+**Priority:** critical
+**Created:** 2026-05-12
+**Completed At:** 2026-05-12T22:35:00Z
+**Result:** dashboard/data/output/20260512-003.json
+**Summary:** Completed — code built, tested, and pushed to repo
+**Details:**
+- Stateless worker — accepts task via CLI args or env vars
+- Gather data from: yfinance, Alpha Vantage, Finnhub, Coingecko
+- Gather news sentiment via web search / news API
+- Produce structured JSON result following `docs/BOT_ORCHESTRATION.md` schema
+- Support BUY / HOLD / SELL / WATCH / ACCUMULATE with confidence 0–100
+- Save output to `dashboard/data/output/<task_id>.json`
