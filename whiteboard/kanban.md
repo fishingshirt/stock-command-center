@@ -130,20 +130,23 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Same JSON output schema as stock tasks but with crypto-specific metrics
 - Evaluate BUY/HOLD/SELL for crypto based on momentum + sentiment
 
-## In Progress
-
 ### Task ID: 20260512-009
 **Subject:** Implement news sentiment aggregator
 **Assigned Bot:** researcher_bot
 **Priority:** medium
 **Created:** 2026-05-12
 **Started At:** 2026-05-12T23:06:42.657203Z
+**Summary:** FAILED at 2026-05-12T23:06:44.437488Z — will retry next cycle
 **Details:**
 - Scrape / API fetch latest news for each researched ticker
 - Score sentiment: bullish, bearish, neutral
 - Weight by source credibility
 - Add sentiment score and top headlines to result JSON
 - Feed into final recommendation confidence
+
+## In Progress
+
+_(No tasks in this section.)_
 
 ## Done
 
