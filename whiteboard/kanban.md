@@ -92,19 +92,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260512-008
-**Subject:** Implement crypto data integration (Coingecko / CoinMarketCap)
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-12
-**Started At:** 2026-05-12T23:15:48.825370Z
-**Summary:** FAILED at 2026-05-12T23:06:41.606108Z — will retry next cycle
-**Details:**
-- Support top 100+ cryptocurrencies (not just BTC)
-- Pull price, market cap, 24h volume, 7d/30d change via Coingecko free API
-- Pull news sentiment for tokens
-- Same JSON output schema as stock tasks but with crypto-specific metrics
-- Evaluate BUY/HOLD/SELL for crypto based on momentum + sentiment
+_(No tasks in this section.)_
 
 ## Done
 
@@ -222,3 +210,20 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Cache results in `dashboard/data/cache/<ticker>.json`
 - Handle API rate limits with exponential backoff (max 3 retries)
 - Store errors in `logs/api_errors/` without crashing the bot
+
+### Task ID: 20260512-008
+**Subject:** Implement crypto data integration (Coingecko / CoinMarketCap)
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:15:48.825370Z
+**Completed At:** 2026-05-12T23:15:49.881294Z
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Support top 100+ cryptocurrencies (not just BTC)
+- Pull price, market cap, 24h volume, 7d/30d chan
+**Details:**
+- Support top 100+ cryptocurrencies (not just BTC)
+- Pull price, market cap, 24h volume, 7d/30d change via Coingecko free API
+- Pull news sentiment for tokens
+- Same JSON output schema as stock tasks but with crypto-specific metrics
+- Evaluate BUY/HOLD/SELL for crypto based on momentum + sentiment
