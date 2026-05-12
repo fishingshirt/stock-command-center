@@ -13,6 +13,50 @@ This is the single source of truth for all research and build tasks. Do not edit
 **Created:** 2026-05-12
 **Started At:** 2026-05-12T23:16:02.887756Z
 **Summary:** FAILED at 2026-05-12T23:16:04.015210Z — will retry next cycle
+### Task ID: 20260512-015
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-12
+**Details:**
+- Pull top 20 S&P 500 movers of the day via yfinance
+- Score sentiment for each using headline analysis
+- Flag any ticker with extreme move >3% + positive news as ACCUMULATE
+- Flag any ticker with extreme move >3% + negative news as WATCH
+
+### Task ID: 20260512-016
+**Subject:** Auto: Top 3 crypto momentum scan (BTC ETH SOL)
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-12
+**Details:**
+- Pull BTC, ETH, SOL price, volume, 24h change via CoinGecko
+- Evaluate trend strength (7d vs 30d momentum)
+- Check funding rates and futures sentiment if available
+- Output BUY/HOLD/SELL with confidence for each
+
+### Task ID: 20260512-017
+**Subject:** Auto: Micro-cap biotech watchlist sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-12
+**Details:**
+- Scan biotech/healthcare sector for earnings or trial catalysts this week
+- Pull news sentiment for XBI, ARKG, and top 5 micro-cap biotech movers
+- Flag any ticker with upcoming PDUFA or phase trial readout
+- Assess risk/reward for pipeline-stage companies
+
+### Task ID: 20260512-018
+**Subject:** Auto: Macro economy snapshot — jobs, CPI, Fed sentiment
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-12
+**Details:**
+- Pull latest macro data: non-farm payrolls, CPI/PPI trends, unemployment
+- Scrape Fed officials latest speeches for dovish/hawkish signal
+- Evaluate SPY, TLT, DXY, gold correlation
+- Output weekly macro summary with sector impact assessment
+
 **Details:**
 - Compare sector ETF performance
 - Relative strength analysis
