@@ -33,20 +33,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260512-012
-**Subject:** Set up Hermes cronjob for 24/7 operation
-**Assigned Bot:** self_build
-**Priority:** medium
-**Created:** 2026-05-12
-**Started At:** 2026-05-12T23:15:58.239789Z
-**Summary:** FAILED at 2026-05-12T23:06:51.240108Z — will retry next cycle
-**Details:**
-- Schedule: every 15 minutes via `cronjob` tool
-- Runs `python bots/run_cycle.py` inside the repo
-- Auto-pull latest whiteboard from GitHub before starting
-- Auto-commit + push results after cycle
-- On crash: send alert, mark current task back to todo, log error
-- Include a lock file so only one cycle runs at a time
+_(No tasks in this section.)_
 
 ## Done
 
@@ -230,3 +217,20 @@ This is the single source of truth for all research and build tasks. Do not edit
 - When accuracy drops, auto-generate a whiteboard task: "Improve crypto momentum model" or "Add earnings whisper data"
 - Adjust confidence thresholds dynamically based on recent win rate
 - Add a "lesson learned" field to Done tasks
+
+### Task ID: 20260512-012
+**Subject:** Set up Hermes cronjob for 24/7 operation
+**Assigned Bot:** self_build
+**Priority:** medium
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:15:58.239789Z
+**Completed At:** 2026-05-12T23:15:59.359457Z
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** Cronjob is managed by Hermes scheduler. Status check via hermes cron list.
+**Details:**
+- Schedule: every 15 minutes via `cronjob` tool
+- Runs `python bots/run_cycle.py` inside the repo
+- Auto-pull latest whiteboard from GitHub before starting
+- Auto-commit + push results after cycle
+- On crash: send alert, mark current task back to todo, log error
+- Include a lock file so only one cycle runs at a time
