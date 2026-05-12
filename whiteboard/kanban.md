@@ -57,13 +57,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260512-014
-**Subject:** Auto: Sector rotation — tech vs energy vs biotech
-**Assigned Bot:** researcher_bot
-**Priority:** low
-**Created:** 2026-05-12
-**Started At:** 2026-05-12T23:18:07.164718Z
-**Summary:** FAILED at 2026-05-12T23:16:04.015210Z — will retry next cycle
+_(No tasks in this section.)_
 
 ## Done
 
@@ -281,3 +275,13 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Test manual trigger cycle button from dashboard
 - Confirm data persists after `docker compose down && docker compose up`
 - Screenshot or confirm via curl — this is a gate before moving to Phase 2
+
+### Task ID: 20260512-014
+**Subject:** Auto: Sector rotation — tech vs energy vs biotech
+**Assigned Bot:** researcher_bot
+**Priority:** low
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:18:07.164718Z
+**Completed At:** 2026-05-12T23:18:08.307921Z
+**Result:** dashboard/data/output/20260512-014.json
+**Summary:** WATCH (confidence 47%) — Near-term headwinds in C's core segment balanced by emerging AI revenue streams.
