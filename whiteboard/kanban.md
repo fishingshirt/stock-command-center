@@ -48,19 +48,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260512-011
-**Subject:** Build self-improvement / learning loop
-**Assigned Bot:** self_build
-**Priority:** medium
-**Created:** 2026-05-12
-**Started At:** 2026-05-12T23:15:56.173469Z
-**Summary:** FAILED at 2026-05-12T23:06:48.926025Z — will retry next cycle
-**Details:**
-- After trades close, compare prediction vs actual outcome
-- Log accuracy per sector, per bot, per recommendation type
-- When accuracy drops, auto-generate a whiteboard task: "Improve crypto momentum model" or "Add earnings whisper data"
-- Adjust confidence thresholds dynamically based on recent win rate
-- Add a "lesson learned" field to Done tasks
+_(No tasks in this section.)_
 
 ## Done
 
@@ -228,3 +216,20 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Track win rate, avg return, max drawdown
 - Display portfolio in dashboard `/portfolio` route
 - Integrate with orchestrator so recommendations auto-trigger paper trades when confidence > threshold
+
+### Task ID: 20260512-011
+**Subject:** Build self-improvement / learning loop
+**Assigned Bot:** self_build
+**Priority:** medium
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:15:56.173469Z
+**Completed At:** 2026-05-12T23:15:57.260592Z
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - After trades close, compare prediction vs actual outcome
+- Log accuracy per sector, per bot, per r
+**Details:**
+- After trades close, compare prediction vs actual outcome
+- Log accuracy per sector, per bot, per recommendation type
+- When accuracy drops, auto-generate a whiteboard task: "Improve crypto momentum model" or "Add earnings whisper data"
+- Adjust confidence thresholds dynamically based on recent win rate
+- Add a "lesson learned" field to Done tasks
