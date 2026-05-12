@@ -135,14 +135,13 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Adjust confidence thresholds dynamically based on recent win rate
 - Add a "lesson learned" field to Done tasks
 
-## In Progress
-
 ### Task ID: 20260512-012
 **Subject:** Set up Hermes cronjob for 24/7 operation
 **Assigned Bot:** self_build
 **Priority:** medium
 **Created:** 2026-05-12
 **Started At:** 2026-05-12T23:06:50.024778Z
+**Summary:** FAILED at 2026-05-12T23:06:51.240108Z — will retry next cycle
 **Details:**
 - Schedule: every 15 minutes via `cronjob` tool
 - Runs `python bots/run_cycle.py` inside the repo
@@ -150,6 +149,10 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Auto-commit + push results after cycle
 - On crash: send alert, mark current task back to todo, log error
 - Include a lock file so only one cycle runs at a time
+
+## In Progress
+
+_(No tasks in this section.)_
 
 ## Done
 
