@@ -6,20 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260512-009
-**Subject:** Implement news sentiment aggregator
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-12
-**Started At:** 2026-05-12T23:06:42.657203Z
-**Summary:** FAILED at 2026-05-12T23:06:44.437488Z — will retry next cycle
-**Details:**
-- Scrape / API fetch latest news for each researched ticker
-- Score sentiment: bullish, bearish, neutral
-- Weight by source credibility
-- Add sentiment score and top headlines to result JSON
-- Feed into final recommendation confidence
-
 ### Task ID: 20260512-010
 **Subject:** Build paper trading system (paper_trade.py)
 **Assigned Bot:** self_build
@@ -92,7 +78,19 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260512-009
+**Subject:** Implement news sentiment aggregator
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:15:50.966450Z
+**Summary:** FAILED at 2026-05-12T23:06:44.437488Z — will retry next cycle
+**Details:**
+- Scrape / API fetch latest news for each researched ticker
+- Score sentiment: bullish, bearish, neutral
+- Weight by source credibility
+- Add sentiment score and top headlines to result JSON
+- Feed into final recommendation confidence
 
 ## Done
 
@@ -220,7 +218,6 @@ _(No tasks in this section.)_
 **Completed At:** 2026-05-12T23:15:49.881294Z
 **Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
 **Summary:** No actionable build steps for: - Support top 100+ cryptocurrencies (not just BTC)
-- Pull price, market cap, 24h volume, 7d/30d chan
 **Details:**
 - Support top 100+ cryptocurrencies (not just BTC)
 - Pull price, market cap, 24h volume, 7d/30d change via Coingecko free API
