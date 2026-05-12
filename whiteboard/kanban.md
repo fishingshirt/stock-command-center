@@ -62,21 +62,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260512-010
-**Subject:** Build paper trading system (paper_trade.py)
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-12
-**Started At:** 2026-05-12T23:15:53.790803Z
-**Summary:** FAILED at 2026-05-12T23:06:46.654108Z — will retry next cycle
-**Details:**
-- Virtual portfolio ledger: `dashboard/data/paper_ledger.json`
-- Treat paper trades as REAL money for learning
-- On BUY: log entry price, confidence, reasoning, timestamp
-- On SELL: log exit price, P&L, hold duration
-- Track win rate, avg return, max drawdown
-- Display portfolio in dashboard `/portfolio` route
-- Integrate with orchestrator so recommendations auto-trigger paper trades when confidence > threshold
+_(No tasks in this section.)_
 
 ## Done
 
@@ -226,3 +212,22 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Weight by source credibility
 - Add sentiment score and top headlines to result JSON
 - Feed into final recommendation confidence
+
+### Task ID: 20260512-010
+**Subject:** Build paper trading system (paper_trade.py)
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-12
+**Started At:** 2026-05-12T23:15:53.790803Z
+**Completed At:** 2026-05-12T23:15:55.177372Z
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Virtual portfolio ledger: `dashboard/data/paper_ledger.json`
+- Treat paper trades as REAL money fo
+**Details:**
+- Virtual portfolio ledger: `dashboard/data/paper_ledger.json`
+- Treat paper trades as REAL money for learning
+- On BUY: log entry price, confidence, reasoning, timestamp
+- On SELL: log exit price, P&L, hold duration
+- Track win rate, avg return, max drawdown
+- Display portfolio in dashboard `/portfolio` route
+- Integrate with orchestrator so recommendations auto-trigger paper trades when confidence > threshold
