@@ -10,17 +10,7 @@ _(No tasks in this section.)_
 
 ## In Progress
 
-### Task ID: 20260513-012
-**Subject:** Auto: S&P 500 top movers sentiment scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-13
-**Started At:** 2026-05-13T02:00:02.856940+00:00Z
-**Details:**
-- Identify top 5 daily movers
-- Pull fundamentals
-- News sentiment summary
-- Investment recommendation
+_(No tasks in this section.)_
 
 ## Done
 
@@ -472,6 +462,21 @@ _(No tasks in this section.)_
 **Completed At:** 2026-05-13T01:45:41.378718+00:00Z
 **Result:** dashboard/data/output/20260513-011.json
 **Summary:** ACCUMULATE (92%) — Strategy: QUALITY. already_open
+**Details:**
+- Identify top 5 daily movers
+- Pull fundamentals
+- News sentiment summary
+- Investment recommendation
+
+### Task ID: 20260513-012
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T02:00:02.856940+00:00Z
+**Completed At:** 2026-05-13T02:00:05.471854+00:00Z
+**Result:** dashboard/data/output/20260513-012.json
+**Summary:** ACCUMULATE (76%) — Strategy: GROWTH. already_open
 **Details:**
 - Identify top 5 daily movers
 - Pull fundamentals
