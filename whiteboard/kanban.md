@@ -6,19 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: T-008
-**Subject:** Logic review complete — Go/No-Go gate before enabling research
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-13
-**Details:**
-- After T-001 through T-007 are DONE, run a full cycle manually on a known ticker (e.g. NVDA)
-- Verify: real price, correct PE ratio, council vote matches individual bots
-- Verify paper trade logged properly
-- Verify dashboard shows actual data not mock data
-- If all pass: update AGENT STATE to "RESEARCH PHASE" and re-enable auto-research generation
-- If any fail: create targeted fix tasks
-
 ### Task ID: 20260513-001
 **Subject:** Auto: Tune VALUE strategy parameters
 **Assigned Bot:** self_build
@@ -57,7 +44,19 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: T-008
+**Subject:** Logic review complete — Go/No-Go gate before enabling research
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:26.992506+00:00
+**Details:**
+- After T-001 through T-007 are DONE, run a full cycle manually on a known ticker (e.g. NVDA)
+- Verify: real price, correct PE ratio, council vote matches individual bots
+- Verify paper trade logged properly
+- Verify dashboard shows actual data not mock data
+- If all pass: update AGENT STATE to "RESEARCH PHASE" and re-enable auto-research generation
+- If any fail: create targeted fix tasks
 
 ## Done
 
