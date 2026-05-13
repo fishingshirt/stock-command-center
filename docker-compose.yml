@@ -23,7 +23,7 @@ services:
       dockerfile: docker/Dockerfile.frontend
     container_name: scc-frontend
     ports:
-      - "8080:80"
+      - "8081:80"
     depends_on:
       - backend
     networks:
