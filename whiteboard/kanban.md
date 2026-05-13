@@ -6,19 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: T-003
-**Subject:** Redesign dashboard frontend — modern financial terminal UI
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-13
-**Details:**
-- Current dashboard is basic slate-900 cards with Tailwind defaults
-- Modern financial dashboards use: Bloomberg Terminal dark theme (black bg, green/red accents), real-time tickers at top, sparkline charts, heatmaps, table-views with sortable columns, keyboard shortcuts
-- Add route: `/portfolio` for paper trading ledger
-- Add route: `/feedback` for bot accuracy leaderboard
-- Fix main nav: use icon-based sidebar not top bar
-- Auto-refresh every 30s with smooth transitions
-
 ### Task ID: T-004
 **Subject:** Verify council_meeting.py logic — does it actually read bot outputs?
 **Assigned Bot:** self_build
@@ -118,7 +105,19 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: T-003
+**Subject:** Redesign dashboard frontend — modern financial terminal UI
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:13.989198+00:00
+**Details:**
+- Current dashboard is basic slate-900 cards with Tailwind defaults
+- Modern financial dashboards use: Bloomberg Terminal dark theme (black bg, green/red accents), real-time tickers at top, sparkline charts, heatmaps, table-views with sortable columns, keyboard shortcuts
+- Add route: `/portfolio` for paper trading ledger
+- Add route: `/feedback` for bot accuracy leaderboard
+- Fix main nav: use icon-based sidebar not top bar
+- Auto-refresh every 30s with smooth transitions
 
 ## Done
 
@@ -148,7 +147,6 @@ _(No tasks in this section.)_
 **Completed At:** 2026-05-13T13:00:12.533714+00:00
 **Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
 **Summary:** No actionable build steps for: - paper_trade.py likely not persisting trades properly
-- Ledger file `dashboard/data/paper_ledger.js
 **Details:**
 - paper_trade.py likely not persisting trades properly
 - Ledger file `dashboard/data/paper_ledger.json` may be empty or corrupt
