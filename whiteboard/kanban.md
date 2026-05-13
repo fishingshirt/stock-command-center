@@ -6,18 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260513-001
-**Subject:** Auto: Tune VALUE strategy parameters
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-13
-**Details:**
-- Strategy: VALUE
-- Win rate: 0.0% over 15 trades
-- Target: improve to >= 45.0%
-- Suggestion: adjust entry/exit thresholds or combine with another strategy
-- Created via feedback_loop auto-improve
-
 ### Task ID: 20260513-002
 **Subject:** Auto: Tune MOMENTUM strategy parameters
 **Assigned Bot:** self_build
@@ -44,7 +32,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260513-001
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:29.453993+00:00
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 15 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
 
 ## Done
 
@@ -171,7 +170,6 @@ _(No tasks in this section.)_
 **Completed At:** 2026-05-13T13:00:28.343793+00:00
 **Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
 **Summary:** No actionable build steps for: - After T-001 through T-007 are DONE, run a full cycle manually on a known ticker (e.g. NVDA)
-- Veri
 **Details:**
 - After T-001 through T-007 are DONE, run a full cycle manually on a known ticker (e.g. NVDA)
 - Verify: real price, correct PE ratio, council vote matches individual bots
