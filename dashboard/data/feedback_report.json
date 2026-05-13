@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T09:15:06.132795+00:00",
+  "generated_at": "2026-05-13T09:15:40.916341+00:00",
   "overall": {
     "closed_trades": 5,
     "open_positions": 3,
@@ -58,7 +58,7 @@
   ],
   "strategy_stats": {
     "VALUE": {
-      "trades": 9,
+      "trades": 10,
       "win_rate": 0.0,
       "avg_return_pct": 0.0,
       "wins": 0,
