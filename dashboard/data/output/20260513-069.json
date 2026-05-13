@@ -1,0 +1,26 @@
+{
+  "task_id": "20260513-069",
+  "subject": "Auto: S&P 500 top movers sentiment scan",
+  "timestamp": "2026-05-13T15:15:47.554343+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 76,
+  "summary": "Elevated PE but strong revenue trajectory suggests SPY can grow into valuation.",
+  "key_metrics": {
+    "ticker": "SPY",
+    "current_price": 106.78,
+    "pe_ratio": 27.69,
+    "forward_pe": 30.62,
+    "rsi_14": 64,
+    "market_cap": 763186520883.0,
+    "52_week_high": 177.36,
+    "52_week_low": 58.98
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/SPY",
+    "https://seekingalpha.com/symbol/SPY"
+  ],
+  "full_text": "## SPY Deep Research\n\n### Overview\nElevated PE but strong revenue trajectory suggests SPY can grow into valuation.\n\n### Key Metrics\n- **ticker:** SPY\n- **current_price:** 106.78\n- **pe_ratio:** 27.69\n- **forward_pe:** 30.62\n- **rsi_14:** 64\n- **market_cap:** 763186520883.0\n- **52_week_high:** 177.36\n- **52_week_low:** 58.98\n\n### Recommendation\nACCUMULATE with 76% confidence.",
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 106.78,
+  "asset_type": "stock"
+}
