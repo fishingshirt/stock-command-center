@@ -10,16 +10,7 @@ _(No tasks in this section.)_
 
 ## In Progress
 
-### Task ID: 20260513-009
-**Subject:** Auto: Sector rotation — tech vs energy vs biotech
-**Assigned Bot:** researcher_bot
-**Priority:** low
-**Created:** 2026-05-13
-**Started At:** 2026-05-13T13:00:54.639682+00:00
-**Details:**
-- Compare sector ETF performance
-- Relative strength analysis
-- Rotation signal detection
+_(No tasks in this section.)_
 
 ## Done
 
@@ -278,3 +269,17 @@ _(No tasks in this section.)_
 - Fundamentals check
 - News sentiment
 - Investment recommendation
+
+### Task ID: 20260513-009
+**Subject:** Auto: Sector rotation — tech vs energy vs biotech
+**Assigned Bot:** researcher_bot
+**Priority:** low
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:54.639682+00:00
+**Completed At:** 2026-05-13T13:00:55.905395+00:00
+**Result:** dashboard/data/output/20260513-009.json
+**Summary:** ACCUMULATE (51%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+- Compare sector ETF performance
+- Relative strength analysis
+- Rotation signal detection
