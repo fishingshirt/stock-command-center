@@ -1,73 +1,71 @@
 # Investment Memo: SPY
 
-**Recommendation:** WATCH  
-**Confidence:** 58%  
-**Strategy:** MOMENTUM  
-**Generated:** 2026-05-13T17:45:58.958645+00:00  
+**Recommendation:** SELL  
+**Confidence:** 71%  
+**Strategy:** VALUE  
+**Generated:** 2026-05-13T18:01:04.629377+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Options flow turning bullish for SPY into earnings; technicals support a breakout.
+Elevated PE but strong revenue trajectory suggests SPY can grow into valuation.
 
-**Key Takeaway:** SPY is rated **WATCH** with 58% confidence. Valuation model suggests a blended target of **$268.06**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 71% confidence. Valuation model suggests a blended target of **$103.37**, representing a **40.77% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+5.2%**
-- Next earnings date: **2026-06-01**
+- Earnings momentum score: **35/100** (Mixed earnings signals)
+- Recent EPS surprise: **-10.6%**
+- Next earnings date: **2026-05-23**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $559.57 |
-| DCF Intrinsic Value | $46.19 |
-| Comparable Implied | $489.94 |
-| Blended Target | $268.06 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $61.23 |
+| DCF Intrinsic Value | $120.47 |
+| Comparable Implied | $86.27 |
+| Blended Target | $103.37 |
+| Margin of Safety | 40.77% |
+| Verdict | Undervalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
-- **Current Price:** 89.52
-- **Pe Ratio:** 50.3
-- **Forward Pe:** 25.96
-- **Rsi 14:** 60
-- **Market Cap:** 1716880439534.0
-- **52 Week High:** 113.96
-- **52 Week Low:** 78.27
+- **Current Price:** 521.24
+- **Pe Ratio:** 63.02
+- **Forward Pe:** 30.42
+- **Rsi 14:** 48
+- **Market Cap:** 637176168516.0
+- **52 Week High:** 746.5
+- **52 Week Low:** 372.84
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (5.6/10)
-- ⚠️ Low margin of safety — limited downside protection
-- ⚠️ Low confidence score (58%) — uncertain conviction
+- ⚠️ 1 active controversies
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 71.9/100
-- **Sanctions Risk:** 5.6/10
-- **ESG Score:** 59.9/100
-- **Controversies:** 0
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 84.0/100
+- **Sanctions Risk:** 1.2/10
+- **ESG Score:** 56.5/100
+- **Controversies:** 1
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** MOMENTUM
+**Primary Strategy:** VALUE
 
-This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
