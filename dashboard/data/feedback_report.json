@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T22:15:55.079962+00:00",
+  "generated_at": "2026-05-13T22:30:06.268379+00:00",
   "overall": {
     "closed_trades": 11,
     "open_positions": 2,
@@ -65,7 +65,7 @@
       "losses": 0
     },
     "MOMENTUM": {
-      "trades": 24,
+      "trades": 25,
       "win_rate": 0.0,
       "avg_return_pct": 0.0,
       "wins": 0,
