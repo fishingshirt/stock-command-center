@@ -57,18 +57,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: T-007
-**Subject:** Dashboard backend API quality check — ensure all endpoints return sane data
-**Assigned Bot:** self_build
-**Priority:** medium
-**Created:** 2026-05-13
-**Started At:** 2026-05-13T13:00:24.430581+00:00
-**Details:**
-- `/api/recommendations` may return stale or duplicate entries
-- `/api/sectors` may be empty
-- Add deduplication: if task_id already in output, overwrite instead of append
-- Add data validation layer before API serves JSON
-- Add `/api/health/deep` endpoint that checks: yfinance connectivity, cache disk space, ledger file exists
+_(No tasks in this section.)_
 
 ## Done
 
@@ -169,3 +158,19 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Score each bot: win_rate = correct direction / total predictions (min 5 to be valid)
 - Trigger whiteboard task when bot drops below 40%
 - Write `dashboard/data/feedback_report.json` weekly
+
+### Task ID: T-007
+**Subject:** Dashboard backend API quality check — ensure all endpoints return sane data
+**Assigned Bot:** self_build
+**Priority:** medium
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:24.430581+00:00
+**Completed At:** 2026-05-13T13:00:25.709480+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** All Python files compile OK
+**Details:**
+- `/api/recommendations` may return stale or duplicate entries
+- `/api/sectors` may be empty
+- Add deduplication: if task_id already in output, overwrite instead of append
+- Add data validation layer before API serves JSON
+- Add `/api/health/deep` endpoint that checks: yfinance connectivity, cache disk space, ledger file exists
