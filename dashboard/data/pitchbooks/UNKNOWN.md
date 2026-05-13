@@ -1,71 +1,74 @@
 # Investment Memo: UNKNOWN
 
-**Recommendation:** HOLD  
-**Confidence:** 85%  
-**Strategy:** QUALITY  
-**Generated:** 2026-05-13T01:15:03.733697+00:00  
+**Recommendation:** WATCH  
+**Confidence:** 45%  
+**Strategy:** MOMENTUM  
+**Generated:** 2026-05-13T01:30:03.987456+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Elevated PE but strong revenue trajectory suggests C can grow into valuation.
+Options flow turning bullish for C into earnings; technicals support a breakout.
 
-**Key Takeaway:** UNKNOWN is rated **HOLD** with 85% confidence. Valuation model suggests a blended target of **$159.48**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** UNKNOWN is rated **WATCH** with 45% confidence. Valuation model suggests a blended target of **$61.16**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **40/100** (Mixed earnings signals)
-- Recent EPS surprise: **+14.2%**
-- Next earnings date: **2026-05-26**
+- Earnings momentum score: **65/100** (Strong earnings momentum)
+- Recent EPS surprise: **+0.5%**
+- Next earnings date: **2026-06-12**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $385.97 |
-| DCF Intrinsic Value | $40.38 |
-| Comparable Implied | $278.59 |
-| Blended Target | $159.48 |
+| Current Price | $96.71 |
+| DCF Intrinsic Value | $31.91 |
+| Comparable Implied | $90.4 |
+| Blended Target | $61.16 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
-- **Current Price:** 52.82
-- **Pe Ratio:** 50.98
-- **Forward Pe:** 10.06
-- **Rsi 14:** 75
-- **Market Cap:** 1144316363436.0
-- **52 Week High:** 66.86
-- **52 Week Low:** 29.24
+- **Current Price:** 538.64
+- **Pe Ratio:** 20.42
+- **Forward Pe:** 26.85
+- **Rsi 14:** 71
+- **Market Cap:** 309791802973.0
+- **52 Week High:** 772.21
+- **52 Week Low:** 356.47
 
 ---
 
 ## 3. Risks
 
-- No material compliance flags detected.
+- ⚠️ Elevated sanctions exposure (8.9/10)
+- ⚠️ Poor ESG score (46.6)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
+- ⚠️ Low confidence score (45%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 88.1/100
-- **Sanctions Risk:** 2.4/10
-- **ESG Score:** 54.6/100
-- **Controversies:** 0
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 45.7/100
+- **Sanctions Risk:** 8.9/10
+- **ESG Score:** 46.6/100
+- **Controversies:** 1
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** QUALITY
+**Primary Strategy:** MOMENTUM
 
-This position is classified under the **QUALITY** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
