@@ -1,16 +1,16 @@
 {
   "ticker": "C",
-  "timestamp": "2026-05-13T01:33:18.241658+00:00",
-  "compliance_score": 71.7,
+  "timestamp": "2026-05-13T01:37:52.315090+00:00",
+  "compliance_score": 51.9,
   "risk_level": "MEDIUM",
-  "sanctions_risk": 3.7,
+  "sanctions_risk": 3.6,
   "pep_exposure": 0,
-  "esg_score": 69.0,
-  "controversy_count": 1,
+  "esg_score": 53.1,
+  "controversy_count": 3,
   "jurisdiction_risk": "low",
   "flags": [
-    "Elevated sanctions exposure (3.7/10)",
-    "1 active controversies"
+    "Elevated sanctions exposure (3.6/10)",
+    "3 active controversies"
   ],
   "pass": true
 }

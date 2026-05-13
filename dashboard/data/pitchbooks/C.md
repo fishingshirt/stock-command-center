@@ -1,72 +1,74 @@
 # Investment Memo: C
 
 **Recommendation:** ACCUMULATE  
-**Confidence:** 79%  
-**Strategy:** VALUE  
-**Generated:** 2026-05-13T01:33:18.269357+00:00  
+**Confidence:** 52%  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-13T01:37:52.342388+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Near-term headwinds in C's core segment balanced by emerging AI revenue streams.
+Options flow turning bullish for C into earnings; technicals support a breakout.
 
-**Key Takeaway:** C is rated **ACCUMULATE** with 79% confidence. Valuation model suggests a blended target of **$652.98**, representing a **18.9% margin of safety** from current levels.
+**Key Takeaway:** C is rated **ACCUMULATE** with 52% confidence. Valuation model suggests a blended target of **$133.32**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **55/100** (Mixed earnings signals)
-- Recent EPS surprise: **+19.8%**
-- Next earnings date: **2026-06-08**
+- Earnings momentum score: **25/100** (Earnings weakness detected)
+- Recent EPS surprise: **-12.3%**
+- Next earnings date: **2026-06-19**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $529.54 |
-| DCF Intrinsic Value | $34.75 |
-| Comparable Implied | $1271.21 |
-| Blended Target | $652.98 |
-| Margin of Safety | 18.9% |
-| Verdict | Fairly valued |
+| Current Price | $309.85 |
+| DCF Intrinsic Value | $124.27 |
+| Comparable Implied | $142.37 |
+| Blended Target | $133.32 |
+| Margin of Safety | 0% |
+| Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** C
-- **Current Price:** 105.68
-- **Pe Ratio:** 50.89
-- **Forward Pe:** 15.97
-- **Rsi 14:** 71
-- **Market Cap:** 1318068157858.0
-- **52 Week High:** 184.3
-- **52 Week Low:** 90.08
+- **Current Price:** 545.64
+- **Pe Ratio:** 40.98
+- **Forward Pe:** 13.47
+- **Rsi 14:** 24
+- **Market Cap:** 2045345294783.0
+- **52 Week High:** 873.6
+- **52 Week Low:** 327.93
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (3.7/10)
-- ⚠️ 1 active controversies
+- ⚠️ Elevated sanctions exposure (3.6/10)
+- ⚠️ 3 active controversies
+- ⚠️ Low margin of safety — limited downside protection
+- ⚠️ Low confidence score (52%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 71.7/100
-- **Sanctions Risk:** 3.7/10
-- **ESG Score:** 69.0/100
-- **Controversies:** 1
+- **Compliance Score:** 51.9/100
+- **Sanctions Risk:** 3.6/10
+- **ESG Score:** 53.1/100
+- **Controversies:** 3
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** VALUE
+**Primary Strategy:** GROWTH
 
-This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
