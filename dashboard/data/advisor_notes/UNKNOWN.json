@@ -1,13 +1,13 @@
 {
   "ticker": "",
-  "recommendation": "WATCH",
-  "confidence": 62,
-  "reasoning": "We are watching  closely.\n\n**Research Findings:**\n- Near-term headwinds in C's core segment balanced by emerging AI revenue streams.\n\n**Earnings Analysis:**\n- Mixed earnings signals \u2014 catalyst score 35/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $385.38\n\n**Confidence Drivers:**\n- Overall confidence: **62%**\n- P/E ratio of 22.53 vs peers\n- RSI(14) at 30 \u2014 neutral\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
+  "recommendation": "HOLD",
+  "confidence": 85,
+  "reasoning": "We maintain our HOLD on .\n\n**Research Findings:**\n- Elevated PE but strong revenue trajectory suggests C can grow into valuation.\n\n**Earnings Analysis:**\n- Mixed earnings signals \u2014 catalyst score 40/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $159.48\n\n**Confidence Drivers:**\n- Overall confidence: **85%**\n- P/E ratio of 50.98 vs peers\n- RSI(14) at 75 \u2014 overbought\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
   "pitchbook_path": "/home/fishingshirt/stock-command-center/dashboard/data/pitchbooks/UNKNOWN.md",
-  "generated_at": "2026-05-13T01:00:05.198801+00:00",
+  "generated_at": "2026-05-13T01:15:03.770222+00:00",
   "confidence_factors": {
-    "earnings_score": 35,
+    "earnings_score": 40,
     "valuation_margin": 0,
-    "research_confidence": 62
+    "research_confidence": 85
   }
 }

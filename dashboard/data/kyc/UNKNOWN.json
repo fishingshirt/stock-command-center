@@ -1,17 +1,13 @@
 {
   "ticker": "UNKNOWN",
-  "timestamp": "2026-05-13T01:00:05.125746+00:00",
-  "compliance_score": 41.2,
-  "risk_level": "HIGH",
-  "sanctions_risk": 9.8,
+  "timestamp": "2026-05-13T01:15:03.696754+00:00",
+  "compliance_score": 88.1,
+  "risk_level": "LOW",
+  "sanctions_risk": 2.4,
   "pep_exposure": 0,
-  "esg_score": 41.4,
-  "controversy_count": 1,
+  "esg_score": 54.6,
+  "controversy_count": 0,
   "jurisdiction_risk": "low",
-  "flags": [
-    "Elevated sanctions exposure (9.8/10)",
-    "Poor ESG score (41.4)",
-    "1 active controversies"
-  ],
-  "pass": false
+  "flags": [],
+  "pass": true
 }

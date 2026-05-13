@@ -1,0 +1,25 @@
+{
+  "task_id": "20260513-005",
+  "subject": "Auto: S&P 500 top movers sentiment scan",
+  "timestamp": "2026-05-13T01:15:03.569015+00:00",
+  "recommendation": "HOLD",
+  "confidence": 85,
+  "summary": "Elevated PE but strong revenue trajectory suggests C can grow into valuation.",
+  "key_metrics": {
+    "current_price": 52.82,
+    "pe_ratio": 50.98,
+    "forward_pe": 10.06,
+    "rsi_14": 75,
+    "market_cap": 1144316363436.0,
+    "52_week_high": 66.86,
+    "52_week_low": 29.24
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/C",
+    "https://seekingalpha.com/symbol/C"
+  ],
+  "full_text": "## C Deep Research\n\n### Overview\nElevated PE but strong revenue trajectory suggests C can grow into valuation.\n\n### Key Metrics\n- **current_price:** 52.82\n- **pe_ratio:** 50.98\n- **forward_pe:** 10.06\n- **rsi_14:** 75\n- **market_cap:** 1144316363436.0\n- **52_week_high:** 66.86\n- **52_week_low:** 29.24\n\n### Recommendation\nHOLD with 85% confidence.",
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 52.82,
+  "asset_type": "stock"
+}
