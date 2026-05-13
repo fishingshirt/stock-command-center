@@ -559,8 +559,22 @@
       "exit_price": null,
       "return_pct": null,
       "model_target": 117.23
+    },
+    {
+      "ticker": "",
+      "strategy": "MOMENTUM",
+      "recommendation": "ACCUMULATE",
+      "confidence": 57,
+      "entry_price": 112.8,
+      "timestamp": "2026-05-13T06:00:08.683407+00:00",
+      "margin_of_safety": 0,
+      "earnings_catalyst": 80,
+      "open": true,
+      "exit_price": null,
+      "return_pct": null,
+      "model_target": 192.44
     }
   ],
-  "updated_at": "2026-05-13T05:45:06.793603+00:00",
+  "updated_at": "2026-05-13T06:00:08.683564+00:00",
   "strategy_stats": {}
 }
