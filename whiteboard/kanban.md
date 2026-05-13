@@ -44,17 +44,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260513-180
-**Subject:** Auto: S&P 500 top movers sentiment scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-13
-**Started At:** 2026-05-13T19:15:43.787136+00:00
-**Details:**
-- Identify top 5 daily movers
-- Fundamentals check
-- News sentiment
-- Investment recommendation
+_(No tasks in this section.)_
 
 ## Done
 
@@ -3024,3 +3014,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Target: improve to >= 45.0%
 - Suggestion: adjust entry/exit thresholds or combine with another strategy
 - Created via feedback_loop auto-improve
+
+### Task ID: 20260513-180
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T19:15:43.787136+00:00
+**Completed At:** 2026-05-13T19:15:44.936760+00:00
+**Result:** dashboard/data/output/20260513-180.json
+**Summary:** HOLD (65%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+- Identify top 5 daily movers
+- Fundamentals check
+- News sentiment
+- Investment recommendation
