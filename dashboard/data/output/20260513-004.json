@@ -1,0 +1,25 @@
+{
+  "task_id": "20260513-004",
+  "subject": "Auto: S&P 500 top movers sentiment scan",
+  "timestamp": "2026-05-13T01:00:04.999139+00:00",
+  "recommendation": "WATCH",
+  "confidence": 62,
+  "summary": "Near-term headwinds in C's core segment balanced by emerging AI revenue streams.",
+  "key_metrics": {
+    "current_price": 459.29,
+    "pe_ratio": 22.53,
+    "forward_pe": 25.44,
+    "rsi_14": 30,
+    "market_cap": 441865913730.0,
+    "52_week_high": 642.25,
+    "52_week_low": 221.11
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/C",
+    "https://seekingalpha.com/symbol/C"
+  ],
+  "full_text": "## C Deep Research\n\n### Overview\nElevated PE but strong revenue trajectory suggests C can grow into valuation.\n\n### Key Metrics\n- **current_price:** 459.29\n- **pe_ratio:** 22.53\n- **forward_pe:** 25.44\n- **rsi_14:** 30\n- **market_cap:** 441865913730.0\n- **52_week_high:** 642.25\n- **52_week_low:** 221.11\n\n### Recommendation\nWATCH with 62% confidence.",
+  "paper_trade_signal": "WATCH",
+  "paper_trade_price": 459.29,
+  "asset_type": "stock"
+}

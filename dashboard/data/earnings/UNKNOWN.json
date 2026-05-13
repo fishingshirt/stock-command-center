@@ -1,36 +1,36 @@
 {
-  "next_earnings_date": "2026-06-17",
+  "next_earnings_date": "2026-06-26",
   "earnings_history": [
     {
       "date": "2026-02-28",
-      "eps_estimate": 6.15,
-      "reported_eps": 6.35,
-      "surprise_pct": 17.9
+      "eps_estimate": 2.63,
+      "reported_eps": 2.83,
+      "surprise_pct": -2.5
     },
     {
       "date": "2025-11-30",
-      "eps_estimate": 5.85,
-      "reported_eps": 6.05,
-      "surprise_pct": 13.9
+      "eps_estimate": 2.33,
+      "reported_eps": 2.53,
+      "surprise_pct": -3.5
     },
     {
       "date": "2025-08-30",
-      "eps_estimate": 5.55,
-      "reported_eps": 5.75,
-      "surprise_pct": 22.0
+      "eps_estimate": 2.03,
+      "reported_eps": 2.23,
+      "surprise_pct": -0.3
     }
   ],
-  "eps_ttm": 25.4,
-  "eps_forward": 33.02,
-  "revenue_growth": 0.157,
-  "earnings_growth": 0.337,
-  "pe_trailing": 29.2,
-  "pe_forward": 41.12,
-  "peg_ratio": 1.15,
+  "eps_ttm": 11.32,
+  "eps_forward": 14.72,
+  "revenue_growth": 0.035,
+  "earnings_growth": 0.283,
+  "pe_trailing": 26.64,
+  "pe_forward": 43.33,
+  "peg_ratio": 1.1,
   "ticker": "UNKNOWN",
-  "analyzed_at": "2026-05-13T00:56:16.460180+00:00",
+  "analyzed_at": "2026-05-13T01:00:05.049243+00:00",
   "source": "mock_fallback",
-  "surprise_avg_pct": 17.93,
-  "earnings_catalyst_score": 80,
-  "verdict": "Strong earnings momentum"
+  "surprise_avg_pct": -2.1,
+  "earnings_catalyst_score": 35,
+  "verdict": "Mixed earnings signals"
 }
