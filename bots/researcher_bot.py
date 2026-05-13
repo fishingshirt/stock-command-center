@@ -81,8 +81,9 @@ def fetch_stock_yfinance(ticker: str) -> dict:
         prev_close = float(hist.Close.iloc[-2]) if len(hist) > 1 else current_price
         
         metrics = {
+            "ticker": ticker,
             "current_price": round(current_price, 2) if current_price else None,
-            "previous_close": round(prev_close, 2) if prev_close else None,
+            "previous_close": round(prev_close, 2) if prev_close else current_price,
             "pe_ratio": info.get("trailingPE") or info.get("forwardPE"),
             "market_cap": info.get("marketCap"),
             "52_week_high": info.get("fiftyTwoWeekHigh"),
@@ -126,6 +127,7 @@ def generate_mock_result(ticker: str, asset_type: str, subject: str, task_id: st
     if asset_type == "crypto":
         price = round(random.uniform(20, 80000), 2)
         metrics = {
+            "ticker": ticker,
             "current_price": price,
             "market_cap": round(random.uniform(1e9, 1.5e12), 0),
             "total_volume_24h": round(random.uniform(1e8, 5e10), 0),
@@ -141,6 +143,7 @@ def generate_mock_result(ticker: str, asset_type: str, subject: str, task_id: st
     else:
         price = round(random.uniform(50, 600), 2)
         metrics = {
+            "ticker": ticker,
             "current_price": price,
             "pe_ratio": round(random.uniform(12, 65), 2),
             "forward_pe": round(random.uniform(10, 50), 2),
@@ -193,6 +196,7 @@ def run(args) -> bool:
     if real_data is not None and not real_data.get("_error"):
         # Build result from real data + smart recommendation
         metrics = real_data
+        metrics["ticker"] = ticker  # ensure ticker is always present
         price = metrics.get("current_price", 0)
         
         # Simple rule-based recommendation

@@ -9,7 +9,7 @@ import json
 import time
 import subprocess
 import logging
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
@@ -202,7 +202,7 @@ def run_cycle():
 
         # Move to In Progress
         move_task(str(BOARD_PATH), task_id, "To Do", "In Progress",
-                  extra_fields={"started_at": datetime.utcnow().isoformat() + "Z"})
+                  extra_fields={"started_at": datetime.now(timezone.utc).isoformat() + "Z"})
 
         # Decide which bot to use
         assigned_bot = task.get("assigned_bot", "researcher_bot")
@@ -214,14 +214,14 @@ def run_cycle():
             success, build_result = _run_self_build(task)
             if success:
                 extra = {
-                    "completed_at": datetime.utcnow().isoformat() + "Z",
+                    "completed_at": datetime.now(timezone.utc).isoformat() + "Z",
                     "result": str(REPO_ROOT / "logs" / "self_build.log"),
                     "summary": build_result.get("message", "Self-build task completed"),
                 }
                 move_task(str(BOARD_PATH), task_id, "In Progress", "Done", extra_fields=extra)
                 logger.info(f"Task {task_id} self-built and archived")
             else:
-                extra = {"summary": f"BUILD FAILED at {datetime.utcnow().isoformat()}Z — {build_result.get('message', 'unknown')} — will retry next cycle"}
+                extra = {"summary": f"BUILD FAILED at {datetime.now(timezone.utc).isoformat()}Z — {build_result.get('message', 'unknown')} — will retry next cycle"}
                 move_task(str(BOARD_PATH), task_id, "In Progress", "To Do", extra_fields=extra)
                 logger.warning(f"Task {task_id} self-build failed, moved back to To Do")
         else:
@@ -229,7 +229,7 @@ def run_cycle():
             if success:
                 output_path = OUTPUT_DIR / f"{task_id}.json"
                 extra = {
-                    "completed_at": datetime.utcnow().isoformat() + "Z",
+                    "completed_at": datetime.now(timezone.utc).isoformat() + "Z",
                     "result": str(output_path.relative_to(REPO_ROOT)),
                     "summary": _load_summary(output_path),
                 }
@@ -336,7 +336,7 @@ def run_cycle():
                 move_task(str(BOARD_PATH), task_id, "In Progress", "Done", extra_fields=extra)
                 logger.info(f"Task {task_id} completed and archived")
             else:
-                extra = {"summary": f"FAILED at {datetime.utcnow().isoformat()}Z — will retry next cycle"}
+                extra = {"summary": f"FAILED at {datetime.now(timezone.utc).isoformat()}Z — will retry next cycle"}
                 move_task(str(BOARD_PATH), task_id, "In Progress", "To Do", extra_fields=extra)
                 logger.warning(f"Task {task_id} failed, moved back to To Do")
 
