@@ -42,6 +42,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Suggestion: adjust entry/exit thresholds or combine with another strategy
 - Created via feedback_loop auto-improve
 
+### Task ID: 20260513-201
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-13
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 11 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
 ## In Progress
 
 ### Task ID: 20260513-197
