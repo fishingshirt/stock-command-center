@@ -1,36 +1,36 @@
 {
-  "next_earnings_date": "2026-06-01",
+  "next_earnings_date": "2026-06-27",
   "earnings_history": [
     {
       "date": "2026-02-28",
-      "eps_estimate": 3.46,
-      "reported_eps": 3.66,
-      "surprise_pct": -9.7
+      "eps_estimate": 5.47,
+      "reported_eps": 5.67,
+      "surprise_pct": 13.5
     },
     {
       "date": "2025-11-30",
-      "eps_estimate": 3.16,
-      "reported_eps": 3.36,
-      "surprise_pct": -14.2
+      "eps_estimate": 5.17,
+      "reported_eps": 5.37,
+      "surprise_pct": 8.8
     },
     {
       "date": "2025-08-30",
-      "eps_estimate": 2.86,
-      "reported_eps": 3.06,
-      "surprise_pct": -2.7
+      "eps_estimate": 4.87,
+      "reported_eps": 5.07,
+      "surprise_pct": 11.4
     }
   ],
-  "eps_ttm": 14.64,
-  "eps_forward": 19.03,
+  "eps_ttm": 22.68,
+  "eps_forward": 29.48,
   "revenue_growth": 0.181,
-  "earnings_growth": 0.329,
-  "pe_trailing": 30.37,
-  "pe_forward": 35.25,
-  "peg_ratio": 1.06,
+  "earnings_growth": 0.379,
+  "pe_trailing": 21.51,
+  "pe_forward": 23.2,
+  "peg_ratio": 0.73,
   "ticker": "SPY",
-  "analyzed_at": "2026-05-13T03:45:03.509812+00:00",
+  "analyzed_at": "2026-05-13T04:00:05.895068+00:00",
   "source": "mock_fallback",
-  "surprise_avg_pct": -8.87,
-  "earnings_catalyst_score": 50,
-  "verdict": "Mixed earnings signals"
+  "surprise_avg_pct": 11.23,
+  "earnings_catalyst_score": 80,
+  "verdict": "Strong earnings momentum"
 }
