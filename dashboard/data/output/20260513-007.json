@@ -1,0 +1,26 @@
+{
+  "task_id": "20260513-007",
+  "subject": "Auto: S&P 500 top movers sentiment scan",
+  "timestamp": "2026-05-13T01:33:15.784327+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 54,
+  "summary": "Options flow turning bullish for C into earnings; technicals support a breakout.",
+  "key_metrics": {
+    "ticker": "C",
+    "current_price": 192.9,
+    "pe_ratio": 23.8,
+    "forward_pe": 15.68,
+    "rsi_14": 46,
+    "market_cap": 1980037738413.0,
+    "52_week_high": 339.75,
+    "52_week_low": 144.07
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/C",
+    "https://seekingalpha.com/symbol/C"
+  ],
+  "full_text": "## C Deep Research\n\n### Overview\nElevated PE but strong revenue trajectory suggests C can grow into valuation.\n\n### Key Metrics\n- **ticker:** C\n- **current_price:** 192.9\n- **pe_ratio:** 23.8\n- **forward_pe:** 15.68\n- **rsi_14:** 46\n- **market_cap:** 1980037738413.0\n- **52_week_high:** 339.75\n- **52_week_low:** 144.07\n\n### Recommendation\nACCUMULATE with 54% confidence.",
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 192.9,
+  "asset_type": "stock"
+}

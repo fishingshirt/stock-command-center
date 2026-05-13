@@ -1,0 +1,26 @@
+{
+  "task_id": "20260513-008",
+  "subject": "Auto: S&P 500 top movers sentiment scan",
+  "timestamp": "2026-05-13T01:33:18.147249+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 79,
+  "summary": "Near-term headwinds in C's core segment balanced by emerging AI revenue streams.",
+  "key_metrics": {
+    "ticker": "C",
+    "current_price": 105.68,
+    "pe_ratio": 50.89,
+    "forward_pe": 15.97,
+    "rsi_14": 71,
+    "market_cap": 1318068157858.0,
+    "52_week_high": 184.3,
+    "52_week_low": 90.08
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/C",
+    "https://seekingalpha.com/symbol/C"
+  ],
+  "full_text": "## C Deep Research\n\n### Overview\nNear-term headwinds in C's core segment balanced by emerging AI revenue streams.\n\n### Key Metrics\n- **ticker:** C\n- **current_price:** 105.68\n- **pe_ratio:** 50.89\n- **forward_pe:** 15.97\n- **rsi_14:** 71\n- **market_cap:** 1318068157858.0\n- **52_week_high:** 184.3\n- **52_week_low:** 90.08\n\n### Recommendation\nACCUMULATE with 79% confidence.",
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 105.68,
+  "asset_type": "stock"
+}

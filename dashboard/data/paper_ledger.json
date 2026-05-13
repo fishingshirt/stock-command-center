@@ -1,5 +1,5 @@
 {
-  "cash": 90000.014,
+  "cash": 81000.00929599999,
   "initial_capital": 100000.0,
   "positions": {
     "NVDA": {
@@ -11,9 +11,19 @@
       "reasoning": "test",
       "task_id": "",
       "opened_at": "2026-05-12T23:20:25.794775+00:00"
+    },
+    "C": {
+      "ticker": "C",
+      "shares": 85.1628,
+      "entry_price": 105.68,
+      "last_price": 105.68,
+      "confidence": 79,
+      "reasoning": "Near-term headwinds in C's core segment balanced by emerging AI revenue streams.",
+      "task_id": "20260513-008",
+      "opened_at": "2026-05-13T01:33:18.331838+00:00"
     }
   },
   "history": [],
   "created_at": "2026-05-12T23:20:25.794758+00:00",
-  "updated_at": "2026-05-12T23:20:25.794778+00:00"
+  "updated_at": "2026-05-13T01:33:18.331845+00:00"
 }
