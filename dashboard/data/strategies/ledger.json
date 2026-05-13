@@ -1315,8 +1315,36 @@
       "exit_price": null,
       "return_pct": null,
       "model_target": 162.79
+    },
+    {
+      "ticker": "",
+      "strategy": "VALUE",
+      "recommendation": "BUY",
+      "confidence": 61,
+      "entry_price": 303.47,
+      "timestamp": "2026-05-13T11:01:40.405450+00:00",
+      "margin_of_safety": 46.88,
+      "earnings_catalyst": 40,
+      "open": true,
+      "exit_price": null,
+      "return_pct": null,
+      "model_target": 166.8
+    },
+    {
+      "ticker": "",
+      "strategy": "GROWTH",
+      "recommendation": "SELL",
+      "confidence": 67,
+      "entry_price": 325.08,
+      "timestamp": "2026-05-13T11:01:43.156834+00:00",
+      "margin_of_safety": 0,
+      "earnings_catalyst": 65,
+      "open": true,
+      "exit_price": null,
+      "return_pct": null,
+      "model_target": 226.0
     }
   ],
-  "updated_at": "2026-05-13T11:00:10.737489+00:00",
+  "updated_at": "2026-05-13T11:01:43.157068+00:00",
   "strategy_stats": {}
 }
