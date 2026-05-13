@@ -6,18 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: T-002
-**Subject:** Fix paper_trade.py — virtual portfolio ledger persistence
-**Assigned Bot:** self_build
-**Priority:** critical
-**Created:** 2026-05-13
-**Details:**
-- paper_trade.py likely not persisting trades properly
-- Ledger file `dashboard/data/paper_ledger.json` may be empty or corrupt
-- Need to: write proper buy/sell log entries with entry/exit prices, hold durations, P&L, win rate
-- Auto-trigger paper trades only when confidence > 70 and recommendation is BUY/ACCUMULATE
-- Add `auto_trade_enabled` toggle to whiteboard or settings
-
 ### Task ID: T-003
 **Subject:** Redesign dashboard frontend — modern financial terminal UI
 **Assigned Bot:** self_build
@@ -130,7 +118,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: T-002
+**Subject:** Fix paper_trade.py — virtual portfolio ledger persistence
+**Assigned Bot:** self_build
+**Priority:** critical
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:11.117668+00:00
+**Details:**
+- paper_trade.py likely not persisting trades properly
+- Ledger file `dashboard/data/paper_ledger.json` may be empty or corrupt
+- Need to: write proper buy/sell log entries with entry/exit prices, hold durations, P&L, win rate
+- Auto-trigger paper trades only when confidence > 70 and recommendation is BUY/ACCUMULATE
+- Add `auto_trade_enabled` toggle to whiteboard or settings
 
 ## Done
 
@@ -143,7 +142,6 @@ _(No tasks in this section.)_
 **Completed At:** 2026-05-13T13:00:09.811772+00:00
 **Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
 **Summary:** No actionable build steps for: - researcher_bot currently uses `random.uniform()` for prices instead of real yfinance data
-- SPY ra
 **Details:**
 - researcher_bot currently uses `random.uniform()` for prices instead of real yfinance data
 - SPY randomly shows $159 then $70 in the same day
