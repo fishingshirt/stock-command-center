@@ -44,17 +44,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260513-188
-**Subject:** Auto: S&P 500 top movers sentiment scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-13
-**Started At:** 2026-05-13T10:00:11.795616+00:00
-**Details:**
-- Identify top 5 daily movers
-- Pull fundamentals
-- News sentiment summary
-- Investment recommendation
+_(No tasks in this section.)_
 
 ## Done
 
@@ -3251,6 +3241,21 @@ This is the single source of truth for all research and build tasks. Do not edit
 **Completed At:** 2026-05-13T10:00:10.212447+00:00
 **Result:** dashboard/data/output/20260513-187.json
 **Summary:** WATCH (85%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+- Identify top 5 daily movers
+- Pull fundamentals
+- News sentiment summary
+- Investment recommendation
+
+### Task ID: 20260513-188
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T10:00:11.795616+00:00
+**Completed At:** 2026-05-13T10:00:13.324363+00:00
+**Result:** dashboard/data/output/20260513-188.json
+**Summary:** ACCUMULATE (87%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
 **Details:**
 - Identify top 5 daily movers
 - Pull fundamentals
