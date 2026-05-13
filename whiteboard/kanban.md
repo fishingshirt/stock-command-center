@@ -6,18 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260513-102
-**Subject:** Auto: Tune MOMENTUM strategy parameters
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-13
-**Details:**
-- Strategy: MOMENTUM
-- Win rate: 0.0% over 21 trades
-- Target: improve to >= 45.0%
-- Suggestion: adjust entry/exit thresholds or combine with another strategy
-- Created via feedback_loop auto-improve
-
 ### Task ID: 20260513-103
 **Subject:** Auto: Tune GROWTH strategy parameters
 **Assigned Bot:** self_build
@@ -32,7 +20,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260513-102
+**Subject:** Auto: Tune MOMENTUM strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T16:30:09.668760+00:00
+**Details:**
+- Strategy: MOMENTUM
+- Win rate: 0.0% over 21 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
 
 ## Done
 
@@ -1758,9 +1757,6 @@ _(No tasks in this section.)_
 **Completed At:** 2026-05-13T16:30:08.432601+00:00
 **Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
 **Summary:** No actionable build steps for: - Strategy: VALUE
-- Win rate: 0.0% over 20 trades
-- Target: improve to >= 45.0%
-- Suggestion: adjust
 **Details:**
 - Strategy: VALUE
 - Win rate: 0.0% over 20 trades
