@@ -1,18 +1,18 @@
 # Investment Memo: SPY
 
-**Recommendation:** BUY  
-**Confidence:** 78%  
+**Recommendation:** ACCUMULATE  
+**Confidence:** 62%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-13T08:33:48.798883+00:00  
+**Generated:** 2026-05-13T08:45:08.190047+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Elevated PE but strong revenue trajectory suggests SPY can grow into valuation.
+Near-term headwinds in SPY's core segment balanced by emerging AI revenue streams.
 
-**Key Takeaway:** SPY is rated **BUY** with 78% confidence. Valuation model suggests a blended target of **$324.62**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **ACCUMULATE** with 62% confidence. Valuation model suggests a blended target of **$224.54**, representing a **6.64% margin of safety** from current levels.
 
 ---
 
@@ -20,45 +20,43 @@ Elevated PE but strong revenue trajectory suggests SPY can grow into valuation.
 
 ### 2.1 Catalysts
 - Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **+13.3%**
-- Next earnings date: **2026-06-17**
+- Recent EPS surprise: **+21.8%**
+- Next earnings date: **2026-06-16**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $444.8 |
-| DCF Intrinsic Value | $264.61 |
-| Comparable Implied | $384.62 |
-| Blended Target | $324.62 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $209.63 |
+| DCF Intrinsic Value | $104.86 |
+| Comparable Implied | $344.22 |
+| Blended Target | $224.54 |
+| Margin of Safety | 6.64% |
+| Verdict | Fairly valued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
-- **Current Price:** 82.06
-- **Pe Ratio:** 44.74
-- **Forward Pe:** 44.35
-- **Rsi 14:** 31
-- **Market Cap:** 1423811438100.0
-- **52 Week High:** 118.12
-- **52 Week Low:** 36.26
+- **Current Price:** 364.13
+- **Pe Ratio:** 37.01
+- **Forward Pe:** 44.88
+- **Rsi 14:** 70
+- **Market Cap:** 91190282311.0
+- **52 Week High:** 451.86
+- **52 Week Low:** 228.87
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (6.3/10)
 - ⚠️ 1 active controversies
-- ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 58.4/100
-- **Sanctions Risk:** 6.3/10
-- **ESG Score:** 53.6/100
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 83.1/100
+- **Sanctions Risk:** 1.4/10
+- **ESG Score:** 50.5/100
 - **Controversies:** 1
 
 ---
