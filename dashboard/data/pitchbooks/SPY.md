@@ -1,9 +1,9 @@
 # Investment Memo: SPY
 
 **Recommendation:** WATCH  
-**Confidence:** 71%  
+**Confidence:** 94%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-13T02:15:04.496398+00:00  
+**Generated:** 2026-05-13T02:30:03.906689+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,42 +12,44 @@
 
 Near-term headwinds in SPY's core segment balanced by emerging AI revenue streams.
 
-**Key Takeaway:** SPY is rated **WATCH** with 71% confidence. Valuation model suggests a blended target of **$81.63**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **WATCH** with 94% confidence. Valuation model suggests a blended target of **$66.09**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **+10.0%**
-- Next earnings date: **2026-06-21**
+- Earnings momentum score: **10/100** (Earnings weakness detected)
+- Recent EPS surprise: **-9.0%**
+- Next earnings date: **2026-05-25**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $81.99 |
-| DCF Intrinsic Value | $70.53 |
-| Comparable Implied | $92.74 |
-| Blended Target | $81.63 |
+| Current Price | $243.84 |
+| DCF Intrinsic Value | $52.11 |
+| Comparable Implied | $80.07 |
+| Blended Target | $66.09 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
-- **Current Price:** 142.65
-- **Pe Ratio:** 43.5
-- **Forward Pe:** 19.59
+- **Current Price:** 78.83
+- **Pe Ratio:** 56.66
+- **Forward Pe:** 41.34
 - **Rsi 14:** 22
-- **Market Cap:** 547108982867.0
-- **52 Week High:** 217.71
-- **52 Week Low:** 124.46
+- **Market Cap:** 1087660846958.0
+- **52 Week High:** 123.2
+- **52 Week Low:** 62.03
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (7.9/10)
+- ⚠️ Elevated sanctions exposure (3.9/10)
+- ⚠️ Poor ESG score (44.3)
+- ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
@@ -55,10 +57,10 @@ Near-term headwinds in SPY's core segment balanced by emerging AI revenue stream
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 60.5/100
-- **Sanctions Risk:** 7.9/10
-- **ESG Score:** 81.6/100
-- **Controversies:** 0
+- **Compliance Score:** 60.7/100
+- **Sanctions Risk:** 3.9/10
+- **ESG Score:** 44.3/100
+- **Controversies:** 2
 
 ---
 
