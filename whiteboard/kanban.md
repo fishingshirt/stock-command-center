@@ -6,18 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: T-006
-**Subject:** Build bot_registry.json accuracy pipeline
-**Assigned Bot:** self_build
-**Priority:** medium
-**Created:** 2026-05-13
-**Details:**
-- Bot registry tracks predictions but never compares with actual outcomes
-- Need: scheduled comparison job that reads prediction + 7-day-later price from yfinance
-- Score each bot: win_rate = correct direction / total predictions (min 5 to be valid)
-- Trigger whiteboard task when bot drops below 40%
-- Write `dashboard/data/feedback_report.json` weekly
-
 ### Task ID: T-007
 **Subject:** Dashboard backend API quality check — ensure all endpoints return sane data
 **Assigned Bot:** self_build
@@ -81,7 +69,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: T-006
+**Subject:** Build bot_registry.json accuracy pipeline
+**Assigned Bot:** self_build
+**Priority:** medium
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:21.916404+00:00
+**Details:**
+- Bot registry tracks predictions but never compares with actual outcomes
+- Need: scheduled comparison job that reads prediction + 7-day-later price from yfinance
+- Score each bot: win_rate = correct direction / total predictions (min 5 to be valid)
+- Trigger whiteboard task when bot drops below 40%
+- Write `dashboard/data/feedback_report.json` weekly
 
 ## Done
 
@@ -160,9 +159,6 @@ _(No tasks in this section.)_
 **Completed At:** 2026-05-13T13:00:20.695350+00:00
 **Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
 **Summary:** time="2026-05-13T13:00:20Z" level=warning msg="/home/fishingshirt/stock-command-center/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
- Container scc-backend  Running
- Container scc-frontend  Running
-
 **Details:**
 - Docker Compose v2 warns: `attribute 'version' is obsolete`
 - Remove `version: "3.9"` from docker-compose.yml
