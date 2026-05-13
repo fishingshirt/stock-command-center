@@ -1,0 +1,42 @@
+{
+  "ticker": "SPY",
+  "timestamp": "2026-05-13T01:45:04.073953+00:00",
+  "current_price": 250.67,
+  "dcf_target": 49.5,
+  "comparable_target": 243.97,
+  "blended_target": 146.74,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 5.55,
+    "projected_fcf_5yr": [
+      6.1,
+      6.71,
+      7.38,
+      8.12,
+      8.93
+    ],
+    "growth_rate_assumed": 0.1,
+    "wacc": 0.092,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 148.2,
+    "enterprise_value_billions": 123.75,
+    "net_cash_billions": 16.36,
+    "equity_value_billions": 140.11,
+    "intrinsic_per_share": 49.5,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 250.67,
+    "trailing_pe": 22.45,
+    "forward_pe": 19.69,
+    "ev_ebitda": 11.4,
+    "price_to_sales": 10.11,
+    "price_to_book": 2.14,
+    "eps": 11.17,
+    "peer_median_pe": 21.85,
+    "implied_price_pe": 243.97,
+    "upside_pct": -2.67,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}
