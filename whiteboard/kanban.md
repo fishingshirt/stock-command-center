@@ -6,19 +6,20 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
+_(No tasks in this section.)_
+
+## In Progress
+
 ### Task ID: 20260513-009
 **Subject:** Auto: Sector rotation — tech vs energy vs biotech
 **Assigned Bot:** researcher_bot
 **Priority:** low
 **Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:54.639682+00:00
 **Details:**
 - Compare sector ETF performance
 - Relative strength analysis
 - Rotation signal detection
-
-## In Progress
-
-_(No tasks in this section.)_
 
 ## Done
 
