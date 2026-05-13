@@ -6,21 +6,22 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
+_(No tasks in this section.)_
+
+## In Progress
+
 ### Task ID: 20260513-039
 **Subject:** Auto: Tune GROWTH strategy parameters
 **Assigned Bot:** self_build
 **Priority:** high
 **Created:** 2026-05-13
+**Started At:** 2026-05-13T04:30:51.164058+00:00
 **Details:**
 - Strategy: GROWTH
 - Win rate: 0.0% over 22 trades
 - Target: improve to >= 45.0%
 - Suggestion: adjust entry/exit thresholds or combine with another strategy
 - Created via feedback_loop auto-improve
-
-## In Progress
-
-_(No tasks in this section.)_
 
 ## Done
 
