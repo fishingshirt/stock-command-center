@@ -118,18 +118,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: T-002
-**Subject:** Fix paper_trade.py — virtual portfolio ledger persistence
-**Assigned Bot:** self_build
-**Priority:** critical
-**Created:** 2026-05-13
-**Started At:** 2026-05-13T13:00:11.117668+00:00
-**Details:**
-- paper_trade.py likely not persisting trades properly
-- Ledger file `dashboard/data/paper_ledger.json` may be empty or corrupt
-- Need to: write proper buy/sell log entries with entry/exit prices, hold durations, P&L, win rate
-- Auto-trigger paper trades only when confidence > 70 and recommendation is BUY/ACCUMULATE
-- Add `auto_trade_enabled` toggle to whiteboard or settings
+_(No tasks in this section.)_
 
 ## Done
 
@@ -149,3 +138,20 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Need to: use real yfinance data properly, remove generate_mock_result() as fallback, cache results in `dashboard/data/cache/`, handle rate limits with exponential backoff
 - The fallback should produce NO data (empty/None) rather than fake data
 - `infer_ticker()` misidentifies the "C" in task descriptions — add better blocklist
+
+### Task ID: T-002
+**Subject:** Fix paper_trade.py — virtual portfolio ledger persistence
+**Assigned Bot:** self_build
+**Priority:** critical
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:11.117668+00:00
+**Completed At:** 2026-05-13T13:00:12.533714+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - paper_trade.py likely not persisting trades properly
+- Ledger file `dashboard/data/paper_ledger.js
+**Details:**
+- paper_trade.py likely not persisting trades properly
+- Ledger file `dashboard/data/paper_ledger.json` may be empty or corrupt
+- Need to: write proper buy/sell log entries with entry/exit prices, hold durations, P&L, win rate
+- Auto-trigger paper trades only when confidence > 70 and recommendation is BUY/ACCUMULATE
+- Add `auto_trade_enabled` toggle to whiteboard or settings
