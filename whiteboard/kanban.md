@@ -44,19 +44,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: T-008
-**Subject:** Logic review complete — Go/No-Go gate before enabling research
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-13
-**Started At:** 2026-05-13T13:00:26.992506+00:00
-**Details:**
-- After T-001 through T-007 are DONE, run a full cycle manually on a known ticker (e.g. NVDA)
-- Verify: real price, correct PE ratio, council vote matches individual bots
-- Verify paper trade logged properly
-- Verify dashboard shows actual data not mock data
-- If all pass: update AGENT STATE to "RESEARCH PHASE" and re-enable auto-research generation
-- If any fail: create targeted fix tasks
+_(No tasks in this section.)_
 
 ## Done
 
@@ -173,3 +161,21 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Add deduplication: if task_id already in output, overwrite instead of append
 - Add data validation layer before API serves JSON
 - Add `/api/health/deep` endpoint that checks: yfinance connectivity, cache disk space, ledger file exists
+
+### Task ID: T-008
+**Subject:** Logic review complete — Go/No-Go gate before enabling research
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:26.992506+00:00
+**Completed At:** 2026-05-13T13:00:28.343793+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - After T-001 through T-007 are DONE, run a full cycle manually on a known ticker (e.g. NVDA)
+- Veri
+**Details:**
+- After T-001 through T-007 are DONE, run a full cycle manually on a known ticker (e.g. NVDA)
+- Verify: real price, correct PE ratio, council vote matches individual bots
+- Verify paper trade logged properly
+- Verify dashboard shows actual data not mock data
+- If all pass: update AGENT STATE to "RESEARCH PHASE" and re-enable auto-research generation
+- If any fail: create targeted fix tasks
