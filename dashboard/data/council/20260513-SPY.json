@@ -1,7 +1,7 @@
 {
   "ticker": "SPY",
   "date": "20260513",
-  "timestamp": "2026-05-13T09:30:59.918047+00:00",
+  "timestamp": "2026-05-13T09:45:06.977648+00:00",
   "consensus": {
     "recommendation": "HOLD",
     "confidence": 83.3,
@@ -39,8 +39,8 @@
     },
     {
       "bot": "advisor_reasoning",
-      "recommendation": "SELL",
-      "confidence": 83,
+      "recommendation": "ACCUMULATE",
+      "confidence": 82,
       "weight": 0.5,
       "weight_reason": "advisor_reasoning accuracy=50.0%"
     },
@@ -54,7 +54,7 @@
   ],
   "breakdown": {
     "HOLD": 83.3,
-    "SELL": 16.7
+    "ACCUMULATE": 16.7
   },
   "memo_path": null
 }
