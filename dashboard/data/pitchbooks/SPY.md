@@ -1,9 +1,9 @@
 # Investment Memo: SPY
 
-**Recommendation:** BUY  
-**Confidence:** 46%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-13T23:30:49.605920+00:00  
+**Recommendation:** SELL  
+**Confidence:** 63%  
+**Strategy:** MOMENTUM  
+**Generated:** 2026-05-13T23:46:05.228465+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,64 +12,62 @@
 
 Near-term headwinds in SPY's core segment balanced by emerging AI revenue streams.
 
-**Key Takeaway:** SPY is rated **BUY** with 46% confidence. Valuation model suggests a blended target of **$171.34**, representing a **1.92% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 63% confidence. Valuation model suggests a blended target of **$300.13**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **+13.0%**
-- Next earnings date: **2026-06-26**
+- Earnings momentum score: **65/100** (Strong earnings momentum)
+- Recent EPS surprise: **+8.3%**
+- Next earnings date: **2026-06-06**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $168.05 |
-| DCF Intrinsic Value | $204.51 |
-| Comparable Implied | $138.18 |
-| Blended Target | $171.34 |
-| Margin of Safety | 1.92% |
+| Current Price | $422.19 |
+| DCF Intrinsic Value | $101.03 |
+| Comparable Implied | $499.23 |
+| Blended Target | $300.13 |
+| Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
-- **Current Price:** 63.37
-- **Pe Ratio:** 50.3
-- **Forward Pe:** 29.28
-- **Rsi 14:** 34
-- **Market Cap:** 1493462397902.0
-- **52 Week High:** 71.02
-- **52 Week Low:** 41.07
+- **Current Price:** 425.31
+- **Pe Ratio:** 28.62
+- **Forward Pe:** 41.86
+- **Rsi 14:** 47
+- **Market Cap:** 1427698363037.0
+- **52 Week High:** 557.37
+- **52 Week Low:** 178.44
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (3.4/10)
-- ⚠️ 1 active controversies
-- ⚠️ Jurisdiction risk: medium
+- ⚠️ Elevated sanctions exposure (3.9/10)
+- ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
-- ⚠️ Low confidence score (46%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 72.8/100
-- **Sanctions Risk:** 3.4/10
-- **ESG Score:** 76.6/100
-- **Controversies:** 1
+- **Compliance Score:** 60.6/100
+- **Sanctions Risk:** 3.9/10
+- **ESG Score:** 62.9/100
+- **Controversies:** 2
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** MOMENTUM
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
