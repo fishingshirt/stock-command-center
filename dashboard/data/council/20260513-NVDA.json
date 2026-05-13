@@ -1,0 +1,61 @@
+{
+  "ticker": "NVDA",
+  "date": "20260513",
+  "timestamp": "2026-05-13T04:12:07.188168+00:00",
+  "consensus": {
+    "recommendation": "HOLD",
+    "confidence": 66.7,
+    "verdict": "MILD CONSENSUS",
+    "position_size_boost_pct": 0.0
+  },
+  "votes": [
+    {
+      "bot": "researcher_bot",
+      "recommendation": "ACCUMULATE",
+      "confidence": 79,
+      "weight": 0.5,
+      "weight_reason": "researcher_bot accuracy=50.0%"
+    },
+    {
+      "bot": "earnings_analyzer",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "weight": 0.5,
+      "weight_reason": "earnings_analyzer accuracy=50.0%"
+    },
+    {
+      "bot": "financial_model",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "weight": 0.5,
+      "weight_reason": "financial_model accuracy=50.0%"
+    },
+    {
+      "bot": "kyc_screen",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "weight": 0.5,
+      "weight_reason": "kyc_screen accuracy=50.0%"
+    },
+    {
+      "bot": "advisor_reasoning",
+      "recommendation": "BUY",
+      "confidence": 46,
+      "weight": 0.5,
+      "weight_reason": "advisor_reasoning accuracy=50.0%"
+    },
+    {
+      "bot": "portfolio_constructor",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "weight": 0.5,
+      "weight_reason": "portfolio_constructor accuracy=50.0%"
+    }
+  ],
+  "breakdown": {
+    "ACCUMULATE": 16.7,
+    "HOLD": 66.7,
+    "BUY": 16.7
+  },
+  "memo_path": null
+}

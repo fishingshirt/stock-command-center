@@ -1,0 +1,92 @@
+{
+  "generated_at": "2026-05-13T04:12:14.790211+00:00",
+  "overall": {
+    "closed_trades": 1,
+    "open_positions": 2,
+    "cash": 80162.77467
+  },
+  "bot_leaderboard": [
+    {
+      "name": "researcher_bot",
+      "expertise": "multi-domain_research",
+      "accuracy": 50.0,
+      "predictions": 0,
+      "correct": 0
+    },
+    {
+      "name": "earnings_analyzer",
+      "expertise": "earnings_surprise",
+      "accuracy": 50.0,
+      "predictions": 0,
+      "correct": 0
+    },
+    {
+      "name": "financial_model",
+      "expertise": "dcf_valuation",
+      "accuracy": 50.0,
+      "predictions": 0,
+      "correct": 0
+    },
+    {
+      "name": "kyc_screen",
+      "expertise": "compliance_risk",
+      "accuracy": 50.0,
+      "predictions": 0,
+      "correct": 0
+    },
+    {
+      "name": "pitchbook_generator",
+      "expertise": "investment_memo",
+      "accuracy": 50.0,
+      "predictions": 0,
+      "correct": 0
+    },
+    {
+      "name": "advisor_reasoning",
+      "expertise": "strategy_rationale",
+      "accuracy": 50.0,
+      "predictions": 0,
+      "correct": 0
+    },
+    {
+      "name": "portfolio_constructor",
+      "expertise": "position_sizing",
+      "accuracy": 50.0,
+      "predictions": 0,
+      "correct": 0
+    }
+  ],
+  "strategy_stats": {
+    "VALUE": {
+      "trades": 4,
+      "win_rate": 0.0,
+      "avg_return_pct": 0.0,
+      "wins": 0,
+      "losses": 0
+    },
+    "MOMENTUM": {
+      "trades": 2,
+      "win_rate": 0.0,
+      "avg_return_pct": 0.0,
+      "wins": 0,
+      "losses": 0
+    },
+    "GROWTH": {
+      "trades": 19,
+      "win_rate": 0.0,
+      "avg_return_pct": 0.0,
+      "wins": 0,
+      "losses": 0
+    },
+    "QUALITY": {
+      "trades": 1,
+      "win_rate": 0.0,
+      "avg_return_pct": 0.0,
+      "wins": 0,
+      "losses": 0
+    }
+  },
+  "warnings": [
+    "Strategy GROWTH win rate 0.0% \u2014 below threshold"
+  ]
+}

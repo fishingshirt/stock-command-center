@@ -1,0 +1,82 @@
+{
+  "bots": {
+    "researcher_bot": {
+      "name": "researcher_bot",
+      "expertise": "multi-domain_research",
+      "historical_accuracy": 50.0,
+      "total_predictions": 0,
+      "correct_predictions": 0,
+      "last_run": null,
+      "avg_confidence": 65.0,
+      "confidence_history": [],
+      "created_at": "2026-05-13T04:11:59.484242+00:00"
+    },
+    "earnings_analyzer": {
+      "name": "earnings_analyzer",
+      "expertise": "earnings_surprise",
+      "historical_accuracy": 50.0,
+      "total_predictions": 0,
+      "correct_predictions": 0,
+      "last_run": null,
+      "avg_confidence": 65.0,
+      "confidence_history": [],
+      "created_at": "2026-05-13T04:11:59.484401+00:00"
+    },
+    "financial_model": {
+      "name": "financial_model",
+      "expertise": "dcf_valuation",
+      "historical_accuracy": 50.0,
+      "total_predictions": 0,
+      "correct_predictions": 0,
+      "last_run": null,
+      "avg_confidence": 65.0,
+      "confidence_history": [],
+      "created_at": "2026-05-13T04:11:59.484599+00:00"
+    },
+    "kyc_screen": {
+      "name": "kyc_screen",
+      "expertise": "compliance_risk",
+      "historical_accuracy": 50.0,
+      "total_predictions": 0,
+      "correct_predictions": 0,
+      "last_run": null,
+      "avg_confidence": 65.0,
+      "confidence_history": [],
+      "created_at": "2026-05-13T04:11:59.484748+00:00"
+    },
+    "pitchbook_generator": {
+      "name": "pitchbook_generator",
+      "expertise": "investment_memo",
+      "historical_accuracy": 50.0,
+      "total_predictions": 0,
+      "correct_predictions": 0,
+      "last_run": null,
+      "avg_confidence": 65.0,
+      "confidence_history": [],
+      "created_at": "2026-05-13T04:11:59.484898+00:00"
+    },
+    "advisor_reasoning": {
+      "name": "advisor_reasoning",
+      "expertise": "strategy_rationale",
+      "historical_accuracy": 50.0,
+      "total_predictions": 0,
+      "correct_predictions": 0,
+      "last_run": null,
+      "avg_confidence": 65.0,
+      "confidence_history": [],
+      "created_at": "2026-05-13T04:11:59.485060+00:00"
+    },
+    "portfolio_constructor": {
+      "name": "portfolio_constructor",
+      "expertise": "position_sizing",
+      "historical_accuracy": 50.0,
+      "total_predictions": 0,
+      "correct_predictions": 0,
+      "last_run": null,
+      "avg_confidence": 65.0,
+      "confidence_history": [],
+      "created_at": "2026-05-13T04:11:59.485236+00:00"
+    }
+  },
+  "updated_at": "2026-05-13T04:11:59.485239+00:00"
+}
