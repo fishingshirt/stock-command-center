@@ -19,16 +19,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260513-002
-**Subject:** Auto: Top crypto momentum scan (BTC, ETH, SOL)
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-13
-**Started At:** 2026-05-13T00:56:11.336373Z
-**Details:**
-- Pull Coingecko data
-- Volume and price change analysis
-- Momentum score and recommendation
+_(No tasks in this section.)_
 
 ## Done
 
@@ -336,3 +327,17 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Pull fundamentals
 - News sentiment summary
 - Investment recommendation
+
+### Task ID: 20260513-002
+**Subject:** Auto: Top crypto momentum scan (BTC, ETH, SOL)
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T00:56:11.336373Z
+**Completed At:** 2026-05-13T00:56:13.326347Z
+**Result:** dashboard/data/output/20260513-002.json
+**Summary:** ACCUMULATE (60%) — Strategy: MOMENTUM. skipped
+**Details:**
+- Pull Coingecko data
+- Volume and price change analysis
+- Momentum score and recommendation
