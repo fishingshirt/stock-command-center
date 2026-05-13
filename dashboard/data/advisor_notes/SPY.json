@@ -1,13 +1,13 @@
 {
   "ticker": "",
   "recommendation": "HOLD",
-  "confidence": 82,
-  "reasoning": "We maintain our HOLD on .\n\n**Research Findings:**\n- Options flow turning bullish for SPY into earnings; technicals support a breakout.\n\n**Earnings Analysis:**\n- Earnings weakness detected \u2014 catalyst score 0/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $172.69\n\n**Confidence Drivers:**\n- Overall confidence: **82%**\n- P/E ratio of 39.53 vs peers\n- RSI(14) at 57 \u2014 neutral\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
+  "confidence": 60,
+  "reasoning": "We maintain our HOLD on .\n\n**Research Findings:**\n- Elevated PE but strong revenue trajectory suggests SPY can grow into valuation.\n\n**Earnings Analysis:**\n- Strong earnings momentum \u2014 catalyst score 80/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $162.79\n\n**Confidence Drivers:**\n- Overall confidence: **60%**\n- P/E ratio of 28.79 vs peers\n- RSI(14) at 29 \u2014 oversold\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **MOMENTUM** play: earnings acceleration driving the thesis.",
   "pitchbook_path": "/home/fishingshirt/stock-command-center/dashboard/data/pitchbooks/SPY.md",
-  "generated_at": "2026-05-13T10:46:03.965813+00:00",
+  "generated_at": "2026-05-13T11:00:10.654366+00:00",
   "confidence_factors": {
-    "earnings_score": 0,
+    "earnings_score": 80,
     "valuation_margin": 0,
-    "research_confidence": 82
+    "research_confidence": 60
   }
 }
