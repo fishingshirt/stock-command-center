@@ -81,18 +81,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: T-005
-**Subject:** Fix docker-compose.yml — remove version warning, verify build
-**Assigned Bot:** self_build
-**Priority:** medium
-**Created:** 2026-05-13
-**Started At:** 2026-05-13T13:00:19.209471+00:00
-**Details:**
-- Docker Compose v2 warns: `attribute 'version' is obsolete`
-- Remove `version: "3.9"` from docker-compose.yml
-- Verify `docker compose build` succeeds without errors
-- Verify `docker compose up` brings both containers up cleanly
-- Check port binding doesn't conflict with nexus on 8080
+_(No tasks in this section.)_
 
 ## Done
 
@@ -161,3 +150,22 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Need to trace: check if `council_meeting.py` reads the actual earnings/model/kyc/advisor JSONs
 - Add `force_council` flag on tasks when needed
 - Verify consensus boosting position size actually works
+
+### Task ID: T-005
+**Subject:** Fix docker-compose.yml — remove version warning, verify build
+**Assigned Bot:** self_build
+**Priority:** medium
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:19.209471+00:00
+**Completed At:** 2026-05-13T13:00:20.695350+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** time="2026-05-13T13:00:20Z" level=warning msg="/home/fishingshirt/stock-command-center/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ Container scc-backend  Running
+ Container scc-frontend  Running
+
+**Details:**
+- Docker Compose v2 warns: `attribute 'version' is obsolete`
+- Remove `version: "3.9"` from docker-compose.yml
+- Verify `docker compose build` succeeds without errors
+- Verify `docker compose up` brings both containers up cleanly
+- Check port binding doesn't conflict with nexus on 8080
