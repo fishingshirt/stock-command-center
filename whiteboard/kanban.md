@@ -6,16 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260513-007
-**Subject:** Auto: Top crypto momentum scan (BTC, ETH, SOL)
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-13
-**Details:**
-- Pull Coingecko data
-- Volume and price change analysis
-- Momentum score and recommendation
-
 ### Task ID: 20260513-008
 **Subject:** Auto: S&P 500 top movers sentiment scan
 **Assigned Bot:** researcher_bot
@@ -39,7 +29,16 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260513-007
+**Subject:** Auto: Top crypto momentum scan (BTC, ETH, SOL)
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:48.391547+00:00
+**Details:**
+- Pull Coingecko data
+- Volume and price change analysis
+- Momentum score and recommendation
 
 ## Done
 
@@ -263,9 +262,6 @@ _(No tasks in this section.)_
 **Completed At:** 2026-05-13T13:00:47.195391+00:00
 **Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
 **Summary:** No actionable build steps for: - Strategy: GROWTH
-- Win rate: 0.0% over 82 trades
-- Target: improve to >= 45.0%
-- Suggestion: adjus
 **Details:**
 - Strategy: GROWTH
 - Win rate: 0.0% over 82 trades
