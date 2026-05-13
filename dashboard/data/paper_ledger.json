@@ -1,5 +1,5 @@
 {
-  "cash": 149591.162697,
+  "cash": 153539.1328,
   "initial_capital": 100000.0,
   "positions": {
     "NVDA": {
@@ -21,16 +21,6 @@
       "reasoning": "Near-term headwinds in C's core segment balanced by emerging AI revenue streams.",
       "task_id": "20260513-008",
       "opened_at": "2026-05-13T01:33:18.331838+00:00"
-    },
-    "SPY": {
-      "ticker": "SPY",
-      "shares": 28.6979,
-      "entry_price": 579.18,
-      "last_price": 579.18,
-      "confidence": 75,
-      "reasoning": "Elevated PE but strong revenue trajectory suggests SPY can grow into valuation.",
-      "task_id": "20260513-273",
-      "opened_at": "2026-05-13T12:15:39.933251+00:00"
     }
   },
   "history": [
@@ -145,8 +135,22 @@
       "opened_at": "2026-05-13T11:31:02.119371+00:00",
       "closed_at": "2026-05-13T11:45:28.453682+00:00",
       "task_id": "20260513-255"
+    },
+    {
+      "ticker": "SPY",
+      "action": "SELL",
+      "shares": 28.6979,
+      "entry_price": 579.18,
+      "exit_price": 137.57,
+      "pnl": -12673.28,
+      "return_pct": -76.25,
+      "hold_seconds": 1768.4,
+      "reasoning": "Near-term headwinds in SPY's core segment balanced by emerging AI revenue streams.",
+      "opened_at": "2026-05-13T12:15:39.933251+00:00",
+      "closed_at": "2026-05-13T12:45:08.290582+00:00",
+      "task_id": "20260513-287"
     }
   ],
   "created_at": "2026-05-12T23:20:25.794758+00:00",
-  "updated_at": "2026-05-13T12:15:39.933257+00:00"
+  "updated_at": "2026-05-13T12:45:08.290588+00:00"
 }
