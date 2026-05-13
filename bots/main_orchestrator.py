@@ -168,32 +168,9 @@ def _run_council(ticker: str, result_data: dict, earn_path: Path, model_path: Pa
 # ── Auto-task generation ────────────────────────────────────────────
 
 def _generate_new_tasks(board: dict):
-    now = datetime.now()
-    has_recent_crypto = False
-    has_recent_stock = False
-    for section in ("To Do", "In Progress", "Done"):
-        for t in board.get(section, []):
-            subj = t.get("subject", "").lower()
-            created_str = t.get("created", "2000-01-01")
-            try:
-                created_dt = datetime.strptime(created_str, "%Y-%m-%d")
-                days = (now - created_dt).days
-            except ValueError:
-                days = 999
-            if ("crypto" in subj or "bitcoin" in subj or "ethereum" in subj) and days < 2:
-                has_recent_crypto = True
-            if any(s in subj for s in ("stock", "nvda", "aapl", "spy")) and days < 1:
-                has_recent_stock = True
-    if not has_recent_crypto:
-        add_task(str(BOARD_PATH), "Auto: Top crypto sentiment scan (BTC, ETH, SOL)",
-                 "- Pull latest prices and 24h volume\n- Check news sentiment\n- Recommend buy/hold/sell",
-                 priority="high", bot="researcher_bot")
-        logger.info("Auto-generated crypto scan task")
-    if not has_recent_stock:
-        add_task(str(BOARD_PATH), "Auto: S&P 500 top movers sentiment scan",
-                 "- Identify top 5 daily movers\n- Pull fundamentals\n- News sentiment summary\n- Investment recommendation",
-                 priority="medium", bot="researcher_bot")
-        logger.info("Auto-generated stock scan task")
+    """Disabled during review/fix phase. Only build tasks should be on the board."""
+    logger.info("Auto-generation disabled. Add build/fix tasks to whiteboard manually.")
+    return
 
 
 # ── Main cycle ───────────────────────────────────────────────────────

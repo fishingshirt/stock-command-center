@@ -15,9 +15,17 @@ Autonomous stock intelligence platform. A main orchestrator bot spawns researche
 
 ## Project Status
 - [x] Repo created
-- [ ] Whiteboard system built
-- [ ] Cron job scheduled
-- [ ] Main bot implemented
-- [ ] Sub-bots implemented
-- [ ] Dashboard built in Docker
-- [ ] First research cycle completed
+- [x] Whiteboard system built
+- [x] Cron job scheduled
+- [x] Main bot implemented
+- [x] Sub-bots implemented
+- [x] Dashboard built in Docker
+- [x] First research cycle completed
+- [ ] **Data quality verified** — researcher bot producing inconsistent/fake prices (SPY $159→$70, PE 18→35)
+- [ ] **Paper trading ledger working** — virtual portfolio not persisting properly
+- [ ] **Dashboard UI modernized** — basic Tailwind cards, needs financial-terminal design
+- [ ] **Bot registry accuracy tracking** — feedback loop not comparing predictions vs actual
+- [ ] **Logic review complete** — council meeting, advisor reasoning, position sizing need verification
+- [ ] **Ready for production research cycles**
+
+**Current Phase:** Review & Fix — Build tasks on whiteboard only. No auto-generated research until quality passes.
