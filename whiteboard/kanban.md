@@ -10,17 +10,7 @@ _(No tasks in this section.)_
 
 ## In Progress
 
-### Task ID: 20260513-003
-**Subject:** Auto: S&P 500 top movers sentiment scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-13
-**Started At:** 2026-05-13T00:56:15.331697Z
-**Details:**
-- Identify top 5 daily movers
-- Fundamentals check
-- News sentiment
-- Investment recommendation
+_(No tasks in this section.)_
 
 ## Done
 
@@ -342,3 +332,18 @@ _(No tasks in this section.)_
 - Pull Coingecko data
 - Volume and price change analysis
 - Momentum score and recommendation
+
+### Task ID: 20260513-003
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T00:56:15.331697Z
+**Completed At:** 2026-05-13T00:56:16.435160Z
+**Result:** dashboard/data/output/20260513-003.json
+**Summary:** SELL (66%) — Strategy: MOMENTUM. skipped
+**Details:**
+- Identify top 5 daily movers
+- Fundamentals check
+- News sentiment
+- Investment recommendation
