@@ -6,18 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260513-004
-**Subject:** Auto: Tune VALUE strategy parameters
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-13
-**Details:**
-- Strategy: VALUE
-- Win rate: 0.0% over 15 trades
-- Target: improve to >= 45.0%
-- Suggestion: adjust entry/exit thresholds or combine with another strategy
-- Created via feedback_loop auto-improve
-
 ### Task ID: 20260513-005
 **Subject:** Auto: Tune MOMENTUM strategy parameters
 **Assigned Bot:** self_build
@@ -42,9 +30,51 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Suggestion: adjust entry/exit thresholds or combine with another strategy
 - Created via feedback_loop auto-improve
 
+### Task ID: 20260513-007
+**Subject:** Auto: Top crypto momentum scan (BTC, ETH, SOL)
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-13
+**Details:**
+- Pull Coingecko data
+- Volume and price change analysis
+- Momentum score and recommendation
+
+### Task ID: 20260513-008
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-13
+**Details:**
+- Identify top 5 daily movers
+- Fundamentals check
+- News sentiment
+- Investment recommendation
+
+### Task ID: 20260513-009
+**Subject:** Auto: Sector rotation — tech vs energy vs biotech
+**Assigned Bot:** researcher_bot
+**Priority:** low
+**Created:** 2026-05-13
+**Details:**
+- Compare sector ETF performance
+- Relative strength analysis
+- Rotation signal detection
+
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260513-004
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:40.540477+00:00
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 15 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
 
 ## Done
 
