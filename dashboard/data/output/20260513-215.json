@@ -1,26 +1,26 @@
 {
   "task_id": "20260513-215",
   "subject": "Auto: S&P 500 top movers sentiment scan",
-  "timestamp": "2026-05-13T10:45:08.195973+00:00",
-  "recommendation": "BUY",
-  "confidence": 52,
-  "summary": "Options flow turning bullish for SPY into earnings; technicals support a breakout.",
+  "timestamp": "2026-05-13T20:31:28.870959+00:00",
+  "recommendation": "SELL",
+  "confidence": 50,
+  "summary": "Near-term headwinds in SPY's core segment balanced by emerging AI revenue streams.",
   "key_metrics": {
     "ticker": "SPY",
-    "current_price": 449.93,
-    "pe_ratio": 51.77,
-    "forward_pe": 42.81,
-    "rsi_14": 77,
-    "market_cap": 839105419401.0,
-    "52_week_high": 752.7,
-    "52_week_low": 354.84
+    "current_price": 574.05,
+    "pe_ratio": 52.93,
+    "forward_pe": 22.82,
+    "rsi_14": 38,
+    "market_cap": 2129710850264.0,
+    "52_week_high": 852.34,
+    "52_week_low": 496.69
   },
   "sources": [
     "https://finance.yahoo.com/quote/SPY",
     "https://seekingalpha.com/symbol/SPY"
   ],
-  "full_text": "## SPY Deep Research\n\n### Overview\nOptions flow turning bullish for SPY into earnings; technicals support a breakout.\n\n### Key Metrics\n- **ticker:** SPY\n- **current_price:** 449.93\n- **pe_ratio:** 51.77\n- **forward_pe:** 42.81\n- **rsi_14:** 77\n- **market_cap:** 839105419401.0\n- **52_week_high:** 752.7\n- **52_week_low:** 354.84\n\n### Recommendation\nBUY with 52% confidence.",
-  "paper_trade_signal": "BUY",
-  "paper_trade_price": 449.93,
+  "full_text": "## SPY Deep Research\n\n### Overview\nOptions flow turning bullish for SPY into earnings; technicals support a breakout.\n\n### Key Metrics\n- **ticker:** SPY\n- **current_price:** 574.05\n- **pe_ratio:** 52.93\n- **forward_pe:** 22.82\n- **rsi_14:** 38\n- **market_cap:** 2129710850264.0\n- **52_week_high:** 852.34\n- **52_week_low:** 496.69\n\n### Recommendation\nSELL with 50% confidence.",
+  "paper_trade_signal": "SELL",
+  "paper_trade_price": 574.05,
   "asset_type": "stock"
 }
