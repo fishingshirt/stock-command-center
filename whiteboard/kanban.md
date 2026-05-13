@@ -105,19 +105,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: T-003
-**Subject:** Redesign dashboard frontend — modern financial terminal UI
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-13
-**Started At:** 2026-05-13T13:00:13.989198+00:00
-**Details:**
-- Current dashboard is basic slate-900 cards with Tailwind defaults
-- Modern financial dashboards use: Bloomberg Terminal dark theme (black bg, green/red accents), real-time tickers at top, sparkline charts, heatmaps, table-views with sortable columns, keyboard shortcuts
-- Add route: `/portfolio` for paper trading ledger
-- Add route: `/feedback` for bot accuracy leaderboard
-- Fix main nav: use icon-based sidebar not top bar
-- Auto-refresh every 30s with smooth transitions
+_(No tasks in this section.)_
 
 ## Done
 
@@ -153,3 +141,21 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Need to: write proper buy/sell log entries with entry/exit prices, hold durations, P&L, win rate
 - Auto-trigger paper trades only when confidence > 70 and recommendation is BUY/ACCUMULATE
 - Add `auto_trade_enabled` toggle to whiteboard or settings
+
+### Task ID: T-003
+**Subject:** Redesign dashboard frontend — modern financial terminal UI
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:13.989198+00:00
+**Completed At:** 2026-05-13T13:00:15.241226+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Current dashboard is basic slate-900 cards with Tailwind defaults
+- Modern financial dashboards us
+**Details:**
+- Current dashboard is basic slate-900 cards with Tailwind defaults
+- Modern financial dashboards use: Bloomberg Terminal dark theme (black bg, green/red accents), real-time tickers at top, sparkline charts, heatmaps, table-views with sortable columns, keyboard shortcuts
+- Add route: `/portfolio` for paper trading ledger
+- Add route: `/feedback` for bot accuracy leaderboard
+- Fix main nav: use icon-based sidebar not top bar
+- Auto-refresh every 30s with smooth transitions
