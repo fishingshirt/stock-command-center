@@ -6,18 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: T-005
-**Subject:** Fix docker-compose.yml — remove version warning, verify build
-**Assigned Bot:** self_build
-**Priority:** medium
-**Created:** 2026-05-13
-**Details:**
-- Docker Compose v2 warns: `attribute 'version' is obsolete`
-- Remove `version: "3.9"` from docker-compose.yml
-- Verify `docker compose build` succeeds without errors
-- Verify `docker compose up` brings both containers up cleanly
-- Check port binding doesn't conflict with nexus on 8080
-
 ### Task ID: T-006
 **Subject:** Build bot_registry.json accuracy pipeline
 **Assigned Bot:** self_build
@@ -93,7 +81,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: T-005
+**Subject:** Fix docker-compose.yml — remove version warning, verify build
+**Assigned Bot:** self_build
+**Priority:** medium
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:19.209471+00:00
+**Details:**
+- Docker Compose v2 warns: `attribute 'version' is obsolete`
+- Remove `version: "3.9"` from docker-compose.yml
+- Verify `docker compose build` succeeds without errors
+- Verify `docker compose up` brings both containers up cleanly
+- Check port binding doesn't conflict with nexus on 8080
 
 ## Done
 
