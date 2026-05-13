@@ -1,0 +1,26 @@
+{
+  "task_id": "20260513-011",
+  "subject": "Auto: S&P 500 top movers sentiment scan",
+  "timestamp": "2026-05-13T01:45:41.367036+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 92,
+  "summary": "Near-term headwinds in SPY's core segment balanced by emerging AI revenue streams.",
+  "key_metrics": {
+    "ticker": "SPY",
+    "current_price": 378.34,
+    "pe_ratio": 44.26,
+    "forward_pe": 37.26,
+    "rsi_14": 60,
+    "market_cap": 1588896876761.0,
+    "52_week_high": 673.62,
+    "52_week_low": 298.63
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/SPY",
+    "https://seekingalpha.com/symbol/SPY"
+  ],
+  "full_text": "## SPY Deep Research\n\n### Overview\nOptions flow turning bullish for SPY into earnings; technicals support a breakout.\n\n### Key Metrics\n- **ticker:** SPY\n- **current_price:** 378.34\n- **pe_ratio:** 44.26\n- **forward_pe:** 37.26\n- **rsi_14:** 60\n- **market_cap:** 1588896876761.0\n- **52_week_high:** 673.62\n- **52_week_low:** 298.63\n\n### Recommendation\nACCUMULATE with 92% confidence.",
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 378.34,
+  "asset_type": "stock"
+}
