@@ -61,9 +61,17 @@ def infer_ticker(subject: str) -> tuple:
             return (ticker, "stock", None)
     
     # Regex fallback: uppercase 2-5 letter words that look like tickers
-    m = re.search(r'\b([A-Z]{1,5})\b', subject)
+    # BUT reject common words / single letters that appear in generic task descriptions
+    generic_blocklist = {
+        "A", "AN", "THE", "AND", "OR", "FOR", "TO", "IN", "ON", "AT", "BY", "WITH", "FROM",
+        "S", "P", "C", "T", "B", "X", "V", "I", "R", "E", "N", "D", "G", "F", "Y", "Q",
+        "SP", "TOP", "AUTO", "SCAN",
+    }
+    m = re.search(r'\b([A-Z]{2,5})\b', subject)
     if m:
-        return (m.group(1), "stock", None)
+        cand = m.group(1)
+        if cand not in generic_blocklist:
+            return (cand, "stock", None)
     
     return ("SPY", "stock", None)
 

@@ -283,8 +283,6 @@ def run_cycle():
 
                     # 5. Advisor reasoning
                     reason_path = REPO_ROOT / "dashboard" / "data" / "advisor_notes" / f"{ticker}.json"
-                    earn_data = _json.load(open(earn_path, "r")) if earn_path.exists() else {}
-                    model_data = _json.load(open(model_path, "r")) if model_path.exists() else {}
                     reason_proc = subprocess.run(
                         [sys.executable, str(REPO_ROOT / "bots" / "advisor_reasoning.py"),
                          "--research", str(output_path),
@@ -296,6 +294,11 @@ def run_cycle():
                     logger.info(f"Reasoning for {ticker}: {'OK' if reason_proc.returncode == 0 else 'FAIL'}")
 
                     # 6. Strategy + position sizing
+                    # Load all data needed for strategy routing before using it
+                    earn_data = _json.load(open(earn_path, "r")) if earn_path.exists() else {}
+                    model_data = _json.load(open(model_path, "r")) if model_path.exists() else {}
+                    kyc_data = _json.load(open(kyc_path, "r")) if kyc_path.exists() else {}
+
                     strategy_label = "GROWTH"
                     if model_data.get("margin_of_safety_pct", 0) > 15:
                         strategy_label = "VALUE"
@@ -303,7 +306,6 @@ def run_cycle():
                         strategy_label = "MOMENTUM"
                     elif result_data.get("confidence", 0) > 75 and kyc_data.get("compliance_score", 100) > 80:
                         strategy_label = "QUALITY"
-                    kyc_data = _json.load(open(kyc_path, "r")) if kyc_path.exists() else {}
 
                     pos_path = REPO_ROOT / "dashboard" / "data" / "portfolio_targets" / f"{ticker}.json"
                     pos_path.parent.mkdir(parents=True, exist_ok=True)
