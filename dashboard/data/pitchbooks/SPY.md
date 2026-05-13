@@ -1,54 +1,53 @@
 # Investment Memo: SPY
 
-**Recommendation:** HOLD  
-**Confidence:** 68%  
+**Recommendation:** WATCH  
+**Confidence:** 67%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-13T12:00:10.047386+00:00  
+**Generated:** 2026-05-13T12:01:25.502258+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Elevated PE but strong revenue trajectory suggests SPY can grow into valuation.
+Options flow turning bullish for SPY into earnings; technicals support a breakout.
 
-**Key Takeaway:** SPY is rated **HOLD** with 68% confidence. Valuation model suggests a blended target of **$197.4**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **WATCH** with 67% confidence. Valuation model suggests a blended target of **$214.07**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **35/100** (Mixed earnings signals)
-- Recent EPS surprise: **-7.6%**
-- Next earnings date: **2026-06-07**
+- Earnings momentum score: **10/100** (Earnings weakness detected)
+- Recent EPS surprise: **-8.1%**
+- Next earnings date: **2026-06-03**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $417.0 |
-| DCF Intrinsic Value | $134.28 |
-| Comparable Implied | $260.53 |
-| Blended Target | $197.4 |
+| Current Price | $413.33 |
+| DCF Intrinsic Value | $130.1 |
+| Comparable Implied | $298.05 |
+| Blended Target | $214.07 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
-- **Current Price:** 398.15
-- **Pe Ratio:** 59.12
-- **Forward Pe:** 26.54
-- **Rsi 14:** 79
-- **Market Cap:** 1296849312176.0
-- **52 Week High:** 499.26
-- **52 Week Low:** 179.91
+- **Current Price:** 380.43
+- **Pe Ratio:** 57.69
+- **Forward Pe:** 18.97
+- **Rsi 14:** 23
+- **Market Cap:** 654807528661.0
+- **52 Week High:** 471.74
+- **52 Week Low:** 226.86
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (4.2/10)
-- ⚠️ 1 active controversies
+- ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
@@ -56,10 +55,10 @@ Elevated PE but strong revenue trajectory suggests SPY can grow into valuation.
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 69.2/100
-- **Sanctions Risk:** 4.2/10
-- **ESG Score:** 70.3/100
-- **Controversies:** 1
+- **Compliance Score:** 72.7/100
+- **Sanctions Risk:** 1.5/10
+- **ESG Score:** 61.0/100
+- **Controversies:** 2
 
 ---
 
