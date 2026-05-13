@@ -2,8 +2,8 @@
 
 **Recommendation:** ACCUMULATE  
 **Confidence:** 60%  
-**Strategy:** MOMENTUM  
-**Generated:** 2026-05-13T00:56:13.436818+00:00  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-13T13:00:50.205241+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,42 +12,43 @@
 
 BTC analyzed via crypto data. Recommendation: ACCUMULATE.
 
-**Key Takeaway:** BTC is rated **ACCUMULATE** with 60% confidence. Valuation model suggests a blended target of **$136.91**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** BTC is rated **ACCUMULATE** with 60% confidence. Valuation model suggests a blended target of **$162.37**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **80/100** (Strong earnings momentum)
-- Recent EPS surprise: **+9.2%**
-- Next earnings date: **2026-05-28**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **-4.3%**
+- Next earnings date: **2026-06-23**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $399.99 |
-| DCF Intrinsic Value | $65.01 |
-| Comparable Implied | $208.82 |
-| Blended Target | $136.91 |
+| Current Price | $524.49 |
+| DCF Intrinsic Value | $76.61 |
+| Comparable Implied | $248.12 |
+| Blended Target | $162.37 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
-- **Current Price:** 80612
-- **Market Cap:** 1615603783393
-- **Total Volume:** 31470129930
-- **Price Change 24H:** -918.4545823002263
-- **Price Change Percentage 24H:** -1.12651
+- **Current Price:** 80172
+- **Market Cap:** 1605417090138
+- **Total Volume:** 41057555986
+- **Price Change 24H:** -673.7870608202502
+- **Price Change Percentage 24H:** -0.83342
 - **Ath:** 126080
-- **Ath Change Percentage:** -36.06239
+- **Ath Change Percentage:** -36.41176
+- **Ticker:** BTC
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (4.2/10)
-- ⚠️ 3 active controversies
+- ⚠️ Elevated sanctions exposure (8.2/10)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
@@ -55,18 +56,18 @@ BTC analyzed via crypto data. Recommendation: ACCUMULATE.
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** HIGH
-- **Compliance Score:** 49.0/100
-- **Sanctions Risk:** 4.2/10
-- **ESG Score:** 66.8/100
-- **Controversies:** 3
+- **Compliance Score:** 48.8/100
+- **Sanctions Risk:** 8.2/10
+- **ESG Score:** 78.5/100
+- **Controversies:** 1
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** MOMENTUM
+**Primary Strategy:** GROWTH
 
-This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 

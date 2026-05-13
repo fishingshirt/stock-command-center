@@ -1,26 +1,25 @@
 {
   "task_id": "20260513-007",
-  "subject": "Auto: S&P 500 top movers sentiment scan",
-  "timestamp": "2026-05-13T01:33:15.784327+00:00",
+  "subject": "Auto: Top crypto momentum scan (BTC, ETH, SOL)",
+  "timestamp": "2026-05-13T13:00:50.081598+00:00",
   "recommendation": "ACCUMULATE",
-  "confidence": 54,
-  "summary": "Options flow turning bullish for C into earnings; technicals support a breakout.",
+  "confidence": 60,
+  "summary": "BTC analyzed via crypto data. Recommendation: ACCUMULATE.",
   "key_metrics": {
-    "ticker": "C",
-    "current_price": 192.9,
-    "pe_ratio": 23.8,
-    "forward_pe": 15.68,
-    "rsi_14": 46,
-    "market_cap": 1980037738413.0,
-    "52_week_high": 339.75,
-    "52_week_low": 144.07
+    "current_price": 80172,
+    "market_cap": 1605417090138,
+    "total_volume": 41057555986,
+    "price_change_24h": -673.7870608202502,
+    "price_change_percentage_24h": -0.83342,
+    "ath": 126080,
+    "ath_change_percentage": -36.41176,
+    "ticker": "BTC"
   },
   "sources": [
-    "https://finance.yahoo.com/quote/C",
-    "https://seekingalpha.com/symbol/C"
+    "https://www.coingecko.com/en/coins/bitcoin"
   ],
-  "full_text": "## C Deep Research\n\n### Overview\nElevated PE but strong revenue trajectory suggests C can grow into valuation.\n\n### Key Metrics\n- **ticker:** C\n- **current_price:** 192.9\n- **pe_ratio:** 23.8\n- **forward_pe:** 15.68\n- **rsi_14:** 46\n- **market_cap:** 1980037738413.0\n- **52_week_high:** 339.75\n- **52_week_low:** 144.07\n\n### Recommendation\nACCUMULATE with 54% confidence.",
+  "full_text": "## BTC Research Result\n\nData sourced from real-time APIs.\n\n### Recommendation: ACCUMULATE (60% confidence)\n\n### Metrics\n- **current_price:** 80172\n- **market_cap:** 1605417090138\n- **total_volume:** 41057555986\n- **price_change_24h:** -673.7870608202502\n- **price_change_percentage_24h:** -0.83342\n- **ath:** 126080\n- **ath_change_percentage:** -36.41176\n- **ticker:** BTC",
   "paper_trade_signal": "ACCUMULATE",
-  "paper_trade_price": 192.9,
-  "asset_type": "stock"
+  "paper_trade_price": 80172,
+  "asset_type": "crypto"
 }
