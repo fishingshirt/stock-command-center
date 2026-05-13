@@ -1819,8 +1819,22 @@
       "exit_price": null,
       "return_pct": null,
       "model_target": 107.87
+    },
+    {
+      "ticker": "",
+      "strategy": "GROWTH",
+      "recommendation": "ACCUMULATE",
+      "confidence": 66,
+      "entry_price": 268.39,
+      "timestamp": "2026-05-13T15:46:20.785544+00:00",
+      "margin_of_safety": 0,
+      "earnings_catalyst": 25,
+      "open": true,
+      "exit_price": null,
+      "return_pct": null,
+      "model_target": 89.23
     }
   ],
-  "updated_at": "2026-05-13T15:31:06.203705+00:00",
+  "updated_at": "2026-05-13T15:46:20.785820+00:00",
   "strategy_stats": {}
 }
