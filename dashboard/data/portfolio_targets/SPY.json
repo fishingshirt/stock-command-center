@@ -1,14 +1,14 @@
 {
   "ticker": "SPY",
-  "target_pct_of_portfolio": 4.6,
-  "target_dollars": 9865.17,
+  "target_pct_of_portfolio": 2.65,
+  "target_dollars": 5683.2,
   "kelly_fraction": 0.25,
-  "confidence_multiplier": 0.92,
+  "confidence_multiplier": 0.53,
   "margin_of_safety_multiplier": 1.0,
   "diversification_limit": "20% max single position",
   "sector_risk": "Within limits",
   "cash_available": 195460.3,
   "total_portfolio_value": 214460.29,
   "strategy": "GROWTH",
-  "timestamp": "2026-05-13T18:46:07.349340+00:00"
+  "timestamp": "2026-05-13T19:03:56.197571+00:00"
 }

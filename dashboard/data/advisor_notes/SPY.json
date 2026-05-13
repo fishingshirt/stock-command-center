@@ -1,13 +1,13 @@
 {
   "ticker": "",
-  "recommendation": "SELL",
-  "confidence": 92,
-  "reasoning": "We are downgrading  to SELL.\n\n**Research Findings:**\n- Options flow turning bullish for SPY into earnings; technicals support a breakout.\n\n**Earnings Analysis:**\n- Strong earnings momentum \u2014 catalyst score 65/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $129.9\n\n**Confidence Drivers:**\n- Overall confidence: **92%**\n- P/E ratio of 64.53 vs peers\n- RSI(14) at 52 \u2014 neutral\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **MOMENTUM** play: earnings acceleration driving the thesis.",
+  "recommendation": "ACCUMULATE",
+  "confidence": 53,
+  "reasoning": " looks attractive on a scale-in basis.\n\n**Research Findings:**\n- Near-term headwinds in SPY's core segment balanced by emerging AI revenue streams.\n\n**Earnings Analysis:**\n- Strong earnings momentum \u2014 catalyst score 65/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $223.95\n\n**Confidence Drivers:**\n- Overall confidence: **53%**\n- P/E ratio of 47.38 vs peers\n- RSI(14) at 68 \u2014 neutral\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Low confidence indicates significant uncertainty\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **MOMENTUM** play: earnings acceleration driving the thesis.",
   "pitchbook_path": "/home/fishingshirt/stock-command-center/dashboard/data/pitchbooks/SPY.md",
-  "generated_at": "2026-05-13T18:46:07.319516+00:00",
+  "generated_at": "2026-05-13T19:03:56.167853+00:00",
   "confidence_factors": {
     "earnings_score": 65,
     "valuation_margin": 0,
-    "research_confidence": 92
+    "research_confidence": 53
   }
 }
