@@ -5,6 +5,7 @@ import Home from './pages/Home'
 import Archive from './pages/Archive'
 import Whiteboard from './pages/Whiteboard'
 import Settings from './pages/Settings'
+import Advisor from './pages/Advisor'
 import './css/index.css'
 
 function App() {

@@ -145,6 +145,103 @@ def trigger_cycle():
         return {"status": "error", "message": str(e)}
 
 
+# === ADVISOR API ===
+
+@app.get("/api/pitchbooks")
+def list_pitchbooks():
+    pb_dir = REPO_ROOT / "dashboard" / "data" / "pitchbooks"
+    import json as _json
+    pitchbooks = []
+    if pb_dir.exists():
+        for md_file in sorted(pb_dir.glob("*.md"), key=lambda x: x.stat().st_mtime, reverse=True):
+            ticker = md_file.stem
+            reason_file = REPO_ROOT / "dashboard" / "data" / "advisor_notes" / f"{ticker}.json"
+            model_file = REPO_ROOT / "dashboard" / "data" / "models" / f"{ticker}.json"
+            kyc_file = REPO_ROOT / "dashboard" / "data" / "kyc" / f"{ticker}.json"
+            
+            pb_data = {"ticker": ticker, "content": "", "recommendation": "HOLD", "confidence": 0, "strategy": "GROWTH", "margin_of_safety": 0, "model_target": "N/A", "dcf_target": "N/A", "comps_target": "N/A", "kyc_risk": "UNKNOWN", "compliance_score": 0, "summary": ""}
+            
+            try:
+                with open(md_file, "r", encoding="utf-8") as f:
+                    content = f.read()
+                pb_data["content"] = content
+                lines = content.split("\n")
+                for line in lines[:10]:
+                    if "**Recommendation:**" in line:
+                        pb_data["recommendation"] = line.split("**Recommendation:**")[-1].strip()
+                    if "**Confidence:**" in line:
+                        try:
+                            pb_data["confidence"] = int(line.split("**Confidence:**")[-1].strip().replace("%", ""))
+                        except:
+                            pass
+                    if "**Strategy:**" in line:
+                        pb_data["strategy"] = line.split("**Strategy:**")[-1].strip()
+                for line in lines:
+                    if "**Executive Summary**" in line or "## 1. Executive Summary" in line:
+                        idx = lines.index(line) + 2
+                        pb_data["summary"] = lines[idx].strip() if idx < len(lines) else ""
+                        break
+            except Exception:
+                pass
+            
+            if model_file.exists():
+                try:
+                    with open(model_file, "r", encoding="utf-8") as f:
+                        m = _json.load(f)
+                    pb_data["model_target"] = m.get("blended_target", "N/A")
+                    pb_data["margin_of_safety"] = m.get("margin_of_safety_pct", 0)
+                    pb_data["dcf_target"] = m.get("dcf_model", {}).get("intrinsic_per_share", "N/A")
+                    pb_data["comps_target"] = m.get("comparable_model", {}).get("implied_price_pe", "N/A")
+                except Exception:
+                    pass
+            
+            if kyc_file.exists():
+                try:
+                    with open(kyc_file, "r", encoding="utf-8") as f:
+                        k = _json.load(f)
+                    pb_data["kyc_risk"] = k.get("risk_level", "UNKNOWN")
+                    pb_data["compliance_score"] = k.get("compliance_score", 0)
+                except Exception:
+                    pass
+            
+            pitchbooks.append(pb_data)
+    return {"pitchbooks": pitchbooks}
+
+
+@app.get("/api/pitchbooks/{ticker}")
+def get_pitchbook(ticker: str):
+    pb_file = REPO_ROOT / "dashboard" / "data" / "pitchbooks" / f"{ticker}.md"
+    if not pb_file.exists():
+        raise HTTPException(status_code=404, detail="Pitchbook not found")
+    with open(pb_file, "r", encoding="utf-8") as f:
+        return {"ticker": ticker.upper(), "content": f.read()}
+
+
+@app.get("/api/strategies")
+def strategy_leaderboard():
+    sys.path.insert(0, str(REPO_ROOT))
+    from bots.strategy_tracker import get_leaderboard
+    return {"strategy_stats": get_leaderboard()}
+
+
+@app.get("/api/earnings/{ticker}")
+def get_earnings(ticker: str):
+    e_file = REPO_ROOT / "dashboard" / "data" / "earnings" / f"{ticker}.json"
+    if not e_file.exists():
+        raise HTTPException(status_code=404, detail="Earnings data not found")
+    with open(e_file, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+@app.get("/api/models/{ticker}")
+def get_model(ticker: str):
+    m_file = REPO_ROOT / "dashboard" / "data" / "models" / f"{ticker}.json"
+    if not m_file.exists():
+        raise HTTPException(status_code=404, detail="Model not found")
+    with open(m_file, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)

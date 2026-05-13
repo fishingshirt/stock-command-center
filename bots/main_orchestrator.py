@@ -93,6 +93,12 @@ def spawn_researcher(task: dict) -> bool:
     return True
 
 
+def _extract_ticker(subject: str) -> str:
+    import re
+    m = re.search(r'\b([A-Z]{2,5})\b', subject)
+    return m.group(1) if m else ""
+
+
 def _run_self_build(task: dict) -> tuple:
     """Execute a build/implementation/verification task."""
     task_id = task.get("task_id", "UNKNOWN")
@@ -227,6 +233,106 @@ def run_cycle():
                     "result": str(output_path.relative_to(REPO_ROOT)),
                     "summary": _load_summary(output_path),
                 }
+
+                # ===== ADVISOR PIPELINE =====
+                try:
+                    sys.path.insert(0, str(REPO_ROOT))
+                    import json as _json
+                    with open(output_path, "r", encoding="utf-8") as f:
+                        result_data = _json.load(f)
+                    ticker = result_data.get("key_metrics", {}).get("ticker") or _extract_ticker(result_data.get("subject", ""))
+                    if not ticker:
+                        ticker = "UNKNOWN"
+
+                    # 1. Earnings analysis
+                    earn_path = REPO_ROOT / "dashboard" / "data" / "earnings" / f"{ticker}.json"
+                    earn_proc = subprocess.run(
+                        [sys.executable, str(REPO_ROOT / "bots" / "earnings_analyzer.py"),
+                         "--ticker", ticker, "--output", str(earn_path)],
+                        capture_output=True, text=True, timeout=60)
+                    logger.info(f"Earnings for {ticker}: {'OK' if earn_proc.returncode == 0 else 'FAIL'}")
+
+                    # 2. Financial model
+                    model_path = REPO_ROOT / "dashboard" / "data" / "models" / f"{ticker}.json"
+                    model_proc = subprocess.run(
+                        [sys.executable, str(REPO_ROOT / "bots" / "financial_model.py"),
+                         "--ticker", ticker, "--output", str(model_path)],
+                        capture_output=True, text=True, timeout=60)
+                    logger.info(f"Model for {ticker}: {'OK' if model_proc.returncode == 0 else 'FAIL'}")
+
+                    # 3. KYC screen
+                    kyc_path = REPO_ROOT / "dashboard" / "data" / "kyc" / f"{ticker}.json"
+                    kyc_proc = subprocess.run(
+                        [sys.executable, str(REPO_ROOT / "bots" / "kyc_screen.py"),
+                         "--ticker", ticker, "--output", str(kyc_path)],
+                        capture_output=True, text=True, timeout=30)
+                    logger.info(f"KYC for {ticker}: {'OK' if kyc_proc.returncode == 0 else 'FAIL'}")
+
+                    # 4. Pitchbook
+                    pitch_path = REPO_ROOT / "dashboard" / "data" / "pitchbooks" / f"{ticker}.md"
+                    pitch_proc = subprocess.run(
+                        [sys.executable, str(REPO_ROOT / "bots" / "pitchbook_generator.py"),
+                         "--ticker", ticker,
+                         "--research", str(output_path),
+                         "--earnings", str(earn_path),
+                         "--model", str(model_path),
+                         "--kyc", str(kyc_path),
+                         "--output", str(pitch_path)],
+                        capture_output=True, text=True, timeout=60)
+                    logger.info(f"Pitchbook for {ticker}: {'OK' if pitch_proc.returncode == 0 else 'FAIL'}")
+
+                    # 5. Advisor reasoning
+                    reason_path = REPO_ROOT / "dashboard" / "data" / "advisor_notes" / f"{ticker}.json"
+                    earn_data = _json.load(open(earn_path, "r")) if earn_path.exists() else {}
+                    model_data = _json.load(open(model_path, "r")) if model_path.exists() else {}
+                    reason_proc = subprocess.run(
+                        [sys.executable, str(REPO_ROOT / "bots" / "advisor_reasoning.py"),
+                         "--research", str(output_path),
+                         "--earnings", str(earn_path),
+                         "--model", str(model_path),
+                         "--pitchbook", str(pitch_path),
+                         "--output", str(reason_path)],
+                        capture_output=True, text=True, timeout=30)
+                    logger.info(f"Reasoning for {ticker}: {'OK' if reason_proc.returncode == 0 else 'FAIL'}")
+
+                    # 6. Strategy + position sizing
+                    strategy_label = "GROWTH"
+                    if model_data.get("margin_of_safety_pct", 0) > 15:
+                        strategy_label = "VALUE"
+                    elif earn_data.get("earnings_catalyst_score", 0) > 65:
+                        strategy_label = "MOMENTUM"
+                    elif result_data.get("confidence", 0) > 75 and kyc_data.get("compliance_score", 100) > 80:
+                        strategy_label = "QUALITY"
+                    kyc_data = _json.load(open(kyc_path, "r")) if kyc_path.exists() else {}
+
+                    pos_path = REPO_ROOT / "dashboard" / "data" / "portfolio_targets" / f"{ticker}.json"
+                    pos_path.parent.mkdir(parents=True, exist_ok=True)
+                    pos_proc = subprocess.run(
+                        [sys.executable, str(REPO_ROOT / "bots" / "portfolio_constructor.py"),
+                         "--ticker", ticker,
+                         "--confidence", str(result_data.get("confidence", 65)),
+                         "--margin_of_safety", str(model_data.get("margin_of_safety_pct", 10)),
+                         "--strategy", strategy_label,
+                         "--output", str(pos_path)],
+                        capture_output=True, text=True, timeout=30)
+                    logger.info(f"Position for {ticker}: {'OK' if pos_proc.returncode == 0 else 'FAIL'}")
+
+                    # 7. Paper trade
+                    from bots.paper_trade import auto_trade_from_result
+                    trade_res = auto_trade_from_result(result_data)
+                    logger.info(f"Paper trade for {ticker}: {trade_res.get('status')} — {trade_res.get('message', '')[:100]}")
+
+                    # 8. Strategy tracker record
+                    from bots.strategy_tracker import record_trade
+                    record_trade(result_data, model_data, earn_data, strategy_label)
+
+                    extra["summary"] = f"{result_data.get('recommendation', 'HOLD')} ({result_data.get('confidence', 0)}%) — Strategy: {strategy_label}. {trade_res.get('status', 'no trade')}"
+                    extra["advisor_pitchbook"] = str(pitch_path.relative_to(REPO_ROOT))
+                    extra["advisor_reasoning"] = str(reason_path.relative_to(REPO_ROOT))
+
+                except Exception as e:
+                    logger.warning(f"Advisor pipeline error for {task_id}: {e}")
+
                 move_task(str(BOARD_PATH), task_id, "In Progress", "Done", extra_fields=extra)
                 logger.info(f"Task {task_id} completed and archived")
             else:

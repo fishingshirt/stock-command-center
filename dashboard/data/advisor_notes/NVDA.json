@@ -1,0 +1,13 @@
+{
+  "ticker": "NVDA",
+  "recommendation": "BUY",
+  "confidence": 46,
+  "reasoning": "We see a buying opportunity in NVDA.\n\n**Research Findings:**\n- Near-term headwinds in NVDA's core segment balanced by emerging AI revenue streams.\n\n**Earnings Analysis:**\n- Mixed earnings signals \u2014 catalyst score 50/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $45.14\n\n**Confidence Drivers:**\n- Overall confidence: **46%**\n- P/E ratio of 25.34 vs peers\n- RSI(14) at 49 \u2014 neutral\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Low confidence indicates significant uncertainty\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
+  "pitchbook_path": "dashboard/data/pitchbooks/NVDA.md",
+  "generated_at": "2026-05-13T00:43:04.237545+00:00",
+  "confidence_factors": {
+    "earnings_score": 50,
+    "valuation_margin": 0,
+    "research_confidence": 46
+  }
+}
