@@ -53,11 +53,11 @@ def infer_ticker(subject: str) -> tuple:
     }
     
     for sym, full in known_crypto.items():
-        if sym in subj_lower or full.replace("-", " ") in subj_lower:
+        if re.search(rf'\b{re.escape(sym)}\b', subj_lower) or full.replace("-", " ") in subj_lower:
             return (sym.upper(), "crypto", full)
     
     for sym, ticker in known_stocks.items():
-        if sym in subj_lower or ticker.lower() in subj_lower:
+        if re.search(rf'\b{re.escape(sym)}\b', subj_lower) or re.search(rf'\b{re.escape(ticker.lower())}\b', subj_lower):
             return (ticker, "stock", None)
     
     # Regex fallback: uppercase 2-5 letter words that look like tickers
