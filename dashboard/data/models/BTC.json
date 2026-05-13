@@ -1,0 +1,42 @@
+{
+  "ticker": "BTC",
+  "timestamp": "2026-05-13T00:56:13.381338+00:00",
+  "current_price": 399.99,
+  "dcf_target": 65.01,
+  "comparable_target": 208.82,
+  "blended_target": 136.91,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 8.36,
+    "projected_fcf_5yr": [
+      9.03,
+      9.76,
+      10.54,
+      11.39,
+      12.3
+    ],
+    "growth_rate_assumed": 0.08,
+    "wacc": 0.092,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 203.8,
+    "enterprise_value_billions": 171.62,
+    "net_cash_billions": 14.4,
+    "equity_value_billions": 186.02,
+    "intrinsic_per_share": 65.01,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 399.99,
+    "trailing_pe": 34.21,
+    "forward_pe": 26.26,
+    "ev_ebitda": 13.64,
+    "price_to_sales": 14.15,
+    "price_to_book": 8.02,
+    "eps": 11.69,
+    "peer_median_pe": 17.86,
+    "implied_price_pe": 208.82,
+    "upside_pct": -47.79,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

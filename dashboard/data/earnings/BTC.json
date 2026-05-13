@@ -1,0 +1,36 @@
+{
+  "next_earnings_date": "2026-05-28",
+  "earnings_history": [
+    {
+      "date": "2026-02-28",
+      "eps_estimate": 1.67,
+      "reported_eps": 1.87,
+      "surprise_pct": 9.2
+    },
+    {
+      "date": "2025-11-30",
+      "eps_estimate": 1.37,
+      "reported_eps": 1.57,
+      "surprise_pct": 5.2
+    },
+    {
+      "date": "2025-08-30",
+      "eps_estimate": 1.07,
+      "reported_eps": 1.27,
+      "surprise_pct": 14.2
+    }
+  ],
+  "eps_ttm": 7.48,
+  "eps_forward": 9.72,
+  "revenue_growth": 0.194,
+  "earnings_growth": 0.238,
+  "pe_trailing": 18.55,
+  "pe_forward": 24.75,
+  "peg_ratio": 1.92,
+  "ticker": "BTC",
+  "analyzed_at": "2026-05-13T00:56:13.351186+00:00",
+  "source": "mock_fallback",
+  "surprise_avg_pct": 9.53,
+  "earnings_catalyst_score": 80,
+  "verdict": "Strong earnings momentum"
+}

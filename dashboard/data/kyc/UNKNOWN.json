@@ -1,0 +1,15 @@
+{
+  "ticker": "UNKNOWN",
+  "timestamp": "2026-05-13T00:56:16.518086+00:00",
+  "compliance_score": 74.6,
+  "risk_level": "MEDIUM",
+  "sanctions_risk": 1.1,
+  "pep_exposure": 0,
+  "esg_score": 67.1,
+  "controversy_count": 2,
+  "jurisdiction_risk": "low",
+  "flags": [
+    "2 active controversies"
+  ],
+  "pass": true
+}

@@ -1,0 +1,48 @@
+{
+  "trades": [
+    {
+      "ticker": "",
+      "strategy": "VALUE",
+      "recommendation": "WATCH",
+      "confidence": 86,
+      "entry_price": 149.08,
+      "timestamp": "2026-05-13T00:56:10.260692+00:00",
+      "margin_of_safety": 26.86,
+      "earnings_catalyst": 65,
+      "open": true,
+      "exit_price": null,
+      "return_pct": null,
+      "model_target": 105.94
+    },
+    {
+      "ticker": "BTC",
+      "strategy": "MOMENTUM",
+      "recommendation": "ACCUMULATE",
+      "confidence": 60,
+      "entry_price": 80612,
+      "timestamp": "2026-05-13T00:56:13.498463+00:00",
+      "margin_of_safety": 0,
+      "earnings_catalyst": 80,
+      "open": true,
+      "exit_price": null,
+      "return_pct": null,
+      "model_target": 136.91
+    },
+    {
+      "ticker": "",
+      "strategy": "MOMENTUM",
+      "recommendation": "SELL",
+      "confidence": 66,
+      "entry_price": 293.66,
+      "timestamp": "2026-05-13T00:56:16.608424+00:00",
+      "margin_of_safety": 0,
+      "earnings_catalyst": 80,
+      "open": true,
+      "exit_price": null,
+      "return_pct": null,
+      "model_target": 207.16
+    }
+  ],
+  "updated_at": "2026-05-13T00:56:16.608525+00:00",
+  "strategy_stats": {}
+}

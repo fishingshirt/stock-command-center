@@ -1,0 +1,42 @@
+{
+  "ticker": "UNKNOWN",
+  "timestamp": "2026-05-13T00:56:16.490364+00:00",
+  "current_price": 420.39,
+  "dcf_target": 102.68,
+  "comparable_target": 311.64,
+  "blended_target": 207.16,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 6.64,
+    "projected_fcf_5yr": [
+      8.12,
+      9.92,
+      12.13,
+      14.83,
+      18.12
+    ],
+    "growth_rate_assumed": 0.222,
+    "wacc": 0.107,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 241.13,
+    "enterprise_value_billions": 189.87,
+    "net_cash_billions": 1.17,
+    "equity_value_billions": 191.04,
+    "intrinsic_per_share": 102.68,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 420.39,
+    "trailing_pe": 44.65,
+    "forward_pe": 34.0,
+    "ev_ebitda": 24.15,
+    "price_to_sales": 9.16,
+    "price_to_book": 3.0,
+    "eps": 9.42,
+    "peer_median_pe": 33.1,
+    "implied_price_pe": 311.64,
+    "upside_pct": -25.87,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}
