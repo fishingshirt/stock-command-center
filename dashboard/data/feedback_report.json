@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T08:45:19.207039+00:00",
+  "generated_at": "2026-05-13T09:00:08.470883+00:00",
   "overall": {
     "closed_trades": 5,
     "open_positions": 3,
@@ -79,7 +79,7 @@
       "losses": 0
     },
     "QUALITY": {
-      "trades": 1,
+      "trades": 2,
       "win_rate": 0.0,
       "avg_return_pct": 0.0,
       "wins": 0,
