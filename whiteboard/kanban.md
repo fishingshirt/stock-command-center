@@ -69,18 +69,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: T-006
-**Subject:** Build bot_registry.json accuracy pipeline
-**Assigned Bot:** self_build
-**Priority:** medium
-**Created:** 2026-05-13
-**Started At:** 2026-05-13T13:00:21.916404+00:00
-**Details:**
-- Bot registry tracks predictions but never compares with actual outcomes
-- Need: scheduled comparison job that reads prediction + 7-day-later price from yfinance
-- Score each bot: win_rate = correct direction / total predictions (min 5 to be valid)
-- Trigger whiteboard task when bot drops below 40%
-- Write `dashboard/data/feedback_report.json` weekly
+_(No tasks in this section.)_
 
 ## Done
 
@@ -165,3 +154,20 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Verify `docker compose build` succeeds without errors
 - Verify `docker compose up` brings both containers up cleanly
 - Check port binding doesn't conflict with nexus on 8080
+
+### Task ID: T-006
+**Subject:** Build bot_registry.json accuracy pipeline
+**Assigned Bot:** self_build
+**Priority:** medium
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:21.916404+00:00
+**Completed At:** 2026-05-13T13:00:23.140736+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot registry tracks predictions but never compares with actual outcomes
+- Need: scheduled comparis
+**Details:**
+- Bot registry tracks predictions but never compares with actual outcomes
+- Need: scheduled comparison job that reads prediction + 7-day-later price from yfinance
+- Score each bot: win_rate = correct direction / total predictions (min 5 to be valid)
+- Trigger whiteboard task when bot drops below 40%
+- Write `dashboard/data/feedback_report.json` weekly
