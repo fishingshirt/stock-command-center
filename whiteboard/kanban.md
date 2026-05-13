@@ -6,18 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260513-149
-**Subject:** Auto: Tune VALUE strategy parameters
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-13
-**Details:**
-- Strategy: VALUE
-- Win rate: 0.0% over 9 trades
-- Target: improve to >= 45.0%
-- Suggestion: adjust entry/exit thresholds or combine with another strategy
-- Created via feedback_loop auto-improve
-
 ### Task ID: 20260513-150
 **Subject:** Auto: S&P 500 top movers sentiment scan
 **Assigned Bot:** researcher_bot
@@ -55,7 +43,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260513-149
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T08:45:19.219460+00:00
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 9 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
 
 ## Done
 
