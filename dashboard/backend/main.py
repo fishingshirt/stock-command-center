@@ -17,7 +17,14 @@ from pydantic import BaseModel
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
 from whiteboard.parser import load_board
 
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+_env_root = os.environ.get("SCC_REPO_ROOT")
+if _env_root:
+    REPO_ROOT = Path(_env_root)
+else:
+    REPO_ROOT = Path(__file__).resolve().parent.parent.parent
+# Container fallback if path resolves to root
+if str(REPO_ROOT) == "/" and Path("/app/dashboard").exists():
+    REPO_ROOT = Path("/app")
 OUTPUT_DIR = REPO_ROOT / "dashboard" / "data" / "output"
 LOG_DIR = REPO_ROOT / "logs"
 BOARD_PATH = REPO_ROOT / "whiteboard" / "kanban.md"

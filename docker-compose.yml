@@ -9,7 +9,7 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - ./dashboard/data:/app/dashboard/data
+      - ./dashboard:/app/dashboard
       - ./whiteboard:/app/whiteboard
       - ./logs:/app/logs
     environment:
