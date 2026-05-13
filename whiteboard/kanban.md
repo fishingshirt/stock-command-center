@@ -1,6 +1,6 @@
 # Stock Command Center — Whiteboard
 
-**AGENT STATE: BUILD PHASE — No research until all build/fix tasks pass logic review.**
+This is the single source of truth for all research and build tasks. Do not edit outside the three sections below.
 
 ---
 
@@ -105,16 +105,22 @@
 - If all pass: update AGENT STATE to "RESEARCH PHASE" and re-enable auto-research generation
 - If any fail: create targeted fix tasks
 
+### Task ID: 20260513-001
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-13
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 15 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
 ## In Progress
 
 _(No tasks in this section.)_
 
 ## Done
 
-_(Build tasks will appear here once completed.)_
-
----
-
-**Tech stack:** Python 3.12 + FastAPI backend + React (Vite) + TailwindCSS + Docker Compose
-**Working directory:** /home/fishingshirt/stock-command-center
-**Build on this machine, push to GitHub immediately after every change.**
+_(No tasks in this section.)_
