@@ -1,71 +1,73 @@
 # Investment Memo: SPY
 
-**Recommendation:** SELL  
-**Confidence:** 89%  
-**Strategy:** VALUE  
-**Generated:** 2026-05-13T03:33:23.987704+00:00  
+**Recommendation:** BUY  
+**Confidence:** 49%  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-13T03:45:03.624425+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Elevated PE but strong revenue trajectory suggests SPY can grow into valuation.
+Options flow turning bullish for SPY into earnings; technicals support a breakout.
 
-**Key Takeaway:** SPY is rated **SELL** with 89% confidence. Valuation model suggests a blended target of **$265.93**, representing a **45.14% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **BUY** with 49% confidence. Valuation model suggests a blended target of **$281.36**, representing a **8.03% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **10/100** (Earnings weakness detected)
-- Recent EPS surprise: **-0.7%**
-- Next earnings date: **2026-06-02**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **-9.7%**
+- Next earnings date: **2026-06-01**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $145.9 |
-| DCF Intrinsic Value | $296.72 |
-| Comparable Implied | $235.14 |
-| Blended Target | $265.93 |
-| Margin of Safety | 45.14% |
-| Verdict | Undervalued |
+| Current Price | $258.77 |
+| DCF Intrinsic Value | $223.54 |
+| Comparable Implied | $339.18 |
+| Blended Target | $281.36 |
+| Margin of Safety | 8.03% |
+| Verdict | Fairly valued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
-- **Current Price:** 351.45
-- **Pe Ratio:** 19.3
-- **Forward Pe:** 49.26
-- **Rsi 14:** 35
-- **Market Cap:** 1250232067157.0
-- **52 Week High:** 593.32
-- **52 Week Low:** 276.85
+- **Current Price:** 467.82
+- **Pe Ratio:** 49.72
+- **Forward Pe:** 36.97
+- **Rsi 14:** 33
+- **Market Cap:** 1857434249873.0
+- **52 Week High:** 686.46
+- **52 Week Low:** 386.1
 
 ---
 
 ## 3. Risks
 
-- No material compliance flags detected.
+- ⚠️ Elevated sanctions exposure (3.4/10)
+- ⚠️ 2 active controversies
+- ⚠️ Low confidence score (49%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 87.2/100
-- **Sanctions Risk:** 2.6/10
-- **ESG Score:** 63.5/100
-- **Controversies:** 0
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 63.2/100
+- **Sanctions Risk:** 3.4/10
+- **ESG Score:** 57.2/100
+- **Controversies:** 2
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** VALUE
+**Primary Strategy:** GROWTH
 
-This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
