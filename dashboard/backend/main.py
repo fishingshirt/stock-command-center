@@ -249,6 +249,59 @@ def get_model(ticker: str):
         return json.load(f)
 
 
+# === COUNCIL API ===
+
+@app.get("/api/council")
+def list_council():
+    council_dir = REPO_ROOT / "dashboard" / "data" / "council"
+    results = []
+    if council_dir.exists():
+        for p in sorted(council_dir.glob("*.json"), key=lambda x: x.stat().st_mtime, reverse=True):
+            try:
+                with open(p, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                results.append(data)
+            except Exception:
+                continue
+    return {"councils": results}
+
+
+@app.get("/api/council/{ticker}")
+def get_council(ticker: str):
+    council_dir = REPO_ROOT / "dashboard" / "data" / "council"
+    if council_dir.exists():
+        for p in sorted(council_dir.glob(f"*-{ticker}.json"), key=lambda x: x.stat().st_mtime, reverse=True):
+            try:
+                with open(p, "r", encoding="utf-8") as f:
+                    return json.load(f)
+            except Exception:
+                continue
+    raise HTTPException(status_code=404, detail="Council record not found")
+
+
+@app.get("/api/feedback")
+def feedback_report():
+    fb_path = REPO_ROOT / "dashboard" / "data" / "feedback_report.json"
+    if fb_path.exists():
+        with open(fb_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {"message": "No feedback report yet"}
+
+
+# === BOT LEADERBOARD ===
+
+@app.get("/api/bot_leaderboard")
+def bot_leaderboard():
+    reg_path = REPO_ROOT / "dashboard" / "data" / "bot_registry.json"
+    if reg_path.exists():
+        with open(reg_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        bots = list(data.get("bots", {}).values())
+        bots.sort(key=lambda b: b.get("historical_accuracy", 0), reverse=True)
+        return {"bots": bots}
+    return {"bots": []}
+
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
