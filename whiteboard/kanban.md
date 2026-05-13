@@ -6,18 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260513-050
-**Subject:** Auto: Tune GROWTH strategy parameters
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-13
-**Details:**
-- Strategy: GROWTH
-- Win rate: 0.0% over 88 trades
-- Target: improve to >= 45.0%
-- Suggestion: adjust entry/exit thresholds or combine with another strategy
-- Created via feedback_loop auto-improve
-
 ### Task ID: 20260513-051
 **Subject:** Auto: S&P 500 top movers sentiment scan
 **Assigned Bot:** researcher_bot
@@ -31,7 +19,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260513-050
+**Subject:** Auto: Tune GROWTH strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T14:30:24.088759+00:00
+**Details:**
+- Strategy: GROWTH
+- Win rate: 0.0% over 88 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
 
 ## Done
 
@@ -933,9 +932,6 @@ _(No tasks in this section.)_
 **Completed At:** 2026-05-13T14:30:22.583487+00:00
 **Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
 **Summary:** No actionable build steps for: - Strategy: MOMENTUM
-- Win rate: 0.0% over 19 trades
-- Target: improve to >= 45.0%
-- Suggestion: adj
 **Details:**
 - Strategy: MOMENTUM
 - Win rate: 0.0% over 19 trades
