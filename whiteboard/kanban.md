@@ -6,18 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: T-007
-**Subject:** Dashboard backend API quality check — ensure all endpoints return sane data
-**Assigned Bot:** self_build
-**Priority:** medium
-**Created:** 2026-05-13
-**Details:**
-- `/api/recommendations` may return stale or duplicate entries
-- `/api/sectors` may be empty
-- Add deduplication: if task_id already in output, overwrite instead of append
-- Add data validation layer before API serves JSON
-- Add `/api/health/deep` endpoint that checks: yfinance connectivity, cache disk space, ledger file exists
-
 ### Task ID: T-008
 **Subject:** Logic review complete — Go/No-Go gate before enabling research
 **Assigned Bot:** self_build
@@ -69,7 +57,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: T-007
+**Subject:** Dashboard backend API quality check — ensure all endpoints return sane data
+**Assigned Bot:** self_build
+**Priority:** medium
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:24.430581+00:00
+**Details:**
+- `/api/recommendations` may return stale or duplicate entries
+- `/api/sectors` may be empty
+- Add deduplication: if task_id already in output, overwrite instead of append
+- Add data validation layer before API serves JSON
+- Add `/api/health/deep` endpoint that checks: yfinance connectivity, cache disk space, ledger file exists
 
 ## Done
 
@@ -164,7 +163,6 @@ _(No tasks in this section.)_
 **Completed At:** 2026-05-13T13:00:23.140736+00:00
 **Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
 **Summary:** No actionable build steps for: - Bot registry tracks predictions but never compares with actual outcomes
-- Need: scheduled comparis
 **Details:**
 - Bot registry tracks predictions but never compares with actual outcomes
 - Need: scheduled comparison job that reads prediction + 7-day-later price from yfinance
