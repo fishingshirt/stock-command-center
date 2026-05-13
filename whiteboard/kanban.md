@@ -93,18 +93,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: T-004
-**Subject:** Verify council_meeting.py logic — does it actually read bot outputs?
-**Assigned Bot:** self_build
-**Priority:** medium
-**Created:** 2026-05-13
-**Started At:** 2026-05-13T13:00:16.448354+00:00
-**Details:**
-- Council meeting is called but may be passed incorrect file paths
-- `_run_council` references `OUTPUT_DIR / result_data.get("task_id", "")` which may not exist
-- Need to trace: check if `council_meeting.py` reads the actual earnings/model/kyc/advisor JSONs
-- Add `force_council` flag on tasks when needed
-- Verify consensus boosting position size actually works
+_(No tasks in this section.)_
 
 ## Done
 
@@ -157,3 +146,19 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Add route: `/feedback` for bot accuracy leaderboard
 - Fix main nav: use icon-based sidebar not top bar
 - Auto-refresh every 30s with smooth transitions
+
+### Task ID: T-004
+**Subject:** Verify council_meeting.py logic — does it actually read bot outputs?
+**Assigned Bot:** self_build
+**Priority:** medium
+**Created:** 2026-05-13
+**Started At:** 2026-05-13T13:00:16.448354+00:00
+**Completed At:** 2026-05-13T13:00:17.811013+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** Passed: 3/3 — Failed: []
+**Details:**
+- Council meeting is called but may be passed incorrect file paths
+- `_run_council` references `OUTPUT_DIR / result_data.get("task_id", "")` which may not exist
+- Need to trace: check if `council_meeting.py` reads the actual earnings/model/kyc/advisor JSONs
+- Add `force_council` flag on tasks when needed
+- Verify consensus boosting position size actually works
