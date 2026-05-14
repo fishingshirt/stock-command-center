@@ -18,6 +18,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Suggestion: adjust entry/exit thresholds or combine with another strategy
 - Created via feedback_loop auto-improve
 
+### Task ID: 20260514-026
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-14
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 26 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
 ## In Progress
 
 _(No tasks in this section.)_
@@ -5424,9 +5436,6 @@ _(No tasks in this section.)_
 **Completed At:** 2026-05-14T00:45:09.246560+00:00
 **Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
 **Summary:** No actionable build steps for: - Strategy: MOMENTUM
-- Win rate: 0.0% over 25 trades
-- Target: improve to >= 45.0%
-- Suggestion: adj
 **Details:**
 - Strategy: MOMENTUM
 - Win rate: 0.0% over 25 trades
