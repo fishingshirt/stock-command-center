@@ -6,21 +6,22 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
+_(No tasks in this section.)_
+
+## In Progress
+
 ### Task ID: 20260514-146
 **Subject:** Auto: Tune GROWTH strategy parameters
 **Assigned Bot:** self_build
 **Priority:** high
 **Created:** 2026-05-14
+**Started At:** 2026-05-14T06:30:11.595563+00:00
 **Details:**
 - Strategy: GROWTH
 - Win rate: 0.0% over 120 trades
 - Target: improve to >= 45.0%
 - Suggestion: adjust entry/exit thresholds or combine with another strategy
 - Created via feedback_loop auto-improve
-
-## In Progress
-
-_(No tasks in this section.)_
 
 ## Done
 
@@ -7347,9 +7348,6 @@ _(No tasks in this section.)_
 **Completed At:** 2026-05-14T06:30:10.513799+00:00
 **Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
 **Summary:** No actionable build steps for: - Strategy: MOMENTUM
-- Win rate: 0.0% over 29 trades
-- Target: improve to >= 45.0%
-- Suggestion: adj
 **Details:**
 - Strategy: MOMENTUM
 - Win rate: 0.0% over 29 trades
