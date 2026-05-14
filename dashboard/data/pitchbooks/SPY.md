@@ -1,54 +1,54 @@
 # Investment Memo: SPY
 
 **Recommendation:** SELL  
-**Confidence:** 81%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-14T02:30:45.048755+00:00  
+**Confidence:** 61%  
+**Strategy:** MOMENTUM  
+**Generated:** 2026-05-14T02:45:21.699319+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Options flow turning bullish for SPY into earnings; technicals support a breakout.
+Elevated PE but strong revenue trajectory suggests SPY can grow into valuation.
 
-**Key Takeaway:** SPY is rated **SELL** with 81% confidence. Valuation model suggests a blended target of **$67.7**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 61% confidence. Valuation model suggests a blended target of **$91.54**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **-1.8%**
-- Next earnings date: **2026-05-29**
+- Earnings momentum score: **80/100** (Strong earnings momentum)
+- Recent EPS surprise: **+6.0%**
+- Next earnings date: **2026-06-23**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $173.26 |
-| DCF Intrinsic Value | $46.47 |
-| Comparable Implied | $88.93 |
-| Blended Target | $67.7 |
+| Current Price | $160.36 |
+| DCF Intrinsic Value | $16.85 |
+| Comparable Implied | $166.23 |
+| Blended Target | $91.54 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
-- **Current Price:** 415.44
-- **Pe Ratio:** 22.37
-- **Forward Pe:** 15.86
-- **Rsi 14:** 58
-- **Market Cap:** 1650213669434.0
-- **52 Week High:** 722.75
-- **52 Week Low:** 365.1
+- **Current Price:** 401.27
+- **Pe Ratio:** 30.96
+- **Forward Pe:** 33.18
+- **Rsi 14:** 67
+- **Market Cap:** 1128082135223.0
+- **52 Week High:** 457.39
+- **52 Week Low:** 263.83
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (6.1/10)
-- ⚠️ 2 active controversies
+- ⚠️ Elevated sanctions exposure (5.6/10)
+- ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
@@ -56,18 +56,18 @@ Options flow turning bullish for SPY into earnings; technicals support a breakou
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** HIGH
-- **Compliance Score:** 49.3/100
-- **Sanctions Risk:** 6.1/10
-- **ESG Score:** 75.4/100
-- **Controversies:** 2
+- **Compliance Score:** 42.0/100
+- **Sanctions Risk:** 5.6/10
+- **ESG Score:** 75.9/100
+- **Controversies:** 3
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** MOMENTUM
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
