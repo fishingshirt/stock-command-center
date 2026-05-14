@@ -6,16 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260514-004
-**Subject:** Auto: Top crypto momentum scan (BTC, ETH, SOL)
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-14
-**Details:**
-- Pull Coingecko data
-- Volume and price change analysis
-- Momentum score and recommendation
-
 ### Task ID: 20260514-005
 **Subject:** Auto: S&P 500 top movers sentiment scan
 **Assigned Bot:** researcher_bot
@@ -65,7 +55,16 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260514-004
+**Subject:** Auto: Top crypto momentum scan (BTC, ETH, SOL)
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-14
+**Started At:** 2026-05-14T00:01:22.095779+00:00
+**Details:**
+- Pull Coingecko data
+- Volume and price change analysis
+- Momentum score and recommendation
 
 ## Done
 
