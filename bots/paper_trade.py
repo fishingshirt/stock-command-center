@@ -9,11 +9,38 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 LEDGER_PATH = REPO_ROOT / "dashboard" / "data" / "paper_ledger.json"
+SETTINGS_PATH = REPO_ROOT / "dashboard" / "data" / "settings.json"
 
 # Ensure parent dir exists
 LEDGER_PATH.parent.mkdir(parents=True, exist_ok=True)
 
 INITIAL_CAPITAL = 100000.0
+
+
+def _load_settings() -> dict:
+    """Load settings.json with defaults."""
+    defaults = {
+        "auto_trade_enabled": False,
+        "paper_trade_confidence_threshold": 70,
+        "max_positions": 10,
+        "position_size_pct": 0.10,
+    }
+    if SETTINGS_PATH.exists():
+        try:
+            with open(SETTINGS_PATH, "r", encoding="utf-8") as f:
+                loaded = json.load(f)
+            defaults.update(loaded)
+        except Exception:
+            pass
+    return defaults
+
+
+def _save_settings(settings: dict):
+    try:
+        with open(SETTINGS_PATH, "w", encoding="utf-8") as f:
+            json.dump(settings, f, indent=2)
+    except Exception:
+        pass
 
 
 def _load_ledger() -> dict:
@@ -81,9 +108,12 @@ def buy(ticker: str, price: float, confidence: float, reasoning: str, shares: fl
     if ticker.upper() in ledger.get("positions", {}):
         return {"status": "already_open", "message": f"Position already open for {ticker}"}
 
-    # Default shares: invest ~10% of cash per trade
+    settings = _load_settings()
+    position_size_pct = settings.get("position_size_pct", 0.10)
+
+    # Default shares: invest ~position_size_pct of cash per trade
     if shares is None:
-        invest = ledger["cash"] * 0.10
+        invest = ledger["cash"] * position_size_pct
         shares = round(invest / price, 4)
 
     cost = shares * price
@@ -153,27 +183,44 @@ def update_price(ticker: str, current_price: float):
 def auto_trade_from_result(result: dict):
     """
     Given a researcher result dict, auto-trade if confidence exceeds threshold.
+    Respects settings.json: auto_trade_enabled, paper_trade_confidence_threshold, max_positions.
     Thresholds:
-      BUY / ACCUMULATE  → confidence >= 70, invest ~10% cash
+      BUY / ACCUMULATE  → confidence >= threshold, invest ~position_size_pct of cash
       SELL              → close position immediately if open
       HOLD / WATCH      → no action
     """
+    settings = _load_settings()
+    if not settings.get("auto_trade_enabled", False):
+        return {"status": "skipped", "reason": "auto_trade_enabled=false in settings.json"}
+
     rec = result.get("recommendation", "WATCH")
     conf = result.get("confidence", 0)
     ticker = result.get("key_metrics", {}).get("ticker") or _extract_ticker(result["subject"])
     price = result.get("key_metrics", {}).get("current_price") or result.get("paper_trade_price", 0)
+    if price is None:
+        price = 0
     task_id = result.get("task_id", "")
     summary = result.get("summary", "")
+
+    threshold = settings.get("paper_trade_confidence_threshold", 70)
+    max_positions = settings.get("max_positions", 10)
+    position_size_pct = settings.get("position_size_pct", 0.10)
 
     if not ticker or not price:
         return {"status": "skipped", "reason": "missing ticker or price"}
 
-    if rec in ("BUY", "ACCUMULATE") and conf >= 70:
+    # Check max positions for buys
+    if rec in ("BUY", "ACCUMULATE"):
+        ledger = _load_ledger()
+        if len(ledger.get("positions", {})) >= max_positions:
+            return {"status": "skipped", "reason": f"max_positions={max_positions} reached"}
+
+    if rec in ("BUY", "ACCUMULATE") and conf >= threshold:
         return buy(ticker, price, conf, summary, task_id=task_id)
     elif rec == "SELL":
         return sell(ticker, price, summary, task_id=task_id)
     else:
-        return {"status": "skipped", "reason": f"recommendation={rec} confidence={conf}"}
+        return {"status": "skipped", "reason": f"recommendation={rec} confidence={conf} threshold={threshold}"}
 
 
 def _extract_ticker(subject: str) -> str:
