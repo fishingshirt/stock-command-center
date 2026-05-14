@@ -32,17 +32,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260514-083
-**Subject:** Auto: S&P 500 top movers sentiment scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-14
-**Started At:** 2026-05-14T02:45:20.339332+00:00
-**Details:**
-- Identify top 5 daily movers
-- Fundamentals check
-- News sentiment
-- Investment recommendation
+_(No tasks in this section.)_
 
 ## Done
 
@@ -6372,3 +6362,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Target: improve to >= 45.0%
 - Suggestion: adjust entry/exit thresholds or combine with another strategy
 - Created via feedback_loop auto-improve
+
+### Task ID: 20260514-083
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-14
+**Started At:** 2026-05-14T02:45:20.339332+00:00
+**Completed At:** 2026-05-14T02:45:21.588443+00:00
+**Result:** dashboard/data/output/20260514-083.json
+**Summary:** SELL (61%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+- Identify top 5 daily movers
+- Fundamentals check
+- News sentiment
+- Investment recommendation
