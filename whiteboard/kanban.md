@@ -10,18 +10,7 @@ _(No tasks in this section.)_
 
 ## In Progress
 
-### Task ID: 20260514-008
-**Subject:** Auto: Tune GROWTH strategy parameters
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-14
-**Started At:** 2026-05-14T00:01:31.837592+00:00
-**Details:**
-- Strategy: GROWTH
-- Win rate: 0.0% over 109 trades
-- Target: improve to >= 45.0%
-- Suggestion: adjust entry/exit thresholds or combine with another strategy
-- Created via feedback_loop auto-improve
+_(No tasks in this section.)_
 
 ## Done
 
@@ -5158,6 +5147,25 @@ _(No tasks in this section.)_
 **Details:**
 - Strategy: MOMENTUM
 - Win rate: 0.0% over 25 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+### Task ID: 20260514-008
+**Subject:** Auto: Tune GROWTH strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-14
+**Started At:** 2026-05-14T00:01:31.837592+00:00
+**Completed At:** 2026-05-14T00:01:33.017923+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: GROWTH
+- Win rate: 0.0% over 109 trades
+- Target: improve to >= 45.0%
+- Suggestion: adju
+**Details:**
+- Strategy: GROWTH
+- Win rate: 0.0% over 109 trades
 - Target: improve to >= 45.0%
 - Suggestion: adjust entry/exit thresholds or combine with another strategy
 - Created via feedback_loop auto-improve
