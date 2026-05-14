@@ -6,18 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260514-103
-**Subject:** Auto: Tune VALUE strategy parameters
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-14
-**Details:**
-- Strategy: VALUE
-- Win rate: 0.0% over 27 trades
-- Target: improve to >= 45.0%
-- Suggestion: adjust entry/exit thresholds or combine with another strategy
-- Created via feedback_loop auto-improve
-
 ### Task ID: 20260514-104
 **Subject:** Auto: Tune MOMENTUM strategy parameters
 **Assigned Bot:** self_build
@@ -42,9 +30,31 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Suggestion: adjust entry/exit thresholds or combine with another strategy
 - Created via feedback_loop auto-improve
 
+### Task ID: 20260514-106
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-14
+**Details:**
+- Identify top 5 daily movers
+- Fundamentals check
+- News sentiment
+- Investment recommendation
+
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260514-103
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-14
+**Started At:** 2026-05-14T03:30:16.305463+00:00
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 27 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
 
 ## Done
 
