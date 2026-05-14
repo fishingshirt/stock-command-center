@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-14T01:15:46.523144+00:00",
+  "generated_at": "2026-05-14T01:30:06.492899+00:00",
   "overall": {
     "closed_trades": 11,
-    "open_positions": 2,
-    "cash": 195460.30375999998
+    "open_positions": 3,
+    "cash": 175914.282246
   },
   "bot_leaderboard": [
     {
@@ -65,7 +65,7 @@
       "losses": 0
     },
     "MOMENTUM": {
-      "trades": 25,
+      "trades": 26,
       "win_rate": 0.0,
       "avg_return_pct": 0.0,
       "wins": 0,
