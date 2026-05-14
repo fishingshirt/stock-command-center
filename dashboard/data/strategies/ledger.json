@@ -2267,8 +2267,36 @@
       "exit_price": null,
       "return_pct": null,
       "model_target": 300.13
+    },
+    {
+      "ticker": "BTC",
+      "strategy": "GROWTH",
+      "recommendation": "ACCUMULATE",
+      "confidence": 60,
+      "entry_price": 79280,
+      "timestamp": "2026-05-14T00:01:23.756983+00:00",
+      "margin_of_safety": 0,
+      "earnings_catalyst": 65,
+      "open": true,
+      "exit_price": null,
+      "return_pct": null,
+      "model_target": 169.93
+    },
+    {
+      "ticker": "",
+      "strategy": "GROWTH",
+      "recommendation": "SELL",
+      "confidence": 52,
+      "entry_price": 401.95,
+      "timestamp": "2026-05-14T00:01:26.270274+00:00",
+      "margin_of_safety": 0,
+      "earnings_catalyst": 40,
+      "open": true,
+      "exit_price": null,
+      "return_pct": null,
+      "model_target": 233.78
     }
   ],
-  "updated_at": "2026-05-13T23:46:05.320665+00:00",
+  "updated_at": "2026-05-14T00:01:26.270607+00:00",
   "strategy_stats": {}
 }
