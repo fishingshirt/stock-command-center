@@ -55,16 +55,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260514-004
-**Subject:** Auto: Top crypto momentum scan (BTC, ETH, SOL)
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-14
-**Started At:** 2026-05-14T00:01:22.095779+00:00
-**Details:**
-- Pull Coingecko data
-- Volume and price change analysis
-- Momentum score and recommendation
+_(No tasks in this section.)_
 
 ## Done
 
@@ -5143,3 +5134,17 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Target: improve to >= 45.0%
 - Suggestion: adjust entry/exit thresholds or combine with another strategy
 - Created via feedback_loop auto-improve
+
+### Task ID: 20260514-004
+**Subject:** Auto: Top crypto momentum scan (BTC, ETH, SOL)
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-14
+**Started At:** 2026-05-14T00:01:22.095779+00:00
+**Completed At:** 2026-05-14T00:01:23.554725+00:00
+**Result:** dashboard/data/output/20260514-004.json
+**Summary:** ACCUMULATE (60%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+- Pull Coingecko data
+- Volume and price change analysis
+- Momentum score and recommendation
