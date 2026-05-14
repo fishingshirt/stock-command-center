@@ -6,7 +6,28 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-_(No tasks in this section.)_
+### Task ID: 20260514-012
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-14
+**Details:**
+- Identify top 5 daily movers
+- Fundamentals check
+- News sentiment
+- Investment recommendation
+
+### Task ID: 20260514-013
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-14
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 26 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
 
 ## In Progress
 
@@ -5208,9 +5229,6 @@ _(No tasks in this section.)_
 **Completed At:** 2026-05-14T00:15:11.158416+00:00
 **Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
 **Summary:** No actionable build steps for: - Strategy: GROWTH
-- Win rate: 0.0% over 111 trades
-- Target: improve to >= 45.0%
-- Suggestion: adju
 **Details:**
 - Strategy: GROWTH
 - Win rate: 0.0% over 111 trades
