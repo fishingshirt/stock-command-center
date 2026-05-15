@@ -11,6 +11,7 @@ import Portfolio from './pages/Portfolio'
 import WarRoom from './pages/WarRoom'
 import Holdings from './pages/Holdings'
 import OrgChart from './pages/OrgChart'
+import Agents from './pages/Agents'
 import './css/index.css'
 
 function App() {
@@ -25,8 +26,8 @@ function App() {
           <div className="flex gap-6 text-sm">
             <Link to="/" className="hover:text-violet-400 transition">Home</Link>
             <Link to="/war-room" className="hover:text-violet-400 transition">War Room</Link>
+            <Link to="/agents" className="hover:text-violet-400 transition">Agents</Link>
             <Link to="/holdings" className="hover:text-violet-400 transition">Holdings</Link>
-            <Link to="/org-chart" className="hover:text-violet-400 transition">Team</Link>
             <Link to="/portfolio" className="hover:text-violet-400 transition">Portfolio</Link>
             <Link to="/advisor" className="hover:text-violet-400 transition">Advisor</Link>
             <Link to="/council" className="hover:text-violet-400 transition">Council</Link>
@@ -39,8 +40,8 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/war-room" element={<WarRoom />} />
+            <Route path="/agents" element={<Agents />} />
             <Route path="/holdings" element={<Holdings />} />
-            <Route path="/org-chart" element={<OrgChart />} />
             <Route path="/portfolio" element={<Portfolio />} />
             <Route path="/advisor" element={<Advisor />} />
             <Route path="/council" element={<Council />} />
