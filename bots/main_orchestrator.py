@@ -168,9 +168,52 @@ def _run_council(ticker: str, result_data: dict, earn_path: Path, model_path: Pa
 # ── Auto-task generation ────────────────────────────────────────────
 
 def _generate_new_tasks(board: dict):
-    """Disabled during review/fix phase. Only build tasks should be on the board."""
-    logger.info("Auto-generation disabled. Add build/fix tasks to whiteboard manually.")
-    return
+    """Generate research tasks when board is empty. Rotates through stock/crypto watchlist."""
+    logger.info("Generating new research tasks.")
+    
+    # Watchlist: major stocks and crypto
+    watchlist = [
+        ("NVDA earnings momentum", "researcher_bot"),
+        ("AAPL valuation scan", "researcher_bot"),
+        ("TSLA sentiment check", "researcher_bot"),
+        ("MSFT growth outlook", "researcher_bot"),
+        ("AMZN technical levels", "researcher_bot"),
+        ("BTC top crypto momentum scan", "researcher_bot"),
+        ("ETH Ethereum ecosystem health", "researcher_bot"),
+        ("SOL Solana breakout potential", "researcher_bot"),
+        ("AMD semiconductor sector check", "researcher_bot"),
+        ("SPY macro market overview", "researcher_bot"),
+        ("JPM banking sector risk", "researcher_bot"),
+        ("XOM energy sector rotation", "researcher_bot"),
+        ("META advertising recovery", "researcher_bot"),
+        ("GOOGL AI competition analysis", "researcher_bot"),
+        ("DIS Disney streaming profit", "researcher_bot"),
+    ]
+    
+    # Pick 3 that aren't already done
+    done_subjects = set()
+    for section in ["Done"]:
+        for t in board.get(section, []):
+            done_subjects.add(t.get("subject", ""))
+    
+    available = [w for w in watchlist if w[0] not in done_subjects]
+    if not available:
+        available = watchlist  # all done, cycle again
+    
+    selected = available[:3]
+    for subject, bot in selected:
+        try:
+            add_task(
+                path=str(BOARD_PATH),
+                subject=subject,
+                details=f"Auto-generated research task. Bot: {bot}.",
+                priority="medium",
+                bot=bot,
+                git_commit=True,
+            )
+            logger.info(f"Auto-added task: {subject}")
+        except Exception as e:
+            logger.warning(f"Failed to add task: {e}")
 
 
 # ── Main cycle ───────────────────────────────────────────────────────
