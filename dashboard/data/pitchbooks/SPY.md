@@ -1,35 +1,35 @@
 # Investment Memo: SPY
 
-**Recommendation:** ACCUMULATE  
-**Confidence:** 65%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T09:30:27.889220+00:00  
+**Recommendation:** SELL  
+**Confidence:** 75%  
+**Strategy:** MOMENTUM  
+**Generated:** 2026-05-15T09:40:24.887594+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $748.17.
+SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Price: $748.17.
 
-**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$184.64**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$119.17**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **+21.4%**
-- Next earnings date: **2026-05-23**
+- Earnings momentum score: **65/100** (Strong earnings momentum)
+- Recent EPS surprise: **+10.6%**
+- Next earnings date: **2026-05-21**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $324.1 |
-| DCF Intrinsic Value | $121.94 |
-| Comparable Implied | $247.34 |
-| Blended Target | $184.64 |
+| Current Price | $477.26 |
+| DCF Intrinsic Value | $88.94 |
+| Comparable Implied | $149.4 |
+| Blended Target | $119.17 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -37,18 +37,18 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Pric
 - **Ticker:** SPY
 - **Current Price:** 748.17
 - **Previous Close:** 742.31
-- **Pe Ratio:** None
+- **Pe Ratio:** 28.10644
 - **Market Cap:** None
 - **52 Week High:** 749.53
 - **52 Week Low:** 575.6
-- **Avg Volume:** None
+- **Avg Volume:** 74117604
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (7.6/10)
-- ⚠️ 3 active controversies
+- ⚠️ Elevated sanctions exposure (7.2/10)
+- ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
@@ -56,18 +56,18 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Pric
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** HIGH
-- **Compliance Score:** 32.0/100
-- **Sanctions Risk:** 7.6/10
-- **ESG Score:** 80.3/100
-- **Controversies:** 3
+- **Compliance Score:** 44.2/100
+- **Sanctions Risk:** 7.2/10
+- **ESG Score:** 60.7/100
+- **Controversies:** 2
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** MOMENTUM
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
