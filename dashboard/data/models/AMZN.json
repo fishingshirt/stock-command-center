@@ -1,0 +1,42 @@
+{
+  "ticker": "AMZN",
+  "timestamp": "2026-05-15T07:15:42.924706+00:00",
+  "current_price": 181.03,
+  "dcf_target": 78.12,
+  "comparable_target": 115.2,
+  "blended_target": 96.66,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 12.83,
+    "projected_fcf_5yr": [
+      13.86,
+      14.98,
+      16.18,
+      17.48,
+      18.89
+    ],
+    "growth_rate_assumed": 0.08,
+    "wacc": 0.107,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 253.89,
+    "enterprise_value_billions": 212.72,
+    "net_cash_billions": 0.95,
+    "equity_value_billions": 213.67,
+    "intrinsic_per_share": 78.12,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 181.03,
+    "trailing_pe": 44.25,
+    "forward_pe": 41.69,
+    "ev_ebitda": 23.44,
+    "price_to_sales": 2.89,
+    "price_to_book": 9.16,
+    "eps": 4.09,
+    "peer_median_pe": 28.16,
+    "implied_price_pe": 115.2,
+    "upside_pct": -36.36,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

@@ -1,0 +1,55 @@
+{
+  "task_id": "20260515-123",
+  "subject": "AMZN technical levels",
+  "timestamp": "2026-05-15T07:15:40.989912+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 65,
+  "summary": "AMZN \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $267.22.",
+  "key_metrics": {
+    "ticker": "AMZN",
+    "current_price": 267.22,
+    "previous_close": 270.13,
+    "pe_ratio": null,
+    "market_cap": null,
+    "52_week_high": 278.56,
+    "52_week_low": 196.0,
+    "avg_volume": null,
+    "_source": "yahoo_chart_api",
+    "sentiment_score": 100.0,
+    "sentiment_label": "BULLISH"
+  },
+  "news": [
+    {
+      "title": "The \"Magnificent Seven\" Has Gained $4.8 Trillion Since the Start of April. Here's Why That's a Risk to the S&P 500 and Nasdaq-100.",
+      "published": "Fri, 15 May 2026 05:15:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/15/magnificent-seven-growth-stocks-all-time-high/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Vuzix Q1 Earnings Call Highlights",
+      "published": "Fri, 15 May 2026 05:07:01 +0000",
+      "url": "https://www.marketbeat.com/instant-alerts/vuzix-q1-earnings-call-highlights-2026-05-15/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "FitLife Brands Inc (FTLF) Q1 2026 Earnings Call Highlights: Revenue Surge Amidst Acquisition Gains",
+      "published": "Fri, 15 May 2026 05:01:23 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fitlife-brands-inc-ftlf-q1-050123165.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish_mentions": 3,
+    "bearish_mentions": 0,
+    "total_mentions": 3
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/AMZN"
+  ],
+  "full_text": "## AMZN Research Result\n\n### Recommendation: ACCUMULATE (65% confidence)\n\n### Sentiment: BULLISH (100.0)\n\n### Key Metrics\n- **ticker:** AMZN\n- **current_price:** 267.22\n- **previous_close:** 270.13\n- **pe_ratio:** None\n- **market_cap:** None\n- **52_week_high:** 278.56\n- **52_week_low:** 196.0\n- **avg_volume:** None\n- **_source:** yahoo_chart_api\n- **sentiment_score:** 100.0\n- **sentiment_label:** BULLISH\n\n### Latest News\n- [The \"Magnificent Seven\" Has Gained $4.8 Trillion Since the Start of April. Here's Why That's a Risk to the S&P 500 and Nasdaq-100.](https://www.fool.com/investing/2026/05/15/magnificent-seven-growth-stocks-all-time-high/?.tsrc=rss)\n- [Vuzix Q1 Earnings Call Highlights](https://www.marketbeat.com/instant-alerts/vuzix-q1-earnings-call-highlights-2026-05-15/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss)\n- [FitLife Brands Inc (FTLF) Q1 2026 Earnings Call Highlights: Revenue Surge Amidst Acquisition Gains](https://finance.yahoo.com/markets/stocks/articles/fitlife-brands-inc-ftlf-q1-050123165.html?.tsrc=rss)",
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 267.22,
+  "asset_type": "stock"
+}

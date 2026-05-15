@@ -1,10 +1,10 @@
 {
-  "ticker": "BTC",
+  "ticker": "MSFT",
   "date": "20260515",
-  "timestamp": "2026-05-15T07:15:48.062504+00:00",
+  "timestamp": "2026-05-15T07:15:35.080189+00:00",
   "consensus": {
     "recommendation": "HOLD",
-    "confidence": 100.0,
+    "confidence": 83.3,
     "verdict": "STRONG CONSENSUS",
     "position_size_boost_pct": 0.25
   },
@@ -39,8 +39,8 @@
     },
     {
       "bot": "advisor_reasoning",
-      "recommendation": "HOLD",
-      "confidence": 50,
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
       "weight": 0.5,
       "weight_reason": "advisor_reasoning accuracy=50.0%"
     },
@@ -53,7 +53,8 @@
     }
   ],
   "breakdown": {
-    "HOLD": 100.0
+    "HOLD": 83.3,
+    "ACCUMULATE": 16.7
   },
   "memo_path": null
 }

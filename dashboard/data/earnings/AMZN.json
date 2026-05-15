@@ -1,0 +1,36 @@
+{
+  "next_earnings_date": "2026-05-20",
+  "earnings_history": [
+    {
+      "date": "2026-02-28",
+      "eps_estimate": 4.87,
+      "reported_eps": 5.07,
+      "surprise_pct": -3.9
+    },
+    {
+      "date": "2025-11-30",
+      "eps_estimate": 4.57,
+      "reported_eps": 4.77,
+      "surprise_pct": -2.7
+    },
+    {
+      "date": "2025-08-30",
+      "eps_estimate": 4.27,
+      "reported_eps": 4.47,
+      "surprise_pct": 3.7
+    }
+  ],
+  "eps_ttm": 20.28,
+  "eps_forward": 26.36,
+  "revenue_growth": 0.327,
+  "earnings_growth": 0.452,
+  "pe_trailing": 27.49,
+  "pe_forward": 17.01,
+  "peg_ratio": 1.07,
+  "ticker": "AMZN",
+  "analyzed_at": "2026-05-15T07:15:42.823661+00:00",
+  "source": "mock_fallback",
+  "surprise_avg_pct": -0.97,
+  "earnings_catalyst_score": 50,
+  "verdict": "Mixed earnings signals"
+}

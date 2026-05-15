@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T07:15:05.631593+00:00",
+  "generated_at": "2026-05-15T07:15:27.252669+00:00",
   "overall": {
     "closed_trades": 0,
     "open_positions": 0,
@@ -10,7 +10,7 @@
       "name": "researcher_bot",
       "expertise": "multi-domain_research",
       "accuracy": 50.0,
-      "predictions": 5,
+      "predictions": 8,
       "correct": 0
     },
     {
@@ -72,7 +72,7 @@
       "losses": 0
     },
     "GROWTH": {
-      "trades": 125,
+      "trades": 128,
       "win_rate": 0.0,
       "avg_return_pct": 0.0,
       "wins": 0,

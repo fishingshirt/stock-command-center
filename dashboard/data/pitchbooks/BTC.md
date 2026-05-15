@@ -1,66 +1,66 @@
 # Investment Memo: BTC
 
 **Recommendation:** HOLD  
-**Confidence:** 65%  
+**Confidence:** 50%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T06:36:35.177528+00:00  
+**Generated:** 2026-05-15T07:15:47.985358+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-BTC analyzed via crypto data. Recommendation: HOLD.
+BTC — BEARISH sentiment, HOLD (50% confidence). PE: N/A, RSI: N/A, Price: $80699.
 
-**Key Takeaway:** BTC is rated **HOLD** with 65% confidence. Valuation model suggests a blended target of **$250.31**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** BTC is rated **HOLD** with 50% confidence. Valuation model suggests a blended target of **$59.53**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **55/100** (Mixed earnings signals)
-- Recent EPS surprise: **+7.4%**
-- Next earnings date: **2026-06-27**
+- Earnings momentum score: **10/100** (Earnings weakness detected)
+- Recent EPS surprise: **-10.0%**
+- Next earnings date: **2026-06-07**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $454.12 |
-| DCF Intrinsic Value | $163.96 |
-| Comparable Implied | $336.67 |
-| Blended Target | $250.31 |
+| Current Price | $117.37 |
+| DCF Intrinsic Value | $42.47 |
+| Comparable Implied | $76.59 |
+| Blended Target | $59.53 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
-- **Current Price:** 80512
-- **Market Cap:** 1612702976308
-- **Total Volume:** 44431069759
-- **Price Change 24H:** 716.15
-- **Price Change Percentage 24H:** 0.89748
+- **Current Price:** 80699
+- **Market Cap:** 1614626320480
+- **Total Volume:** 45232036423
+- **Price Change 24H:** 990.13
+- **Price Change Percentage 24H:** 1.24218
 - **Ath:** 126080
-- **Ath Change Percentage:** -36.14241
+- **Ath Change Percentage:** -35.99378
 - **Ticker:** BTC
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (9.7/10)
-- ⚠️ Poor ESG score (40.5)
-- ⚠️ 2 active controversies
+- ⚠️ Elevated sanctions exposure (8.7/10)
+- ⚠️ Poor ESG score (48.6)
 - ⚠️ Low margin of safety — limited downside protection
+- ⚠️ Low confidence score (50%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 31.4/100
-- **Sanctions Risk:** 9.7/10
-- **ESG Score:** 40.5/100
-- **Controversies:** 2
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 56.5/100
+- **Sanctions Risk:** 8.7/10
+- **ESG Score:** 48.6/100
+- **Controversies:** 0
 
 ---
 

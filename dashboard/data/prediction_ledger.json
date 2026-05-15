@@ -87,6 +87,39 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "MSFT",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 409.43,
+      "timestamp": "2026-05-15T07:15:32.865789+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "AMZN",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 267.22,
+      "timestamp": "2026-05-15T07:15:41.067695+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "BTC",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "price_at_predict": 80699,
+      "timestamp": "2026-05-15T07:15:46.415626+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

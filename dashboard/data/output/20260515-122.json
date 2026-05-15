@@ -1,0 +1,55 @@
+{
+  "task_id": "20260515-122",
+  "subject": "MSFT growth outlook",
+  "timestamp": "2026-05-15T07:15:32.788475+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 65,
+  "summary": "MSFT \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $409.43.",
+  "key_metrics": {
+    "ticker": "MSFT",
+    "current_price": 409.43,
+    "previous_close": 405.21,
+    "pe_ratio": null,
+    "market_cap": null,
+    "52_week_high": 555.45,
+    "52_week_low": 356.28,
+    "avg_volume": null,
+    "_source": "yahoo_chart_api",
+    "sentiment_score": 33.3,
+    "sentiment_label": "BULLISH"
+  },
+  "news": [
+    {
+      "title": "CMA launches probe into Microsoft business software ecosystem",
+      "published": "Fri, 15 May 2026 06:57:22 +0000",
+      "url": "https://www.verdict.co.uk/cma-launches-probe-into-microsoft-business-software-ecosystem/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The \"Magnificent Seven\" Has Gained $4.8 Trillion Since the Start of April. Here's Why That's a Risk to the S&P 500 and Nasdaq-100.",
+      "published": "Fri, 15 May 2026 05:15:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/15/magnificent-seven-growth-stocks-all-time-high/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Intrusion Inc (INTZ) Q1 2026 Earnings Call Highlights: Strategic Wins and Challenges Amidst ...",
+      "published": "Fri, 15 May 2026 05:01:33 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intrusion-inc-intz-q1-2026-050133949.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": 33.3,
+    "label": "BULLISH",
+    "bullish_mentions": 2,
+    "bearish_mentions": 1,
+    "total_mentions": 3
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/MSFT"
+  ],
+  "full_text": "## MSFT Research Result\n\n### Recommendation: ACCUMULATE (65% confidence)\n\n### Sentiment: BULLISH (33.3)\n\n### Key Metrics\n- **ticker:** MSFT\n- **current_price:** 409.43\n- **previous_close:** 405.21\n- **pe_ratio:** None\n- **market_cap:** None\n- **52_week_high:** 555.45\n- **52_week_low:** 356.28\n- **avg_volume:** None\n- **_source:** yahoo_chart_api\n- **sentiment_score:** 33.3\n- **sentiment_label:** BULLISH\n\n### Latest News\n- [CMA launches probe into Microsoft business software ecosystem](https://www.verdict.co.uk/cma-launches-probe-into-microsoft-business-software-ecosystem/?.tsrc=rss)\n- [The \"Magnificent Seven\" Has Gained $4.8 Trillion Since the Start of April. Here's Why That's a Risk to the S&P 500 and Nasdaq-100.](https://www.fool.com/investing/2026/05/15/magnificent-seven-growth-stocks-all-time-high/?.tsrc=rss)\n- [Intrusion Inc (INTZ) Q1 2026 Earnings Call Highlights: Strategic Wins and Challenges Amidst ...](https://finance.yahoo.com/markets/stocks/articles/intrusion-inc-intz-q1-2026-050133949.html?.tsrc=rss)",
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 409.43,
+  "asset_type": "stock"
+}
