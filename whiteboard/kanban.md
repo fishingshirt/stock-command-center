@@ -17,6 +17,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 - News sentiment
 - Investment recommendation
 
+### Task ID: 20260515-101
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 28 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
 ## In Progress
 
 _(No tasks in this section.)_
