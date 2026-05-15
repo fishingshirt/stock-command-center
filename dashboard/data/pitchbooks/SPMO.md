@@ -3,7 +3,7 @@
 **Recommendation:** SELL  
 **Confidence:** 75%  
 **Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T09:40:18.991640+00:00  
+**Generated:** 2026-05-15T09:41:29.837432+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPMO — BULLISH sentiment, SELL (75% confidence). PE: 35.193855, RSI: 78.45, Price: $147.52.
 
-**Key Takeaway:** SPMO is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$133.75**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$207.05**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+19.5%**
-- Next earnings date: **2026-06-11**
+- Earnings momentum score: **80/100** (Strong earnings momentum)
+- Recent EPS surprise: **+16.8%**
+- Next earnings date: **2026-06-02**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $370.11 |
-| DCF Intrinsic Value | $99.76 |
-| Comparable Implied | $167.75 |
-| Blended Target | $133.75 |
+| Current Price | $437.27 |
+| DCF Intrinsic Value | $123.01 |
+| Comparable Implied | $291.09 |
+| Blended Target | $207.05 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -55,9 +55,9 @@ SPMO — BULLISH sentiment, SELL (75% confidence). PE: 35.193855, RSI: 78.45, Pr
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** LOW
-- **Compliance Score:** 88.1/100
-- **Sanctions Risk:** 0.4/10
-- **ESG Score:** 54.5/100
+- **Compliance Score:** 86.9/100
+- **Sanctions Risk:** 0.6/10
+- **ESG Score:** 68.7/100
 - **Controversies:** 1
 
 ---

@@ -26,14 +26,14 @@ echo "[$(date -Iseconds)] Git pull..." >> "$LOG_FILE"
 git stash 2>&1 || true
 git pull origin main 2>&1 || true
 
-# 2. Run the orchestrator cycle
-echo "[$(date -Iseconds)] Running main_orchestrator.py..." >> "$LOG_FILE"
-if python3 bots/main_orchestrator.py >> "$LOG_FILE" 2>&1; then
-    echo "[$(date -Iseconds)] Orchestrator completed successfully" >> "$LOG_FILE"
+# 2. Run the Head Manager cycle (which includes orchestrator + agent ecosystem)
+echo "[$(date -Iseconds)] Running Head Manager (whiteboard/head_manager.py)..." >> "$LOG_FILE"
+if python3 whiteboard/head_manager.py >> "$LOG_FILE" 2>&1; then
+    echo "[$(date -Iseconds)] Head Manager completed successfully" >> "$LOG_FILE"
 else
-    echo "[$(date -Iseconds)] Orchestrator FAILED — retrying in 30s" >> "$LOG_FILE"
+    echo "[$(date -Iseconds)] Head Manager FAILED — retrying in 30s" >> "$LOG_FILE"
     sleep 30
-    if python3 bots/main_orchestrator.py >> "$LOG_FILE" 2>&1; then
+    if python3 whiteboard/head_manager.py >> "$LOG_FILE" 2>&1; then
         echo "[$(date -Iseconds)] Retry succeeded" >> "$LOG_FILE"
     else
         echo "[$(date -Iseconds)] Retry FAILED — backing off until next tick" >> "$LOG_FILE"

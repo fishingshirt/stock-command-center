@@ -9,6 +9,6 @@
   "sector_risk": "Within limits",
   "cash_available": 100000.0,
   "total_portfolio_value": 100000.0,
-  "strategy": "GROWTH",
-  "timestamp": "2026-05-15T09:40:19.049325+00:00"
+  "strategy": "MOMENTUM",
+  "timestamp": "2026-05-15T09:41:29.894686+00:00"
 }
