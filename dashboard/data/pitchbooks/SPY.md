@@ -3,41 +3,41 @@
 **Recommendation:** SELL  
 **Confidence:** 75%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T17:45:48.037470+00:00  
+**Generated:** 2026-05-15T18:00:32.796141+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.896631, RSI: 73.72, Price: $742.59.
+SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.919357, RSI: 74.51, Price: $743.19.
 
-**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$114.77**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$132.58**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **35/100** (Mixed earnings signals)
-- Recent EPS surprise: **+3.0%**
-- Next earnings date: **2026-05-21**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **-10.7%**
+- Next earnings date: **2026-06-13**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $184.01 |
-| DCF Intrinsic Value | $131.37 |
-| Comparable Implied | $98.17 |
-| Blended Target | $114.77 |
+| Current Price | $331.59 |
+| DCF Intrinsic Value | $70.66 |
+| Comparable Implied | $194.5 |
+| Blended Target | $132.58 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
-- **Current Price:** 742.59
+- **Current Price:** 743.19
 - **Previous Close:** 748.17
-- **Pe Ratio:** 27.896631
+- **Pe Ratio:** 27.919357
 - **Market Cap:** None
 - **52 Week High:** 749.53
 - **52 Week Low:** 575.6
@@ -47,7 +47,7 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.896631, RSI: 73.72, Pri
 
 ## 3. Risks
 
-- ⚠️ 1 active controversies
+- ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
@@ -55,10 +55,10 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.896631, RSI: 73.72, Pri
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 76.4/100
-- **Sanctions Risk:** 2.7/10
-- **ESG Score:** 77.1/100
-- **Controversies:** 1
+- **Compliance Score:** 60.8/100
+- **Sanctions Risk:** 1.8/10
+- **ESG Score:** 74.6/100
+- **Controversies:** 3
 
 ---
 
