@@ -2,47 +2,46 @@
 
 **Recommendation:** NO_DATA  
 **Confidence:** 0%  
-**Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T07:07:59.885149+00:00  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-15T07:15:12.267012+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Data unavailable for TSLA: Expecting value: line 1 column 1 (char 0). No recommendation can be made.
+Data unavailable for TSLA: No data source available. No recommendation can be made.
 
-**Key Takeaway:** TSLA is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$467.6**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** TSLA is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$123.32**, representing a **2.17% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+7.6%**
-- Next earnings date: **2026-06-17**
+- Earnings momentum score: **35/100** (Mixed earnings signals)
+- Recent EPS surprise: **-3.9%**
+- Next earnings date: **2026-06-20**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $557.56 |
-| DCF Intrinsic Value | $325.29 |
-| Comparable Implied | $609.9 |
-| Blended Target | $467.6 |
-| Margin of Safety | 0% |
+| Current Price | $120.65 |
+| DCF Intrinsic Value | $170.63 |
+| Comparable Implied | $76.01 |
+| Blended Target | $123.32 |
+| Margin of Safety | 2.17% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** TSLA
-- ** Error:** Expecting value: line 1 column 1 (char 0)
+- ** Error:** No data source available
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (9.1/10)
-- ⚠️ 3 active controversies
+- ⚠️ Elevated sanctions exposure (8.8/10)
 - ⚠️ Low margin of safety — limited downside protection
 - ⚠️ Low confidence score (0%) — uncertain conviction
 
@@ -50,19 +49,19 @@ Data unavailable for TSLA: Expecting value: line 1 column 1 (char 0). No recomme
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 24.5/100
-- **Sanctions Risk:** 9.1/10
-- **ESG Score:** 83.5/100
-- **Controversies:** 3
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 55.9/100
+- **Sanctions Risk:** 8.8/10
+- **ESG Score:** 53.2/100
+- **Controversies:** 0
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** MOMENTUM
+**Primary Strategy:** GROWTH
 
-This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 

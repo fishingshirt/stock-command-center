@@ -2,65 +2,67 @@
 
 **Recommendation:** NO_DATA  
 **Confidence:** 0%  
-**Strategy:** VALUE  
-**Generated:** 2026-05-15T07:07:52.927784+00:00  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-15T07:15:09.700094+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Data unavailable for AAPL: Expecting value: line 1 column 1 (char 0). No recommendation can be made.
+Data unavailable for AAPL: No data source available. No recommendation can be made.
 
-**Key Takeaway:** AAPL is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$136.93**, representing a **56.9% margin of safety** from current levels.
+**Key Takeaway:** AAPL is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$210.2**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **80/100** (Strong earnings momentum)
-- Recent EPS surprise: **+7.4%**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **-10.7%**
 - Next earnings date: **2026-06-13**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $59.02 |
-| DCF Intrinsic Value | $229.37 |
-| Comparable Implied | $44.48 |
-| Blended Target | $136.93 |
-| Margin of Safety | 56.9% |
-| Verdict | Undervalued |
+| Current Price | $380.86 |
+| DCF Intrinsic Value | $154.8 |
+| Comparable Implied | $265.6 |
+| Blended Target | $210.2 |
+| Margin of Safety | 0% |
+| Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** AAPL
-- ** Error:** Expecting value: line 1 column 1 (char 0)
+- ** Error:** No data source available
 
 ---
 
 ## 3. Risks
 
-- ⚠️ 1 active controversies
+- ⚠️ Elevated sanctions exposure (6.7/10)
+- ⚠️ 2 active controversies
+- ⚠️ Low margin of safety — limited downside protection
 - ⚠️ Low confidence score (0%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 85.3/100
-- **Sanctions Risk:** 0.9/10
-- **ESG Score:** 74.8/100
-- **Controversies:** 1
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 46.7/100
+- **Sanctions Risk:** 6.7/10
+- **ESG Score:** 61.7/100
+- **Controversies:** 2
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** VALUE
+**Primary Strategy:** GROWTH
 
-This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 

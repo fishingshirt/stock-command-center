@@ -4,11 +4,11 @@
   "target_dollars": 2000.0,
   "kelly_fraction": 0.25,
   "confidence_multiplier": 0.0,
-  "margin_of_safety_multiplier": 1.0,
+  "margin_of_safety_multiplier": 1.04,
   "diversification_limit": "20% max single position",
   "sector_risk": "Within limits",
   "cash_available": 100000.0,
   "total_portfolio_value": 100000.0,
   "strategy": "GROWTH",
-  "timestamp": "2026-05-15T07:07:59.935907+00:00"
+  "timestamp": "2026-05-15T07:15:12.342937+00:00"
 }

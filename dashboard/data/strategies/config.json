@@ -1,0 +1,8 @@
+{
+  "MOMENTUM": {"earnings_catalyst_min": 55, "confidence_min": 65, "description": "Earnings-driven momentum trades"},
+  "VALUE": {"margin_of_safety_min": 10, "confidence_min": 55, "description": "Margin-of-safety value plays"},
+  "GROWTH": {"earnings_catalyst_min": 30, "confidence_min": 55, "description": "Growth-oriented accumulation"},
+  "QUALITY": {"confidence_min": 70, "margin_of_safety_min": 8, "description": "High-confidence quality compounders"},
+  "INCOME": {"description": "Defensive income/hold positions"},
+  "updated_at": "2026-05-15T06:00:00+00:00"
+}

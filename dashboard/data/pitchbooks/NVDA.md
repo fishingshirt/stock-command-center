@@ -2,46 +2,46 @@
 
 **Recommendation:** NO_DATA  
 **Confidence:** 0%  
-**Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T07:07:46.057419+00:00  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-15T07:15:07.059377+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Data unavailable for NVDA: Expecting value: line 1 column 1 (char 0). No recommendation can be made.
+Data unavailable for NVDA: No data source available. No recommendation can be made.
 
-**Key Takeaway:** NVDA is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$205.06**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** NVDA is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$255.81**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+15.1%**
-- Next earnings date: **2026-06-22**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **+2.2%**
+- Next earnings date: **2026-06-08**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $232.27 |
-| DCF Intrinsic Value | $199.21 |
-| Comparable Implied | $210.9 |
-| Blended Target | $205.06 |
+| Current Price | $427.19 |
+| DCF Intrinsic Value | $96.45 |
+| Comparable Implied | $415.16 |
+| Blended Target | $255.81 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** NVDA
-- ** Error:** Expecting value: line 1 column 1 (char 0)
+- ** Error:** No data source available
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (6.8/10)
+- ⚠️ Elevated sanctions exposure (5.6/10)
 - ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 - ⚠️ Low confidence score (0%) — uncertain conviction
@@ -51,18 +51,18 @@ Data unavailable for NVDA: Expecting value: line 1 column 1 (char 0). No recomme
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** HIGH
-- **Compliance Score:** 36.2/100
-- **Sanctions Risk:** 6.8/10
-- **ESG Score:** 72.2/100
+- **Compliance Score:** 41.9/100
+- **Sanctions Risk:** 5.6/10
+- **ESG Score:** 74.5/100
 - **Controversies:** 3
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** MOMENTUM
+**Primary Strategy:** GROWTH
 
-This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 

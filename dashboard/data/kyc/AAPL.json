@@ -1,15 +1,16 @@
 {
   "ticker": "AAPL",
-  "timestamp": "2026-05-15T07:07:52.903193+00:00",
-  "compliance_score": 85.3,
-  "risk_level": "LOW",
-  "sanctions_risk": 0.9,
+  "timestamp": "2026-05-15T07:15:09.662740+00:00",
+  "compliance_score": 46.7,
+  "risk_level": "HIGH",
+  "sanctions_risk": 6.7,
   "pep_exposure": 0,
-  "esg_score": 74.8,
-  "controversy_count": 1,
+  "esg_score": 61.7,
+  "controversy_count": 2,
   "jurisdiction_risk": "low",
   "flags": [
-    "1 active controversies"
+    "Elevated sanctions exposure (6.7/10)",
+    "2 active controversies"
   ],
-  "pass": true
+  "pass": false
 }

@@ -2617,8 +2617,50 @@
       "exit_price": null,
       "return_pct": null,
       "model_target": 467.6
+    },
+    {
+      "ticker": "NVDA",
+      "strategy": "GROWTH",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "entry_price": 0,
+      "timestamp": "2026-05-15T07:15:07.179310+00:00",
+      "margin_of_safety": 0,
+      "earnings_catalyst": 50,
+      "open": true,
+      "exit_price": null,
+      "return_pct": null,
+      "model_target": 255.81
+    },
+    {
+      "ticker": "AAPL",
+      "strategy": "GROWTH",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "entry_price": 0,
+      "timestamp": "2026-05-15T07:15:09.819370+00:00",
+      "margin_of_safety": 0,
+      "earnings_catalyst": 50,
+      "open": true,
+      "exit_price": null,
+      "return_pct": null,
+      "model_target": 210.2
+    },
+    {
+      "ticker": "TSLA",
+      "strategy": "GROWTH",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "entry_price": 0,
+      "timestamp": "2026-05-15T07:15:12.386505+00:00",
+      "margin_of_safety": 2.17,
+      "earnings_catalyst": 35,
+      "open": true,
+      "exit_price": null,
+      "return_pct": null,
+      "model_target": 123.32
     }
   ],
-  "updated_at": "2026-05-15T07:07:59.965944+00:00",
+  "updated_at": "2026-05-15T07:15:12.386939+00:00",
   "strategy_stats": {}
 }

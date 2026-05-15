@@ -212,6 +212,51 @@ def sell(ticker: str, price: float, reasoning: str = "", task_id: str = ""):
         "task_id": task_id or pos.get("task_id", ""),
     })
     _save_ledger(ledger)
+    
+    # Also update strategy tracker for this trade
+    try:
+        from pathlib import Path as _Path
+        strat_file = _Path('/home/fishingshirt/stock-command-center/dashboard/data/strategies/ledger.json')
+        if strat_file.exists():
+            import json as _json
+            with open(strat_file, 'r') as f:
+                strat_data = _json.load(f)
+            matched = False
+            for t in strat_data.get('trades', []):
+                if (t.get('ticker') == ticker.upper() 
+                    and t.get('open', True) 
+                    and t.get('return_pct') is None):
+                    t['open'] = False
+                    t['exit_price'] = round(price, 4)
+                    t['return_pct'] = round(return_pct, 2)
+                    t['pnl'] = round(pnl, 2)
+                    t['closed_at'] = datetime.now(timezone.utc).isoformat()
+                    matched = True
+                    break
+            if matched:
+                strat_data['updated_at'] = datetime.now(timezone.utc).isoformat()
+                # Recalc stats
+                strategies = ["MOMENTUM", "VALUE", "GROWTH", "QUALITY", "INCOME"]
+                stats = {}
+                for s in strategies:
+                    st = [tr for tr in strat_data.get('trades', []) if tr.get('strategy') == s and tr.get('return_pct') is not None]
+                    if st:
+                        wins = sum(1 for tr in st if tr['return_pct'] > 0)
+                        total = len(st)
+                        avg_ret = sum(tr['return_pct'] for tr in st) / total
+                        stats[s] = {
+                            'trades': total,
+                            'win_rate': round(wins / total * 100, 1),
+                            'avg_return_pct': round(avg_ret, 2),
+                            'best_trade': round(max(tr['return_pct'] for tr in st), 2),
+                            'worst_trade': round(min(tr['return_pct'] for tr in st), 2),
+                        }
+                strat_data['strategy_stats'] = stats
+                with open(strat_file, 'w') as f:
+                    _json.dump(strat_data, f, indent=2)
+    except Exception:
+        pass
+    
     return {
         "status": "ok",
         "message": f"Sold {pos['shares']} {ticker} @ ${price}",
