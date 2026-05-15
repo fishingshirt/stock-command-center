@@ -42,6 +42,18 @@ Auto-generated research task. Bot: researcher_bot.
 - Suggestion: adjust entry/exit thresholds or combine with another strategy
 - Created via feedback_loop auto-improve
 
+### Task ID: 20260515-126
+**Subject:** Auto: Tune MOMENTUM strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Details:**
+- Strategy: MOMENTUM
+- Win rate: 0.0% over 30 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
 ## In Progress
 
 _(No tasks in this section.)_
