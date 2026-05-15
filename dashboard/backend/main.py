@@ -381,3 +381,27 @@ def bots_status():
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
+
+
+@app.get("/api/org-chart")
+def get_org_chart():
+    import json as _json
+    emp_file = REPO_ROOT / "dashboard" / "data" / "employees.json"
+    org = {"company_name": "SCC Corp", "employees": [], "next_emp_id": 1, "total_ever_hired": 0, "total_terminated": 0}
+    if emp_file.exists():
+        try:
+            with open(emp_file, "r", encoding="utf-8") as f:
+                org = _json.load(f)
+        except Exception:
+            pass
+    active = [e for e in org.get("employees", []) if e.get("status") == "active"]
+    levels = {}
+    for e in active:
+        levels.setdefault(e.get("level", "IC"), []).append(e)
+    return {
+        "company": org.get("company_name", "SCC Corp"),
+        "total_active": len(active),
+        "total_ever_hired": org.get("total_ever_hired", 0),
+        "total_terminated": org.get("total_terminated", 0),
+        "levels": levels,
+    }

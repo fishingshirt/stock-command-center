@@ -289,6 +289,20 @@ def run_cycle():
         except:
             pass
 
+    # Phase 5: Employee performance review
+    log("Running employee performance review...")
+    try:
+        emp_proc = subprocess.run(
+            [sys.executable, str(REPO / "bots" / "employee_manager.py"), "review"],
+            capture_output=True, text=True, timeout=60, cwd=str(REPO),
+        )
+        if emp_proc.returncode == 0:
+            log("Employee review OK")
+        else:
+            log(f"Employee review warning: {emp_proc.stderr[:200]}", "WARN")
+    except Exception as e:
+        log(f"Employee review error: {e}", "WARN")
+
     # Phase 6: Push everything
     duration = round(time.time() - start, 1)
     write_cycle_report(outcomes, duration)
