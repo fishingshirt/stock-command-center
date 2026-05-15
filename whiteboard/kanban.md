@@ -6,17 +6,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
+_(No tasks in this section.)_
+
+## In Progress
+
 ### Task ID: 20260515-164
 **Subject:** SPYG State Street S&P 500 Growth momentum
 **Assigned Bot:** researcher_bot
 **Priority:** medium
 **Created:** 2026-05-15
+**Started At:** 2026-05-15T08:30:13.323514+00:00
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
-
-## In Progress
-
-_(No tasks in this section.)_
 
 ## Done
 
