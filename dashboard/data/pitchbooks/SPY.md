@@ -3,16 +3,16 @@
 **Recommendation:** SELL  
 **Confidence:** 75%  
 **Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T15:00:50.812855+00:00  
+**Generated:** 2026-05-15T15:15:42.230507+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.843624, RSI: 71.96, Price: $741.17.
+SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.83333, RSI: 71.71, Price: $740.9.
 
-**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$86.64**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$378.08**, representing a **3.86% margin of safety** from current levels.
 
 ---
 
@@ -20,24 +20,24 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.843624, RSI: 71.96, Pri
 
 ### 2.1 Catalysts
 - Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+17.0%**
-- Next earnings date: **2026-06-09**
+- Recent EPS surprise: **+2.8%**
+- Next earnings date: **2026-06-16**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $160.55 |
-| DCF Intrinsic Value | $73.6 |
-| Comparable Implied | $99.68 |
-| Blended Target | $86.64 |
-| Margin of Safety | 0% |
+| Current Price | $363.5 |
+| DCF Intrinsic Value | $100.05 |
+| Comparable Implied | $656.12 |
+| Blended Target | $378.08 |
+| Margin of Safety | 3.86% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
-- **Current Price:** 741.17
+- **Current Price:** 740.9
 - **Previous Close:** 748.17
-- **Pe Ratio:** 27.843624
+- **Pe Ratio:** 27.83333
 - **Market Cap:** None
 - **52 Week High:** 749.53
 - **52 Week Low:** 575.6
@@ -47,8 +47,7 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.843624, RSI: 71.96, Pri
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (6.9/10)
-- ⚠️ Poor ESG score (42.0)
+- ⚠️ Elevated sanctions exposure (4.9/10)
 - ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
@@ -57,9 +56,9 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.843624, RSI: 71.96, Pri
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** HIGH
-- **Compliance Score:** 35.4/100
-- **Sanctions Risk:** 6.9/10
-- **ESG Score:** 42.0/100
+- **Compliance Score:** 45.6/100
+- **Sanctions Risk:** 4.9/10
+- **ESG Score:** 72.9/100
 - **Controversies:** 3
 
 ---
