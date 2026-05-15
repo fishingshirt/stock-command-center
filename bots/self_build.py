@@ -36,11 +36,59 @@ def run_build(task):
         result['status'] = 'ok' if not errors else 'error'
         result['message'] = 'All Python files compile OK' if not errors else '; '.join(errors)
         
+    elif 'strategy' in subj_lower and ('tune' in subj_lower or 'parameter' in subj_lower):
+        # Auto-tune strategy thresholds based on recent performance
+        strat_name = None
+        for s in ['MOMENTUM', 'VALUE', 'GROWTH', 'QUALITY', 'INCOME']:
+            if s in subject.upper():
+                strat_name = s
+                break
+        if strat_name:        
+            config_path = Path('/home/fishingshirt/stock-command-center/dashboard/data/strategies/config.json')
+            tracker_path = Path('/home/fishingshirt/stock-command-center/dashboard/data/strategies/ledger.json')
+            config = {}
+            if config_path.exists():
+                try:
+                    with open(config_path, 'r') as f:
+                        config = json.load(f)
+                except Exception:
+                    pass
+            tracker_data = {'trades': [], 'strategy_stats': {}}
+            if tracker_path.exists():
+                try:
+                    with open(tracker_path, 'r') as f:
+                        tracker_data = json.load(f)
+                except Exception:
+                    pass
+            stats = tracker_data.get('strategy_stats', {}).get(strat_name, {})
+            win_rate = stats.get('win_rate', 0)
+            trades = stats.get('trades', 0)
+            current_threshold = config.get(strat_name, {}).get('confidence_min', 55)
+            adjustment = "no change"
+            if trades >= 3 and win_rate < 45:
+                new_threshold = max(40, current_threshold - 5)
+                adjustment = f"lowered confidence_min {current_threshold} -> {new_threshold} (win rate {win_rate}%)"
+                config.setdefault(strat_name, {})['confidence_min'] = new_threshold
+            elif trades >= 3 and win_rate > 60:
+                new_threshold = min(85, current_threshold + 5)
+                adjustment = f"raised confidence_min {current_threshold} -> {new_threshold} (win rate {win_rate}%)"
+                config.setdefault(strat_name, {})['confidence_min'] = new_threshold
+            else:
+                adjustment = f"kept confidence_min {current_threshold} (win rate {win_rate}%, trades={trades})"
+            config_path.parent.mkdir(parents=True, exist_ok=True)
+            with open(config_path, 'w') as f:
+                json.dump(config, f, indent=2)
+            result['status'] = 'ok'
+            result['message'] = f"{strat_name} tuned: {adjustment}"
+        else:
+            result['status'] = 'ok'
+            result['message'] = f"No recognized strategy in: {subject}"
+            
     elif 'test' in subj_lower or 'verify' in subj_lower:
         checks = []
         hc = subprocess.run(['curl', '-sf', 'http://localhost:8000/health'], capture_output=True, text=True)
         checks.append(('backend health', hc.returncode == 0))
-        hf = subprocess.run(['curl', '-sf', 'http://localhost:8080/'], capture_output=True, text=True)
+        hf = subprocess.run(['curl', '-sf', 'http://localhost:8081/'], capture_output=True, text=True)
         checks.append(('frontend serving', hf.returncode == 0))
         checks.append(('whiteboard exists', Path('/home/fishingshirt/stock-command-center/whiteboard/kanban.md').exists()))
         
