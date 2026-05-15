@@ -1,7 +1,7 @@
 {
   "ticker": "MTUM",
   "date": "20260515",
-  "timestamp": "2026-05-15T17:01:34.971285+00:00",
+  "timestamp": "2026-05-15T17:15:24.724203+00:00",
   "consensus": {
     "recommendation": "HOLD",
     "confidence": 82.1,
@@ -14,7 +14,7 @@
       "recommendation": "HOLD",
       "confidence": 50,
       "weight": 0.3,
-      "weight_reason": "researcher_bot accuracy=11.6%"
+      "weight_reason": "researcher_bot accuracy=11.5%"
     },
     {
       "bot": "earnings_analyzer",

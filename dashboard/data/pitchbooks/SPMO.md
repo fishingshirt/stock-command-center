@@ -2,42 +2,42 @@
 
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
-**Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T17:01:21.905491+00:00  
+**Strategy:** VALUE  
+**Generated:** 2026-05-15T17:15:11.282700+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.361244, RSI: 69.21, Price: $144.03.
+SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.39467, RSI: 69.53, Price: $144.17.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$137.63**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$173.53**, representing a **33.2% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+12.1%**
-- Next earnings date: **2026-06-26**
+- Earnings momentum score: **80/100** (Strong earnings momentum)
+- Recent EPS surprise: **+15.0%**
+- Next earnings date: **2026-06-17**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $243.47 |
-| DCF Intrinsic Value | $114.11 |
-| Comparable Implied | $161.15 |
-| Blended Target | $137.63 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $115.92 |
+| DCF Intrinsic Value | $104.14 |
+| Comparable Implied | $242.92 |
+| Blended Target | $173.53 |
+| Margin of Safety | 33.2% |
+| Verdict | Undervalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPMO
-- **Current Price:** 144.03
+- **Current Price:** 144.17
 - **Previous Close:** 147.52
-- **Pe Ratio:** 34.361244
+- **Pe Ratio:** 34.39467
 - **Market Cap:** None
 - **52 Week High:** 147.87
 - **52 Week Low:** 101.8
@@ -47,27 +47,26 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.361244, RSI: 69.
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (8.4/10)
-- ⚠️ 2 active controversies
-- ⚠️ Low margin of safety — limited downside protection
+- ⚠️ 3 active controversies
+- ⚠️ Jurisdiction risk: medium
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 38.1/100
-- **Sanctions Risk:** 8.4/10
-- **ESG Score:** 66.4/100
-- **Controversies:** 2
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 62.6/100
+- **Sanctions Risk:** 1.5/10
+- **ESG Score:** 55.8/100
+- **Controversies:** 3
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** MOMENTUM
+**Primary Strategy:** VALUE
 
-This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
