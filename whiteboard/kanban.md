@@ -44,17 +44,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260515-083
-**Subject:** Auto: S&P 500 top movers sentiment scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T06:36:36.353537+00:00
-**Details:**
-- Identify top 5 daily movers
-- Fundamentals check
-- News sentiment
-- Investment recommendation
+_(No tasks in this section.)_
 
 ## Done
 
@@ -12044,3 +12034,18 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Pull Coingecko data
 - Volume and price change analysis
 - Momentum score and recommendation
+
+### Task ID: 20260515-083
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T06:36:36.353537+00:00
+**Completed At:** 2026-05-15T06:36:40.080582+00:00
+**Result:** dashboard/data/output/20260515-083.json
+**Summary:** ACCUMULATE (47%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+- Identify top 5 daily movers
+- Fundamentals check
+- News sentiment
+- Investment recommendation
