@@ -2,11 +2,11 @@
   "ticker": "SPMO",
   "recommendation": "ACCUMULATE",
   "confidence": 65,
-  "reasoning": "SPMO looks attractive on a scale-in basis.\n\n**Research Findings:**\n- SPMO \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.43043, RSI: 69.87, Price: $144.32.\n\n**Earnings Analysis:**\n- Strong earnings momentum \u2014 catalyst score 65/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $274.33\n\n**Confidence Drivers:**\n- Overall confidence: **65%**\n- P/E ratio of 34.43043 vs peers\n- RSI(14) at 69.87 \u2014 neutral\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **MOMENTUM** play: earnings acceleration driving the thesis.",
+  "reasoning": "SPMO looks attractive on a scale-in basis.\n\n**Research Findings:**\n- SPMO \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.35886, RSI: 69.19, Price: $144.02.\n\n**Earnings Analysis:**\n- Earnings weakness detected \u2014 catalyst score 20/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $180.43\n\n**Confidence Drivers:**\n- Overall confidence: **65%**\n- P/E ratio of 34.35886 vs peers\n- RSI(14) at 69.19 \u2014 neutral\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
   "pitchbook_path": "/home/fishingshirt/stock-command-center/dashboard/data/pitchbooks/SPMO.md",
-  "generated_at": "2026-05-15T16:45:26.952515+00:00",
+  "generated_at": "2026-05-15T16:53:06.401308+00:00",
   "confidence_factors": {
-    "earnings_score": 65,
+    "earnings_score": 20,
     "valuation_margin": 0,
     "research_confidence": 65
   }
