@@ -52,17 +52,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260515-148
-**Subject:** Research MTUM — iShares Momentum Factor ETF rotation
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T08:00:14.876668+00:00
-**Details:**
-- Factor performance vs growth/value
-- Top 10 holdings drift
-- Momentum signal strength
-- Compare to SPMO overlap
+_(No tasks in this section.)_
 
 ## Done
 
@@ -977,3 +967,18 @@ Auto-generated research task. Bot: researcher_bot.
 - Competitive moat vs MA, PYPL
 - Technical levels
 - Valuation: P/E, P/S
+
+### Task ID: 20260515-148
+**Subject:** Research MTUM — iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:14.876668+00:00
+**Completed At:** 2026-05-15T08:00:16.114583+00:00
+**Result:** dashboard/data/output/20260515-148.json
+**Summary:** NO_DATA (0%) — Strategy: VALUE. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+- Factor performance vs growth/value
+- Top 10 holdings drift
+- Momentum signal strength
+- Compare to SPMO overlap
