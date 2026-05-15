@@ -6,17 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260515-146
-**Subject:** Research SPMO — S&P 500 Momentum ETF trend and momentum score
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-15
-**Details:**
-- Analyze SPMO momentum factor exposure
-- Compare against SPY and MTUM
-- Technical: RSI, SMA, volume
-- Recommendation: BUY/ACCUMULATE/HOLD
-
 ### Task ID: 20260515-147
 **Subject:** Research V — Visa Inc. payment network fundamentals
 **Assigned Bot:** researcher_bot
@@ -85,7 +74,17 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260515-146
+**Subject:** Research SPMO — S&P 500 Momentum ETF trend and momentum score
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:10.026579+00:00
+**Details:**
+- Analyze SPMO momentum factor exposure
+- Compare against SPY and MTUM
+- Technical: RSI, SMA, volume
+- Recommendation: BUY/ACCUMULATE/HOLD
 
 ## Done
 
