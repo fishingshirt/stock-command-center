@@ -30,17 +30,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260515-150
-**Subject:** Research SPYG & SPYM — State Street growth + dividend combo
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T08:00:19.936824+00:00
-**Details:**
-- SPYG growth exposure vs SPYM dividend yield
-- Combined efficiency vs VOO alone
-- Sector concentration risk
-- Merge or hold both?
+_(No tasks in this section.)_
 
 ## Done
 
@@ -985,3 +975,18 @@ Auto-generated research task. Bot: researcher_bot.
 - Combined portfolio overlap
 - Expense ratio advantage
 - Rebalancing signal
+
+### Task ID: 20260515-150
+**Subject:** Research SPYG & SPYM — State Street growth + dividend combo
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:19.936824+00:00
+**Completed At:** 2026-05-15T08:00:21.157302+00:00
+**Result:** dashboard/data/output/20260515-150.json
+**Summary:** NO_DATA (0%) — Strategy: MOMENTUM. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+- SPYG growth exposure vs SPYM dividend yield
+- Combined efficiency vs VOO alone
+- Sector concentration risk
+- Merge or hold both?
