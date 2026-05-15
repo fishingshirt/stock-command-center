@@ -1,0 +1,17 @@
+{
+  "task_id": "20260515-112",
+  "subject": "TSLA sentiment check",
+  "timestamp": "2026-05-15T07:07:57.903471+00:00",
+  "recommendation": "NO_DATA",
+  "confidence": 0,
+  "summary": "Data unavailable for TSLA: Expecting value: line 1 column 1 (char 0). No recommendation can be made.",
+  "key_metrics": {
+    "ticker": "TSLA",
+    "_error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  "sources": [],
+  "full_text": "## TSLA Research \u2014 DATA UNAVAILABLE\n\nReason: Expecting value: line 1 column 1 (char 0)\n\nNo real-time data was retrieved. The system refuses to fabricate numbers.\n",
+  "paper_trade_signal": "NO_DATA",
+  "paper_trade_price": 0,
+  "asset_type": "stock"
+}

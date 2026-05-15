@@ -1,0 +1,60 @@
+{
+  "ticker": "AAPL",
+  "date": "20260515",
+  "timestamp": "2026-05-15T07:07:53.004779+00:00",
+  "consensus": {
+    "recommendation": "HOLD",
+    "confidence": 90.9,
+    "verdict": "STRONG CONSENSUS",
+    "position_size_boost_pct": 0.25
+  },
+  "votes": [
+    {
+      "bot": "researcher_bot",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "weight": 0.5,
+      "weight_reason": "researcher_bot accuracy=50.0%"
+    },
+    {
+      "bot": "earnings_analyzer",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "weight": 0.5,
+      "weight_reason": "earnings_analyzer accuracy=50.0%"
+    },
+    {
+      "bot": "financial_model",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "weight": 0.5,
+      "weight_reason": "financial_model accuracy=50.0%"
+    },
+    {
+      "bot": "kyc_screen",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "weight": 0.5,
+      "weight_reason": "kyc_screen accuracy=50.0%"
+    },
+    {
+      "bot": "advisor_reasoning",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "weight": 0.5,
+      "weight_reason": "advisor_reasoning accuracy=50.0%"
+    },
+    {
+      "bot": "portfolio_constructor",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "weight": 0.5,
+      "weight_reason": "portfolio_constructor accuracy=50.0%"
+    }
+  ],
+  "breakdown": {
+    "HOLD": 90.9,
+    "NO_DATA": 9.1
+  },
+  "memo_path": null
+}

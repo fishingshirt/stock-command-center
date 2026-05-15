@@ -1,0 +1,42 @@
+{
+  "ticker": "AAPL",
+  "timestamp": "2026-05-15T07:07:52.878248+00:00",
+  "current_price": 59.02,
+  "dcf_target": 229.37,
+  "comparable_target": 44.48,
+  "blended_target": 136.93,
+  "margin_of_safety_pct": 56.9,
+  "dcf_model": {
+    "current_fcf_billions": 11.99,
+    "projected_fcf_5yr": [
+      13.43,
+      15.03,
+      16.82,
+      18.83,
+      21.08
+    ],
+    "growth_rate_assumed": 0.119,
+    "wacc": 0.101,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 307.49,
+    "enterprise_value_billions": 253.51,
+    "net_cash_billions": -3.31,
+    "equity_value_billions": 250.19,
+    "intrinsic_per_share": 229.37,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 59.02,
+    "trailing_pe": 25.9,
+    "forward_pe": 19.25,
+    "ev_ebitda": 9.9,
+    "price_to_sales": 5.14,
+    "price_to_book": 2.5,
+    "eps": 2.28,
+    "peer_median_pe": 19.52,
+    "implied_price_pe": 44.48,
+    "upside_pct": -24.63,
+    "method": "peer_multiples"
+  },
+  "verdict": "Undervalued"
+}

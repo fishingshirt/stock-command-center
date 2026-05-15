@@ -1,18 +1,18 @@
-# Investment Memo: NVDA
+# Investment Memo: TSLA
 
 **Recommendation:** NO_DATA  
 **Confidence:** 0%  
 **Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T07:07:46.057419+00:00  
+**Generated:** 2026-05-15T07:07:59.885149+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Data unavailable for NVDA: Expecting value: line 1 column 1 (char 0). No recommendation can be made.
+Data unavailable for TSLA: Expecting value: line 1 column 1 (char 0). No recommendation can be made.
 
-**Key Takeaway:** NVDA is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$205.06**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** TSLA is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$467.6**, representing a **0% margin of safety** from current levels.
 
 ---
 
@@ -20,28 +20,28 @@ Data unavailable for NVDA: Expecting value: line 1 column 1 (char 0). No recomme
 
 ### 2.1 Catalysts
 - Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+15.1%**
-- Next earnings date: **2026-06-22**
+- Recent EPS surprise: **+7.6%**
+- Next earnings date: **2026-06-17**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $232.27 |
-| DCF Intrinsic Value | $199.21 |
-| Comparable Implied | $210.9 |
-| Blended Target | $205.06 |
+| Current Price | $557.56 |
+| DCF Intrinsic Value | $325.29 |
+| Comparable Implied | $609.9 |
+| Blended Target | $467.6 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
-- **Ticker:** NVDA
+- **Ticker:** TSLA
 - ** Error:** Expecting value: line 1 column 1 (char 0)
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (6.8/10)
+- ⚠️ Elevated sanctions exposure (9.1/10)
 - ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 - ⚠️ Low confidence score (0%) — uncertain conviction
@@ -51,9 +51,9 @@ Data unavailable for NVDA: Expecting value: line 1 column 1 (char 0). No recomme
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** HIGH
-- **Compliance Score:** 36.2/100
-- **Sanctions Risk:** 6.8/10
-- **ESG Score:** 72.2/100
+- **Compliance Score:** 24.5/100
+- **Sanctions Risk:** 9.1/10
+- **ESG Score:** 83.5/100
 - **Controversies:** 3
 
 ---

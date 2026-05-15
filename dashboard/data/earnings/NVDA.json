@@ -1,36 +1,36 @@
 {
-  "next_earnings_date": "2026-05-31",
+  "next_earnings_date": "2026-06-22",
   "earnings_history": [
     {
       "date": "2026-02-28",
-      "eps_estimate": 0.64,
-      "reported_eps": 0.84,
-      "surprise_pct": -14.2
+      "eps_estimate": 0.77,
+      "reported_eps": 0.97,
+      "surprise_pct": 15.1
     },
     {
       "date": "2025-11-30",
-      "eps_estimate": 0.34,
-      "reported_eps": 0.54,
-      "surprise_pct": -11.7
+      "eps_estimate": 0.47,
+      "reported_eps": 0.67,
+      "surprise_pct": 17.5
     },
     {
       "date": "2025-08-30",
-      "eps_estimate": 0.04,
-      "reported_eps": 0.24,
-      "surprise_pct": -15.8
+      "eps_estimate": 0.17,
+      "reported_eps": 0.37,
+      "surprise_pct": 13.9
     }
   ],
-  "eps_ttm": 3.36,
-  "eps_forward": 4.37,
-  "revenue_growth": 0.251,
-  "earnings_growth": 0.221,
-  "pe_trailing": 46.54,
-  "pe_forward": 38.05,
-  "peg_ratio": 2.19,
+  "eps_ttm": 3.88,
+  "eps_forward": 5.04,
+  "revenue_growth": 0.29,
+  "earnings_growth": 0.118,
+  "pe_trailing": 22.47,
+  "pe_forward": 33.89,
+  "peg_ratio": 2.31,
   "ticker": "NVDA",
-  "analyzed_at": "2026-05-13T00:42:52.867088+00:00",
+  "analyzed_at": "2026-05-15T07:07:45.907523+00:00",
   "source": "mock_fallback",
-  "surprise_avg_pct": -13.9,
-  "earnings_catalyst_score": 50,
-  "verdict": "Mixed earnings signals"
+  "surprise_avg_pct": 15.5,
+  "earnings_catalyst_score": 65,
+  "verdict": "Strong earnings momentum"
 }

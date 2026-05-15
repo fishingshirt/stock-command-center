@@ -1,0 +1,42 @@
+{
+  "ticker": "TSLA",
+  "timestamp": "2026-05-15T07:07:59.835546+00:00",
+  "current_price": 557.56,
+  "dcf_target": 325.29,
+  "comparable_target": 609.9,
+  "blended_target": 467.6,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 14.78,
+    "projected_fcf_5yr": [
+      17.45,
+      20.6,
+      24.32,
+      28.72,
+      33.9
+    ],
+    "growth_rate_assumed": 0.181,
+    "wacc": 0.087,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 616.22,
+    "enterprise_value_billions": 502.09,
+    "net_cash_billions": 17.14,
+    "equity_value_billions": 519.23,
+    "intrinsic_per_share": 325.29,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 557.56,
+    "trailing_pe": 27.06,
+    "forward_pe": 23.96,
+    "ev_ebitda": 12.01,
+    "price_to_sales": 9.38,
+    "price_to_book": 8.36,
+    "eps": 20.6,
+    "peer_median_pe": 29.6,
+    "implied_price_pe": 609.9,
+    "upside_pct": 9.39,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

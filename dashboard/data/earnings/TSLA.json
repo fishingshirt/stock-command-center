@@ -1,0 +1,36 @@
+{
+  "next_earnings_date": "2026-06-17",
+  "earnings_history": [
+    {
+      "date": "2026-02-28",
+      "eps_estimate": 3.24,
+      "reported_eps": 3.44,
+      "surprise_pct": 7.6
+    },
+    {
+      "date": "2025-11-30",
+      "eps_estimate": 2.94,
+      "reported_eps": 3.14,
+      "surprise_pct": 6.3
+    },
+    {
+      "date": "2025-08-30",
+      "eps_estimate": 2.64,
+      "reported_eps": 2.84,
+      "surprise_pct": 10.2
+    }
+  ],
+  "eps_ttm": 13.76,
+  "eps_forward": 17.89,
+  "revenue_growth": 0.263,
+  "earnings_growth": 0.099,
+  "pe_trailing": 19.37,
+  "pe_forward": 24.97,
+  "peg_ratio": 1.15,
+  "ticker": "TSLA",
+  "analyzed_at": "2026-05-15T07:07:59.729146+00:00",
+  "source": "mock_fallback",
+  "surprise_avg_pct": 8.03,
+  "earnings_catalyst_score": 65,
+  "verdict": "Strong earnings momentum"
+}
