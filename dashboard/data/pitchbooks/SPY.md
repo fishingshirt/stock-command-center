@@ -1,79 +1,70 @@
 # Investment Memo: SPY
 
-**Recommendation:** ACCUMULATE  
-**Confidence:** 47%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T06:36:41.674874+00:00  
+**Recommendation:** NO_DATA  
+**Confidence:** 0%  
+**Strategy:** VALUE  
+**Generated:** 2026-05-15T07:00:08.134909+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Elevated PE but strong revenue trajectory suggests SPY can grow into valuation.
+Data unavailable for SPY: No data source available. No recommendation can be made.
 
-**Key Takeaway:** SPY is rated **ACCUMULATE** with 47% confidence. Valuation model suggests a blended target of **$198.74**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$200.17**, representing a **48.66% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **+14.9%**
-- Next earnings date: **2026-05-21**
+- Earnings momentum score: **35/100** (Mixed earnings signals)
+- Recent EPS surprise: **-1.3%**
+- Next earnings date: **2026-05-26**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $262.93 |
-| DCF Intrinsic Value | $61.68 |
-| Comparable Implied | $335.79 |
-| Blended Target | $198.74 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $102.76 |
+| DCF Intrinsic Value | $249.21 |
+| Comparable Implied | $151.12 |
+| Blended Target | $200.17 |
+| Margin of Safety | 48.66% |
+| Verdict | Undervalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
-- **Current Price:** 549.35
-- **Pe Ratio:** 60.23
-- **Forward Pe:** 30.6
-- **Rsi 14:** 27
-- **Market Cap:** 1622589440860.0
-- **52 Week High:** 855.35
-- **52 Week Low:** 230.85
+- ** Error:** No data source available
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (6.6/10)
-- ⚠️ Low margin of safety — limited downside protection
-- ⚠️ Low confidence score (47%) — uncertain conviction
+- ⚠️ Poor ESG score (42.4)
+- ⚠️ Low confidence score (0%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 67.1/100
-- **Sanctions Risk:** 6.6/10
-- **ESG Score:** 60.1/100
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 94.0/100
+- **Sanctions Risk:** 1.2/10
+- **ESG Score:** 42.4/100
 - **Controversies:** 0
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** VALUE
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
 ## 6. Sources & References
-- https://finance.yahoo.com/quote/SPY
-- https://seekingalpha.com/symbol/SPY
 
 ---
 

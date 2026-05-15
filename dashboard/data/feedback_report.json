@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-15T06:45:44.346439+00:00",
+  "generated_at": "2026-05-15T07:00:06.599814+00:00",
   "overall": {
-    "closed_trades": 12,
-    "open_positions": 2,
-    "cash": 200166.713934
+    "closed_trades": 0,
+    "open_positions": 0,
+    "cash": 100000.0
   },
   "bot_leaderboard": [
     {
