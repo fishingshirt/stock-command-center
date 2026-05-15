@@ -15,7 +15,7 @@ Usage:
   python bots/employee_manager.py list
   python bots/employee_manager.py org-chart
 """
-import argparse, json, os, sys, subprocess, random, hashlib
+import argparse, json, os, sys, subprocess, random, hashlib, requests
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -72,15 +72,43 @@ def _seed_org():
 
 # ── Face generation ────────────────────────────────────────────────
 
-def _generate_face(emp_id: str) -> str:
-    """Generate a colored initial-circle SVG as fallback face."""
-    import urllib.parse
-    FACE_DIR.mkdir(parents=True, exist_ok=True)
-    seed = urllib.parse.quote(f"{emp_id}_{random.randint(1000,9999)}")
-    ava_url = f"https://api.dicebear.com/7.x/avataaars/svg?seed={seed}"
+def _fetch_real_face() -> bytes | None:
+    """Fetch a real synthetic face from this-person-does-not-exist.com"""
+    import time, re
+    base = "https://this-person-does-not-exist.com"
+    heads = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36", "Referer": base}
     try:
-        import requests
-        r = requests.get(ava_url, timeout=15, headers={"User-Agent":"Mozilla/5.0"})
+        r = requests.get(base, headers=heads, timeout=15)
+        if r.status_code == 200:
+            urls = re.findall(r'src="(/img/avatar-[a-z0-9]+\.jpg)"', r.text)
+            if urls:
+                url = f"{base}{urls[0]}"
+                img = requests.get(url, headers=heads, timeout=15)
+                if img.status_code == 200 and img.content.startswith(b'\xff\xd8'):
+                    return img.content
+    except Exception:
+        pass
+    return None
+
+def _generate_face(emp_id: str) -> str:
+    """Generate a profile face: real synthetic first, avatar fallback."""
+    import urllib.parse
+    REAL_DIR = REPO / "dashboard" / "frontend" / "public" / "assets" / "real_faces"
+    REAL_DIR.mkdir(parents=True, exist_ok=True)
+
+    # Try real face first
+    real = _fetch_real_face()
+    if real:
+        path = REAL_DIR / f"{emp_id.lower()}.jpg"
+        with open(path, "wb") as f:
+            f.write(real)
+        return f"/assets/real_faces/{emp_id.lower()}.jpg"
+
+    # Fallback: dicebear avataaars
+    seed = urllib.parse.quote(f"{emp_id}_{random.randint(1000,9999)}")
+    url = f"https://api.dicebear.com/7.x/avataaars/svg?seed={seed}"
+    try:
+        r = requests.get(url, timeout=15, headers={"User-Agent":"Mozilla/5.0"})
         if r.status_code == 200:
             svg_path = FACE_DIR / f"{emp_id.lower()}.svg"
             with open(svg_path, "wb") as f:
@@ -210,19 +238,63 @@ def review():
             emp["reviews"].append({"date": now.isoformat(), "accuracy": acc, "preds": preds})
             emp["reviews"] = emp["reviews"][-12:]
 
-        # Termination logic
-        if emp["total_tasks"] >= 10 and emp["performance_score"] < 40:
-            terminations.append(emp)
-        elif emp.get("performance_score", 100) < 30 and emp["total_tasks"] >= 5:
-            terminations.append(emp)
+        # Rework before fire logic
+        underperforming = (emp["total_tasks"] >= 10 and emp["performance_score"] < 40) or (emp.get("performance_score", 100) < 30 and emp["total_tasks"] >= 5)
 
-    # Execute
+        if underperforming:
+            from whiteboard.parser import add_task
+            # If not on PIP, assign rework
+            if not emp.get("on_pip", False):
+                emp["on_pip"] = True
+                emp["pip_start_date"] = now.isoformat()
+                emp["rework_count"] = emp.get("rework_count", 0) + 1
+                # Create mentorship task for their manager
+                mgr_id = emp.get("managed_by")
+                mgr_name = mgr_id
+                for e in org.get("employees", []):
+                    if e["id"] == mgr_id:
+                        mgr_name = e["name"]
+                        break
+                add_task(
+                    str(REPO / "whiteboard" / "kanban.md"),
+                    f"REWORK ASSIGNED: Mentor {emp['name']} ({emp['title']}) — performance {emp['performance_score']:.0f}%",
+                    f"- Employee {emp['id']} is on Performance Improvement Plan (PIP)\n- Manager: {mgr_name} ({mgr_id})\n- Assigned rework: review methodology, retrain on ticker analysis pattern\n- Re-evaluation after rework completes\n- Threshold needed: >40% accuracy",
+                    priority="high",
+                    bot="self_build",
+                    git_commit=True,
+                )
+                print(f"REWORK: {emp['name']} placed on PIP, assigned to manager {mgr_name}")
+            else:
+                # Already on PIP — fire if no improvement
+                pip_start = datetime.fromisoformat(emp.get("pip_start_date", "2000-01-01").replace("Z", "+00:00"))
+                hours_on_pip = (now - pip_start).total_seconds() / 3600
+                # Give at least 24 hours / one full cycle on PIP before final decision
+                if hours_on_pip >= 12:  # roughly one review cycle
+                    terminations.append(emp)
+        else:
+            # Improvement — clear PIP
+            if emp.get("on_pip", False):
+                emp["on_pip"] = False
+                emp["pip_end_date"] = now.isoformat()
+                emp["pip_outcome"] = "PASSED"
+                print(f"PIP CLEARED: {emp['name']} performance recovered to {emp['performance_score']:.0f}%")
+
+    # Execute terminations
     mgr_backfill = {}
     for emp in terminations:
         mgr = emp.get("managed_by")
         if mgr:
             mgr_backfill.setdefault(mgr, []).append(emp["title"])
-        fire(emp["id"], f"Performance {emp['performance_score']:.0f}% < threshold")
+        
+        rework_str = f"{emp.get('rework_count', 0)}x rework cycles"
+        pip_hrs = None
+        if emp.get("pip_start_date"):
+            pip_hrs = (now - datetime.fromisoformat(emp["pip_start_date"].replace("Z","+00:00"))).total_seconds()/3600
+        reason = f"Fired after underperformance: {emp['performance_score']:.0f}% accuracy over {emp['total_tasks']} predictions. {rework_str} on PIP ({pip_hrs:.0f}h). No improvement."
+        
+        # Update before fire so the reason is saved
+        emp["termination_reason"] = reason
+        fire(emp["id"], reason)
 
     # Auto-hire replacements
     for mgr, roles in mgr_backfill.items():
