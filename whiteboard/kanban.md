@@ -10,14 +10,7 @@ _(No tasks in this section.)_
 
 ## In Progress
 
-### Task ID: 20260515-139
-**Subject:** XOM energy sector rotation
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T07:45:07.098476+00:00
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -815,6 +808,18 @@ Auto-generated research task. Bot: researcher_bot.
 **Started At:** 2026-05-15T07:45:04.416561+00:00
 **Completed At:** 2026-05-15T07:45:05.751884+00:00
 **Result:** dashboard/data/output/20260515-138.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260515-139
+**Subject:** XOM energy sector rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:45:07.098476+00:00
+**Completed At:** 2026-05-15T07:45:08.149185+00:00
+**Result:** dashboard/data/output/20260515-139.json
 **Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
