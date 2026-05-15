@@ -9,13 +9,9 @@ RUN apt-get update \
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY whiteboard /app/whiteboard
-COPY bots /app/bots
-COPY dashboard/backend /app
-COPY dashboard/data /app/data
-COPY logs /app/logs
+COPY dashboard/__init__.py /app/dashboard/__init__.py
 
-RUN mkdir -p /app/data/output /app/data/cache
+RUN mkdir -p /app/dashboard/data/output /app/dashboard/data/cache /app/logs
 
 EXPOSE 8000
 
