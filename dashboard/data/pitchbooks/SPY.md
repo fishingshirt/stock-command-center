@@ -2,8 +2,8 @@
 
 **Recommendation:** SELL  
 **Confidence:** 75%  
-**Strategy:** VALUE  
-**Generated:** 2026-05-15T11:37:11.675751+00:00  
+**Strategy:** MOMENTUM  
+**Generated:** 2026-05-15T11:37:36.736205+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,26 +12,26 @@
 
 SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Price: $748.17.
 
-**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$118.38**, representing a **57.21% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$61.88**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **25/100** (Earnings weakness detected)
-- Recent EPS surprise: **-2.2%**
-- Next earnings date: **2026-06-25**
+- Earnings momentum score: **65/100** (Strong earnings momentum)
+- Recent EPS surprise: **+1.6%**
+- Next earnings date: **2026-06-13**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $50.66 |
-| DCF Intrinsic Value | $203.62 |
-| Comparable Implied | $33.14 |
-| Blended Target | $118.38 |
-| Margin of Safety | 57.21% |
-| Verdict | Undervalued |
+| Current Price | $157.28 |
+| DCF Intrinsic Value | $23.94 |
+| Comparable Implied | $99.82 |
+| Blended Target | $61.88 |
+| Margin of Safety | 0% |
+| Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
@@ -47,25 +47,26 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Pric
 
 ## 3. Risks
 
-- ⚠️ 3 active controversies
+- ⚠️ Elevated sanctions exposure (9.6/10)
+- ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 67.4/100
-- **Sanctions Risk:** 0.5/10
-- **ESG Score:** 62.3/100
-- **Controversies:** 3
+- **Compliance Score:** 51.8/100
+- **Sanctions Risk:** 9.6/10
+- **ESG Score:** 52.5/100
+- **Controversies:** 0
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** VALUE
+**Primary Strategy:** MOMENTUM
 
-This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
