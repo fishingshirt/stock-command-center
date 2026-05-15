@@ -6,20 +6,21 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
+_(No tasks in this section.)_
+
+## In Progress
+
 ### Task ID: 20260515-152
 **Subject:** Research VOO — Core S&P 500 benchmark health check
 **Assigned Bot:** researcher_bot
 **Priority:** high
 **Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:25.157868+00:00
 **Details:**
 - VOO as portfolio anchor: keep or trim?
 - Valuation: forward P/E of S&P 500
 - Earnings growth outlook
 - Rebalance signal vs cash level
-
-## In Progress
-
-_(No tasks in this section.)_
 
 ## Done
 
