@@ -285,6 +285,160 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "META",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:00:04.843572+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "GOOGL",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:00:07.263254+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "DIS",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:00:08.717699+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPMO",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:00:11.120251+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "DIS",
+      "recommendation": "HOLD",
+      "confidence": 40,
+      "price_at_predict": 105.42,
+      "timestamp": "2026-05-15T08:00:12.713866+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPY",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:00:13.519036+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "MTUM",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:00:16.114901+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPMO",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 147.52,
+      "timestamp": "2026-05-15T08:00:18.518866+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SCHK",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:00:18.585508+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPYG",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:00:21.157627+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPY",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 748.17,
+      "timestamp": "2026-05-15T08:00:23.506961+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "VGT",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:00:23.846292+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "VOO",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:00:26.324679+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "MTUM",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 307.25,
+      "timestamp": "2026-05-15T08:00:28.791118+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

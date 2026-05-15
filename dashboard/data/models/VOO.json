@@ -1,0 +1,42 @@
+{
+  "ticker": "VOO",
+  "timestamp": "2026-05-15T08:00:26.400128+00:00",
+  "current_price": 317.4,
+  "dcf_target": 48.57,
+  "comparable_target": 535.78,
+  "blended_target": 292.18,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 4.88,
+    "projected_fcf_5yr": [
+      5.64,
+      6.53,
+      7.55,
+      8.74,
+      10.11
+    ],
+    "growth_rate_assumed": 0.157,
+    "wacc": 0.114,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 123.63,
+    "enterprise_value_billions": 99.33,
+    "net_cash_billions": -3.36,
+    "equity_value_billions": 95.97,
+    "intrinsic_per_share": 48.57,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 317.4,
+    "trailing_pe": 19.2,
+    "forward_pe": 16.52,
+    "ev_ebitda": 10.87,
+    "price_to_sales": 2.59,
+    "price_to_book": 10.11,
+    "eps": 16.53,
+    "peer_median_pe": 32.41,
+    "implied_price_pe": 535.78,
+    "upside_pct": 68.8,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

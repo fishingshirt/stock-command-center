@@ -1,0 +1,42 @@
+{
+  "ticker": "SPMO",
+  "timestamp": "2026-05-15T08:00:20.075792+00:00",
+  "current_price": 358.28,
+  "dcf_target": 166.24,
+  "comparable_target": 248.57,
+  "blended_target": 207.41,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 14.05,
+    "projected_fcf_5yr": [
+      16.32,
+      18.96,
+      22.02,
+      25.57,
+      29.7
+    ],
+    "growth_rate_assumed": 0.161,
+    "wacc": 0.116,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 355.4,
+    "enterprise_value_billions": 284.55,
+    "net_cash_billions": 2.04,
+    "equity_value_billions": 286.59,
+    "intrinsic_per_share": 166.24,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 358.28,
+    "trailing_pe": 39.68,
+    "forward_pe": 31.29,
+    "ev_ebitda": 21.41,
+    "price_to_sales": 4.55,
+    "price_to_book": 8.38,
+    "eps": 9.03,
+    "peer_median_pe": 27.53,
+    "implied_price_pe": 248.57,
+    "upside_pct": -30.62,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

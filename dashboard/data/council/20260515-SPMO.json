@@ -1,7 +1,7 @@
 {
-  "ticker": "SPY",
+  "ticker": "SPMO",
   "date": "20260515",
-  "timestamp": "2026-05-15T08:00:25.234000+00:00",
+  "timestamp": "2026-05-15T08:00:20.202824+00:00",
   "consensus": {
     "recommendation": "HOLD",
     "confidence": 83.3,

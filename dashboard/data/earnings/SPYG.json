@@ -1,0 +1,36 @@
+{
+  "next_earnings_date": "2026-06-07",
+  "earnings_history": [
+    {
+      "date": "2026-02-28",
+      "eps_estimate": 6.59,
+      "reported_eps": 6.79,
+      "surprise_pct": 16.3
+    },
+    {
+      "date": "2025-11-30",
+      "eps_estimate": 6.29,
+      "reported_eps": 6.49,
+      "surprise_pct": 17.3
+    },
+    {
+      "date": "2025-08-30",
+      "eps_estimate": 5.99,
+      "reported_eps": 6.19,
+      "surprise_pct": 18.9
+    }
+  ],
+  "eps_ttm": 27.16,
+  "eps_forward": 35.31,
+  "revenue_growth": 0.27,
+  "earnings_growth": 0.213,
+  "pe_trailing": 43.8,
+  "pe_forward": 16.52,
+  "peg_ratio": 1.16,
+  "ticker": "SPYG",
+  "analyzed_at": "2026-05-15T08:00:21.192888+00:00",
+  "source": "mock_fallback",
+  "surprise_avg_pct": 17.5,
+  "earnings_catalyst_score": 80,
+  "verdict": "Strong earnings momentum"
+}

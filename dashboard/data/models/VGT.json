@@ -1,0 +1,42 @@
+{
+  "ticker": "VGT",
+  "timestamp": "2026-05-15T08:00:23.921539+00:00",
+  "current_price": 550.99,
+  "dcf_target": 51.91,
+  "comparable_target": 255.53,
+  "blended_target": 153.72,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 2.71,
+    "projected_fcf_5yr": [
+      3.25,
+      3.89,
+      4.65,
+      5.56,
+      6.66
+    ],
+    "growth_rate_assumed": 0.197,
+    "wacc": 0.091,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 112.76,
+    "enterprise_value_billions": 91.08,
+    "net_cash_billions": 17.65,
+    "equity_value_billions": 108.73,
+    "intrinsic_per_share": 51.91,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 550.99,
+    "trailing_pe": 53.39,
+    "forward_pe": 42.64,
+    "ev_ebitda": 12.48,
+    "price_to_sales": 11.89,
+    "price_to_book": 4.56,
+    "eps": 10.32,
+    "peer_median_pe": 24.76,
+    "implied_price_pe": 255.53,
+    "upside_pct": -53.62,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

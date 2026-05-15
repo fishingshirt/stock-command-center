@@ -1,0 +1,36 @@
+{
+  "next_earnings_date": "2026-05-21",
+  "earnings_history": [
+    {
+      "date": "2026-02-28",
+      "eps_estimate": 5.85,
+      "reported_eps": 6.05,
+      "surprise_pct": 3.8
+    },
+    {
+      "date": "2025-11-30",
+      "eps_estimate": 5.55,
+      "reported_eps": 5.75,
+      "surprise_pct": 4.7
+    },
+    {
+      "date": "2025-08-30",
+      "eps_estimate": 5.25,
+      "reported_eps": 5.45,
+      "surprise_pct": 8.0
+    }
+  ],
+  "eps_ttm": 24.2,
+  "eps_forward": 31.46,
+  "revenue_growth": 0.051,
+  "earnings_growth": 0.37,
+  "pe_trailing": 16.64,
+  "pe_forward": 41.86,
+  "peg_ratio": 1.72,
+  "ticker": "VOO",
+  "analyzed_at": "2026-05-15T08:00:26.359736+00:00",
+  "source": "mock_fallback",
+  "surprise_avg_pct": 5.5,
+  "earnings_catalyst_score": 65,
+  "verdict": "Strong earnings momentum"
+}

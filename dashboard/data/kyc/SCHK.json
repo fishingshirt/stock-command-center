@@ -1,0 +1,16 @@
+{
+  "ticker": "SCHK",
+  "timestamp": "2026-05-15T08:00:18.704236+00:00",
+  "compliance_score": 56.9,
+  "risk_level": "MEDIUM",
+  "sanctions_risk": 8.6,
+  "pep_exposure": 0,
+  "esg_score": 43.8,
+  "controversy_count": 0,
+  "jurisdiction_risk": "low",
+  "flags": [
+    "Elevated sanctions exposure (8.6/10)",
+    "Poor ESG score (43.8)"
+  ],
+  "pass": true
+}

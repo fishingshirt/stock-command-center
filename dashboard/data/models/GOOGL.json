@@ -1,0 +1,42 @@
+{
+  "ticker": "GOOGL",
+  "timestamp": "2026-05-15T08:00:07.338200+00:00",
+  "current_price": 261.58,
+  "dcf_target": 96.2,
+  "comparable_target": 174.85,
+  "blended_target": 135.53,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 7.78,
+    "projected_fcf_5yr": [
+      9.32,
+      11.17,
+      13.38,
+      16.02,
+      19.19
+    ],
+    "growth_rate_assumed": 0.198,
+    "wacc": 0.094,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 308.1,
+    "enterprise_value_billions": 247.95,
+    "net_cash_billions": 11.62,
+    "equity_value_billions": 259.57,
+    "intrinsic_per_share": 96.2,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 261.58,
+    "trailing_pe": 24.43,
+    "forward_pe": 20.08,
+    "ev_ebitda": 22.2,
+    "price_to_sales": 8.72,
+    "price_to_book": 2.26,
+    "eps": 10.71,
+    "peer_median_pe": 16.33,
+    "implied_price_pe": 174.85,
+    "upside_pct": -33.16,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

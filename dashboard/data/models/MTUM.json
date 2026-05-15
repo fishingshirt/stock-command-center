@@ -1,0 +1,42 @@
+{
+  "ticker": "MTUM",
+  "timestamp": "2026-05-15T08:00:30.328767+00:00",
+  "current_price": 291.38,
+  "dcf_target": 92.65,
+  "comparable_target": 333.72,
+  "blended_target": 213.19,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 10.76,
+    "projected_fcf_5yr": [
+      11.68,
+      12.69,
+      13.78,
+      14.96,
+      16.25
+    ],
+    "growth_rate_assumed": 0.086,
+    "wacc": 0.091,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 275.45,
+    "enterprise_value_billions": 231.49,
+    "net_cash_billions": 10.18,
+    "equity_value_billions": 241.68,
+    "intrinsic_per_share": 92.65,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 291.38,
+    "trailing_pe": 13.9,
+    "forward_pe": 11.01,
+    "ev_ebitda": 24.53,
+    "price_to_sales": 6.89,
+    "price_to_book": 3.86,
+    "eps": 20.96,
+    "peer_median_pe": 15.92,
+    "implied_price_pe": 333.72,
+    "upside_pct": 14.53,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

@@ -1,0 +1,36 @@
+{
+  "next_earnings_date": "2026-06-02",
+  "earnings_history": [
+    {
+      "date": "2026-02-28",
+      "eps_estimate": 1.88,
+      "reported_eps": 2.08,
+      "surprise_pct": 13.9
+    },
+    {
+      "date": "2025-11-30",
+      "eps_estimate": 1.58,
+      "reported_eps": 1.78,
+      "surprise_pct": 10.7
+    },
+    {
+      "date": "2025-08-30",
+      "eps_estimate": 1.28,
+      "reported_eps": 1.48,
+      "surprise_pct": 15.6
+    }
+  ],
+  "eps_ttm": 8.32,
+  "eps_forward": 10.82,
+  "revenue_growth": 0.008,
+  "earnings_growth": 0.263,
+  "pe_trailing": 54.5,
+  "pe_forward": 13.7,
+  "peg_ratio": 0.78,
+  "ticker": "GOOGL",
+  "analyzed_at": "2026-05-15T08:00:07.298312+00:00",
+  "source": "mock_fallback",
+  "surprise_avg_pct": 13.4,
+  "earnings_catalyst_score": 65,
+  "verdict": "Strong earnings momentum"
+}

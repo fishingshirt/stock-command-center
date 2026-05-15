@@ -1,0 +1,42 @@
+{
+  "ticker": "DIS",
+  "timestamp": "2026-05-15T08:00:14.216244+00:00",
+  "current_price": 201.9,
+  "dcf_target": 132.78,
+  "comparable_target": 82.99,
+  "blended_target": 107.88,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 14.96,
+    "projected_fcf_5yr": [
+      16.2,
+      17.54,
+      18.99,
+      20.56,
+      22.26
+    ],
+    "growth_rate_assumed": 0.083,
+    "wacc": 0.106,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 302.84,
+    "enterprise_value_billions": 253.5,
+    "net_cash_billions": -2.8,
+    "equity_value_billions": 250.7,
+    "intrinsic_per_share": 132.78,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 201.9,
+    "trailing_pe": 47.0,
+    "forward_pe": 39.94,
+    "ev_ebitda": 24.28,
+    "price_to_sales": 13.42,
+    "price_to_book": 3.53,
+    "eps": 4.3,
+    "peer_median_pe": 19.32,
+    "implied_price_pe": 82.99,
+    "upside_pct": -58.89,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

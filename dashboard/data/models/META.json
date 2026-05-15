@@ -1,0 +1,42 @@
+{
+  "ticker": "META",
+  "timestamp": "2026-05-15T08:00:04.918681+00:00",
+  "current_price": 118.88,
+  "dcf_target": 62.37,
+  "comparable_target": 65.7,
+  "blended_target": 64.03,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 3.07,
+    "projected_fcf_5yr": [
+      3.53,
+      4.06,
+      4.66,
+      5.35,
+      6.14
+    ],
+    "growth_rate_assumed": 0.148,
+    "wacc": 0.103,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 86.52,
+    "enterprise_value_billions": 70.34,
+    "net_cash_billions": 16.77,
+    "equity_value_billions": 87.11,
+    "intrinsic_per_share": 62.37,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 118.88,
+    "trailing_pe": 49.38,
+    "forward_pe": 44.62,
+    "ev_ebitda": 25.79,
+    "price_to_sales": 3.96,
+    "price_to_book": 7.41,
+    "eps": 2.41,
+    "peer_median_pe": 27.29,
+    "implied_price_pe": 65.7,
+    "upside_pct": -44.73,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

@@ -1,0 +1,42 @@
+{
+  "ticker": "SPYG",
+  "timestamp": "2026-05-15T08:00:21.232322+00:00",
+  "current_price": 287.06,
+  "dcf_target": 47.18,
+  "comparable_target": 156.28,
+  "blended_target": 101.73,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 3.76,
+    "projected_fcf_5yr": [
+      4.62,
+      5.67,
+      6.96,
+      8.55,
+      10.5
+    ],
+    "growth_rate_assumed": 0.228,
+    "wacc": 0.103,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 147.75,
+    "enterprise_value_billions": 116.65,
+    "net_cash_billions": 8.73,
+    "equity_value_billions": 125.38,
+    "intrinsic_per_share": 47.18,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 287.06,
+    "trailing_pe": 40.54,
+    "forward_pe": 33.53,
+    "ev_ebitda": 29.49,
+    "price_to_sales": 7.28,
+    "price_to_book": 11.11,
+    "eps": 7.08,
+    "peer_median_pe": 22.07,
+    "implied_price_pe": 156.28,
+    "upside_pct": -45.56,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

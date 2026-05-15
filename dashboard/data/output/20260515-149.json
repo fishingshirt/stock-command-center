@@ -1,0 +1,17 @@
+{
+  "task_id": "20260515-149",
+  "subject": "Research SCHK & SCHG \u2014 Schwab large-cap pair analysis",
+  "timestamp": "2026-05-15T08:00:18.563732+00:00",
+  "recommendation": "NO_DATA",
+  "confidence": 0,
+  "summary": "Data unavailable for SCHK: No data source available. No recommendation can be made.",
+  "key_metrics": {
+    "ticker": "SCHK",
+    "_error": "No data source available"
+  },
+  "sources": [],
+  "full_text": "## SCHK Research \u2014 DATA UNAVAILABLE\n\nReason: No data source available\n\nNo real-time data was retrieved. The system refuses to fabricate numbers.\n",
+  "paper_trade_signal": "NO_DATA",
+  "paper_trade_price": 0,
+  "asset_type": "stock"
+}

@@ -1,0 +1,36 @@
+{
+  "next_earnings_date": "2026-06-04",
+  "earnings_history": [
+    {
+      "date": "2026-02-28",
+      "eps_estimate": 0.54,
+      "reported_eps": 0.74,
+      "surprise_pct": -11.5
+    },
+    {
+      "date": "2025-11-30",
+      "eps_estimate": 0.24,
+      "reported_eps": 0.44,
+      "surprise_pct": -14.0
+    },
+    {
+      "date": "2025-08-30",
+      "eps_estimate": -0.06,
+      "reported_eps": 0.14,
+      "surprise_pct": -6.2
+    }
+  ],
+  "eps_ttm": 2.96,
+  "eps_forward": 3.85,
+  "revenue_growth": 0.124,
+  "earnings_growth": 0.078,
+  "pe_trailing": 54.27,
+  "pe_forward": 20.62,
+  "peg_ratio": 1.16,
+  "ticker": "DIS",
+  "analyzed_at": "2026-05-15T08:00:14.116370+00:00",
+  "source": "mock_fallback",
+  "surprise_avg_pct": -10.57,
+  "earnings_catalyst_score": 20,
+  "verdict": "Earnings weakness detected"
+}

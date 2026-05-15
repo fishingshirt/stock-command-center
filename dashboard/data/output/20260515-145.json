@@ -1,0 +1,55 @@
+{
+  "task_id": "20260515-145",
+  "subject": "DIS Disney streaming profit",
+  "timestamp": "2026-05-15T08:00:12.635867+00:00",
+  "recommendation": "HOLD",
+  "confidence": 40,
+  "summary": "DIS \u2014 BEARISH sentiment, HOLD (40% confidence). PE: None, RSI: N/A, Price: $105.42.",
+  "key_metrics": {
+    "ticker": "DIS",
+    "current_price": 105.42,
+    "previous_close": 104.9,
+    "pe_ratio": null,
+    "market_cap": null,
+    "52_week_high": 124.69,
+    "52_week_low": 92.19,
+    "avg_volume": null,
+    "_source": "yahoo_chart_api",
+    "sentiment_score": -100.0,
+    "sentiment_label": "BEARISH"
+  },
+  "news": [
+    {
+      "title": "Netflix Just Raised Guidance. The Market Sold It Off. We See 283% Upside",
+      "published": "Thu, 14 May 2026 15:36:10 +0000",
+      "url": "https://247wallst.com/investing/2026/05/14/netflix-just-raised-guidance-the-market-sold-it-off-we-see-283-upside/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Zacks Analyst Blog Netflix, Amazon's, Disney's  and Apple's",
+      "published": "Thu, 14 May 2026 10:12:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-netflix-amazons-101200385.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Can Uber Make an \u201cEverything\u201d App?",
+      "published": "Wed, 13 May 2026 21:25:55 +0000",
+      "url": "https://www.fool.com/investing/2026/05/13/can-uber-make-an-everything-app/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": -100.0,
+    "label": "BEARISH",
+    "bullish_mentions": 0,
+    "bearish_mentions": 1,
+    "total_mentions": 1
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/DIS"
+  ],
+  "full_text": "## DIS Research Result\n\n### Recommendation: HOLD (40% confidence)\n\n### Sentiment: BEARISH (-100.0)\n\n### Key Metrics\n- **ticker:** DIS\n- **current_price:** 105.42\n- **previous_close:** 104.9\n- **pe_ratio:** None\n- **market_cap:** None\n- **52_week_high:** 124.69\n- **52_week_low:** 92.19\n- **avg_volume:** None\n- **_source:** yahoo_chart_api\n- **sentiment_score:** -100.0\n- **sentiment_label:** BEARISH\n\n### Latest News\n- [Netflix Just Raised Guidance. The Market Sold It Off. We See 283% Upside](https://247wallst.com/investing/2026/05/14/netflix-just-raised-guidance-the-market-sold-it-off-we-see-283-upside/?.tsrc=rss)\n- [The Zacks Analyst Blog Netflix, Amazon's, Disney's  and Apple's](https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-netflix-amazons-101200385.html?.tsrc=rss)\n- [Can Uber Make an \u201cEverything\u201d App?](https://www.fool.com/investing/2026/05/13/can-uber-make-an-everything-app/?.tsrc=rss)",
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 105.42,
+  "asset_type": "stock"
+}
