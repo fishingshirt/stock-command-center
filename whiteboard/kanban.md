@@ -19,17 +19,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260515-151
-**Subject:** Research VGT & VOOG — Vanguard tech + growth overlap
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T08:00:22.523161+00:00
-**Details:**
-- VGT tech concentration (AAPL, MSFT, NVDA weight)
-- VOOG growth factor loading
-- Duplication with VOO
-- Trim or overweight?
+_(No tasks in this section.)_
 
 ## Done
 
@@ -989,3 +979,18 @@ Auto-generated research task. Bot: researcher_bot.
 - Combined efficiency vs VOO alone
 - Sector concentration risk
 - Merge or hold both?
+
+### Task ID: 20260515-151
+**Subject:** Research VGT & VOOG — Vanguard tech + growth overlap
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:22.523161+00:00
+**Completed At:** 2026-05-15T08:00:23.845969+00:00
+**Result:** dashboard/data/output/20260515-151.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+- VGT tech concentration (AAPL, MSFT, NVDA weight)
+- VOOG growth factor loading
+- Duplication with VOO
+- Trim or overweight?
