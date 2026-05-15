@@ -1,0 +1,55 @@
+{
+  "task_id": "20260515-166",
+  "subject": "SCHG Schwab US Large-Cap Growth outlook",
+  "timestamp": "2026-05-15T08:30:57.849769+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 65,
+  "summary": "SCHG \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $34.69.",
+  "key_metrics": {
+    "ticker": "SCHG",
+    "current_price": 34.69,
+    "previous_close": 34.32,
+    "pe_ratio": null,
+    "market_cap": null,
+    "52_week_high": 34.742,
+    "52_week_low": 26.8,
+    "avg_volume": null,
+    "_source": "yahoo_chart_api",
+    "sentiment_score": 33.3,
+    "sentiment_label": "BULLISH"
+  },
+  "news": [
+    {
+      "title": "Denver PWM Trims Its Treasury ETF Stake -- Selling $2.6 Million Worth of IBTG",
+      "published": "Wed, 13 May 2026 21:30:28 +0000",
+      "url": "https://www.fool.com/coverage/filings/2026/05/13/denver-pwm-trims-its-treasury-etf-stake-selling-usd2-6-million-worth-of-ibtg/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Avantax Loads Up on JPEF With a $128M Stake in Q1",
+      "published": "Tue, 05 May 2026 11:39:52 +0000",
+      "url": "https://www.fool.com/coverage/filings/2026/05/05/avantax-loads-up-on-jpef-with-a-usd128m-stake-in-q1/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Should Schwab U.S. Large-Cap Growth ETF (SCHG) Be on Your Investing Radar?",
+      "published": "Mon, 04 May 2026 10:20:02 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/schwab-u-large-cap-growth-102002981.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": 33.3,
+    "label": "BULLISH",
+    "bullish_mentions": 2,
+    "bearish_mentions": 1,
+    "total_mentions": 3
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/SCHG"
+  ],
+  "full_text": "## SCHG Research Result\n\n### Recommendation: ACCUMULATE (65% confidence)\n\n### Sentiment: BULLISH (33.3)\n\n### Key Metrics\n- **ticker:** SCHG\n- **current_price:** 34.69\n- **previous_close:** 34.32\n- **pe_ratio:** None\n- **market_cap:** None\n- **52_week_high:** 34.742\n- **52_week_low:** 26.8\n- **avg_volume:** None\n- **_source:** yahoo_chart_api\n- **sentiment_score:** 33.3\n- **sentiment_label:** BULLISH\n\n### Latest News\n- [Denver PWM Trims Its Treasury ETF Stake -- Selling $2.6 Million Worth of IBTG](https://www.fool.com/coverage/filings/2026/05/13/denver-pwm-trims-its-treasury-etf-stake-selling-usd2-6-million-worth-of-ibtg/?.tsrc=rss)\n- [Avantax Loads Up on JPEF With a $128M Stake in Q1](https://www.fool.com/coverage/filings/2026/05/05/avantax-loads-up-on-jpef-with-a-usd128m-stake-in-q1/?.tsrc=rss)\n- [Should Schwab U.S. Large-Cap Growth ETF (SCHG) Be on Your Investing Radar?](https://finance.yahoo.com/markets/stocks/articles/schwab-u-large-cap-growth-102002981.html?.tsrc=rss)",
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 34.69,
+  "asset_type": "stock"
+}

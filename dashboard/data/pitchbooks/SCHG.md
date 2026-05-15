@@ -1,71 +1,77 @@
 # Investment Memo: SCHG
 
-**Recommendation:** NO_DATA  
-**Confidence:** 0%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T08:30:12.140924+00:00  
+**Recommendation:** ACCUMULATE  
+**Confidence:** 65%  
+**Strategy:** MOMENTUM  
+**Generated:** 2026-05-15T08:30:59.462707+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Data unavailable for SCHG: No data source available. No recommendation can be made.
+SCHG — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $34.69.
 
-**Key Takeaway:** SCHG is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$250.67**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SCHG is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$211.31**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **35/100** (Mixed earnings signals)
-- Recent EPS surprise: **-3.3%**
-- Next earnings date: **2026-06-19**
+- Earnings momentum score: **65/100** (Strong earnings momentum)
+- Recent EPS surprise: **-1.0%**
+- Next earnings date: **2026-06-14**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $594.12 |
-| DCF Intrinsic Value | $230.42 |
-| Comparable Implied | $270.91 |
-| Blended Target | $250.67 |
+| Current Price | $543.88 |
+| DCF Intrinsic Value | $37.38 |
+| Comparable Implied | $385.24 |
+| Blended Target | $211.31 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SCHG
-- ** Error:** No data source available
+- **Current Price:** 34.69
+- **Previous Close:** 34.32
+- **Pe Ratio:** None
+- **Market Cap:** None
+- **52 Week High:** 34.742
+- **52 Week Low:** 26.8
+- **Avg Volume:** None
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Poor ESG score (45.6)
+- ⚠️ Elevated sanctions exposure (9.4/10)
 - ⚠️ Low margin of safety — limited downside protection
-- ⚠️ Low confidence score (0%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 94.4/100
-- **Sanctions Risk:** 1.1/10
-- **ESG Score:** 45.6/100
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 53.2/100
+- **Sanctions Risk:** 9.4/10
+- **ESG Score:** 58.3/100
 - **Controversies:** 0
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** MOMENTUM
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
 ## 6. Sources & References
+- https://finance.yahoo.com/quote/SCHG
 
 ---
 

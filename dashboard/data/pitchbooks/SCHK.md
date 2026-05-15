@@ -1,18 +1,18 @@
 # Investment Memo: SCHK
 
-**Recommendation:** NO_DATA  
-**Confidence:** 0%  
-**Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T08:30:09.676443+00:00  
+**Recommendation:** ACCUMULATE  
+**Confidence:** 65%  
+**Strategy:** VALUE  
+**Generated:** 2026-05-15T08:30:52.391298+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Data unavailable for SCHK: No data source available. No recommendation can be made.
+SCHK — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $35.94.
 
-**Key Takeaway:** SCHK is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$145.33**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SCHK is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$529.4**, representing a **16.65% margin of safety** from current levels.
 
 ---
 
@@ -20,53 +20,58 @@ Data unavailable for SCHK: No data source available. No recommendation can be ma
 
 ### 2.1 Catalysts
 - Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+7.4%**
-- Next earnings date: **2026-06-26**
+- Recent EPS surprise: **+11.4%**
+- Next earnings date: **2026-06-03**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $288.33 |
-| DCF Intrinsic Value | $114.73 |
-| Comparable Implied | $175.93 |
-| Blended Target | $145.33 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $441.23 |
+| DCF Intrinsic Value | $53.03 |
+| Comparable Implied | $1005.77 |
+| Blended Target | $529.4 |
+| Margin of Safety | 16.65% |
+| Verdict | Fairly valued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SCHK
-- ** Error:** No data source available
+- **Current Price:** 35.94
+- **Previous Close:** 35.65
+- **Pe Ratio:** None
+- **Market Cap:** None
+- **52 Week High:** 36.005
+- **52 Week Low:** 27.76
+- **Avg Volume:** None
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (9.0/10)
+- ⚠️ Elevated sanctions exposure (4.9/10)
 - ⚠️ 3 active controversies
-- ⚠️ Low margin of safety — limited downside protection
-- ⚠️ Low confidence score (0%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** HIGH
-- **Compliance Score:** 25.1/100
-- **Sanctions Risk:** 9.0/10
-- **ESG Score:** 50.5/100
+- **Compliance Score:** 45.5/100
+- **Sanctions Risk:** 4.9/10
+- **ESG Score:** 62.4/100
 - **Controversies:** 3
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** MOMENTUM
+**Primary Strategy:** VALUE
 
-This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
 ## 6. Sources & References
+- https://finance.yahoo.com/quote/SCHK
 
 ---
 

@@ -1,16 +1,17 @@
 {
   "ticker": "SPYG",
-  "timestamp": "2026-05-15T08:30:14.691022+00:00",
-  "compliance_score": 45.5,
+  "timestamp": "2026-05-15T08:31:06.801345+00:00",
+  "compliance_score": 44.2,
   "risk_level": "HIGH",
-  "sanctions_risk": 6.9,
+  "sanctions_risk": 5.2,
   "pep_exposure": 0,
-  "esg_score": 83.3,
-  "controversy_count": 2,
-  "jurisdiction_risk": "low",
+  "esg_score": 74.3,
+  "controversy_count": 3,
+  "jurisdiction_risk": "medium",
   "flags": [
-    "Elevated sanctions exposure (6.9/10)",
-    "2 active controversies"
+    "Elevated sanctions exposure (5.2/10)",
+    "3 active controversies",
+    "Jurisdiction risk: medium"
   ],
   "pass": false
 }

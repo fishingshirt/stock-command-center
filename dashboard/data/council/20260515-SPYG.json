@@ -1,10 +1,10 @@
 {
   "ticker": "SPYG",
   "date": "20260515",
-  "timestamp": "2026-05-15T08:30:14.842108+00:00",
+  "timestamp": "2026-05-15T08:31:06.903062+00:00",
   "consensus": {
     "recommendation": "HOLD",
-    "confidence": 90.9,
+    "confidence": 83.3,
     "verdict": "STRONG CONSENSUS",
     "position_size_boost_pct": 0.25
   },
@@ -39,8 +39,8 @@
     },
     {
       "bot": "advisor_reasoning",
-      "recommendation": "NO_DATA",
-      "confidence": 0,
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
       "weight": 0.5,
       "weight_reason": "advisor_reasoning accuracy=50.0%"
     },
@@ -53,8 +53,8 @@
     }
   ],
   "breakdown": {
-    "HOLD": 90.9,
-    "NO_DATA": 9.1
+    "HOLD": 83.3,
+    "ACCUMULATE": 16.7
   },
   "memo_path": null
 }

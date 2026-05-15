@@ -1,0 +1,55 @@
+{
+  "task_id": "20260515-165",
+  "subject": "SCHK Schwab 1000 Index valuation",
+  "timestamp": "2026-05-15T08:30:50.753767+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 65,
+  "summary": "SCHK \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $35.94.",
+  "key_metrics": {
+    "ticker": "SCHK",
+    "current_price": 35.94,
+    "previous_close": 35.65,
+    "pe_ratio": null,
+    "market_cap": null,
+    "52_week_high": 36.005,
+    "52_week_low": 27.76,
+    "avg_volume": null,
+    "_source": "yahoo_chart_api",
+    "sentiment_score": 100.0,
+    "sentiment_label": "BULLISH"
+  },
+  "news": [
+    {
+      "title": "Should Schwab 1000 Index ETF (SCHK) Be on Your Investing Radar?",
+      "published": "Wed, 01 Apr 2026 10:20:02 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/schwab-1000-index-etf-schk-102002534.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Looking for Growth? 3 Schwab ETFs to Consider Buying in February",
+      "published": "Tue, 17 Feb 2026 18:33:05 +0000",
+      "url": "https://247wallst.com/investing/2026/02/17/looking-for-growth-3-schwab-etfs-to-consider-buying-in-february/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Schwab\u2019s 1000 Stock ETF Beat the S&P 500 With Just 3% Turnover",
+      "published": "Wed, 04 Feb 2026 14:03:09 +0000",
+      "url": "https://247wallst.com/investing/2026/02/04/schwabs-1000-stock-etf-beat-the-sp-500-with-just-3-turnover/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish_mentions": 3,
+    "bearish_mentions": 0,
+    "total_mentions": 3
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/SCHK"
+  ],
+  "full_text": "## SCHK Research Result\n\n### Recommendation: ACCUMULATE (65% confidence)\n\n### Sentiment: BULLISH (100.0)\n\n### Key Metrics\n- **ticker:** SCHK\n- **current_price:** 35.94\n- **previous_close:** 35.65\n- **pe_ratio:** None\n- **market_cap:** None\n- **52_week_high:** 36.005\n- **52_week_low:** 27.76\n- **avg_volume:** None\n- **_source:** yahoo_chart_api\n- **sentiment_score:** 100.0\n- **sentiment_label:** BULLISH\n\n### Latest News\n- [Should Schwab 1000 Index ETF (SCHK) Be on Your Investing Radar?](https://finance.yahoo.com/markets/stocks/articles/schwab-1000-index-etf-schk-102002534.html?.tsrc=rss)\n- [Looking for Growth? 3 Schwab ETFs to Consider Buying in February](https://247wallst.com/investing/2026/02/17/looking-for-growth-3-schwab-etfs-to-consider-buying-in-february/?.tsrc=rss)\n- [Schwab\u2019s 1000 Stock ETF Beat the S&P 500 With Just 3% Turnover](https://247wallst.com/investing/2026/02/04/schwabs-1000-stock-etf-beat-the-sp-500-with-just-3-turnover/?.tsrc=rss)",
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 35.94,
+  "asset_type": "stock"
+}
