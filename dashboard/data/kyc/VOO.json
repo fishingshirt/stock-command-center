@@ -1,15 +1,16 @@
 {
   "ticker": "VOO",
-  "timestamp": "2026-05-15T08:45:09.002096+00:00",
-  "compliance_score": 53.1,
+  "timestamp": "2026-05-15T08:45:43.366086+00:00",
+  "compliance_score": 65.9,
   "risk_level": "MEDIUM",
-  "sanctions_risk": 9.4,
+  "sanctions_risk": 0.8,
   "pep_exposure": 0,
-  "esg_score": 68.8,
-  "controversy_count": 0,
+  "esg_score": 44.4,
+  "controversy_count": 3,
   "jurisdiction_risk": "low",
   "flags": [
-    "Elevated sanctions exposure (9.4/10)"
+    "Poor ESG score (44.4)",
+    "3 active controversies"
   ],
   "pass": true
 }

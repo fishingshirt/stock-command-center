@@ -1,0 +1,55 @@
+{
+  "task_id": "20260515-172",
+  "subject": "VOOG Vanguard S&P 500 Growth check",
+  "timestamp": "2026-05-15T08:45:34.827651+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 65,
+  "summary": "VOOG \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $83.49.",
+  "key_metrics": {
+    "ticker": "VOOG",
+    "current_price": 83.49,
+    "previous_close": 82.52,
+    "pe_ratio": null,
+    "market_cap": null,
+    "52_week_high": 83.6,
+    "52_week_low": 60.55,
+    "avg_volume": null,
+    "_source": "yahoo_chart_api",
+    "sentiment_score": 100.0,
+    "sentiment_label": "BULLISH"
+  },
+  "news": [
+    {
+      "title": "Why Investors Own VOOG for Growth Not Its Tiny 0.46% Dividend",
+      "published": "Thu, 02 Apr 2026 12:15:54 +0000",
+      "url": "https://247wallst.com/investing/2026/04/02/why-investors-own-voog-for-growth-not-its-tiny-0-46-dividend/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "VOO vs. VOOG: Which Vanguard ETF Has More Upside in 2026?",
+      "published": "Sat, 28 Mar 2026 08:31:09 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/voo-vs-voog-vanguard-etf-083109303.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Vanguard Announces Share Splits for Five Equity Index ETFs",
+      "published": "Tue, 24 Mar 2026 13:00:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-announces-share-splits-five-130000533.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish_mentions": 2,
+    "bearish_mentions": 0,
+    "total_mentions": 2
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/VOOG"
+  ],
+  "full_text": "## VOOG Research Result\n\n### Recommendation: ACCUMULATE (65% confidence)\n\n### Sentiment: BULLISH (100.0)\n\n### Key Metrics\n- **ticker:** VOOG\n- **current_price:** 83.49\n- **previous_close:** 82.52\n- **pe_ratio:** None\n- **market_cap:** None\n- **52_week_high:** 83.6\n- **52_week_low:** 60.55\n- **avg_volume:** None\n- **_source:** yahoo_chart_api\n- **sentiment_score:** 100.0\n- **sentiment_label:** BULLISH\n\n### Latest News\n- [Why Investors Own VOOG for Growth Not Its Tiny 0.46% Dividend](https://247wallst.com/investing/2026/04/02/why-investors-own-voog-for-growth-not-its-tiny-0-46-dividend/?.tsrc=rss)\n- [VOO vs. VOOG: Which Vanguard ETF Has More Upside in 2026?](https://finance.yahoo.com/markets/stocks/articles/voo-vs-voog-vanguard-etf-083109303.html?.tsrc=rss)\n- [Vanguard Announces Share Splits for Five Equity Index ETFs](https://finance.yahoo.com/markets/stocks/articles/vanguard-announces-share-splits-five-130000533.html?.tsrc=rss)",
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 83.49,
+  "asset_type": "stock"
+}

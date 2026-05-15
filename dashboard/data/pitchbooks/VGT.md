@@ -1,60 +1,65 @@
 # Investment Memo: VGT
 
-**Recommendation:** NO_DATA  
-**Confidence:** 0%  
+**Recommendation:** ACCUMULATE  
+**Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T08:45:04.052264+00:00  
+**Generated:** 2026-05-15T08:45:29.299088+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Data unavailable for VGT: No data source available. No recommendation can be made.
+VGT — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $115.19.
 
-**Key Takeaway:** VGT is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$255.44**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** VGT is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$130.34**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **10/100** (Earnings weakness detected)
-- Recent EPS surprise: **-4.5%**
-- Next earnings date: **2026-06-18**
+- Earnings momentum score: **15/100** (Earnings weakness detected)
+- Recent EPS surprise: **-0.1%**
+- Next earnings date: **2026-06-12**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $335.65 |
-| DCF Intrinsic Value | $106.64 |
-| Comparable Implied | $404.24 |
-| Blended Target | $255.44 |
+| Current Price | $209.37 |
+| DCF Intrinsic Value | $87.61 |
+| Comparable Implied | $173.08 |
+| Blended Target | $130.34 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** VGT
-- ** Error:** No data source available
+- **Current Price:** 115.19
+- **Previous Close:** 113.45
+- **Pe Ratio:** None
+- **Market Cap:** None
+- **52 Week High:** 115.62
+- **52 Week Low:** 73.76
+- **Avg Volume:** None
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (7.7/10)
-- ⚠️ 2 active controversies
+- ⚠️ Elevated sanctions exposure (6.4/10)
+- ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
-- ⚠️ Low confidence score (0%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** HIGH
-- **Compliance Score:** 41.4/100
-- **Sanctions Risk:** 7.7/10
-- **ESG Score:** 64.7/100
-- **Controversies:** 2
+- **Compliance Score:** 37.9/100
+- **Sanctions Risk:** 6.4/10
+- **ESG Score:** 51.1/100
+- **Controversies:** 3
 
 ---
 
@@ -67,6 +72,7 @@ This position is classified under the **GROWTH** strategy bucket. Portfolio cons
 ---
 
 ## 6. Sources & References
+- https://finance.yahoo.com/quote/VGT
 
 ---
 

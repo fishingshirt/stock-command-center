@@ -1,72 +1,78 @@
 # Investment Memo: VOOG
 
-**Recommendation:** NO_DATA  
-**Confidence:** 0%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T08:45:06.474999+00:00  
+**Recommendation:** ACCUMULATE  
+**Confidence:** 65%  
+**Strategy:** MOMENTUM  
+**Generated:** 2026-05-15T08:45:36.463247+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Data unavailable for VOOG: No data source available. No recommendation can be made.
+VOOG — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $83.49.
 
-**Key Takeaway:** VOOG is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$216.79**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** VOOG is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$152.0**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **35/100** (Mixed earnings signals)
-- Recent EPS surprise: **-12.4%**
-- Next earnings date: **2026-06-12**
+- Earnings momentum score: **80/100** (Strong earnings momentum)
+- Recent EPS surprise: **+11.9%**
+- Next earnings date: **2026-06-08**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $374.18 |
-| DCF Intrinsic Value | $162.42 |
-| Comparable Implied | $271.16 |
-| Blended Target | $216.79 |
+| Current Price | $329.79 |
+| DCF Intrinsic Value | $94.87 |
+| Comparable Implied | $209.14 |
+| Blended Target | $152.0 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** VOOG
-- ** Error:** No data source available
+- **Current Price:** 83.49
+- **Previous Close:** 82.52
+- **Pe Ratio:** None
+- **Market Cap:** None
+- **52 Week High:** 83.6
+- **52 Week Low:** 60.55
+- **Avg Volume:** None
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (8.5/10)
-- ⚠️ 1 active controversies
+- ⚠️ Elevated sanctions exposure (7.8/10)
+- ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
-- ⚠️ Low confidence score (0%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** HIGH
-- **Compliance Score:** 47.6/100
-- **Sanctions Risk:** 8.5/10
-- **ESG Score:** 76.4/100
-- **Controversies:** 1
+- **Compliance Score:** 31.2/100
+- **Sanctions Risk:** 7.8/10
+- **ESG Score:** 77.8/100
+- **Controversies:** 3
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** MOMENTUM
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
 ## 6. Sources & References
+- https://finance.yahoo.com/quote/VOOG
 
 ---
 
