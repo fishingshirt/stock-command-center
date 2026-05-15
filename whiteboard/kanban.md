@@ -6,17 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260515-150
-**Subject:** Research SPYG & SPYM — State Street growth + dividend combo
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-15
-**Details:**
-- SPYG growth exposure vs SPYM dividend yield
-- Combined efficiency vs VOO alone
-- Sector concentration risk
-- Merge or hold both?
-
 ### Task ID: 20260515-151
 **Subject:** Research VGT & VOOG — Vanguard tech + growth overlap
 **Assigned Bot:** researcher_bot
@@ -41,7 +30,17 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260515-150
+**Subject:** Research SPYG & SPYM — State Street growth + dividend combo
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:19.936824+00:00
+**Details:**
+- SPYG growth exposure vs SPYM dividend yield
+- Combined efficiency vs VOO alone
+- Sector concentration risk
+- Merge or hold both?
 
 ## Done
 
