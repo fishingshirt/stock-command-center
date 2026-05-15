@@ -30,6 +30,83 @@ Auto-generated research task. Bot: researcher_bot.
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
 
+### Task ID: 20260515-146
+**Subject:** Research SPMO — S&P 500 Momentum ETF trend and momentum score
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Details:**
+- Analyze SPMO momentum factor exposure
+- Compare against SPY and MTUM
+- Technical: RSI, SMA, volume
+- Recommendation: BUY/ACCUMULATE/HOLD
+
+### Task ID: 20260515-147
+**Subject:** Research V — Visa Inc. payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Details:**
+- Revenue growth, margin analysis
+- Competitive moat vs MA, PYPL
+- Technical levels
+- Valuation: P/E, P/S
+
+### Task ID: 20260515-148
+**Subject:** Research MTUM — iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Details:**
+- Factor performance vs growth/value
+- Top 10 holdings drift
+- Momentum signal strength
+- Compare to SPMO overlap
+
+### Task ID: 20260515-149
+**Subject:** Research SCHK & SCHG — Schwab large-cap pair analysis
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Details:**
+- SCHK (1000 index) vs SCHG (growth) correlation
+- Combined portfolio overlap
+- Expense ratio advantage
+- Rebalancing signal
+
+### Task ID: 20260515-150
+**Subject:** Research SPYG & SPYM — State Street growth + dividend combo
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Details:**
+- SPYG growth exposure vs SPYM dividend yield
+- Combined efficiency vs VOO alone
+- Sector concentration risk
+- Merge or hold both?
+
+### Task ID: 20260515-151
+**Subject:** Research VGT & VOOG — Vanguard tech + growth overlap
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Details:**
+- VGT tech concentration (AAPL, MSFT, NVDA weight)
+- VOOG growth factor loading
+- Duplication with VOO
+- Trim or overweight?
+
+### Task ID: 20260515-152
+**Subject:** Research VOO — Core S&P 500 benchmark health check
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Details:**
+- VOO as portfolio anchor: keep or trim?
+- Valuation: forward P/E of S&P 500
+- Earnings growth outlook
+- Rebalance signal vs cash level
+
 ## In Progress
 
 _(No tasks in this section.)_

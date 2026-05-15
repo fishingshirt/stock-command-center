@@ -172,7 +172,18 @@ def _generate_new_tasks(board: dict):
     logger.info("Generating new research tasks.")
     
     # Watchlist: major stocks and crypto
+    # Watchlist: major stocks and crypto + user's holdings
     watchlist = [
+        ("SPMO S&P 500 Momentum ETF trend scan", "researcher_bot"),
+        ("V Visa payment network fundamentals", "researcher_bot"),
+        ("MTUM iShares Momentum Factor ETF rotation", "researcher_bot"),
+        ("SCHK Schwab 1000 Index valuation", "researcher_bot"),
+        ("SCHG Schwab US Large-Cap Growth outlook", "researcher_bot"),
+        ("SPYG State Street S&P 500 Growth momentum", "researcher_bot"),
+        ("VGT Vanguard Info Tech sector heatmap", "researcher_bot"),
+        ("VOOG Vanguard S&P 500 Growth check", "researcher_bot"),
+        ("VOO Vanguard S&P 500 core anchor", "researcher_bot"),
+        ("SPYM State Street High Dividend yield", "researcher_bot"),
         ("NVDA earnings momentum", "researcher_bot"),
         ("AAPL valuation scan", "researcher_bot"),
         ("TSLA sentiment check", "researcher_bot"),

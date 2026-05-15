@@ -1,0 +1,65 @@
+{
+  "name": "User Personal Holdings",
+  "added_at": "2026-05-15T07:40:00+00:00",
+  "holdings": [
+    {
+      "ticker": "SPMO",
+      "shares": 10.76,
+      "note": "S&P 500 Momentum ETF"
+    },
+    {
+      "ticker": "V",
+      "shares": null,
+      "value_usd": 145.87,
+      "note": "Visa Inc."
+    },
+    {
+      "ticker": "MTUM",
+      "shares": null,
+      "value_usd": 307.28,
+      "note": "iShares MSCI USA Momentum Factor ETF"
+    },
+    {
+      "ticker": "SCHK",
+      "shares": null,
+      "value_usd": 35.93,
+      "note": "Schwab 1000 Index ETF"
+    },
+    {
+      "ticker": "SCHG",
+      "shares": null,
+      "value_usd": 34.34,
+      "note": "Schwab US Large-Cap Growth ETF"
+    },
+    {
+      "ticker": "SPYG",
+      "shares": null,
+      "value_usd": 118.96,
+      "note": "SPDR Portfolio S&P 500 Growth ETF"
+    },
+    {
+      "ticker": "VGT",
+      "shares": null,
+      "value_usd": 114.54,
+      "note": "Vanguard Info Technology ETF"
+    },
+    {
+      "ticker": "VOOG",
+      "shares": null,
+      "value_usd": 83.01,
+      "note": "Vanguard S&P 500 Growth ETF"
+    },
+    {
+      "ticker": "VOO",
+      "shares": null,
+      "value_usd": 683.88,
+      "note": "Vanguard S&P 500 ETF"
+    },
+    {
+      "ticker": "SPYM",
+      "shares": null,
+      "value_usd": null,
+      "note": "SPDR Portfolio S&P 500 High Dividend"
+    }
+  ]
+}

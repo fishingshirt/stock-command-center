@@ -231,6 +231,15 @@ def strategy_leaderboard():
     return {"strategy_stats": get_leaderboard()}
 
 
+@app.get("/api/holdings")
+def list_holdings():
+    h_file = REPO_ROOT / "dashboard" / "data" / "users_holdings.json"
+    if not h_file.exists():
+        return {"name": "", "holdings": []}
+    with open(h_file, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
 @app.get("/api/earnings/{ticker}")
 def get_earnings(ticker: str):
     e_file = REPO_ROOT / "dashboard" / "data" / "earnings" / f"{ticker}.json"
