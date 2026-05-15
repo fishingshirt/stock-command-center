@@ -66,13 +66,14 @@ def infer_ticker(subject: str) -> tuple:
 def fetch_stock_yfinance(ticker: str) -> dict | None:
     if yf is None:
         return None
+    # Try yfinance first
     try:
         t = yf.Ticker(ticker)
         hist = t.history(period="5d")
         info = t.info or {}
         current_price = float(hist.Close.iloc[-1]) if len(hist) > 0 else None
         prev_close = float(hist.Close.iloc[-2]) if len(hist) > 1 else current_price
-        metrics = {
+        return {
             "ticker": ticker,
             "current_price": round(current_price, 2) if current_price else None,
             "previous_close": round(prev_close, 2) if prev_close else current_price,
@@ -82,9 +83,37 @@ def fetch_stock_yfinance(ticker: str) -> dict | None:
             "52_week_low": info.get("fiftyTwoWeekLow"),
             "avg_volume": info.get("averageVolume"),
         }
-        return metrics
     except Exception as e:
-        return {"_error": str(e)}
+        print(f"yfinance error: {str(e)[:80]}")
+    
+    # Fallback: direct Yahoo chart API (often works when yfinance is rate-limited)
+    if requests is not None:
+        try:
+            url = f"https://query1.finance.yahoo.com/v8/finance/chart/{ticker}?interval=1d&range=5d"
+            r = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+            data = r.json()
+            result = data.get("chart", {}).get("result", [{}])[0]
+            meta = result.get("meta", {})
+            prices = result.get("indicators", {}).get("quote", [{}])[0].get("close", [])
+            prices = [p for p in prices if p is not None]
+            current_price = prices[-1] if prices else meta.get("regularMarketPrice")
+            prev_close = prices[-2] if len(prices) > 1 else current_price
+            if current_price:
+                return {
+                    "ticker": ticker,
+                    "current_price": round(float(current_price), 2),
+                    "previous_close": round(float(prev_close), 2) if prev_close else round(float(current_price), 2),
+                    "pe_ratio": None,
+                    "market_cap": None,
+                    "52_week_high": meta.get("fiftyTwoWeekHigh"),
+                    "52_week_low": meta.get("fiftyTwoWeekLow"),
+                    "avg_volume": None,
+                    "_source": "yahoo_chart_api",
+                }
+        except Exception as e:
+            print(f"Chart API fallback error: {str(e)[:80]}")
+    
+    return {"_error": "All Yahoo Finance endpoints unavailable"}
 
 
 def fetch_crypto_coingecko(crypto_id: str) -> dict | None:
