@@ -1968,6 +1968,39 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPMO",
+      "recommendation": "SELL",
+      "confidence": 75,
+      "price_at_predict": 147.52,
+      "timestamp": "2026-05-15T11:37:03.846773+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPY",
+      "recommendation": "SELL",
+      "confidence": 75,
+      "price_at_predict": 748.17,
+      "timestamp": "2026-05-15T11:37:09.836468+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "MTUM",
+      "recommendation": "SELL",
+      "confidence": 75,
+      "price_at_predict": 307.25,
+      "timestamp": "2026-05-15T11:37:15.693005+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

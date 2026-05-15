@@ -1,15 +1,17 @@
 {
   "ticker": "SPMO",
-  "timestamp": "2026-05-15T11:34:37.868234+00:00",
-  "compliance_score": 78.7,
+  "timestamp": "2026-05-15T11:37:05.818049+00:00",
+  "compliance_score": 61.3,
   "risk_level": "MEDIUM",
-  "sanctions_risk": 0.3,
+  "sanctions_risk": 7.7,
   "pep_exposure": 0,
-  "esg_score": 78.4,
-  "controversy_count": 2,
-  "jurisdiction_risk": "low",
+  "esg_score": 40.3,
+  "controversy_count": 0,
+  "jurisdiction_risk": "high",
   "flags": [
-    "2 active controversies"
+    "Elevated sanctions exposure (7.7/10)",
+    "Poor ESG score (40.3)",
+    "Jurisdiction risk: high"
   ],
   "pass": true
 }

@@ -2,8 +2,8 @@
 
 **Recommendation:** SELL  
 **Confidence:** 75%  
-**Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T11:34:43.780060+00:00  
+**Strategy:** VALUE  
+**Generated:** 2026-05-15T11:37:11.675751+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,26 +12,26 @@
 
 SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Price: $748.17.
 
-**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$183.93**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$118.38**, representing a **57.21% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+11.5%**
-- Next earnings date: **2026-06-07**
+- Earnings momentum score: **25/100** (Earnings weakness detected)
+- Recent EPS surprise: **-2.2%**
+- Next earnings date: **2026-06-25**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $368.77 |
-| DCF Intrinsic Value | $196.69 |
-| Comparable Implied | $171.17 |
-| Blended Target | $183.93 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $50.66 |
+| DCF Intrinsic Value | $203.62 |
+| Comparable Implied | $33.14 |
+| Blended Target | $118.38 |
+| Margin of Safety | 57.21% |
+| Verdict | Undervalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
@@ -48,25 +48,24 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Pric
 ## 3. Risks
 
 - ⚠️ 3 active controversies
-- ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 60.3/100
-- **Sanctions Risk:** 1.9/10
-- **ESG Score:** 80.9/100
+- **Compliance Score:** 67.4/100
+- **Sanctions Risk:** 0.5/10
+- **ESG Score:** 62.3/100
 - **Controversies:** 3
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** MOMENTUM
+**Primary Strategy:** VALUE
 
-This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
