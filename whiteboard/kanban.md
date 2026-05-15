@@ -6,17 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260515-148
-**Subject:** Research MTUM — iShares Momentum Factor ETF rotation
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-15
-**Details:**
-- Factor performance vs growth/value
-- Top 10 holdings drift
-- Momentum signal strength
-- Compare to SPMO overlap
-
 ### Task ID: 20260515-149
 **Subject:** Research SCHK & SCHG — Schwab large-cap pair analysis
 **Assigned Bot:** researcher_bot
@@ -63,7 +52,17 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260515-148
+**Subject:** Research MTUM — iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:14.876668+00:00
+**Details:**
+- Factor performance vs growth/value
+- Top 10 holdings drift
+- Momentum signal strength
+- Compare to SPMO overlap
 
 ## Done
 
