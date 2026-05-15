@@ -3,16 +3,16 @@
 **Recommendation:** SELL  
 **Confidence:** 75%  
 **Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T14:30:26.939442+00:00  
+**Generated:** 2026-05-15T14:46:06.246026+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.848732, RSI: 72.13, Price: $741.41.
+SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.856998, RSI: 72.44, Price: $741.55.
 
-**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$370.91**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$172.95**, representing a **7.62% margin of safety** from current levels.
 
 ---
 
@@ -20,24 +20,24 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.848732, RSI: 72.13, Pri
 
 ### 2.1 Catalysts
 - Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+15.4%**
-- Next earnings date: **2026-06-17**
+- Recent EPS surprise: **+17.8%**
+- Next earnings date: **2026-05-23**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $541.74 |
-| DCF Intrinsic Value | $39.64 |
-| Comparable Implied | $702.18 |
-| Blended Target | $370.91 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $159.77 |
+| DCF Intrinsic Value | $197.5 |
+| Comparable Implied | $148.41 |
+| Blended Target | $172.95 |
+| Margin of Safety | 7.62% |
+| Verdict | Fairly valued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
-- **Current Price:** 741.41
+- **Current Price:** 741.55
 - **Previous Close:** 748.17
-- **Pe Ratio:** 27.848732
+- **Pe Ratio:** 27.856998
 - **Market Cap:** None
 - **52 Week High:** 749.53
 - **52 Week Low:** 575.6
@@ -47,18 +47,19 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.848732, RSI: 72.13, Pri
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (4.9/10)
-- ⚠️ Low margin of safety — limited downside protection
+- ⚠️ Elevated sanctions exposure (6.0/10)
+- ⚠️ Poor ESG score (43.1)
+- ⚠️ 3 active controversies
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 75.6/100
-- **Sanctions Risk:** 4.9/10
-- **ESG Score:** 69.5/100
-- **Controversies:** 0
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 40.0/100
+- **Sanctions Risk:** 6.0/10
+- **ESG Score:** 43.1/100
+- **Controversies:** 3
 
 ---
 

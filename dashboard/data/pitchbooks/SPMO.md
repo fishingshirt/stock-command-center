@@ -3,16 +3,16 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T14:30:20.580019+00:00  
+**Generated:** 2026-05-15T14:46:00.004767+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.429237, RSI: 69.86, Price: $144.32.
+SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.398224, RSI: 69.56, Price: $144.18.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$447.3**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$115.37**, representing a **0% margin of safety** from current levels.
 
 ---
 
@@ -20,24 +20,24 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.429237, RSI: 69.
 
 ### 2.1 Catalysts
 - Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+8.7%**
-- Next earnings date: **2026-06-25**
+- Recent EPS surprise: **+9.7%**
+- Next earnings date: **2026-06-27**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $557.15 |
-| DCF Intrinsic Value | $79.65 |
-| Comparable Implied | $814.94 |
-| Blended Target | $447.3 |
+| Current Price | $135.0 |
+| DCF Intrinsic Value | $123.05 |
+| Comparable Implied | $107.68 |
+| Blended Target | $115.37 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPMO
-- **Current Price:** 144.32
+- **Current Price:** 144.18
 - **Previous Close:** 147.52
-- **Pe Ratio:** 34.429237
+- **Pe Ratio:** 34.398224
 - **Market Cap:** None
 - **52 Week High:** 147.87
 - **52 Week Low:** 101.8
@@ -47,7 +47,8 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.429237, RSI: 69.
 
 ## 3. Risks
 
-- ⚠️ 2 active controversies
+- ⚠️ Elevated sanctions exposure (4.8/10)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
@@ -55,10 +56,10 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.429237, RSI: 69.
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 67.4/100
-- **Sanctions Risk:** 2.5/10
-- **ESG Score:** 69.2/100
-- **Controversies:** 2
+- **Compliance Score:** 66.0/100
+- **Sanctions Risk:** 4.8/10
+- **ESG Score:** 77.3/100
+- **Controversies:** 1
 
 ---
 
