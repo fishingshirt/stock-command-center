@@ -1,64 +1,60 @@
 # Investment Memo: MTUM
 
-**Recommendation:** ACCUMULATE  
-**Confidence:** 65%  
+**Recommendation:** NO_DATA  
+**Confidence:** 0%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T08:00:30.378417+00:00  
+**Generated:** 2026-05-15T08:15:17.238772+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $307.25.
+Data unavailable for MTUM: No data source available. No recommendation can be made.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$213.19**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$388.77**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **0/100** (Earnings weakness detected)
-- Recent EPS surprise: **-13.7%**
-- Next earnings date: **2026-06-06**
+- Earnings momentum score: **55/100** (Mixed earnings signals)
+- Recent EPS surprise: **+19.1%**
+- Next earnings date: **2026-06-23**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $291.38 |
-| DCF Intrinsic Value | $92.65 |
-| Comparable Implied | $333.72 |
-| Blended Target | $213.19 |
+| Current Price | $528.79 |
+| DCF Intrinsic Value | $93.31 |
+| Comparable Implied | $684.23 |
+| Blended Target | $388.77 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** MTUM
-- **Current Price:** 307.25
-- **Previous Close:** 305.4
-- **Pe Ratio:** None
-- **Market Cap:** None
-- **52 Week High:** 307.96
-- **52 Week Low:** 223.47
-- **Avg Volume:** None
+- ** Error:** No data source available
 
 ---
 
 ## 3. Risks
 
-- No material compliance flags detected.
+- ⚠️ Elevated sanctions exposure (4.6/10)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
+- ⚠️ Low confidence score (0%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 96.0/100
-- **Sanctions Risk:** 0.8/10
-- **ESG Score:** 77.3/100
-- **Controversies:** 0
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 67.0/100
+- **Sanctions Risk:** 4.6/10
+- **ESG Score:** 62.5/100
+- **Controversies:** 1
 
 ---
 
@@ -71,7 +67,6 @@ This position is classified under the **GROWTH** strategy bucket. Portfolio cons
 ---
 
 ## 6. Sources & References
-- https://finance.yahoo.com/quote/MTUM
 
 ---
 

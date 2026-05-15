@@ -483,6 +483,72 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPMO",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:15:03.658537+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPY",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:15:06.391503+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "MTUM",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:15:09.080473+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPMO",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:15:11.834029+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPY",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:15:14.493200+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "MTUM",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:15:17.089007+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }
