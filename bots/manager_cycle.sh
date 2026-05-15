@@ -112,6 +112,53 @@ if not has_recent_sector:
 print(f'Auto-added {added} tasks')
 " >> "$LOG_FILE" 2>&1
 
-# 6. Final summary
+# 6. Final summary — log
+
+STATUS=✅
+ERROR=""
+if ! curl -sf http://localhost:8000/health > /dev/null 2>&1; then
+    STATUS=❌
+    ERROR="Backend DOWN"
+fi
+
 echo "[$(date -Iseconds)] Cycle complete. Next run in 15 minutes." >> "$LOG_FILE"
 echo "" >> "$LOG_FILE"
+
+# ============================================
+# PRINT SUMMARY TO STDOUT (Hermes delivers to Discord)
+# ============================================
+echo "📊 SCC Cycle Summary"
+echo "🕐 $(date -Iseconds)"
+echo ""
+
+GIT_STATUS=$(git status --short 2>/dev/null | wc -l | tr -d ' ')
+if [ "$GIT_STATUS" -eq 0 ]; then
+    echo "📝 Git: clean (no changes)"
+else
+    echo "📝 Git: $GIT_STATUS modified files"
+fi
+
+if curl -sf http://localhost:8000/health > /dev/null 2>&1; then
+    echo "✅ Backend: UP (localhost:8000)"
+else
+    echo "❌ Backend: DOWN"
+fi
+
+if curl -sf http://localhost:8081 > /dev/null 2>&1; then
+    echo "✅ Frontend: UP (localhost:8081)"
+else
+    echo "❌ Frontend: DOWN"
+fi
+
+AGENT_COUNT=$(jq '.agents | map(select(.active == true)) | length' dashboard/data/agent_registry.json 2>/dev/null || echo "?")
+echo "🤖 Agents: $AGENT_COUNT active"
+
+echo ""
+echo "🐳 Containers:"
+docker ps --format "  {{.Names}}\t{{.Status}}" | grep scc- | head -4 || echo "  No SCC containers running"
+
+echo ""
+echo "⏰ Next run: 15 minutes"
+if [ -n "$ERROR" ]; then
+    echo "⚠️  Alert: $ERROR"
+fi
