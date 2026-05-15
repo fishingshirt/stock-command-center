@@ -1,0 +1,58 @@
+{
+  "task_id": "20260515-397",
+  "subject": "V Visa payment network fundamentals",
+  "timestamp": "2026-05-15T17:31:02.408431+00:00",
+  "recommendation": "SELL",
+  "confidence": 75,
+  "summary": "SPY \u2014 BULLISH sentiment, SELL (75% confidence). PE: 27.902452, RSI: 73.93, Price: $742.72.",
+  "key_metrics": {
+    "ticker": "SPY",
+    "current_price": 742.72,
+    "previous_close": 748.17,
+    "pe_ratio": 27.902452,
+    "market_cap": null,
+    "52_week_high": 749.53,
+    "52_week_low": 575.6,
+    "avg_volume": 74117604,
+    "rsi_14": 73.93,
+    "sma_20": 723.98,
+    "sma_50": null,
+    "price_change_5d_pct": 0.47,
+    "sentiment_score": 100.0,
+    "sentiment_label": "BULLISH"
+  },
+  "news": [
+    {
+      "title": "The S&P 500 Barely Yields 2%. These 3 Dividend Stocks Under $30 Are Doing Much Better Than That",
+      "published": "Fri, 15 May 2026 14:57:01 +0000",
+      "url": "https://247wallst.com/investing/2026/05/15/the-sp-500-barely-yields-2-these-3-dividend-stocks-under-30-are-doing-much-better-than-that/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Prediction. The S&P 500 Is So Far Above Its Moving Averages That a 10% Correction This Summer Is Not Out of the Question",
+      "published": "Fri, 15 May 2026 14:35:37 +0000",
+      "url": "https://247wallst.com/investing/2026/05/15/prediction-the-sp-500-is-so-far-above-its-moving-averages-that-a-10-correction-this-summer-is-not-out-of-the-question/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Why I Would Tell a 50-Year-Old to Skip the $50,000 401(k) Loan and the $100,000 It Would Quietly Cost Her",
+      "published": "Fri, 15 May 2026 14:27:57 +0000",
+      "url": "https://247wallst.com/personal-finance/2026/05/15/why-i-would-tell-a-50-year-old-to-skip-the-50000-401k-loan-and-the-100000-it-would-quietly-cost-her/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish_mentions": 1,
+    "bearish_mentions": 0,
+    "total_mentions": 1
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/SPY"
+  ],
+  "full_text": "## SPY Research Result\n\n### Recommendation: SELL (75% confidence)\n\n### Sentiment: BULLISH (100.0)\n\n### Key Metrics\n- **ticker:** SPY\n- **current_price:** 742.72\n- **previous_close:** 748.17\n- **pe_ratio:** 27.902452\n- **market_cap:** None\n- **52_week_high:** 749.53\n- **52_week_low:** 575.6\n- **avg_volume:** 74117604\n- **rsi_14:** 73.93\n- **sma_20:** 723.98\n- **sma_50:** None\n- **price_change_5d_pct:** 0.47\n- **sentiment_score:** 100.0\n- **sentiment_label:** BULLISH\n\n### Latest News\n- [The S&P 500 Barely Yields 2%. These 3 Dividend Stocks Under $30 Are Doing Much Better Than That](https://247wallst.com/investing/2026/05/15/the-sp-500-barely-yields-2-these-3-dividend-stocks-under-30-are-doing-much-better-than-that/?.tsrc=rss)\n- [Prediction. The S&P 500 Is So Far Above Its Moving Averages That a 10% Correction This Summer Is Not Out of the Question](https://247wallst.com/investing/2026/05/15/prediction-the-sp-500-is-so-far-above-its-moving-averages-that-a-10-correction-this-summer-is-not-out-of-the-question/?.tsrc=rss)\n- [Why I Would Tell a 50-Year-Old to Skip the $50,000 401(k) Loan and the $100,000 It Would Quietly Cost Her](https://247wallst.com/personal-finance/2026/05/15/why-i-would-tell-a-50-year-old-to-skip-the-50000-401k-loan-and-the-100000-it-would-quietly-cost-her/?.tsrc=rss)",
+  "paper_trade_signal": "SELL",
+  "paper_trade_price": 742.72,
+  "asset_type": "stock"
+}

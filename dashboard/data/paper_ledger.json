@@ -1,17 +1,7 @@
 {
-  "cash": 81904.08786700001,
+  "cash": 91926.28981900001,
   "initial_capital": 100000.0,
   "positions": {
-    "SPMO": {
-      "ticker": "SPMO",
-      "shares": 69.3674,
-      "entry_price": 144.16,
-      "last_price": 144.16,
-      "confidence": 65,
-      "reasoning": "SPMO \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $144.16.",
-      "task_id": "20260515-359",
-      "opened_at": "2026-05-15T15:47:15.775779+00:00"
-    },
     "MTUM": {
       "ticker": "MTUM",
       "shares": 27.0162,
@@ -51,8 +41,22 @@
       "opened_at": "2026-05-15T16:38:18.510943+00:00",
       "closed_at": "2026-05-15T16:45:33.015189+00:00",
       "task_id": "20260515-381"
+    },
+    {
+      "ticker": "SPMO",
+      "action": "SELL",
+      "shares": 69.3674,
+      "entry_price": 144.16,
+      "exit_price": 144.48,
+      "pnl": 22.2,
+      "return_pct": 0.22,
+      "hold_seconds": 6222.4,
+      "reasoning": "SPMO \u2014 BULLISH sentiment, SELL (75% confidence). PE: 34.4686, RSI: 70.23, Price: $144.48.",
+      "opened_at": "2026-05-15T15:47:15.775779+00:00",
+      "closed_at": "2026-05-15T17:30:58.200578+00:00",
+      "task_id": "20260515-396"
     }
   ],
   "created_at": "2026-05-15T06:50:00+00:00",
-  "updated_at": "2026-05-15T16:45:33.015193+00:00"
+  "updated_at": "2026-05-15T17:30:58.200582+00:00"
 }
