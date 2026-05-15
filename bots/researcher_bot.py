@@ -1,4 +1,5 @@
 """
+"""
 bots/researcher_bot.py
 Domain expert worker. Gathers stock/crypto data and writes structured result JSON.
 Usage:
@@ -8,14 +9,13 @@ import argparse
 import json
 import os
 import re
-import random
 import subprocess
 import sys
-current_dir = os.path.dirname(os.path.abspath(__file__))
-parent = os.path.dirname(current_dir)
-sys.path.insert(0, parent)
 from datetime import datetime, timezone
 from pathlib import Path
+
+parent = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, parent)
 
 # Optional imports — degrade gracefully if unavailable
 try:
