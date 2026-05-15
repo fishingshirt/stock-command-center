@@ -32,18 +32,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260515-097
-**Subject:** Auto: Tune VALUE strategy parameters
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T07:00:09.424001+00:00
-**Details:**
-- Strategy: VALUE
-- Win rate: 0.0% over 27 trades
-- Target: improve to >= 45.0%
-- Suggestion: adjust entry/exit thresholds or combine with another strategy
-- Created via feedback_loop auto-improve
+_(No tasks in this section.)_
 
 ## Done
 
@@ -12255,3 +12244,22 @@ This is the single source of truth for all research and build tasks. Do not edit
 - Fundamentals check
 - News sentiment
 - Investment recommendation
+
+### Task ID: 20260515-097
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:00:09.424001+00:00
+**Completed At:** 2026-05-15T07:00:10.672519+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: VALUE
+- Win rate: 0.0% over 27 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 27 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
