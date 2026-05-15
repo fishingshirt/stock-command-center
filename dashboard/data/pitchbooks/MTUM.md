@@ -3,41 +3,41 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T20:01:02.737961+00:00  
+**Generated:** 2026-05-15T20:15:39.571581+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.675507, RSI: 63.8, Price: $298.28.
+MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$171.21**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$178.46**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **35/100** (Mixed earnings signals)
-- Recent EPS surprise: **-6.1%**
-- Next earnings date: **2026-06-11**
+- Earnings momentum score: **55/100** (Mixed earnings signals)
+- Recent EPS surprise: **+9.4%**
+- Next earnings date: **2026-06-20**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $173.54 |
-| DCF Intrinsic Value | $154.55 |
-| Comparable Implied | $187.86 |
-| Blended Target | $171.21 |
+| Current Price | $219.22 |
+| DCF Intrinsic Value | $22.87 |
+| Comparable Implied | $334.05 |
+| Blended Target | $178.46 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** MTUM
-- **Current Price:** 298.28
+- **Current Price:** 298.27
 - **Previous Close:** 307.25
-- **Pe Ratio:** 32.675507
+- **Pe Ratio:** 32.67441
 - **Market Cap:** None
 - **52 Week High:** 307.96
 - **52 Week Low:** 223.47
@@ -47,7 +47,7 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.675507, RSI: 63.
 
 ## 3. Risks
 
-- ⚠️ 2 active controversies
+- ⚠️ Elevated sanctions exposure (4.2/10)
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
@@ -55,10 +55,10 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.675507, RSI: 63.
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 75.0/100
-- **Sanctions Risk:** 1.0/10
-- **ESG Score:** 56.6/100
-- **Controversies:** 2
+- **Compliance Score:** 78.8/100
+- **Sanctions Risk:** 4.2/10
+- **ESG Score:** 61.5/100
+- **Controversies:** 0
 
 ---
 
