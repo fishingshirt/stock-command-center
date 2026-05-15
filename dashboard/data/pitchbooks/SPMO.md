@@ -1,43 +1,43 @@
 # Investment Memo: SPMO
 
-**Recommendation:** SELL  
-**Confidence:** 75%  
+**Recommendation:** ACCUMULATE  
+**Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T18:15:13.800733+00:00  
+**Generated:** 2026-05-15T18:31:06.479149+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SPMO — BULLISH sentiment, SELL (75% confidence). PE: 34.518703, RSI: 70.72, Price: $144.69.
+SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.394646, RSI: 69.53, Price: $144.17.
 
-**Key Takeaway:** SPMO is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$266.11**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$55.16**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **25/100** (Earnings weakness detected)
-- Recent EPS surprise: **+0.2%**
-- Next earnings date: **2026-05-21**
+- Earnings momentum score: **35/100** (Mixed earnings signals)
+- Recent EPS surprise: **-7.7%**
+- Next earnings date: **2026-06-10**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $344.9 |
-| DCF Intrinsic Value | $143.9 |
-| Comparable Implied | $388.31 |
-| Blended Target | $266.11 |
+| Current Price | $74.72 |
+| DCF Intrinsic Value | $82.56 |
+| Comparable Implied | $27.76 |
+| Blended Target | $55.16 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPMO
-- **Current Price:** 144.69
+- **Current Price:** 144.17
 - **Previous Close:** 147.52
-- **Pe Ratio:** 34.518703
+- **Pe Ratio:** 34.394646
 - **Market Cap:** None
 - **52 Week High:** 147.87
 - **52 Week Low:** 101.8
@@ -47,9 +47,9 @@ SPMO — BULLISH sentiment, SELL (75% confidence). PE: 34.518703, RSI: 70.72, Pr
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (7.3/10)
-- ⚠️ Poor ESG score (49.2)
-- ⚠️ 1 active controversies
+- ⚠️ Elevated sanctions exposure (6.0/10)
+- ⚠️ Poor ESG score (41.9)
+- ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
@@ -57,10 +57,10 @@ SPMO — BULLISH sentiment, SELL (75% confidence). PE: 34.518703, RSI: 70.72, Pr
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 53.6/100
-- **Sanctions Risk:** 7.3/10
-- **ESG Score:** 49.2/100
-- **Controversies:** 1
+- **Compliance Score:** 50.1/100
+- **Sanctions Risk:** 6.0/10
+- **ESG Score:** 41.9/100
+- **Controversies:** 2
 
 ---
 
