@@ -14,6 +14,14 @@ This is the single source of truth for all research and build tasks. Do not edit
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
 
+### Task ID: 20260515-205
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
 ## In Progress
 
 ### Task ID: 20260515-203
