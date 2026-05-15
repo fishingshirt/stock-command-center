@@ -2,8 +2,8 @@
 
 **Recommendation:** SELL  
 **Confidence:** 75%  
-**Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T12:30:43.066379+00:00  
+**Strategy:** QUALITY  
+**Generated:** 2026-05-15T12:45:29.371197+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 MTUM — BULLISH sentiment, SELL (75% confidence). PE: 33.65814, RSI: 74.08, Price: $307.25.
 
-**Key Takeaway:** MTUM is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$200.08**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$175.91**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **80/100** (Strong earnings momentum)
-- Recent EPS surprise: **+16.1%**
-- Next earnings date: **2026-05-29**
+- Earnings momentum score: **55/100** (Mixed earnings signals)
+- Recent EPS surprise: **+11.0%**
+- Next earnings date: **2026-06-03**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $205.73 |
-| DCF Intrinsic Value | $242.03 |
-| Comparable Implied | $158.13 |
-| Blended Target | $200.08 |
+| Current Price | $368.07 |
+| DCF Intrinsic Value | $84.03 |
+| Comparable Implied | $267.79 |
+| Blended Target | $175.91 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,26 +47,26 @@ MTUM — BULLISH sentiment, SELL (75% confidence). PE: 33.65814, RSI: 74.08, Pri
 
 ## 3. Risks
 
-- ⚠️ 3 active controversies
+- ⚠️ Poor ESG score (41.0)
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 60.8/100
-- **Sanctions Risk:** 1.8/10
-- **ESG Score:** 83.3/100
-- **Controversies:** 3
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 94.9/100
+- **Sanctions Risk:** 1.0/10
+- **ESG Score:** 41.0/100
+- **Controversies:** 0
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** MOMENTUM
+**Primary Strategy:** QUALITY
 
-This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **QUALITY** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
