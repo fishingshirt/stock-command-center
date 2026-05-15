@@ -378,6 +378,14 @@ def bots_status():
     }
 
 
+# === AGENT ECOSYSTEM API ===
+try:
+    import agent_api
+    app.include_router(agent_api.router, prefix="/api")
+except Exception:
+    pass
+
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)

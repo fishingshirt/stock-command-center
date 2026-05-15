@@ -9,11 +9,22 @@ from pathlib import Path
 from fastapi import APIRouter
 
 REPO = Path(__file__).resolve().parent.parent.parent
-AGENT_REG = REPO / "dashboard" / "data" / "agent_registry.json"
-MEM_DIR = REPO / "dashboard" / "data" / "agent_memories"
-BOARD_DIR = REPO / "dashboard" / "data" / "agent_boards"
-MEET_DIR = REPO / "dashboard" / "data" / "agent_meetings"
-OUTPUT_DIR = REPO / "dashboard" / "data" / "output"
+
+# Data paths differ between local dev (repo/dashboard/data/) and Docker container (/app/data/)
+if (Path("/app/data") / "agent_registry.json").exists():
+    DATA_ROOT = Path("/app/data")
+elif (REPO / "dashboard" / "data" / "agent_registry.json").exists():
+    DATA_ROOT = REPO / "dashboard" / "data"
+else:
+    DATA_ROOT = REPO / "dashboard" / "data"
+
+AGENT_REG = DATA_ROOT / "agent_registry.json"
+MEM_DIR = DATA_ROOT / "agent_memories"
+BOARD_DIR = DATA_ROOT / "agent_boards"
+MEET_DIR = DATA_ROOT / "agent_meetings"
+
+# Output dir
+OUTPUT_DIR = Path("/app/data/output") if Path("/app/data/output").exists() else (REPO / "dashboard" / "data" / "output")
 
 router = APIRouter()
 
