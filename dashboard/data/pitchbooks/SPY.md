@@ -2,42 +2,42 @@
 
 **Recommendation:** SELL  
 **Confidence:** 75%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T15:34:05.077721+00:00  
+**Strategy:** MOMENTUM  
+**Generated:** 2026-05-15T15:37:44.616902+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.84986, RSI: 72.17, Price: $741.34.
+SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.858124, RSI: 72.44, Price: $741.57.
 
-**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$48.87**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$378.05**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **25/100** (Earnings weakness detected)
-- Recent EPS surprise: **-0.4%**
-- Next earnings date: **2026-06-17**
+- Earnings momentum score: **65/100** (Strong earnings momentum)
+- Recent EPS surprise: **+4.4%**
+- Next earnings date: **2026-06-05**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $127.69 |
-| DCF Intrinsic Value | $46.99 |
-| Comparable Implied | $50.75 |
-| Blended Target | $48.87 |
+| Current Price | $458.39 |
+| DCF Intrinsic Value | $85.02 |
+| Comparable Implied | $671.08 |
+| Blended Target | $378.05 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
-- **Current Price:** 741.34
+- **Current Price:** 741.57
 - **Previous Close:** 748.17
-- **Pe Ratio:** 27.84986
+- **Pe Ratio:** 27.858124
 - **Market Cap:** None
 - **52 Week High:** 749.53
 - **52 Week Low:** 575.6
@@ -47,27 +47,26 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.84986, RSI: 72.17, Pric
 
 ## 3. Risks
 
-- ⚠️ Poor ESG score (47.0)
-- ⚠️ 1 active controversies
+- ⚠️ Poor ESG score (43.9)
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 78.0/100
-- **Sanctions Risk:** 2.4/10
-- **ESG Score:** 47.0/100
-- **Controversies:** 1
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 100.0/100
+- **Sanctions Risk:** 0.0/10
+- **ESG Score:** 43.9/100
+- **Controversies:** 0
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** MOMENTUM
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
