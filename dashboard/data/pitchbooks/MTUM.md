@@ -1,70 +1,79 @@
 # Investment Memo: MTUM
 
-**Recommendation:** NO_DATA  
-**Confidence:** 0%  
-**Strategy:** VALUE  
-**Generated:** 2026-05-15T10:15:09.314169+00:00  
+**Recommendation:** ACCUMULATE  
+**Confidence:** 65%  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-15T10:15:52.085075+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Data unavailable for MTUM: No data source available. No recommendation can be made.
+MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $307.25.
 
-**Key Takeaway:** MTUM is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$158.83**, representing a **35.29% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$93.71**, representing a **4.11% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **25/100** (Earnings weakness detected)
-- Recent EPS surprise: **-7.7%**
-- Next earnings date: **2026-05-25**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **-13.8%**
+- Next earnings date: **2026-06-16**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $102.78 |
-| DCF Intrinsic Value | $240.89 |
-| Comparable Implied | $76.77 |
-| Blended Target | $158.83 |
-| Margin of Safety | 35.29% |
-| Verdict | Undervalued |
+| Current Price | $89.86 |
+| DCF Intrinsic Value | $107.66 |
+| Comparable Implied | $79.76 |
+| Blended Target | $93.71 |
+| Margin of Safety | 4.11% |
+| Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** MTUM
-- ** Error:** No data source available
+- **Current Price:** 307.25
+- **Previous Close:** 305.4
+- **Pe Ratio:** None
+- **Market Cap:** None
+- **52 Week High:** 307.96
+- **52 Week Low:** 223.47
+- **Avg Volume:** None
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (9.9/10)
-- ⚠️ Low confidence score (0%) — uncertain conviction
+- ⚠️ Elevated sanctions exposure (5.4/10)
+- ⚠️ Poor ESG score (41.9)
+- ⚠️ 2 active controversies
+- ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 50.5/100
-- **Sanctions Risk:** 9.9/10
-- **ESG Score:** 73.9/100
-- **Controversies:** 0
+- **Compliance Score:** 53.0/100
+- **Sanctions Risk:** 5.4/10
+- **ESG Score:** 41.9/100
+- **Controversies:** 2
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** VALUE
+**Primary Strategy:** GROWTH
 
-This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
 ## 6. Sources & References
+- https://finance.yahoo.com/quote/MTUM
 
 ---
 
