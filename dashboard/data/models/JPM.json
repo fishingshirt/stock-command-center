@@ -1,0 +1,42 @@
+{
+  "ticker": "JPM",
+  "timestamp": "2026-05-15T07:45:05.827106+00:00",
+  "current_price": 132.48,
+  "dcf_target": 78.4,
+  "comparable_target": 58.84,
+  "blended_target": 68.62,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 6.75,
+    "projected_fcf_5yr": [
+      7.44,
+      8.18,
+      9.01,
+      9.92,
+      10.92
+    ],
+    "growth_rate_assumed": 0.101,
+    "wacc": 0.088,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 195.01,
+    "enterprise_value_billions": 163.13,
+    "net_cash_billions": 6.23,
+    "equity_value_billions": 169.36,
+    "intrinsic_per_share": 78.4,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 132.48,
+    "trailing_pe": 36.9,
+    "forward_pe": 27.93,
+    "ev_ebitda": 23.02,
+    "price_to_sales": 8.09,
+    "price_to_book": 6.99,
+    "eps": 3.59,
+    "peer_median_pe": 16.39,
+    "implied_price_pe": 58.84,
+    "upside_pct": -55.58,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

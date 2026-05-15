@@ -1,0 +1,13 @@
+{
+  "ticker": "XOM",
+  "recommendation": "NO_DATA",
+  "confidence": 0,
+  "reasoning": "We are watching XOM closely.\n\n**Research Findings:**\n- Data unavailable for XOM: No data source available. No recommendation can be made.\n\n**Earnings Analysis:**\n- Earnings weakness detected \u2014 catalyst score 10/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $319.25\n\n**Confidence Drivers:**\n- Overall confidence: **0%**\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Low confidence indicates significant uncertainty\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
+  "pitchbook_path": "/home/fishingshirt/stock-command-center/dashboard/data/pitchbooks/XOM.md",
+  "generated_at": "2026-05-15T07:45:08.334306+00:00",
+  "confidence_factors": {
+    "earnings_score": 10,
+    "valuation_margin": 0,
+    "research_confidence": 0
+  }
+}

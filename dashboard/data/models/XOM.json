@@ -1,0 +1,42 @@
+{
+  "ticker": "XOM",
+  "timestamp": "2026-05-15T07:45:08.223385+00:00",
+  "current_price": 566.14,
+  "dcf_target": 37.32,
+  "comparable_target": 601.18,
+  "blended_target": 319.25,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 4.64,
+    "projected_fcf_5yr": [
+      5.07,
+      5.55,
+      6.07,
+      6.64,
+      7.26
+    ],
+    "growth_rate_assumed": 0.094,
+    "wacc": 0.096,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 113.82,
+    "enterprise_value_billions": 95.13,
+    "net_cash_billions": 4.82,
+    "equity_value_billions": 99.95,
+    "intrinsic_per_share": 37.32,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 566.14,
+    "trailing_pe": 26.82,
+    "forward_pe": 19.81,
+    "ev_ebitda": 8.94,
+    "price_to_sales": 10.0,
+    "price_to_book": 5.35,
+    "eps": 21.11,
+    "peer_median_pe": 28.48,
+    "implied_price_pe": 601.18,
+    "upside_pct": 6.19,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

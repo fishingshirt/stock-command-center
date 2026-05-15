@@ -1,0 +1,36 @@
+{
+  "next_earnings_date": "2026-06-14",
+  "earnings_history": [
+    {
+      "date": "2026-02-28",
+      "eps_estimate": 5.59,
+      "reported_eps": 5.79,
+      "surprise_pct": -13.7
+    },
+    {
+      "date": "2025-11-30",
+      "eps_estimate": 5.29,
+      "reported_eps": 5.49,
+      "surprise_pct": -11.8
+    },
+    {
+      "date": "2025-08-30",
+      "eps_estimate": 4.99,
+      "reported_eps": 5.19,
+      "surprise_pct": -11.7
+    }
+  ],
+  "eps_ttm": 23.16,
+  "eps_forward": 30.11,
+  "revenue_growth": -0.032,
+  "earnings_growth": 0.044,
+  "pe_trailing": 45.8,
+  "pe_forward": 23.86,
+  "peg_ratio": 0.87,
+  "ticker": "XOM",
+  "analyzed_at": "2026-05-15T07:45:08.184189+00:00",
+  "source": "mock_fallback",
+  "surprise_avg_pct": -12.4,
+  "earnings_catalyst_score": 10,
+  "verdict": "Earnings weakness detected"
+}

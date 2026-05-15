@@ -1,0 +1,36 @@
+{
+  "next_earnings_date": "2026-06-02",
+  "earnings_history": [
+    {
+      "date": "2026-02-28",
+      "eps_estimate": 5.13,
+      "reported_eps": 5.33,
+      "surprise_pct": -3.1
+    },
+    {
+      "date": "2025-11-30",
+      "eps_estimate": 4.83,
+      "reported_eps": 5.03,
+      "surprise_pct": -1.0
+    },
+    {
+      "date": "2025-08-30",
+      "eps_estimate": 4.53,
+      "reported_eps": 4.73,
+      "surprise_pct": 4.0
+    }
+  ],
+  "eps_ttm": 21.32,
+  "eps_forward": 27.72,
+  "revenue_growth": 0.153,
+  "earnings_growth": 0.383,
+  "pe_trailing": 39.42,
+  "pe_forward": 20.3,
+  "peg_ratio": 1.42,
+  "ticker": "JPM",
+  "analyzed_at": "2026-05-15T07:45:05.787404+00:00",
+  "source": "mock_fallback",
+  "surprise_avg_pct": -0.03,
+  "earnings_catalyst_score": 50,
+  "verdict": "Mixed earnings signals"
+}
