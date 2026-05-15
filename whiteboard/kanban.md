@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260515-169
-**Subject:** VOOG Vanguard S&P 500 Growth check
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-15
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
-
 ### Task ID: 20260515-170
 **Subject:** VOO Vanguard S&P 500 core anchor
 **Assigned Bot:** researcher_bot
@@ -24,7 +16,14 @@ Auto-generated research task. Bot: researcher_bot.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260515-169
+**Subject:** VOOG Vanguard S&P 500 Growth check
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:45:05.181328+00:00
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
 
 ## Done
 
