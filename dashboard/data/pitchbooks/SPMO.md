@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T21:45:27.987463+00:00  
+**Generated:** 2026-05-15T22:01:11.197083+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.01, Price: $143.48.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$222.12**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$155.02**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **+3.1%**
-- Next earnings date: **2026-05-20**
+- Earnings momentum score: **25/100** (Earnings weakness detected)
+- Recent EPS surprise: **-9.9%**
+- Next earnings date: **2026-06-22**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $416.46 |
-| DCF Intrinsic Value | $80.25 |
-| Comparable Implied | $364.0 |
-| Blended Target | $222.12 |
+| Current Price | $528.5 |
+| DCF Intrinsic Value | $45.15 |
+| Comparable Implied | $264.9 |
+| Blended Target | $155.02 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,7 +47,7 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (4.4/10)
+- ⚠️ Elevated sanctions exposure (6.7/10)
 - ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
@@ -56,9 +56,9 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 68.1/100
-- **Sanctions Risk:** 4.4/10
-- **ESG Score:** 61.1/100
+- **Compliance Score:** 56.7/100
+- **Sanctions Risk:** 6.7/10
+- **ESG Score:** 74.2/100
 - **Controversies:** 1
 
 ---
