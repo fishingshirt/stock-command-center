@@ -3,41 +3,41 @@
 **Recommendation:** SELL  
 **Confidence:** 75%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T18:00:26.834390+00:00  
+**Generated:** 2026-05-15T18:15:13.800733+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SPMO — BULLISH sentiment, SELL (75% confidence). PE: 34.494843, RSI: 70.49, Price: $144.59.
+SPMO — BULLISH sentiment, SELL (75% confidence). PE: 34.518703, RSI: 70.72, Price: $144.69.
 
-**Key Takeaway:** SPMO is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$471.58**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$266.11**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **35/100** (Mixed earnings signals)
-- Recent EPS surprise: **-12.5%**
-- Next earnings date: **2026-05-31**
+- Earnings momentum score: **25/100** (Earnings weakness detected)
+- Recent EPS surprise: **+0.2%**
+- Next earnings date: **2026-05-21**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $487.0 |
-| DCF Intrinsic Value | $208.88 |
-| Comparable Implied | $734.28 |
-| Blended Target | $471.58 |
+| Current Price | $344.9 |
+| DCF Intrinsic Value | $143.9 |
+| Comparable Implied | $388.31 |
+| Blended Target | $266.11 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPMO
-- **Current Price:** 144.59
+- **Current Price:** 144.69
 - **Previous Close:** 147.52
-- **Pe Ratio:** 34.494843
+- **Pe Ratio:** 34.518703
 - **Market Cap:** None
 - **52 Week High:** 147.87
 - **52 Week Low:** 101.8
@@ -47,7 +47,8 @@ SPMO — BULLISH sentiment, SELL (75% confidence). PE: 34.494843, RSI: 70.49, Pr
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (3.2/10)
+- ⚠️ Elevated sanctions exposure (7.3/10)
+- ⚠️ Poor ESG score (49.2)
 - ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
@@ -56,9 +57,9 @@ SPMO — BULLISH sentiment, SELL (75% confidence). PE: 34.494843, RSI: 70.49, Pr
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 73.9/100
-- **Sanctions Risk:** 3.2/10
-- **ESG Score:** 54.9/100
+- **Compliance Score:** 53.6/100
+- **Sanctions Risk:** 7.3/10
+- **ESG Score:** 49.2/100
 - **Controversies:** 1
 
 ---

@@ -3,41 +3,41 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T18:00:38.987874+00:00  
+**Generated:** 2026-05-15T18:15:26.472805+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.931297, RSI: 66.23, Price: $300.61.
+MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.955948, RSI: 66.48, Price: $300.84.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$84.82**, representing a **7.57% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$283.86**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **25/100** (Earnings weakness detected)
-- Recent EPS surprise: **+1.1%**
-- Next earnings date: **2026-06-28**
+- Earnings momentum score: **20/100** (Earnings weakness detected)
+- Recent EPS surprise: **-14.3%**
+- Next earnings date: **2026-05-29**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $78.4 |
-| DCF Intrinsic Value | $89.9 |
-| Comparable Implied | $79.74 |
-| Blended Target | $84.82 |
-| Margin of Safety | 7.57% |
-| Verdict | Fairly valued |
+| Current Price | $516.95 |
+| DCF Intrinsic Value | $26.7 |
+| Comparable Implied | $541.01 |
+| Blended Target | $283.86 |
+| Margin of Safety | 0% |
+| Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** MTUM
-- **Current Price:** 300.61
+- **Current Price:** 300.84
 - **Previous Close:** 307.25
-- **Pe Ratio:** 32.931297
+- **Pe Ratio:** 32.955948
 - **Market Cap:** None
 - **52 Week High:** 307.96
 - **52 Week Low:** 223.47
@@ -47,16 +47,18 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.931297, RSI: 66.
 
 ## 3. Risks
 
+- ⚠️ Elevated sanctions exposure (6.8/10)
 - ⚠️ 1 active controversies
+- ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 88.4/100
-- **Sanctions Risk:** 0.3/10
-- **ESG Score:** 61.6/100
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 56.0/100
+- **Sanctions Risk:** 6.8/10
+- **ESG Score:** 61.1/100
 - **Controversies:** 1
 
 ---
