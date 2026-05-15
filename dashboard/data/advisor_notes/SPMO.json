@@ -2,9 +2,9 @@
   "ticker": "SPMO",
   "recommendation": "NO_DATA",
   "confidence": 0,
-  "reasoning": "We are watching SPMO closely.\n\n**Research Findings:**\n- Data unavailable for SPMO: No data source available. No recommendation can be made.\n\n**Earnings Analysis:**\n- Mixed earnings signals \u2014 catalyst score 50/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $251.18\n\n**Confidence Drivers:**\n- Overall confidence: **0%**\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Low confidence indicates significant uncertainty\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
+  "reasoning": "We are watching SPMO closely.\n\n**Research Findings:**\n- Data unavailable for SPMO: No data source available. No recommendation can be made.\n\n**Earnings Analysis:**\n- Mixed earnings signals \u2014 catalyst score 50/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $277.6\n\n**Confidence Drivers:**\n- Overall confidence: **0%**\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Low confidence indicates significant uncertainty\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
   "pitchbook_path": "/home/fishingshirt/stock-command-center/dashboard/data/pitchbooks/SPMO.md",
-  "generated_at": "2026-05-15T09:45:47.237918+00:00",
+  "generated_at": "2026-05-15T10:00:10.762918+00:00",
   "confidence_factors": {
     "earnings_score": 50,
     "valuation_margin": 0,
