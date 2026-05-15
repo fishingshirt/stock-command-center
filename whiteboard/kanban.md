@@ -60,14 +60,7 @@ Auto-generated research task. Bot: researcher_bot.
 
 ## In Progress
 
-### Task ID: 20260515-116
-**Subject:** NVDA earnings momentum
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T07:15:05.668186+00:00
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -12570,3 +12563,15 @@ Auto-generated research task. Bot: researcher_bot.
 - Target: improve to >= 45.0%
 - Suggestion: adjust entry/exit thresholds or combine with another strategy
 - Created via feedback_loop auto-improve
+
+### Task ID: 20260515-116
+**Subject:** NVDA earnings momentum
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:15:05.668186+00:00
+**Completed At:** 2026-05-15T07:15:06.910398+00:00
+**Result:** dashboard/data/output/20260515-116.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
