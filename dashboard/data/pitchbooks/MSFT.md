@@ -1,79 +1,73 @@
 # Investment Memo: MSFT
 
-**Recommendation:** ACCUMULATE  
-**Confidence:** 65%  
-**Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T07:15:35.002331+00:00  
+**Recommendation:** NO_DATA  
+**Confidence:** 0%  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-15T07:30:03.766668+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-MSFT — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $409.43.
+Data unavailable for MSFT: No data source available. No recommendation can be made.
 
-**Key Takeaway:** MSFT is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$393.2**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MSFT is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$62.98**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+19.5%**
-- Next earnings date: **2026-06-07**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **-10.7%**
+- Next earnings date: **2026-05-23**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $547.88 |
-| DCF Intrinsic Value | $102.63 |
-| Comparable Implied | $683.77 |
-| Blended Target | $393.2 |
+| Current Price | $108.36 |
+| DCF Intrinsic Value | $55.64 |
+| Comparable Implied | $70.32 |
+| Blended Target | $62.98 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** MSFT
-- **Current Price:** 409.43
-- **Previous Close:** 405.21
-- **Pe Ratio:** None
-- **Market Cap:** None
-- **52 Week High:** 555.45
-- **52 Week Low:** 356.28
-- **Avg Volume:** None
+- ** Error:** No data source available
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (3.7/10)
-- ⚠️ Poor ESG score (40.3)
-- ⚠️ 3 active controversies
+- ⚠️ Elevated sanctions exposure (6.4/10)
+- ⚠️ Poor ESG score (45.4)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
+- ⚠️ Low confidence score (0%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 51.3/100
-- **Sanctions Risk:** 3.7/10
-- **ESG Score:** 40.3/100
-- **Controversies:** 3
+- **Compliance Score:** 57.8/100
+- **Sanctions Risk:** 6.4/10
+- **ESG Score:** 45.4/100
+- **Controversies:** 1
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** MOMENTUM
+**Primary Strategy:** GROWTH
 
-This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
 ## 6. Sources & References
-- https://finance.yahoo.com/quote/MSFT
 
 ---
 

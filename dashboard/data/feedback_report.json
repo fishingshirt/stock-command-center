@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T07:15:27.252669+00:00",
+  "generated_at": "2026-05-15T07:30:01.945711+00:00",
   "overall": {
     "closed_trades": 0,
     "open_positions": 0,
@@ -10,7 +10,7 @@
       "name": "researcher_bot",
       "expertise": "multi-domain_research",
       "accuracy": 50.0,
-      "predictions": 8,
+      "predictions": 11,
       "correct": 0
     },
     {
@@ -56,39 +56,6 @@
       "correct": 0
     }
   ],
-  "strategy_stats": {
-    "VALUE": {
-      "trades": 29,
-      "win_rate": 0.0,
-      "avg_return_pct": 0.0,
-      "wins": 0,
-      "losses": 0
-    },
-    "MOMENTUM": {
-      "trades": 30,
-      "win_rate": 0.0,
-      "avg_return_pct": 0.0,
-      "wins": 0,
-      "losses": 0
-    },
-    "GROWTH": {
-      "trades": 128,
-      "win_rate": 0.0,
-      "avg_return_pct": 0.0,
-      "wins": 0,
-      "losses": 0
-    },
-    "QUALITY": {
-      "trades": 3,
-      "win_rate": 0.0,
-      "avg_return_pct": 0.0,
-      "wins": 0,
-      "losses": 0
-    }
-  },
-  "warnings": [
-    "Strategy VALUE win rate 0.0% \u2014 below threshold",
-    "Strategy MOMENTUM win rate 0.0% \u2014 below threshold",
-    "Strategy GROWTH win rate 0.0% \u2014 below threshold"
-  ]
+  "strategy_stats": {},
+  "warnings": []
 }

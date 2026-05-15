@@ -1,17 +1,17 @@
 {
   "ticker": "MSFT",
-  "timestamp": "2026-05-15T07:15:34.977171+00:00",
-  "compliance_score": 51.3,
+  "timestamp": "2026-05-15T07:30:03.729837+00:00",
+  "compliance_score": 57.8,
   "risk_level": "MEDIUM",
-  "sanctions_risk": 3.7,
+  "sanctions_risk": 6.4,
   "pep_exposure": 0,
-  "esg_score": 40.3,
-  "controversy_count": 3,
+  "esg_score": 45.4,
+  "controversy_count": 1,
   "jurisdiction_risk": "low",
   "flags": [
-    "Elevated sanctions exposure (3.7/10)",
-    "Poor ESG score (40.3)",
-    "3 active controversies"
+    "Elevated sanctions exposure (6.4/10)",
+    "Poor ESG score (45.4)",
+    "1 active controversies"
   ],
   "pass": true
 }

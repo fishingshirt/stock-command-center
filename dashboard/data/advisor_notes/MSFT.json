@@ -1,13 +1,13 @@
 {
   "ticker": "MSFT",
-  "recommendation": "ACCUMULATE",
-  "confidence": 65,
-  "reasoning": "MSFT looks attractive on a scale-in basis.\n\n**Research Findings:**\n- MSFT \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $409.43.\n\n**Earnings Analysis:**\n- Strong earnings momentum \u2014 catalyst score 65/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $393.2\n\n**Confidence Drivers:**\n- Overall confidence: **65%**\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **MOMENTUM** play: earnings acceleration driving the thesis.",
+  "recommendation": "NO_DATA",
+  "confidence": 0,
+  "reasoning": "We are watching MSFT closely.\n\n**Research Findings:**\n- Data unavailable for MSFT: No data source available. No recommendation can be made.\n\n**Earnings Analysis:**\n- Mixed earnings signals \u2014 catalyst score 50/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $62.98\n\n**Confidence Drivers:**\n- Overall confidence: **0%**\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Low confidence indicates significant uncertainty\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
   "pitchbook_path": "/home/fishingshirt/stock-command-center/dashboard/data/pitchbooks/MSFT.md",
-  "generated_at": "2026-05-15T07:15:35.026993+00:00",
+  "generated_at": "2026-05-15T07:30:03.803546+00:00",
   "confidence_factors": {
-    "earnings_score": 65,
+    "earnings_score": 50,
     "valuation_margin": 0,
-    "research_confidence": 65
+    "research_confidence": 0
   }
 }

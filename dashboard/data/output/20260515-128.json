@@ -1,0 +1,17 @@
+{
+  "task_id": "20260515-128",
+  "subject": "MSFT growth outlook",
+  "timestamp": "2026-05-15T07:30:03.602123+00:00",
+  "recommendation": "NO_DATA",
+  "confidence": 0,
+  "summary": "Data unavailable for MSFT: No data source available. No recommendation can be made.",
+  "key_metrics": {
+    "ticker": "MSFT",
+    "_error": "No data source available"
+  },
+  "sources": [],
+  "full_text": "## MSFT Research \u2014 DATA UNAVAILABLE\n\nReason: No data source available\n\nNo real-time data was retrieved. The system refuses to fabricate numbers.\n",
+  "paper_trade_signal": "NO_DATA",
+  "paper_trade_price": 0,
+  "asset_type": "stock"
+}

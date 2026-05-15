@@ -1,0 +1,54 @@
+{
+  "task_id": "20260515-130",
+  "subject": "BTC top crypto momentum scan",
+  "timestamp": "2026-05-15T07:30:09.749969+00:00",
+  "recommendation": "HOLD",
+  "confidence": 50,
+  "summary": "BTC \u2014 BEARISH sentiment, HOLD (50% confidence). PE: N/A, RSI: N/A, Price: $80933.",
+  "key_metrics": {
+    "current_price": 80933,
+    "market_cap": 1620888090298,
+    "total_volume": 44265941227,
+    "price_change_24h": 1139.42,
+    "price_change_percentage_24h": 1.42796,
+    "ath": 126080,
+    "ath_change_percentage": -35.80838,
+    "ticker": "BTC",
+    "sentiment_score": -33.3,
+    "sentiment_label": "BEARISH"
+  },
+  "news": [
+    {
+      "title": "Bitcoin, Ethereum, XRP, Dogecoin Jump After Crypto Act Passes Key Senate Vote: Analyst Says BTC 'Positioned' For A Rebound Toward $86,000",
+      "published": "Fri, 15 May 2026 01:50:48 +0000",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-jump-015048079.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Kraken Moves kBTC to Chainlink as LayerZero Fallout Spreads",
+      "published": "Thu, 14 May 2026 21:20:00 +0000",
+      "url": "https://www.cryptoprowl.com/releases/kraken-moves-kbtc-to-chainlink-as-layerzero-fallout-spreads-5487?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Bank Of England To Ease Stablecoin Restrictions",
+      "published": "Thu, 14 May 2026 13:14:00 +0000",
+      "url": "https://www.cryptoprowl.com/releases/bank-of-england-to-ease-stablecoin-restrictions-5478?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": -33.3,
+    "label": "BEARISH",
+    "bullish_mentions": 1,
+    "bearish_mentions": 2,
+    "total_mentions": 3
+  },
+  "sources": [
+    "https://www.coingecko.com/en/coins/bitcoin"
+  ],
+  "full_text": "## BTC Research Result\n\n### Recommendation: HOLD (50% confidence)\n\n### Sentiment: BEARISH (-33.3)\n\n### Key Metrics\n- **current_price:** 80933\n- **market_cap:** 1620888090298\n- **total_volume:** 44265941227\n- **price_change_24h:** 1139.42\n- **price_change_percentage_24h:** 1.42796\n- **ath:** 126080\n- **ath_change_percentage:** -35.80838\n- **ticker:** BTC\n- **sentiment_score:** -33.3\n- **sentiment_label:** BEARISH\n\n### Latest News\n- [Bitcoin, Ethereum, XRP, Dogecoin Jump After Crypto Act Passes Key Senate Vote: Analyst Says BTC 'Positioned' For A Rebound Toward $86,000](https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-jump-015048079.html?.tsrc=rss)\n- [Kraken Moves kBTC to Chainlink as LayerZero Fallout Spreads](https://www.cryptoprowl.com/releases/kraken-moves-kbtc-to-chainlink-as-layerzero-fallout-spreads-5487?.tsrc=rss)\n- [Bank Of England To Ease Stablecoin Restrictions](https://www.cryptoprowl.com/releases/bank-of-england-to-ease-stablecoin-restrictions-5478?.tsrc=rss)",
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 80933,
+  "asset_type": "crypto"
+}

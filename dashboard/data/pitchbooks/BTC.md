@@ -3,53 +3,52 @@
 **Recommendation:** HOLD  
 **Confidence:** 50%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T07:15:47.985358+00:00  
+**Generated:** 2026-05-15T07:30:09.916555+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-BTC — BEARISH sentiment, HOLD (50% confidence). PE: N/A, RSI: N/A, Price: $80699.
+BTC — BEARISH sentiment, HOLD (50% confidence). PE: N/A, RSI: N/A, Price: $80933.
 
-**Key Takeaway:** BTC is rated **HOLD** with 50% confidence. Valuation model suggests a blended target of **$59.53**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** BTC is rated **HOLD** with 50% confidence. Valuation model suggests a blended target of **$701.48**, representing a **14.72% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **10/100** (Earnings weakness detected)
-- Recent EPS surprise: **-10.0%**
-- Next earnings date: **2026-06-07**
+- Earnings momentum score: **55/100** (Mixed earnings signals)
+- Recent EPS surprise: **+6.8%**
+- Next earnings date: **2026-05-28**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $117.37 |
-| DCF Intrinsic Value | $42.47 |
-| Comparable Implied | $76.59 |
-| Blended Target | $59.53 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $598.25 |
+| DCF Intrinsic Value | $264.81 |
+| Comparable Implied | $1138.15 |
+| Blended Target | $701.48 |
+| Margin of Safety | 14.72% |
+| Verdict | Fairly valued |
 
 ### 2.3 Key Metrics Snapshot
-- **Current Price:** 80699
-- **Market Cap:** 1614626320480
-- **Total Volume:** 45232036423
-- **Price Change 24H:** 990.13
-- **Price Change Percentage 24H:** 1.24218
+- **Current Price:** 80933
+- **Market Cap:** 1620888090298
+- **Total Volume:** 44265941227
+- **Price Change 24H:** 1139.42
+- **Price Change Percentage 24H:** 1.42796
 - **Ath:** 126080
-- **Ath Change Percentage:** -35.99378
+- **Ath Change Percentage:** -35.80838
 - **Ticker:** BTC
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (8.7/10)
-- ⚠️ Poor ESG score (48.6)
-- ⚠️ Low margin of safety — limited downside protection
+- ⚠️ Elevated sanctions exposure (8.5/10)
+- ⚠️ Jurisdiction risk: medium
 - ⚠️ Low confidence score (50%) — uncertain conviction
 
 ---
@@ -57,9 +56,9 @@ BTC — BEARISH sentiment, HOLD (50% confidence). PE: N/A, RSI: N/A, Price: $806
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 56.5/100
-- **Sanctions Risk:** 8.7/10
-- **ESG Score:** 48.6/100
+- **Compliance Score:** 57.7/100
+- **Sanctions Risk:** 8.5/10
+- **ESG Score:** 51.5/100
 - **Controversies:** 0
 
 ---

@@ -1,16 +1,16 @@
 {
   "ticker": "BTC",
-  "timestamp": "2026-05-15T07:15:47.960697+00:00",
-  "compliance_score": 56.5,
+  "timestamp": "2026-05-15T07:30:09.879575+00:00",
+  "compliance_score": 57.7,
   "risk_level": "MEDIUM",
-  "sanctions_risk": 8.7,
+  "sanctions_risk": 8.5,
   "pep_exposure": 0,
-  "esg_score": 48.6,
+  "esg_score": 51.5,
   "controversy_count": 0,
-  "jurisdiction_risk": "low",
+  "jurisdiction_risk": "medium",
   "flags": [
-    "Elevated sanctions exposure (8.7/10)",
-    "Poor ESG score (48.6)"
+    "Elevated sanctions exposure (8.5/10)",
+    "Jurisdiction risk: medium"
   ],
   "pass": true
 }
