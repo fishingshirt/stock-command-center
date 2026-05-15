@@ -66,14 +66,21 @@ def record_prediction(name: str, ticker: str, recommendation: str, confidence: i
     bot["total_predictions"] += 1
     bot["last_run"] = datetime.now(timezone.utc).isoformat()
     bot["confidence_history"] = bot.get("confidence_history", []) + [confidence]
-    # Keep last 30 for rolling avg
     bot["confidence_history"] = bot["confidence_history"][-30:]
     bot["avg_confidence"] = round(sum(bot["confidence_history"]) / len(bot["confidence_history"]), 1)
 
-    # Also append to a predictions ledger for feedback loop
+    # Append to predictions ledger
     preds_path = REPO_ROOT / "dashboard" / "data" / "prediction_ledger.json"
     preds_path.parent.mkdir(parents=True, exist_ok=True)
-    preds = _load_json(preds_path) if preds_path.exists() else {"predictions": []}
+    preds = {"predictions": []}
+    if preds_path.exists():
+        try:
+            with open(preds_path, "r", encoding="utf-8") as f:
+                loaded = json.load(f)
+            if isinstance(loaded, dict) and "predictions" in loaded:
+                preds = loaded
+        except Exception:
+            pass
     preds["predictions"].append({
         "bot": name,
         "ticker": ticker.upper(),
@@ -85,7 +92,8 @@ def record_prediction(name: str, ticker: str, recommendation: str, confidence: i
         "was_correct": None,
         "roi_at_eval": None,
     })
-    _save_json(preds_path, preds)
+    with open(preds_path, "w", encoding="utf-8") as f:
+        json.dump(preds, f, indent=2)
 
     _save_registry(registry)
     print(f"{name} predicted {ticker}={recommendation} ({confidence}%)")

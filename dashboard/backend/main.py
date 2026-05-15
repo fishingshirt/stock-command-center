@@ -302,6 +302,70 @@ def bot_leaderboard():
     return {"bots": []}
 
 
-if __name__ == "__main__":
+# === PORTFOLIO API ===
+
+@app.get("/api/portfolio")
+def portfolio():
+    sys.path.insert(0, str(REPO_ROOT))
+    from bots.paper_trade import get_stats
+    return get_stats()
+
+
+# === BOT STATUS / WAR ROOM API ===
+
+@app.get("/api/bots/status")
+def bots_status():
+    """Live status of all worker bots: last run, accuracy, active."""
+    reg_path = REPO_ROOT / "dashboard" / "data" / "bot_registry.json"
+    bots = []
+    if reg_path.exists():
+        try:
+            with open(reg_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            for name, bot in data.get("bots", {}).items():
+                last_run = bot.get("last_run", "never")
+                is_active = False
+                if last_run != "never":
+                    try:
+                        from datetime import datetime, timezone
+                        lr = datetime.fromisoformat(last_run.replace("Z", "+00:00"))
+                        age_hours = (datetime.now(timezone.utc) - lr).total_seconds() / 3600
+                        is_active = age_hours < 1
+                    except Exception:
+                        pass
+                bots.append({
+                    "name": name,
+                    "expertise": bot.get("expertise", ""),
+                    "accuracy": bot.get("historical_accuracy", 0),
+                    "predictions": bot.get("total_predictions", 0),
+                    "avg_confidence": bot.get("avg_confidence", 0),
+                    "last_run": last_run,
+                    "active": is_active,
+                })
+        except Exception:
+            pass
+    
+    # Add orchestrator status from log
+    log_file = LOG_DIR / "orchestrator.log"
+    last_cycle = "never"
+    if log_file.exists():
+        try:
+            with open(log_file, "r", errors="ignore") as f:
+                lines = f.readlines()
+            for line in reversed(lines):
+                if "=== Cycle complete ===" in line:
+                    parts = line.split()
+                    if len(parts) >= 2:
+                        last_cycle = " ".join(parts[:2])
+                    break
+        except Exception:
+            pass
+    
+    return {
+        "bots": sorted(bots, key=lambda b: b["accuracy"], reverse=True),
+        "orchestrator_last_cycle": last_cycle,
+        "total_bots": len(bots),
+        "active_bots": sum(1 for b in bots if b["active"]),
+    }
     import uvicorn
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
