@@ -10,14 +10,7 @@ _(No tasks in this section.)_
 
 ## In Progress
 
-### Task ID: 20260515-167
-**Subject:** SPYG State Street S&P 500 Growth momentum
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T08:31:00.693135+00:00
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -1172,6 +1165,18 @@ Auto-generated research task. Bot: researcher_bot.
 **Started At:** 2026-05-15T08:30:53.521197+00:00
 **Completed At:** 2026-05-15T08:30:57.927308+00:00
 **Result:** dashboard/data/output/20260515-166.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260515-167
+**Subject:** SPYG State Street S&P 500 Growth momentum
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:31:00.693135+00:00
+**Completed At:** 2026-05-15T08:31:05.244384+00:00
+**Result:** dashboard/data/output/20260515-167.json
 **Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
