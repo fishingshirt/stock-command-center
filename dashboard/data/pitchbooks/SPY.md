@@ -2,8 +2,8 @@
 
 **Recommendation:** SELL  
 **Confidence:** 75%  
-**Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T11:37:36.736205+00:00  
+**Strategy:** QUALITY  
+**Generated:** 2026-05-15T11:38:05.666462+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Price: $748.17.
 
-**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$61.88**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$205.78**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+1.6%**
-- Next earnings date: **2026-06-13**
+- Earnings momentum score: **35/100** (Mixed earnings signals)
+- Recent EPS surprise: **-7.7%**
+- Next earnings date: **2026-06-05**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $157.28 |
-| DCF Intrinsic Value | $23.94 |
-| Comparable Implied | $99.82 |
-| Blended Target | $61.88 |
+| Current Price | $329.77 |
+| DCF Intrinsic Value | $85.92 |
+| Comparable Implied | $325.63 |
+| Blended Target | $205.78 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,26 +47,26 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Pric
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (9.6/10)
+- ⚠️ Elevated sanctions exposure (3.4/10)
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 51.8/100
-- **Sanctions Risk:** 9.6/10
-- **ESG Score:** 52.5/100
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 83.0/100
+- **Sanctions Risk:** 3.4/10
+- **ESG Score:** 60.8/100
 - **Controversies:** 0
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** MOMENTUM
+**Primary Strategy:** QUALITY
 
-This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **QUALITY** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
