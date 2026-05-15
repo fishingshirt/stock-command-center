@@ -2,8 +2,8 @@
 
 **Recommendation:** HOLD  
 **Confidence:** 40%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T07:30:40.021369+00:00  
+**Strategy:** MOMENTUM  
+**Generated:** 2026-05-15T07:38:41.609976+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 AMD — BEARISH sentiment, HOLD (40% confidence). PE: None, RSI: N/A, Price: $449.7.
 
-**Key Takeaway:** AMD is rated **HOLD** with 40% confidence. Valuation model suggests a blended target of **$76.84**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** AMD is rated **HOLD** with 40% confidence. Valuation model suggests a blended target of **$91.75**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **+5.7%**
-- Next earnings date: **2026-06-05**
+- Earnings momentum score: **65/100** (Strong earnings momentum)
+- Recent EPS surprise: **+10.1%**
+- Next earnings date: **2026-06-12**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $146.33 |
-| DCF Intrinsic Value | $23.93 |
-| Comparable Implied | $129.75 |
-| Blended Target | $76.84 |
+| Current Price | $157.33 |
+| DCF Intrinsic Value | $92.15 |
+| Comparable Implied | $91.36 |
+| Blended Target | $91.75 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,6 +47,7 @@ AMD — BEARISH sentiment, HOLD (40% confidence). PE: None, RSI: N/A, Price: $44
 
 ## 3. Risks
 
+- ⚠️ Elevated sanctions exposure (6.3/10)
 - ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 - ⚠️ Low confidence score (40%) — uncertain conviction
@@ -55,19 +56,19 @@ AMD — BEARISH sentiment, HOLD (40% confidence). PE: None, RSI: N/A, Price: $44
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 65.6/100
-- **Sanctions Risk:** 0.9/10
-- **ESG Score:** 56.0/100
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 38.4/100
+- **Sanctions Risk:** 6.3/10
+- **ESG Score:** 82.5/100
 - **Controversies:** 3
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** MOMENTUM
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 

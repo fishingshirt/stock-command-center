@@ -1,0 +1,55 @@
+{
+  "task_id": "20260515-136",
+  "subject": "AMD semiconductor sector check",
+  "timestamp": "2026-05-15T07:38:39.880982+00:00",
+  "recommendation": "HOLD",
+  "confidence": 40,
+  "summary": "AMD \u2014 BEARISH sentiment, HOLD (40% confidence). PE: None, RSI: N/A, Price: $449.7.",
+  "key_metrics": {
+    "ticker": "AMD",
+    "current_price": 449.7,
+    "previous_close": 445.5,
+    "pe_ratio": null,
+    "market_cap": null,
+    "52_week_high": 469.22,
+    "52_week_low": 107.67,
+    "avg_volume": null,
+    "_source": "yahoo_chart_api",
+    "sentiment_score": -100.0,
+    "sentiment_label": "BEARISH"
+  },
+  "news": [
+    {
+      "title": "Kioxia and Dell Technologies First to Deliver High-Density Server with 9.8 PB of Flash Storage",
+      "published": "Fri, 15 May 2026 03:31:00 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/kioxia-dell-technologies-first-deliver-033100211.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "AMD Samsung 2nm Talks Highlight Supply Chain Flexibility And AI Ambitions",
+      "published": "Thu, 14 May 2026 23:17:42 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-samsung-2nm-talks-highlight-231742733.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "5 Revealing Analyst Questions From AMD\u2019s Q1 Earnings Call",
+      "published": "Thu, 14 May 2026 23:00:55 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-amd-230055552.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": -100.0,
+    "label": "BEARISH",
+    "bullish_mentions": 0,
+    "bearish_mentions": 2,
+    "total_mentions": 2
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/AMD"
+  ],
+  "full_text": "## AMD Research Result\n\n### Recommendation: HOLD (40% confidence)\n\n### Sentiment: BEARISH (-100.0)\n\n### Key Metrics\n- **ticker:** AMD\n- **current_price:** 449.7\n- **previous_close:** 445.5\n- **pe_ratio:** None\n- **market_cap:** None\n- **52_week_high:** 469.22\n- **52_week_low:** 107.67\n- **avg_volume:** None\n- **_source:** yahoo_chart_api\n- **sentiment_score:** -100.0\n- **sentiment_label:** BEARISH\n\n### Latest News\n- [Kioxia and Dell Technologies First to Deliver High-Density Server with 9.8 PB of Flash Storage](https://finance.yahoo.com/sectors/technology/articles/kioxia-dell-technologies-first-deliver-033100211.html?.tsrc=rss)\n- [AMD Samsung 2nm Talks Highlight Supply Chain Flexibility And AI Ambitions](https://finance.yahoo.com/markets/stocks/articles/amd-samsung-2nm-talks-highlight-231742733.html?.tsrc=rss)\n- [5 Revealing Analyst Questions From AMD\u2019s Q1 Earnings Call](https://finance.yahoo.com/markets/stocks/articles/5-revealing-analyst-questions-amd-230055552.html?.tsrc=rss)",
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 449.7,
+  "asset_type": "stock"
+}

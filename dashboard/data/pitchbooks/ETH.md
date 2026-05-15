@@ -2,71 +2,73 @@
 
 **Recommendation:** WATCH  
 **Confidence:** 65%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T07:30:27.550043+00:00  
+**Strategy:** VALUE  
+**Generated:** 2026-05-15T07:38:28.245383+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-ETH — BULLISH sentiment, WATCH (65% confidence). PE: N/A, RSI: N/A, Price: $2267.21.
+ETH — BULLISH sentiment, WATCH (65% confidence). PE: N/A, RSI: N/A, Price: $2264.1.
 
-**Key Takeaway:** ETH is rated **WATCH** with 65% confidence. Valuation model suggests a blended target of **$180.84**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** ETH is rated **WATCH** with 65% confidence. Valuation model suggests a blended target of **$160.32**, representing a **54.08% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **55/100** (Mixed earnings signals)
-- Recent EPS surprise: **+21.0%**
-- Next earnings date: **2026-06-26**
+- Earnings momentum score: **35/100** (Mixed earnings signals)
+- Recent EPS surprise: **-3.0%**
+- Next earnings date: **2026-06-29**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $315.5 |
-| DCF Intrinsic Value | $49.33 |
-| Comparable Implied | $312.36 |
-| Blended Target | $180.84 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $73.62 |
+| DCF Intrinsic Value | $266.07 |
+| Comparable Implied | $54.58 |
+| Blended Target | $160.32 |
+| Margin of Safety | 54.08% |
+| Verdict | Undervalued |
 
 ### 2.3 Key Metrics Snapshot
-- **Current Price:** 2267.21
-- **Market Cap:** 273658014354
-- **Total Volume:** 19224743326
-- **Price Change 24H:** -1.6869266184021399
-- **Price Change Percentage 24H:** -0.07435
+- **Current Price:** 2264.1
+- **Market Cap:** 273328059801
+- **Total Volume:** 19240553398
+- **Price Change 24H:** -5.076880890016582
+- **Price Change Percentage 24H:** -0.22373
 - **Ath:** 4946.05
-- **Ath Change Percentage:** -54.16125
+- **Ath Change Percentage:** -54.22413
 - **Ticker:** ETH
 
 ---
 
 ## 3. Risks
 
-- No material compliance flags detected.
-- ⚠️ Low margin of safety — limited downside protection
+- ⚠️ Elevated sanctions exposure (6.5/10)
+- ⚠️ Poor ESG score (44.8)
+- ⚠️ 2 active controversies
+- ⚠️ Jurisdiction risk: medium
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 90.2/100
-- **Sanctions Risk:** 2.0/10
-- **ESG Score:** 75.9/100
-- **Controversies:** 0
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 47.7/100
+- **Sanctions Risk:** 6.5/10
+- **ESG Score:** 44.8/100
+- **Controversies:** 2
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** VALUE
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 

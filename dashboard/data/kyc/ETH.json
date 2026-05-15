@@ -1,13 +1,18 @@
 {
   "ticker": "ETH",
-  "timestamp": "2026-05-15T07:30:27.525582+00:00",
-  "compliance_score": 90.2,
-  "risk_level": "LOW",
-  "sanctions_risk": 2.0,
+  "timestamp": "2026-05-15T07:38:28.220727+00:00",
+  "compliance_score": 47.7,
+  "risk_level": "HIGH",
+  "sanctions_risk": 6.5,
   "pep_exposure": 0,
-  "esg_score": 75.9,
-  "controversy_count": 0,
-  "jurisdiction_risk": "low",
-  "flags": [],
-  "pass": true
+  "esg_score": 44.8,
+  "controversy_count": 2,
+  "jurisdiction_risk": "medium",
+  "flags": [
+    "Elevated sanctions exposure (6.5/10)",
+    "Poor ESG score (44.8)",
+    "2 active controversies",
+    "Jurisdiction risk: medium"
+  ],
+  "pass": false
 }

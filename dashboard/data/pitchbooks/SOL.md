@@ -2,51 +2,53 @@
 
 **Recommendation:** WATCH  
 **Confidence:** 55%  
-**Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T07:30:32.551514+00:00  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-15T07:38:33.516582+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SOL — NEUTRAL sentiment, WATCH (55% confidence). PE: N/A, RSI: N/A, Price: $91.59.
+SOL — NEUTRAL sentiment, WATCH (55% confidence). PE: N/A, RSI: N/A, Price: $91.35.
 
-**Key Takeaway:** SOL is rated **WATCH** with 55% confidence. Valuation model suggests a blended target of **$218.56**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SOL is rated **WATCH** with 55% confidence. Valuation model suggests a blended target of **$75.05**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **80/100** (Strong earnings momentum)
-- Recent EPS surprise: **+21.8%**
-- Next earnings date: **2026-06-23**
+- Earnings momentum score: **35/100** (Mixed earnings signals)
+- Recent EPS surprise: **-9.5%**
+- Next earnings date: **2026-05-30**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $235.03 |
-| DCF Intrinsic Value | $207.8 |
-| Comparable Implied | $229.31 |
-| Blended Target | $218.56 |
+| Current Price | $191.7 |
+| DCF Intrinsic Value | $47.09 |
+| Comparable Implied | $103.01 |
+| Blended Target | $75.05 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
-- **Current Price:** 91.59
-- **Market Cap:** 52930609478
-- **Total Volume:** 3296574742
-- **Price Change 24H:** 0.755798
-- **Price Change Percentage 24H:** 0.83202
+- **Current Price:** 91.35
+- **Market Cap:** 52821350320
+- **Total Volume:** 3443110667
+- **Price Change 24H:** 0.566924
+- **Price Change Percentage 24H:** 0.62446
 - **Ath:** 293.31
-- **Ath Change Percentage:** -68.77229
+- **Ath Change Percentage:** -68.85462
 - **Ticker:** SOL
 
 ---
 
 ## 3. Risks
 
+- ⚠️ Elevated sanctions exposure (3.3/10)
+- ⚠️ Poor ESG score (42.4)
 - ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 - ⚠️ Low confidence score (55%) — uncertain conviction
@@ -56,18 +58,18 @@ SOL — NEUTRAL sentiment, WATCH (55% confidence). PE: N/A, RSI: N/A, Price: $91
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 56.8/100
-- **Sanctions Risk:** 2.6/10
-- **ESG Score:** 60.5/100
+- **Compliance Score:** 53.6/100
+- **Sanctions Risk:** 3.3/10
+- **ESG Score:** 42.4/100
 - **Controversies:** 3
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** MOMENTUM
+**Primary Strategy:** GROWTH
 
-This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 

@@ -1,36 +1,36 @@
 {
-  "next_earnings_date": "2026-06-26",
+  "next_earnings_date": "2026-06-29",
   "earnings_history": [
     {
       "date": "2026-02-28",
-      "eps_estimate": 6.75,
-      "reported_eps": 6.95,
-      "surprise_pct": 21.0
+      "eps_estimate": 5.64,
+      "reported_eps": 5.84,
+      "surprise_pct": -3.0
     },
     {
       "date": "2025-11-30",
-      "eps_estimate": 6.45,
-      "reported_eps": 6.65,
-      "surprise_pct": 22.6
+      "eps_estimate": 5.34,
+      "reported_eps": 5.54,
+      "surprise_pct": -2.4
     },
     {
       "date": "2025-08-30",
-      "eps_estimate": 6.15,
-      "reported_eps": 6.35,
-      "surprise_pct": 20.6
+      "eps_estimate": 5.04,
+      "reported_eps": 5.24,
+      "surprise_pct": 2.7
     }
   ],
-  "eps_ttm": 27.8,
-  "eps_forward": 36.14,
-  "revenue_growth": -0.012,
-  "earnings_growth": 0.3,
-  "pe_trailing": 54.17,
-  "pe_forward": 32.91,
-  "peg_ratio": 2.05,
+  "eps_ttm": 23.36,
+  "eps_forward": 30.37,
+  "revenue_growth": 0.071,
+  "earnings_growth": 0.309,
+  "pe_trailing": 34.69,
+  "pe_forward": 34.37,
+  "peg_ratio": 1.92,
   "ticker": "ETH",
-  "analyzed_at": "2026-05-15T07:30:27.400471+00:00",
+  "analyzed_at": "2026-05-15T07:38:28.095372+00:00",
   "source": "mock_fallback",
-  "surprise_avg_pct": 21.4,
-  "earnings_catalyst_score": 55,
+  "surprise_avg_pct": -0.9,
+  "earnings_catalyst_score": 35,
   "verdict": "Mixed earnings signals"
 }
