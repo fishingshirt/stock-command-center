@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260515-145
-**Subject:** DIS Disney streaming profit
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-15
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
-
 ### Task ID: 20260515-146
 **Subject:** Research SPMO — S&P 500 Momentum ETF trend and momentum score
 **Assigned Bot:** researcher_bot
@@ -93,7 +85,14 @@ Auto-generated research task. Bot: researcher_bot.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260515-145
+**Subject:** DIS Disney streaming profit
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:07.869716+00:00
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
 
 ## Done
 
