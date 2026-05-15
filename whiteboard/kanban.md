@@ -24,14 +24,7 @@ Auto-generated research task. Bot: researcher_bot.
 
 ## In Progress
 
-### Task ID: 20260515-171
-**Subject:** VGT Vanguard Info Tech sector heatmap
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T08:45:22.997005+00:00
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -1235,5 +1228,17 @@ Auto-generated research task. Bot: researcher_bot.
 **Completed At:** 2026-05-15T08:45:08.889621+00:00
 **Result:** dashboard/data/output/20260515-170.json
 **Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260515-171
+**Subject:** VGT Vanguard Info Tech sector heatmap
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:45:22.997005+00:00
+**Completed At:** 2026-05-15T08:45:27.738593+00:00
+**Result:** dashboard/data/output/20260515-171.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
