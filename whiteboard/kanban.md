@@ -24,14 +24,7 @@ Auto-generated research task. Bot: researcher_bot.
 
 ## In Progress
 
-### Task ID: 20260515-134
-**Subject:** ETH Ethereum ecosystem health
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T07:38:24.136264+00:00
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -770,5 +763,17 @@ Auto-generated research task. Bot: researcher_bot.
 **Completed At:** 2026-05-15T07:30:38.400669+00:00
 **Result:** dashboard/data/output/20260515-133.json
 **Summary:** HOLD (40%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260515-134
+**Subject:** ETH Ethereum ecosystem health
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:38:24.136264+00:00
+**Completed At:** 2026-05-15T07:38:26.273196+00:00
+**Result:** dashboard/data/output/20260515-134.json
+**Summary:** WATCH (65%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
