@@ -74,17 +74,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260515-146
-**Subject:** Research SPMO — S&P 500 Momentum ETF trend and momentum score
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T08:00:10.026579+00:00
-**Details:**
-- Analyze SPMO momentum factor exposure
-- Compare against SPY and MTUM
-- Technical: RSI, SMA, volume
-- Recommendation: BUY/ACCUMULATE/HOLD
+_(No tasks in this section.)_
 
 ## Done
 
@@ -969,3 +959,18 @@ Auto-generated research task. Bot: researcher_bot.
 **Summary:** NO_DATA (0%) — Strategy: VALUE. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260515-146
+**Subject:** Research SPMO — S&P 500 Momentum ETF trend and momentum score
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:10.026579+00:00
+**Completed At:** 2026-05-15T08:00:11.119932+00:00
+**Result:** dashboard/data/output/20260515-146.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+- Analyze SPMO momentum factor exposure
+- Compare against SPY and MTUM
+- Technical: RSI, SMA, volume
+- Recommendation: BUY/ACCUMULATE/HOLD
