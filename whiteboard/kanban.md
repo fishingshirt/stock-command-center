@@ -6,17 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260515-151
-**Subject:** Research VGT & VOOG — Vanguard tech + growth overlap
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-15
-**Details:**
-- VGT tech concentration (AAPL, MSFT, NVDA weight)
-- VOOG growth factor loading
-- Duplication with VOO
-- Trim or overweight?
-
 ### Task ID: 20260515-152
 **Subject:** Research VOO — Core S&P 500 benchmark health check
 **Assigned Bot:** researcher_bot
@@ -30,7 +19,17 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260515-151
+**Subject:** Research VGT & VOOG — Vanguard tech + growth overlap
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:22.523161+00:00
+**Details:**
+- VGT tech concentration (AAPL, MSFT, NVDA weight)
+- VOOG growth factor loading
+- Duplication with VOO
+- Trim or overweight?
 
 ## Done
 
