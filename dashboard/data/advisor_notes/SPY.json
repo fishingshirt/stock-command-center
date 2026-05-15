@@ -1,13 +1,13 @@
 {
   "ticker": "",
-  "recommendation": "ACCUMULATE",
-  "confidence": 65,
-  "reasoning": " looks attractive on a scale-in basis.\n\n**Research Findings:**\n- SPY \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $741.27.\n\n**Earnings Analysis:**\n- Mixed earnings signals \u2014 catalyst score 35/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $137.67\n\n**Confidence Drivers:**\n- Overall confidence: **65%**\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
+  "recommendation": "SELL",
+  "confidence": 75,
+  "reasoning": "We are downgrading  to SELL.\n\n**Research Findings:**\n- SPY \u2014 BULLISH sentiment, SELL (75% confidence). PE: 27.852863, RSI: 72.26, Price: $741.42.\n\n**Earnings Analysis:**\n- Earnings weakness detected \u2014 catalyst score 25/100\n\n**Valuation Model:**\n- Fairly valued with a blended target of $113.54\n- **Margin of safety:** 15.63% \u2014 favorable downside protection\n\n**Confidence Drivers:**\n- Overall confidence: **75%**\n- P/E ratio of 27.852863 vs peers\n- RSI(14) at 72.26 \u2014 overbought\n\n**Risks to the Thesis:**\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **VALUE** play: mispriced asset with significant upside.",
   "pitchbook_path": "/home/fishingshirt/stock-command-center/dashboard/data/pitchbooks/SPY.md",
-  "generated_at": "2026-05-15T16:38:18.453548+00:00",
+  "generated_at": "2026-05-15T16:45:32.950507+00:00",
   "confidence_factors": {
-    "earnings_score": 35,
-    "valuation_margin": 0,
-    "research_confidence": 65
+    "earnings_score": 25,
+    "valuation_margin": 15.63,
+    "research_confidence": 75
   }
 }
