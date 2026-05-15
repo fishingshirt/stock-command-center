@@ -2,8 +2,8 @@
 
 **Recommendation:** SELL  
 **Confidence:** 75%  
-**Strategy:** QUALITY  
-**Generated:** 2026-05-15T11:38:05.666462+00:00  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-15T11:38:29.350145+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Price: $748.17.
 
-**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$205.78**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$307.99**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **35/100** (Mixed earnings signals)
-- Recent EPS surprise: **-7.7%**
-- Next earnings date: **2026-06-05**
+- Earnings momentum score: **55/100** (Mixed earnings signals)
+- Recent EPS surprise: **+17.9%**
+- Next earnings date: **2026-06-08**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $329.77 |
-| DCF Intrinsic Value | $85.92 |
-| Comparable Implied | $325.63 |
-| Blended Target | $205.78 |
+| Current Price | $324.52 |
+| DCF Intrinsic Value | $84.64 |
+| Comparable Implied | $531.34 |
+| Blended Target | $307.99 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,26 +47,27 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Pric
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (3.4/10)
+- ⚠️ Elevated sanctions exposure (7.5/10)
+- ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 83.0/100
-- **Sanctions Risk:** 3.4/10
-- **ESG Score:** 60.8/100
-- **Controversies:** 0
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 42.4/100
+- **Sanctions Risk:** 7.5/10
+- **ESG Score:** 53.3/100
+- **Controversies:** 2
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** QUALITY
+**Primary Strategy:** GROWTH
 
-This position is classified under the **QUALITY** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
