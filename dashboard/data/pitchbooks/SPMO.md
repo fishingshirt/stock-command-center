@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T20:45:55.859636+00:00  
+**Generated:** 2026-05-15T21:00:34.522603+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.01, Price: $143.48.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$193.25**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$188.73**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **40/100** (Mixed earnings signals)
-- Recent EPS surprise: **+8.8%**
-- Next earnings date: **2026-06-11**
+- Earnings momentum score: **55/100** (Mixed earnings signals)
+- Recent EPS surprise: **+20.5%**
+- Next earnings date: **2026-06-04**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $367.58 |
-| DCF Intrinsic Value | $187.58 |
-| Comparable Implied | $198.93 |
-| Blended Target | $193.25 |
+| Current Price | $558.85 |
+| DCF Intrinsic Value | $86.52 |
+| Comparable Implied | $290.95 |
+| Blended Target | $188.73 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,19 +47,19 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (6.8/10)
-- ⚠️ 3 active controversies
+- ⚠️ Elevated sanctions exposure (4.4/10)
+- ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 36.0/100
-- **Sanctions Risk:** 6.8/10
-- **ESG Score:** 71.3/100
-- **Controversies:** 3
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 57.9/100
+- **Sanctions Risk:** 4.4/10
+- **ESG Score:** 61.3/100
+- **Controversies:** 2
 
 ---
 
