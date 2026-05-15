@@ -1,0 +1,58 @@
+{
+  "task_id": "20260515-264",
+  "subject": "V Visa payment network fundamentals",
+  "timestamp": "2026-05-15T11:20:19.843783+00:00",
+  "recommendation": "SELL",
+  "confidence": 75,
+  "summary": "SPY \u2014 BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Price: $748.17.",
+  "key_metrics": {
+    "ticker": "SPY",
+    "current_price": 748.17,
+    "previous_close": 742.31,
+    "pe_ratio": 28.10644,
+    "market_cap": null,
+    "52_week_high": 749.53,
+    "52_week_low": 575.6,
+    "avg_volume": 74117604,
+    "rsi_14": 82.03,
+    "sma_20": 722.35,
+    "sma_50": null,
+    "price_change_5d_pct": 1.43,
+    "sentiment_score": 100.0,
+    "sentiment_label": "BULLISH"
+  },
+  "news": [
+    {
+      "title": "What Does the Strong Q1 Earnings Growth Say About the Economy?",
+      "published": "Thu, 14 May 2026 20:15:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-strong-q1-earnings-growth-201500452.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "International Stocks Keep Crushing the S&P. This Cheap ETF Is How You Get In",
+      "published": "Thu, 14 May 2026 17:08:41 +0000",
+      "url": "https://247wallst.com/investing/2026/05/14/international-stocks-keep-crushing-the-sp-this-cheap-etf-is-how-you-get-in/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "DRAM ETF\u2019s 85% Surge Masks a Dangerous Bet: Why This Memory Play Doesn\u2019t Belong in Retirement Portfolios",
+      "published": "Thu, 14 May 2026 15:00:32 +0000",
+      "url": "https://247wallst.com/investing/2026/05/14/dram-etfs-85-surge-masks-a-dangerous-bet-why-this-memory-play-doesnt-belong-in-retirement-portfolios/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish_mentions": 3,
+    "bearish_mentions": 0,
+    "total_mentions": 3
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/SPY"
+  ],
+  "full_text": "## SPY Research Result\n\n### Recommendation: SELL (75% confidence)\n\n### Sentiment: BULLISH (100.0)\n\n### Key Metrics\n- **ticker:** SPY\n- **current_price:** 748.17\n- **previous_close:** 742.31\n- **pe_ratio:** 28.10644\n- **market_cap:** None\n- **52_week_high:** 749.53\n- **52_week_low:** 575.6\n- **avg_volume:** 74117604\n- **rsi_14:** 82.03\n- **sma_20:** 722.35\n- **sma_50:** None\n- **price_change_5d_pct:** 1.43\n- **sentiment_score:** 100.0\n- **sentiment_label:** BULLISH\n\n### Latest News\n- [What Does the Strong Q1 Earnings Growth Say About the Economy?](https://finance.yahoo.com/markets/stocks/articles/does-strong-q1-earnings-growth-201500452.html?.tsrc=rss)\n- [International Stocks Keep Crushing the S&P. This Cheap ETF Is How You Get In](https://247wallst.com/investing/2026/05/14/international-stocks-keep-crushing-the-sp-this-cheap-etf-is-how-you-get-in/?.tsrc=rss)\n- [DRAM ETF\u2019s 85% Surge Masks a Dangerous Bet: Why This Memory Play Doesn\u2019t Belong in Retirement Portfolios](https://247wallst.com/investing/2026/05/14/dram-etfs-85-surge-masks-a-dangerous-bet-why-this-memory-play-doesnt-belong-in-retirement-portfolios/?.tsrc=rss)",
+  "paper_trade_signal": "SELL",
+  "paper_trade_price": 748.17,
+  "asset_type": "stock"
+}
