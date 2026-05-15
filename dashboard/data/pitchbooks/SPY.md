@@ -1,71 +1,77 @@
 # Investment Memo: SPY
 
-**Recommendation:** NO_DATA  
-**Confidence:** 0%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T11:15:58.950768+00:00  
+**Recommendation:** SELL  
+**Confidence:** 75%  
+**Strategy:** QUALITY  
+**Generated:** 2026-05-15T11:18:27.307643+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Data unavailable for SPY: No data source available. No recommendation can be made.
+SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Price: $748.17.
 
-**Key Takeaway:** SPY is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$280.31**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$249.55**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **-3.4%**
-- Next earnings date: **2026-06-27**
+- Earnings momentum score: **25/100** (Earnings weakness detected)
+- Recent EPS surprise: **-13.4%**
+- Next earnings date: **2026-06-20**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $492.74 |
-| DCF Intrinsic Value | $45.61 |
-| Comparable Implied | $515.0 |
-| Blended Target | $280.31 |
+| Current Price | $499.72 |
+| DCF Intrinsic Value | $152.75 |
+| Comparable Implied | $346.35 |
+| Blended Target | $249.55 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
-- ** Error:** No data source available
+- **Current Price:** 748.17
+- **Previous Close:** 742.31
+- **Pe Ratio:** 28.10644
+- **Market Cap:** None
+- **52 Week High:** 749.53
+- **52 Week Low:** 575.6
+- **Avg Volume:** 74117604
 
 ---
 
 ## 3. Risks
 
-- ⚠️ 1 active controversies
+- No material compliance flags detected.
 - ⚠️ Low margin of safety — limited downside protection
-- ⚠️ Low confidence score (0%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** LOW
-- **Compliance Score:** 81.9/100
-- **Sanctions Risk:** 1.6/10
-- **ESG Score:** 53.1/100
-- **Controversies:** 1
+- **Compliance Score:** 98.9/100
+- **Sanctions Risk:** 0.2/10
+- **ESG Score:** 71.1/100
+- **Controversies:** 0
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** QUALITY
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **QUALITY** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
 ## 6. Sources & References
+- https://finance.yahoo.com/quote/SPY
 
 ---
 
