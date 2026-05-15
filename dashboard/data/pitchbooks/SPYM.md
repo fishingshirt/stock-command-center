@@ -1,72 +1,78 @@
 # Investment Memo: SPYM
 
-**Recommendation:** NO_DATA  
-**Confidence:** 0%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T09:00:05.752725+00:00  
+**Recommendation:** ACCUMULATE  
+**Confidence:** 65%  
+**Strategy:** MOMENTUM  
+**Generated:** 2026-05-15T09:00:39.267636+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Data unavailable for SPYM: No data source available. No recommendation can be made.
+SPYM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $88.05.
 
-**Key Takeaway:** SPYM is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$212.59**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPYM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$399.02**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **35/100** (Mixed earnings signals)
-- Recent EPS surprise: **-1.9%**
-- Next earnings date: **2026-06-25**
+- Earnings momentum score: **65/100** (Strong earnings momentum)
+- Recent EPS surprise: **+7.6%**
+- Next earnings date: **2026-06-27**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $282.98 |
-| DCF Intrinsic Value | $100.37 |
-| Comparable Implied | $324.8 |
-| Blended Target | $212.59 |
+| Current Price | $570.63 |
+| DCF Intrinsic Value | $271.28 |
+| Comparable Implied | $526.76 |
+| Blended Target | $399.02 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPYM
-- ** Error:** No data source available
+- **Current Price:** 88.05
+- **Previous Close:** 87.37
+- **Pe Ratio:** None
+- **Market Cap:** None
+- **52 Week High:** 88.23
+- **52 Week Low:** 67.7
+- **Avg Volume:** None
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (9.4/10)
-- ⚠️ 3 active controversies
+- ⚠️ Elevated sanctions exposure (4.8/10)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
-- ⚠️ Low confidence score (0%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 23.2/100
-- **Sanctions Risk:** 9.4/10
-- **ESG Score:** 69.5/100
-- **Controversies:** 3
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 66.0/100
+- **Sanctions Risk:** 4.8/10
+- **ESG Score:** 77.1/100
+- **Controversies:** 1
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** MOMENTUM
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
 ## 6. Sources & References
+- https://finance.yahoo.com/quote/SPYM
 
 ---
 

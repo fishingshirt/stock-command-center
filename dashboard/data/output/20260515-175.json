@@ -1,0 +1,55 @@
+{
+  "task_id": "20260515-175",
+  "subject": "SPYM State Street High Dividend yield",
+  "timestamp": "2026-05-15T09:00:37.603558+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 65,
+  "summary": "SPYM \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $88.05.",
+  "key_metrics": {
+    "ticker": "SPYM",
+    "current_price": 88.05,
+    "previous_close": 87.37,
+    "pe_ratio": null,
+    "market_cap": null,
+    "52_week_high": 88.23,
+    "52_week_low": 67.7,
+    "avg_volume": null,
+    "_source": "yahoo_chart_api",
+    "sentiment_score": 100.0,
+    "sentiment_label": "BULLISH"
+  },
+  "news": [
+    {
+      "title": "The Zacks Analyst Blog  VOO, SPYM,SPY,IVV, RSP,EQL and EQWL",
+      "published": "Wed, 13 May 2026 10:08:00 +0000",
+      "url": "https://finance.yahoo.com/news/zacks-analyst-blog-voo-spym-100800986.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "AI and Earnings Lift S&P 500 Outlook: ETFs for Long-Term Growth",
+      "published": "Tue, 12 May 2026 15:56:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-earnings-lift-p-500-155600229.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "ETF League Tables: SPDR ETFs Pull In $4.5B",
+      "published": "Mon, 11 May 2026 21:00:04 +0000",
+      "url": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-spdr-etfs-pull-45b?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish_mentions": 1,
+    "bearish_mentions": 0,
+    "total_mentions": 1
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/SPYM"
+  ],
+  "full_text": "## SPYM Research Result\n\n### Recommendation: ACCUMULATE (65% confidence)\n\n### Sentiment: BULLISH (100.0)\n\n### Key Metrics\n- **ticker:** SPYM\n- **current_price:** 88.05\n- **previous_close:** 87.37\n- **pe_ratio:** None\n- **market_cap:** None\n- **52_week_high:** 88.23\n- **52_week_low:** 67.7\n- **avg_volume:** None\n- **_source:** yahoo_chart_api\n- **sentiment_score:** 100.0\n- **sentiment_label:** BULLISH\n\n### Latest News\n- [The Zacks Analyst Blog  VOO, SPYM,SPY,IVV, RSP,EQL and EQWL](https://finance.yahoo.com/news/zacks-analyst-blog-voo-spym-100800986.html?.tsrc=rss)\n- [AI and Earnings Lift S&P 500 Outlook: ETFs for Long-Term Growth](https://finance.yahoo.com/markets/stocks/articles/ai-earnings-lift-p-500-155600229.html?.tsrc=rss)\n- [ETF League Tables: SPDR ETFs Pull In $4.5B](http://www.etf.com/sections/etf-league-tables/etf-league-tables-spdr-etfs-pull-45b?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss)",
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 88.05,
+  "asset_type": "stock"
+}
