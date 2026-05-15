@@ -2,72 +2,71 @@
 
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T16:30:43.013788+00:00  
+**Strategy:** VALUE  
+**Generated:** 2026-05-15T16:38:10.746155+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.37675, RSI: 69.36, Price: $144.1.
+SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $144.11.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$54.14**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$623.95**, representing a **19.13% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **35/100** (Mixed earnings signals)
-- Recent EPS surprise: **-9.7%**
-- Next earnings date: **2026-06-01**
+- Earnings momentum score: **20/100** (Earnings weakness detected)
+- Recent EPS surprise: **-4.0%**
+- Next earnings date: **2026-06-05**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $57.33 |
-| DCF Intrinsic Value | $55.22 |
-| Comparable Implied | $53.07 |
-| Blended Target | $54.14 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $504.61 |
+| DCF Intrinsic Value | $49.97 |
+| Comparable Implied | $1197.92 |
+| Blended Target | $623.95 |
+| Margin of Safety | 19.13% |
+| Verdict | Fairly valued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPMO
-- **Current Price:** 144.1
+- **Current Price:** 144.11
 - **Previous Close:** 147.52
-- **Pe Ratio:** 34.37675
+- **Pe Ratio:** None
 - **Market Cap:** None
 - **52 Week High:** 147.87
 - **52 Week Low:** 101.8
-- **Avg Volume:** 1687274
+- **Avg Volume:** None
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (9.9/10)
+- ⚠️ Elevated sanctions exposure (7.2/10)
 - ⚠️ 2 active controversies
-- ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** HIGH
-- **Compliance Score:** 30.5/100
-- **Sanctions Risk:** 9.9/10
-- **ESG Score:** 84.7/100
+- **Compliance Score:** 44.1/100
+- **Sanctions Risk:** 7.2/10
+- **ESG Score:** 82.9/100
 - **Controversies:** 2
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** VALUE
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 

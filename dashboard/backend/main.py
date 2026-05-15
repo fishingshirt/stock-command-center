@@ -233,11 +233,48 @@ def strategy_leaderboard():
 
 @app.get("/api/holdings")
 def list_holdings():
-    h_file = REPO_ROOT / "dashboard" / "data" / "users_holdings.json"
-    if not h_file.exists():
-        return {"name": "", "holdings": []}
-    with open(h_file, "r", encoding="utf-8") as f:
-        return json.load(f)
+    """Return SCC's paper portfolio (company holdings) from the live ledger."""
+    ledger_file = REPO_ROOT / "dashboard" / "data" / "paper_ledger.json"
+    if not ledger_file.exists():
+        return {"name": "SCC Portfolio", "cash": 100000.0, "total_value": 100000.0, "holdings": []}
+
+    with open(ledger_file, "r", encoding="utf-8") as f:
+        ledger = json.load(f)
+
+    holdings = []
+    total_value = ledger.get("cash", 100000.0)
+    for ticker, pos in ledger.get("positions", {}).items():
+        entry = pos.get("entry_price", 0)
+        last = pos.get("last_price", entry)
+        shares = pos.get("shares", 0)
+        val = round(shares * last, 2)
+        cost = round(shares * entry, 2)
+        pnl = round(val - cost, 2)
+        pnl_pct = round((last - entry) / entry * 100, 2) if entry else 0
+        total_value += val
+        holdings.append({
+            "ticker": ticker.upper(),
+            "shares": round(shares, 4),
+            "entry_price": entry,
+            "last_price": last,
+            "value_usd": val,
+            "cost_basis": cost,
+            "unrealized_pnl": pnl,
+            "unrealized_pnl_pct": pnl_pct,
+            "note": f"Bought at {pos.get('opened_at', 'unknown')[:10]}",
+        })
+
+    return {
+        "name": "SCC Company Portfolio",
+        "cash": round(ledger.get("cash", 100000.0), 2),
+        "initial_capital": ledger.get("initial_capital", 100000.0),
+        "total_value": round(total_value, 2),
+        "total_return_pct": round((total_value - ledger.get("initial_capital", 100000.0)) / ledger.get("initial_capital", 100000.0) * 100, 2),
+        "open_positions": len(holdings),
+        "closed_trades": len(ledger.get("history", [])),
+        "updated_at": ledger.get("updated_at", ""),
+        "holdings": holdings,
+    }
 
 
 @app.get("/api/earnings/{ticker}")
