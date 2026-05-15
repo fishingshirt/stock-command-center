@@ -1,7 +1,7 @@
 {
   "ticker": "SPMO",
   "date": "20260515",
-  "timestamp": "2026-05-15T23:00:50.014989+00:00",
+  "timestamp": "2026-05-15T23:15:26.848614+00:00",
   "consensus": {
     "recommendation": "HOLD",
     "confidence": 71.4,
@@ -14,7 +14,7 @@
       "recommendation": "ACCUMULATE",
       "confidence": 65,
       "weight": 0.3,
-      "weight_reason": "researcher_bot accuracy=22.5%"
+      "weight_reason": "researcher_bot accuracy=22.6%"
     },
     {
       "bot": "earnings_analyzer",
