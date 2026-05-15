@@ -16,14 +16,7 @@ Auto-generated research task. Bot: researcher_bot.
 
 ## In Progress
 
-### Task ID: 20260515-141
-**Subject:** JPM banking sector risk
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T07:45:35.890076+00:00
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -846,5 +839,17 @@ Auto-generated research task. Bot: researcher_bot.
 **Completed At:** 2026-05-15T07:45:32.627437+00:00
 **Result:** dashboard/data/output/20260515-140.json
 **Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260515-141
+**Subject:** JPM banking sector risk
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:45:35.890076+00:00
+**Completed At:** 2026-05-15T07:45:40.663098+00:00
+**Result:** dashboard/data/output/20260515-141.json
+**Summary:** HOLD (55%) — Strategy: MOMENTUM. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
