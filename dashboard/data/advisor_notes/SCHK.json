@@ -1,13 +1,13 @@
 {
   "ticker": "SCHK",
-  "recommendation": "ACCUMULATE",
-  "confidence": 65,
-  "reasoning": "SCHK looks attractive on a scale-in basis.\n\n**Research Findings:**\n- SCHK \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $35.94.\n\n**Earnings Analysis:**\n- Mixed earnings signals \u2014 catalyst score 50/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $269.49\n\n**Confidence Drivers:**\n- Overall confidence: **65%**\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
+  "recommendation": "NO_DATA",
+  "confidence": 0,
+  "reasoning": "We are watching SCHK closely.\n\n**Research Findings:**\n- Data unavailable for SCHK: No data source available. No recommendation can be made.\n\n**Earnings Analysis:**\n- Strong earnings momentum \u2014 catalyst score 65/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $145.33\n\n**Confidence Drivers:**\n- Overall confidence: **0%**\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Low confidence indicates significant uncertainty\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **MOMENTUM** play: earnings acceleration driving the thesis.",
   "pitchbook_path": "/home/fishingshirt/stock-command-center/dashboard/data/pitchbooks/SCHK.md",
-  "generated_at": "2026-05-15T08:00:35.379327+00:00",
+  "generated_at": "2026-05-15T08:30:09.712923+00:00",
   "confidence_factors": {
-    "earnings_score": 50,
+    "earnings_score": 65,
     "valuation_margin": 0,
-    "research_confidence": 65
+    "research_confidence": 0
   }
 }

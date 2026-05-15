@@ -1,0 +1,15 @@
+{
+  "ticker": "SCHG",
+  "timestamp": "2026-05-15T08:30:12.103856+00:00",
+  "compliance_score": 94.4,
+  "risk_level": "LOW",
+  "sanctions_risk": 1.1,
+  "pep_exposure": 0,
+  "esg_score": 45.6,
+  "controversy_count": 0,
+  "jurisdiction_risk": "low",
+  "flags": [
+    "Poor ESG score (45.6)"
+  ],
+  "pass": true
+}

@@ -1,77 +1,71 @@
 # Investment Memo: SPYG
 
-**Recommendation:** ACCUMULATE  
-**Confidence:** 65%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T08:00:40.426877+00:00  
+**Recommendation:** NO_DATA  
+**Confidence:** 0%  
+**Strategy:** VALUE  
+**Generated:** 2026-05-15T08:30:14.727979+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SPYG — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $120.28.
+Data unavailable for SPYG: No data source available. No recommendation can be made.
 
-**Key Takeaway:** SPYG is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$171.26**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPYG is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$111.64**, representing a **54.13% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **25/100** (Earnings weakness detected)
-- Recent EPS surprise: **+1.4%**
-- Next earnings date: **2026-06-22**
+- Earnings momentum score: **80/100** (Strong earnings momentum)
+- Recent EPS surprise: **+14.6%**
+- Next earnings date: **2026-06-05**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $418.35 |
-| DCF Intrinsic Value | $93.57 |
-| Comparable Implied | $248.95 |
-| Blended Target | $171.26 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $51.21 |
+| DCF Intrinsic Value | $185.29 |
+| Comparable Implied | $38.0 |
+| Blended Target | $111.64 |
+| Margin of Safety | 54.13% |
+| Verdict | Undervalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPYG
-- **Current Price:** 120.28
-- **Previous Close:** 118.83
-- **Pe Ratio:** None
-- **Market Cap:** None
-- **52 Week High:** 120.42
-- **52 Week Low:** 87.22
-- **Avg Volume:** None
+- ** Error:** No data source available
 
 ---
 
 ## 3. Risks
 
+- ⚠️ Elevated sanctions exposure (6.9/10)
 - ⚠️ 2 active controversies
-- ⚠️ Low margin of safety — limited downside protection
+- ⚠️ Low confidence score (0%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 67.3/100
-- **Sanctions Risk:** 2.5/10
-- **ESG Score:** 80.4/100
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 45.5/100
+- **Sanctions Risk:** 6.9/10
+- **ESG Score:** 83.3/100
 - **Controversies:** 2
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** VALUE
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
 ## 6. Sources & References
-- https://finance.yahoo.com/quote/SPYG
 
 ---
 

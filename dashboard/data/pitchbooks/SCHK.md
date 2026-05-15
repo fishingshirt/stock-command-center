@@ -1,77 +1,72 @@
 # Investment Memo: SCHK
 
-**Recommendation:** ACCUMULATE  
-**Confidence:** 65%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T08:00:35.355084+00:00  
+**Recommendation:** NO_DATA  
+**Confidence:** 0%  
+**Strategy:** MOMENTUM  
+**Generated:** 2026-05-15T08:30:09.676443+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SCHK — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $35.94.
+Data unavailable for SCHK: No data source available. No recommendation can be made.
 
-**Key Takeaway:** SCHK is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$269.49**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SCHK is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$145.33**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **-1.9%**
-- Next earnings date: **2026-06-11**
+- Earnings momentum score: **65/100** (Strong earnings momentum)
+- Recent EPS surprise: **+7.4%**
+- Next earnings date: **2026-06-26**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $396.43 |
-| DCF Intrinsic Value | $26.25 |
-| Comparable Implied | $512.73 |
-| Blended Target | $269.49 |
+| Current Price | $288.33 |
+| DCF Intrinsic Value | $114.73 |
+| Comparable Implied | $175.93 |
+| Blended Target | $145.33 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SCHK
-- **Current Price:** 35.94
-- **Previous Close:** 35.65
-- **Pe Ratio:** None
-- **Market Cap:** None
-- **52 Week High:** 36.005
-- **52 Week Low:** 27.76
-- **Avg Volume:** None
+- ** Error:** No data source available
 
 ---
 
 ## 3. Risks
 
-- ⚠️ 2 active controversies
+- ⚠️ Elevated sanctions exposure (9.0/10)
+- ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
+- ⚠️ Low confidence score (0%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 76.1/100
-- **Sanctions Risk:** 0.8/10
-- **ESG Score:** 81.9/100
-- **Controversies:** 2
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 25.1/100
+- **Sanctions Risk:** 9.0/10
+- **ESG Score:** 50.5/100
+- **Controversies:** 3
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** MOMENTUM
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
 ## 6. Sources & References
-- https://finance.yahoo.com/quote/SCHK
 
 ---
 

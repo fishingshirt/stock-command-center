@@ -1,36 +1,36 @@
 {
-  "next_earnings_date": "2026-06-11",
+  "next_earnings_date": "2026-06-26",
   "earnings_history": [
     {
       "date": "2026-02-28",
-      "eps_estimate": 7.08,
-      "reported_eps": 7.28,
-      "surprise_pct": -1.9
+      "eps_estimate": 3.95,
+      "reported_eps": 4.15,
+      "surprise_pct": 7.4
     },
     {
       "date": "2025-11-30",
-      "eps_estimate": 6.78,
-      "reported_eps": 6.98,
-      "surprise_pct": -1.6
+      "eps_estimate": 3.65,
+      "reported_eps": 3.85,
+      "surprise_pct": 5.6
     },
     {
       "date": "2025-08-30",
-      "eps_estimate": 6.48,
-      "reported_eps": 6.68,
-      "surprise_pct": -3.1
+      "eps_estimate": 3.35,
+      "reported_eps": 3.55,
+      "surprise_pct": 5.7
     }
   ],
-  "eps_ttm": 29.12,
-  "eps_forward": 37.86,
-  "revenue_growth": 0.303,
-  "earnings_growth": 0.301,
-  "pe_trailing": 16.58,
-  "pe_forward": 15.15,
-  "peg_ratio": 2.09,
+  "eps_ttm": 16.6,
+  "eps_forward": 21.58,
+  "revenue_growth": 0.01,
+  "earnings_growth": 0.278,
+  "pe_trailing": 15.02,
+  "pe_forward": 38.62,
+  "peg_ratio": 1.88,
   "ticker": "SCHK",
-  "analyzed_at": "2026-05-15T08:00:35.205735+00:00",
+  "analyzed_at": "2026-05-15T08:30:09.562467+00:00",
   "source": "mock_fallback",
-  "surprise_avg_pct": -2.2,
-  "earnings_catalyst_score": 50,
-  "verdict": "Mixed earnings signals"
+  "surprise_avg_pct": 6.23,
+  "earnings_catalyst_score": 65,
+  "verdict": "Strong earnings momentum"
 }

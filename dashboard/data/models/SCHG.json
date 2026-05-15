@@ -1,0 +1,42 @@
+{
+  "ticker": "SCHG",
+  "timestamp": "2026-05-15T08:30:12.066815+00:00",
+  "current_price": 594.12,
+  "dcf_target": 230.42,
+  "comparable_target": 270.91,
+  "blended_target": 250.67,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 10.25,
+    "projected_fcf_5yr": [
+      12.4,
+      14.99,
+      18.12,
+      21.91,
+      26.49
+    ],
+    "growth_rate_assumed": 0.209,
+    "wacc": 0.086,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 489.3,
+    "enterprise_value_billions": 395.88,
+    "net_cash_billions": 2.42,
+    "equity_value_billions": 398.3,
+    "intrinsic_per_share": 230.42,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 594.12,
+    "trailing_pe": 34.87,
+    "forward_pe": 26.53,
+    "ev_ebitda": 11.31,
+    "price_to_sales": 8.51,
+    "price_to_book": 8.47,
+    "eps": 17.04,
+    "peer_median_pe": 15.9,
+    "implied_price_pe": 270.91,
+    "upside_pct": -54.4,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

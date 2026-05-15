@@ -1,0 +1,36 @@
+{
+  "next_earnings_date": "2026-06-19",
+  "earnings_history": [
+    {
+      "date": "2026-02-28",
+      "eps_estimate": 2.23,
+      "reported_eps": 2.43,
+      "surprise_pct": -3.3
+    },
+    {
+      "date": "2025-11-30",
+      "eps_estimate": 1.93,
+      "reported_eps": 2.13,
+      "surprise_pct": -7.7
+    },
+    {
+      "date": "2025-08-30",
+      "eps_estimate": 1.63,
+      "reported_eps": 1.83,
+      "surprise_pct": -0.6
+    }
+  ],
+  "eps_ttm": 9.72,
+  "eps_forward": 12.64,
+  "revenue_growth": 0.119,
+  "earnings_growth": 0.368,
+  "pe_trailing": 44.58,
+  "pe_forward": 32.98,
+  "peg_ratio": 0.73,
+  "ticker": "SCHG",
+  "analyzed_at": "2026-05-15T08:30:12.027774+00:00",
+  "source": "mock_fallback",
+  "surprise_avg_pct": -3.87,
+  "earnings_catalyst_score": 35,
+  "verdict": "Mixed earnings signals"
+}
