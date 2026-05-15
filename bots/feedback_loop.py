@@ -194,7 +194,7 @@ def generate_improvement_tasks():
         if bot_name == "unknown":
             continue
         total = bot.get("total_predictions", 0)
-        if total < 5:
+        if total < 10:
             continue
         acc = bot.get("historical_accuracy", 100.0)
         if acc < ACCURACY_BOT_THRESHOLD:
@@ -212,7 +212,11 @@ def generate_improvement_tasks():
     for strat, stats in strategy_stats.items():
         wr = stats.get("win_rate", 100.0)
         total = stats.get("trades", 0)
-        if total < 5:
+        avg_ret = stats.get("avg_return_pct", 0)
+        if total < 10:
+            continue
+        # Skip phantom trades (all returns exactly 0 = never actually executed)
+        if abs(avg_ret) < 0.01:
             continue
         if wr < WIN_RATE_STRATEGY_THRESHOLD:
             details = f"- Strategy: {strat}\n- Win rate: {wr}% over {total} trades\n- Target: improve to >= {WIN_RATE_STRATEGY_THRESHOLD}%\n- Suggestion: adjust entry/exit thresholds or combine with another strategy\n- Created via feedback_loop auto-improve"

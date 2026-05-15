@@ -2,42 +2,42 @@
 
 **Recommendation:** SELL  
 **Confidence:** 75%  
-**Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T15:37:44.616902+00:00  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-15T15:45:23.914227+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.858124, RSI: 72.44, Price: $741.57.
+SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.800648, RSI: 70.61, Price: $740.02.
 
-**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$378.05**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$156.38**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+4.4%**
-- Next earnings date: **2026-06-05**
+- Earnings momentum score: **40/100** (Mixed earnings signals)
+- Recent EPS surprise: **+12.1%**
+- Next earnings date: **2026-05-21**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $458.39 |
-| DCF Intrinsic Value | $85.02 |
-| Comparable Implied | $671.08 |
-| Blended Target | $378.05 |
+| Current Price | $590.13 |
+| DCF Intrinsic Value | $83.11 |
+| Comparable Implied | $229.64 |
+| Blended Target | $156.38 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
-- **Current Price:** 741.57
+- **Current Price:** 740.02
 - **Previous Close:** 748.17
-- **Pe Ratio:** 27.858124
+- **Pe Ratio:** 27.800648
 - **Market Cap:** None
 - **52 Week High:** 749.53
 - **52 Week Low:** 575.6
@@ -47,26 +47,27 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.858124, RSI: 72.44, Pri
 
 ## 3. Risks
 
-- ⚠️ Poor ESG score (43.9)
+- ⚠️ Elevated sanctions exposure (6.4/10)
+- ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 100.0/100
-- **Sanctions Risk:** 0.0/10
-- **ESG Score:** 43.9/100
-- **Controversies:** 0
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 38.0/100
+- **Sanctions Risk:** 6.4/10
+- **ESG Score:** 61.5/100
+- **Controversies:** 3
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** MOMENTUM
+**Primary Strategy:** GROWTH
 
-This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 

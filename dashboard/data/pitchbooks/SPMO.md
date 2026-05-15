@@ -1,18 +1,18 @@
 # Investment Memo: SPMO
 
-**Recommendation:** SELL  
-**Confidence:** 75%  
-**Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T15:37:38.308742+00:00  
+**Recommendation:** ACCUMULATE  
+**Confidence:** 65%  
+**Strategy:** VALUE  
+**Generated:** 2026-05-15T15:45:17.570248+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SPMO — BULLISH sentiment, SELL (75% confidence). PE: 34.46741, RSI: 70.22, Price: $144.48.
+SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.38749, RSI: 69.46, Price: $144.14.
 
-**Key Takeaway:** SPMO is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$135.04**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$256.88**, representing a **30.68% margin of safety** from current levels.
 
 ---
 
@@ -20,24 +20,24 @@ SPMO — BULLISH sentiment, SELL (75% confidence). PE: 34.46741, RSI: 70.22, Pri
 
 ### 2.1 Catalysts
 - Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+13.4%**
-- Next earnings date: **2026-06-16**
+- Recent EPS surprise: **-1.5%**
+- Next earnings date: **2026-06-18**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $300.55 |
-| DCF Intrinsic Value | $83.63 |
-| Comparable Implied | $186.45 |
-| Blended Target | $135.04 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $178.06 |
+| DCF Intrinsic Value | $284.53 |
+| Comparable Implied | $229.22 |
+| Blended Target | $256.88 |
+| Margin of Safety | 30.68% |
+| Verdict | Undervalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPMO
-- **Current Price:** 144.48
+- **Current Price:** 144.14
 - **Previous Close:** 147.52
-- **Pe Ratio:** 34.46741
+- **Pe Ratio:** 34.38749
 - **Market Cap:** None
 - **52 Week High:** 147.87
 - **52 Week Low:** 101.8
@@ -47,27 +47,26 @@ SPMO — BULLISH sentiment, SELL (75% confidence). PE: 34.46741, RSI: 70.22, Pri
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (6.5/10)
+- ⚠️ Elevated sanctions exposure (9.5/10)
 - ⚠️ 1 active controversies
-- ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 57.5/100
-- **Sanctions Risk:** 6.5/10
-- **ESG Score:** 72.8/100
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 42.5/100
+- **Sanctions Risk:** 9.5/10
+- **ESG Score:** 53.7/100
 - **Controversies:** 1
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** MOMENTUM
+**Primary Strategy:** VALUE
 
-This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
