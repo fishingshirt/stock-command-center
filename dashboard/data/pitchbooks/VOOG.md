@@ -1,48 +1,48 @@
-# Investment Memo: VGT
+# Investment Memo: VOOG
 
 **Recommendation:** NO_DATA  
 **Confidence:** 0%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T08:45:04.052264+00:00  
+**Generated:** 2026-05-15T08:45:06.474999+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Data unavailable for VGT: No data source available. No recommendation can be made.
+Data unavailable for VOOG: No data source available. No recommendation can be made.
 
-**Key Takeaway:** VGT is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$255.44**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** VOOG is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$216.79**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **10/100** (Earnings weakness detected)
-- Recent EPS surprise: **-4.5%**
-- Next earnings date: **2026-06-18**
+- Earnings momentum score: **35/100** (Mixed earnings signals)
+- Recent EPS surprise: **-12.4%**
+- Next earnings date: **2026-06-12**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $335.65 |
-| DCF Intrinsic Value | $106.64 |
-| Comparable Implied | $404.24 |
-| Blended Target | $255.44 |
+| Current Price | $374.18 |
+| DCF Intrinsic Value | $162.42 |
+| Comparable Implied | $271.16 |
+| Blended Target | $216.79 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
-- **Ticker:** VGT
+- **Ticker:** VOOG
 - ** Error:** No data source available
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (7.7/10)
-- ⚠️ 2 active controversies
+- ⚠️ Elevated sanctions exposure (8.5/10)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 - ⚠️ Low confidence score (0%) — uncertain conviction
 
@@ -51,10 +51,10 @@ Data unavailable for VGT: No data source available. No recommendation can be mad
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** HIGH
-- **Compliance Score:** 41.4/100
-- **Sanctions Risk:** 7.7/10
-- **ESG Score:** 64.7/100
-- **Controversies:** 2
+- **Compliance Score:** 47.6/100
+- **Sanctions Risk:** 8.5/10
+- **ESG Score:** 76.4/100
+- **Controversies:** 1
 
 ---
 

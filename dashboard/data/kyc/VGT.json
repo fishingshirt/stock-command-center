@@ -1,17 +1,16 @@
 {
   "ticker": "VGT",
-  "timestamp": "2026-05-15T08:00:45.366441+00:00",
-  "compliance_score": 71.3,
-  "risk_level": "MEDIUM",
-  "sanctions_risk": 3.7,
+  "timestamp": "2026-05-15T08:45:04.014554+00:00",
+  "compliance_score": 41.4,
+  "risk_level": "HIGH",
+  "sanctions_risk": 7.7,
   "pep_exposure": 0,
-  "esg_score": 42.5,
-  "controversy_count": 1,
+  "esg_score": 64.7,
+  "controversy_count": 2,
   "jurisdiction_risk": "low",
   "flags": [
-    "Elevated sanctions exposure (3.7/10)",
-    "Poor ESG score (42.5)",
-    "1 active controversies"
+    "Elevated sanctions exposure (7.7/10)",
+    "2 active controversies"
   ],
-  "pass": true
+  "pass": false
 }

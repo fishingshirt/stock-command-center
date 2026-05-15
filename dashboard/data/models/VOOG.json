@@ -1,0 +1,42 @@
+{
+  "ticker": "VOOG",
+  "timestamp": "2026-05-15T08:45:06.400514+00:00",
+  "current_price": 374.18,
+  "dcf_target": 162.42,
+  "comparable_target": 271.16,
+  "blended_target": 216.79,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 10.09,
+    "projected_fcf_5yr": [
+      12.44,
+      15.35,
+      18.93,
+      23.36,
+      28.81
+    ],
+    "growth_rate_assumed": 0.234,
+    "wacc": 0.112,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 360.41,
+    "enterprise_value_billions": 281.17,
+    "net_cash_billions": 14.09,
+    "equity_value_billions": 295.26,
+    "intrinsic_per_share": 162.42,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 374.18,
+    "trailing_pe": 29.13,
+    "forward_pe": 26.9,
+    "ev_ebitda": 28.84,
+    "price_to_sales": 8.02,
+    "price_to_book": 3.39,
+    "eps": 12.85,
+    "peer_median_pe": 21.11,
+    "implied_price_pe": 271.16,
+    "upside_pct": -27.53,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

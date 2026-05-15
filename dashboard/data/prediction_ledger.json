@@ -648,6 +648,39 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "VGT",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:45:03.902113+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "VOOG",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:45:06.326191+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "VOO",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T08:45:08.889988+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

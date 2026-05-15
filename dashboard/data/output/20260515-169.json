@@ -1,0 +1,17 @@
+{
+  "task_id": "20260515-169",
+  "subject": "VOOG Vanguard S&P 500 Growth check",
+  "timestamp": "2026-05-15T08:45:06.310104+00:00",
+  "recommendation": "NO_DATA",
+  "confidence": 0,
+  "summary": "Data unavailable for VOOG: No data source available. No recommendation can be made.",
+  "key_metrics": {
+    "ticker": "VOOG",
+    "_error": "No data source available"
+  },
+  "sources": [],
+  "full_text": "## VOOG Research \u2014 DATA UNAVAILABLE\n\nReason: No data source available\n\nNo real-time data was retrieved. The system refuses to fabricate numbers.\n",
+  "paper_trade_signal": "NO_DATA",
+  "paper_trade_price": 0,
+  "asset_type": "stock"
+}

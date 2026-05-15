@@ -1,0 +1,16 @@
+{
+  "ticker": "VOOG",
+  "timestamp": "2026-05-15T08:45:06.437862+00:00",
+  "compliance_score": 47.6,
+  "risk_level": "HIGH",
+  "sanctions_risk": 8.5,
+  "pep_exposure": 0,
+  "esg_score": 76.4,
+  "controversy_count": 1,
+  "jurisdiction_risk": "low",
+  "flags": [
+    "Elevated sanctions exposure (8.5/10)",
+    "1 active controversies"
+  ],
+  "pass": false
+}
