@@ -3,7 +3,7 @@
 **Recommendation:** SELL  
 **Confidence:** 75%  
 **Strategy:** VALUE  
-**Generated:** 2026-05-15T11:20:21.690608+00:00  
+**Generated:** 2026-05-15T11:21:56.071350+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,7 +12,7 @@
 
 SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Price: $748.17.
 
-**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$122.53**, representing a **35.98% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$442.92**, representing a **29.57% margin of safety** from current levels.
 
 ---
 
@@ -20,17 +20,17 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Pric
 
 ### 2.1 Catalysts
 - Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+3.7%**
-- Next earnings date: **2026-05-26**
+- Recent EPS surprise: **+8.0%**
+- Next earnings date: **2026-06-02**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $78.44 |
-| DCF Intrinsic Value | $111.2 |
-| Comparable Implied | $133.86 |
-| Blended Target | $122.53 |
-| Margin of Safety | 35.98% |
+| Current Price | $311.97 |
+| DCF Intrinsic Value | $154.18 |
+| Comparable Implied | $731.66 |
+| Blended Target | $442.92 |
+| Margin of Safety | 29.57% |
 | Verdict | Undervalued |
 
 ### 2.3 Key Metrics Snapshot
@@ -47,8 +47,7 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Pric
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (3.3/10)
-- ⚠️ Poor ESG score (40.5)
+- ⚠️ Elevated sanctions exposure (5.7/10)
 - ⚠️ 1 active controversies
 
 ---
@@ -56,9 +55,9 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Pric
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 73.3/100
-- **Sanctions Risk:** 3.3/10
-- **ESG Score:** 40.5/100
+- **Compliance Score:** 61.7/100
+- **Sanctions Risk:** 5.7/10
+- **ESG Score:** 64.6/100
 - **Controversies:** 1
 
 ---
