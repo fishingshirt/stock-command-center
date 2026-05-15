@@ -2,8 +2,8 @@
 
 **Recommendation:** SELL  
 **Confidence:** 75%  
-**Strategy:** QUALITY  
-**Generated:** 2026-05-15T12:45:29.371197+00:00  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-15T13:01:17.025793+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 MTUM — BULLISH sentiment, SELL (75% confidence). PE: 33.65814, RSI: 74.08, Price: $307.25.
 
-**Key Takeaway:** MTUM is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$175.91**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$145.72**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **55/100** (Mixed earnings signals)
-- Recent EPS surprise: **+11.0%**
-- Next earnings date: **2026-06-03**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **+3.0%**
+- Next earnings date: **2026-06-12**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $368.07 |
-| DCF Intrinsic Value | $84.03 |
-| Comparable Implied | $267.79 |
-| Blended Target | $175.91 |
+| Current Price | $349.66 |
+| DCF Intrinsic Value | $39.17 |
+| Comparable Implied | $252.27 |
+| Blended Target | $145.72 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,26 +47,26 @@ MTUM — BULLISH sentiment, SELL (75% confidence). PE: 33.65814, RSI: 74.08, Pri
 
 ## 3. Risks
 
-- ⚠️ Poor ESG score (41.0)
+- ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 94.9/100
-- **Sanctions Risk:** 1.0/10
-- **ESG Score:** 41.0/100
-- **Controversies:** 0
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 73.6/100
+- **Sanctions Risk:** 1.3/10
+- **ESG Score:** 81.0/100
+- **Controversies:** 2
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** QUALITY
+**Primary Strategy:** GROWTH
 
-This position is classified under the **QUALITY** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 

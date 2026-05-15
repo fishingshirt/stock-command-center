@@ -1,0 +1,58 @@
+{
+  "task_id": "20260515-318",
+  "subject": "V Visa payment network fundamentals",
+  "timestamp": "2026-05-15T13:01:08.827291+00:00",
+  "recommendation": "SELL",
+  "confidence": 65,
+  "summary": "SPY \u2014 NEUTRAL sentiment, SELL (65% confidence). PE: 28.10644, RSI: 82.03, Price: $748.17.",
+  "key_metrics": {
+    "ticker": "SPY",
+    "current_price": 748.17,
+    "previous_close": 742.31,
+    "pe_ratio": 28.10644,
+    "market_cap": null,
+    "52_week_high": 749.53,
+    "52_week_low": 575.6,
+    "avg_volume": 74117604,
+    "rsi_14": 82.03,
+    "sma_20": 722.35,
+    "sma_50": null,
+    "price_change_5d_pct": 1.43,
+    "sentiment_score": 0.0,
+    "sentiment_label": "NEUTRAL"
+  },
+  "news": [
+    {
+      "title": "The Professor Who Tracks Every US IPO Just Issued a Warning on SpaceX: \u201cMost of the Time, Things Don\u2019t Go According to Plan.\u201d",
+      "published": "Fri, 15 May 2026 11:34:52 +0000",
+      "url": "https://247wallst.com/investing/2026/05/15/the-professor-who-tracks-every-us-ipo-just-issued-a-warning-on-spacex-most-of-the-time-things-dont-go-according-to-plan/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nvidia earnings alone won\u2019t rescue the S&P 500 from its new sell signal",
+      "published": "Fri, 15 May 2026 03:11:00 +0000",
+      "url": "https://www.marketwatch.com/story/nvidia-earnings-alone-wont-rescue-the-s-p-500-from-its-new-sell-signal-5a41acc3?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "What Does the Strong Q1 Earnings Growth Say About the Economy?",
+      "published": "Thu, 14 May 2026 20:15:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-strong-q1-earnings-growth-201500452.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": 0.0,
+    "label": "NEUTRAL",
+    "bullish_mentions": 2,
+    "bearish_mentions": 2,
+    "total_mentions": 4
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/SPY"
+  ],
+  "full_text": "## SPY Research Result\n\n### Recommendation: SELL (65% confidence)\n\n### Sentiment: NEUTRAL (0.0)\n\n### Key Metrics\n- **ticker:** SPY\n- **current_price:** 748.17\n- **previous_close:** 742.31\n- **pe_ratio:** 28.10644\n- **market_cap:** None\n- **52_week_high:** 749.53\n- **52_week_low:** 575.6\n- **avg_volume:** 74117604\n- **rsi_14:** 82.03\n- **sma_20:** 722.35\n- **sma_50:** None\n- **price_change_5d_pct:** 1.43\n- **sentiment_score:** 0.0\n- **sentiment_label:** NEUTRAL\n\n### Latest News\n- [The Professor Who Tracks Every US IPO Just Issued a Warning on SpaceX: \u201cMost of the Time, Things Don\u2019t Go According to Plan.\u201d](https://247wallst.com/investing/2026/05/15/the-professor-who-tracks-every-us-ipo-just-issued-a-warning-on-spacex-most-of-the-time-things-dont-go-according-to-plan/?.tsrc=rss)\n- [Nvidia earnings alone won\u2019t rescue the S&P 500 from its new sell signal](https://www.marketwatch.com/story/nvidia-earnings-alone-wont-rescue-the-s-p-500-from-its-new-sell-signal-5a41acc3?.tsrc=rss)\n- [What Does the Strong Q1 Earnings Growth Say About the Economy?](https://finance.yahoo.com/markets/stocks/articles/does-strong-q1-earnings-growth-201500452.html?.tsrc=rss)",
+  "paper_trade_signal": "SELL",
+  "paper_trade_price": 748.17,
+  "asset_type": "stock"
+}
