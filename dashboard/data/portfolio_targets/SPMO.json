@@ -7,8 +7,8 @@
   "margin_of_safety_multiplier": 1.0,
   "diversification_limit": "20% max single position",
   "sector_risk": "Within limits",
-  "cash_available": 91926.29,
+  "cash_available": 82733.66,
   "total_portfolio_value": 100026.29,
-  "strategy": "GROWTH",
-  "timestamp": "2026-05-15T18:31:06.536497+00:00"
+  "strategy": "MOMENTUM",
+  "timestamp": "2026-05-15T18:45:59.174144+00:00"
 }
