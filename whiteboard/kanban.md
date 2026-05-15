@@ -16,14 +16,7 @@ Auto-generated research task. Bot: researcher_bot.
 
 ## In Progress
 
-### Task ID: 20260515-163
-**Subject:** SCHG Schwab US Large-Cap Growth outlook
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T08:30:10.803486+00:00
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -1130,6 +1123,18 @@ Auto-generated research task. Bot: researcher_bot.
 **Started At:** 2026-05-15T08:30:08.078276+00:00
 **Completed At:** 2026-05-15T08:30:09.526907+00:00
 **Result:** dashboard/data/output/20260515-162.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260515-163
+**Subject:** SCHG Schwab US Large-Cap Growth outlook
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:30:10.803486+00:00
+**Completed At:** 2026-05-15T08:30:11.992267+00:00
+**Result:** dashboard/data/output/20260515-163.json
 **Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
