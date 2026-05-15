@@ -439,6 +439,50 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SCHK",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 35.94,
+      "timestamp": "2026-05-15T08:00:33.786525+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPYG",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 120.28,
+      "timestamp": "2026-05-15T08:00:38.878438+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "VGT",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 115.19,
+      "timestamp": "2026-05-15T08:00:43.845731+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "VOO",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 687.73,
+      "timestamp": "2026-05-15T08:00:48.820893+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

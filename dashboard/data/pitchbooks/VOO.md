@@ -1,18 +1,18 @@
 # Investment Memo: VOO
 
-**Recommendation:** NO_DATA  
-**Confidence:** 0%  
+**Recommendation:** ACCUMULATE  
+**Confidence:** 65%  
 **Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T08:00:26.474536+00:00  
+**Generated:** 2026-05-15T08:00:50.573244+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Data unavailable for VOO: No data source available. No recommendation can be made.
+VOO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $687.73.
 
-**Key Takeaway:** VOO is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$292.18**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** VOO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$370.75**, representing a **11.93% margin of safety** from current levels.
 
 ---
 
@@ -20,41 +20,44 @@ Data unavailable for VOO: No data source available. No recommendation can be mad
 
 ### 2.1 Catalysts
 - Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+3.8%**
-- Next earnings date: **2026-05-21**
+- Recent EPS surprise: **+9.9%**
+- Next earnings date: **2026-05-20**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $317.4 |
-| DCF Intrinsic Value | $48.57 |
-| Comparable Implied | $535.78 |
-| Blended Target | $292.18 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $326.52 |
+| DCF Intrinsic Value | $195.46 |
+| Comparable Implied | $546.04 |
+| Blended Target | $370.75 |
+| Margin of Safety | 11.93% |
+| Verdict | Fairly valued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** VOO
-- ** Error:** No data source available
+- **Current Price:** 687.73
+- **Previous Close:** 682.41
+- **Pe Ratio:** None
+- **Market Cap:** None
+- **52 Week High:** 689.1
+- **52 Week Low:** 529.11
+- **Avg Volume:** None
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (3.1/10)
-- ⚠️ 1 active controversies
-- ⚠️ Low margin of safety — limited downside protection
-- ⚠️ Low confidence score (0%) — uncertain conviction
+- No material compliance flags detected.
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 74.3/100
-- **Sanctions Risk:** 3.1/10
-- **ESG Score:** 82.2/100
-- **Controversies:** 1
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 89.5/100
+- **Sanctions Risk:** 2.1/10
+- **ESG Score:** 71.2/100
+- **Controversies:** 0
 
 ---
 
@@ -67,6 +70,7 @@ This position is classified under the **MOMENTUM** strategy bucket. Portfolio co
 ---
 
 ## 6. Sources & References
+- https://finance.yahoo.com/quote/VOO
 
 ---
 

@@ -1,17 +1,55 @@
 {
   "task_id": "20260515-150",
   "subject": "Research SPYG & SPYM \u2014 State Street growth + dividend combo",
-  "timestamp": "2026-05-15T08:00:21.141948+00:00",
-  "recommendation": "NO_DATA",
-  "confidence": 0,
-  "summary": "Data unavailable for SPYG: No data source available. No recommendation can be made.",
+  "timestamp": "2026-05-15T08:00:38.800195+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 65,
+  "summary": "SPYG \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $120.28.",
   "key_metrics": {
     "ticker": "SPYG",
-    "_error": "No data source available"
+    "current_price": 120.28,
+    "previous_close": 118.83,
+    "pe_ratio": null,
+    "market_cap": null,
+    "52_week_high": 120.42,
+    "52_week_low": 87.22,
+    "avg_volume": null,
+    "_source": "yahoo_chart_api",
+    "sentiment_score": 100.0,
+    "sentiment_label": "BULLISH"
   },
-  "sources": [],
-  "full_text": "## SPYG Research \u2014 DATA UNAVAILABLE\n\nReason: No data source available\n\nNo real-time data was retrieved. The system refuses to fabricate numbers.\n",
-  "paper_trade_signal": "NO_DATA",
-  "paper_trade_price": 0,
+  "news": [
+    {
+      "title": "Here's How Much $1000 Invested In State Street SPDR Portfolio S&P 500 Growth ETF 15 Years Ago Would Be Worth Today",
+      "published": "Wed, 13 May 2026 14:00:36 +0000",
+      "url": "https://finance.yahoo.com/news/heres-much-1000-invested-state-140036591.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Growth ETF (SPYG) Hits New 52-Week High",
+      "published": "Fri, 17 Apr 2026 15:32:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/growth-etf-spyg-hits-52-153200692.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is the Market Turning Risk-On Again? Growth ETFs to Watch",
+      "published": "Tue, 14 Apr 2026 16:29:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-turning-risk-again-growth-162900024.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish_mentions": 6,
+    "bearish_mentions": 0,
+    "total_mentions": 6
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/SPYG"
+  ],
+  "full_text": "## SPYG Research Result\n\n### Recommendation: ACCUMULATE (65% confidence)\n\n### Sentiment: BULLISH (100.0)\n\n### Key Metrics\n- **ticker:** SPYG\n- **current_price:** 120.28\n- **previous_close:** 118.83\n- **pe_ratio:** None\n- **market_cap:** None\n- **52_week_high:** 120.42\n- **52_week_low:** 87.22\n- **avg_volume:** None\n- **_source:** yahoo_chart_api\n- **sentiment_score:** 100.0\n- **sentiment_label:** BULLISH\n\n### Latest News\n- [Here's How Much $1000 Invested In State Street SPDR Portfolio S&P 500 Growth ETF 15 Years Ago Would Be Worth Today](https://finance.yahoo.com/news/heres-much-1000-invested-state-140036591.html?.tsrc=rss)\n- [Growth ETF (SPYG) Hits New 52-Week High](https://finance.yahoo.com/markets/stocks/articles/growth-etf-spyg-hits-52-153200692.html?.tsrc=rss)\n- [Is the Market Turning Risk-On Again? Growth ETFs to Watch](https://finance.yahoo.com/markets/stocks/articles/market-turning-risk-again-growth-162900024.html?.tsrc=rss)",
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 120.28,
   "asset_type": "stock"
 }
