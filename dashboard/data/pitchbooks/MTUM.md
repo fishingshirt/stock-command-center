@@ -2,42 +2,42 @@
 
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
-**Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T16:01:13.545415+00:00  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-15T16:15:59.165079+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.813538, RSI: 65.09, Price: $299.54.
+MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.789436, RSI: 64.86, Price: $299.32.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$187.93**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$186.97**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **80/100** (Strong earnings momentum)
-- Recent EPS surprise: **+24.0%**
-- Next earnings date: **2026-06-03**
+- Earnings momentum score: **20/100** (Earnings weakness detected)
+- Recent EPS surprise: **-8.0%**
+- Next earnings date: **2026-05-22**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $562.22 |
-| DCF Intrinsic Value | $51.06 |
-| Comparable Implied | $324.8 |
-| Blended Target | $187.93 |
+| Current Price | $413.64 |
+| DCF Intrinsic Value | $95.59 |
+| Comparable Implied | $278.35 |
+| Blended Target | $186.97 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** MTUM
-- **Current Price:** 299.54
+- **Current Price:** 299.32
 - **Previous Close:** 307.25
-- **Pe Ratio:** 32.813538
+- **Pe Ratio:** 32.789436
 - **Market Cap:** None
 - **52 Week High:** 307.96
 - **52 Week Low:** 223.47
@@ -47,26 +47,28 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.813538, RSI: 65.
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (3.3/10)
+- ⚠️ Elevated sanctions exposure (3.8/10)
+- ⚠️ 1 active controversies
+- ⚠️ Jurisdiction risk: medium
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 83.6/100
-- **Sanctions Risk:** 3.3/10
-- **ESG Score:** 57.1/100
-- **Controversies:** 0
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 71.2/100
+- **Sanctions Risk:** 3.8/10
+- **ESG Score:** 82.6/100
+- **Controversies:** 1
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** MOMENTUM
+**Primary Strategy:** GROWTH
 
-This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 

@@ -1,18 +1,11 @@
 {
-  "generated_at": "2026-05-15T16:00:56.178209+00:00",
+  "generated_at": "2026-05-15T16:15:41.791648+00:00",
   "overall": {
-    "closed_trades": 0,
-    "open_positions": 3,
-    "cash": 72900.017732
+    "closed_trades": 1,
+    "open_positions": 2,
+    "cash": 81902.430532
   },
   "bot_leaderboard": [
-    {
-      "name": "researcher_bot",
-      "expertise": "multi-domain_research",
-      "accuracy": 50.0,
-      "predictions": 257,
-      "correct": 0
-    },
     {
       "name": "earnings_analyzer",
       "expertise": "earnings_surprise",
@@ -54,6 +47,13 @@
       "accuracy": 50.0,
       "predictions": 0,
       "correct": 0
+    },
+    {
+      "name": "researcher_bot",
+      "expertise": "multi-domain_research",
+      "accuracy": 12.0,
+      "predictions": 333,
+      "correct": 40
     }
   ],
   "strategy_stats": {
@@ -65,5 +65,7 @@
       "losses": 0
     }
   },
-  "warnings": []
+  "warnings": [
+    "researcher_bot accuracy 12.0% \u2014 below threshold"
+  ]
 }

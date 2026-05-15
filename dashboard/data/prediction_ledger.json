@@ -7,9 +7,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T07:00:07.985247+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654808+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -18,9 +19,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T07:01:00.679092+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654821+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -227,9 +229,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T07:45:03.103036+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654833+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -260,9 +263,10 @@
       "confidence": 65,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T07:45:32.627729+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654840+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -348,9 +352,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T08:00:13.519036+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654846+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -403,9 +408,10 @@
       "confidence": 65,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T08:00:23.506961+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654850+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -502,9 +508,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T08:15:06.391503+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654855+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -535,9 +542,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T08:15:14.493200+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654860+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -568,9 +576,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T08:30:03.998109+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654864+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -755,9 +764,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T09:15:06.000447+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654870+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -788,9 +798,10 @@
       "confidence": 65,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T09:15:34.388453+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654874+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -821,9 +832,10 @@
       "confidence": 65,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T09:27:35.623356+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654878+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -854,9 +866,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T09:30:06.898068+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654881+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -887,9 +900,10 @@
       "confidence": 65,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T09:30:26.325336+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654885+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -920,9 +934,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T09:40:23.020887+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654889+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -953,9 +968,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T09:41:33.718462+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654893+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -986,9 +1002,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T09:45:06.642632+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654897+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1019,9 +1036,10 @@
       "confidence": 65,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T09:45:35.224307+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654901+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1052,9 +1070,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T10:00:04.566841+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654905+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1085,9 +1104,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T10:00:13.205787+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654909+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1118,9 +1138,10 @@
       "confidence": 65,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T10:00:34.141508+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654912+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1151,9 +1172,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T10:00:56.923343+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654916+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1184,9 +1206,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T10:15:06.422274+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654920+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1217,9 +1240,10 @@
       "confidence": 65,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T10:15:44.230323+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654927+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1261,9 +1285,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T10:30:06.761591+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654932+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1294,9 +1319,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T10:30:14.612417+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654936+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1327,9 +1353,10 @@
       "confidence": 65,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T10:30:47.265015+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654940+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1360,9 +1387,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T10:45:07.151532+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654944+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1393,9 +1421,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T10:45:14.579640+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654949+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1426,9 +1455,10 @@
       "confidence": 65,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T10:45:46.240890+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654953+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1459,9 +1489,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T11:00:07.837592+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654963+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1492,9 +1523,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T11:00:16.014452+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654966+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1525,9 +1557,10 @@
       "confidence": 65,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T11:00:47.821394+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654970+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1558,9 +1591,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T11:15:06.756248+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654974+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1591,9 +1625,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T11:15:15.154628+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654978+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1624,9 +1659,10 @@
       "confidence": 65,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T11:15:42.162143+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654982+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1657,9 +1693,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T11:15:58.798270+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654986+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1690,9 +1727,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T11:18:25.441214+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654990+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1723,9 +1761,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T11:20:19.941785+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.654996+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1756,9 +1795,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T11:21:54.265289+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655000+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1789,9 +1829,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T11:30:06.775185+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655004+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1822,9 +1863,10 @@
       "confidence": 0,
       "price_at_predict": 0,
       "timestamp": "2026-05-15T11:30:49.757427+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655008+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1855,9 +1897,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T11:31:10.746745+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655012+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1888,9 +1931,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T11:32:44.372327+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655016+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1921,9 +1965,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T11:33:13.221550+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655019+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1954,9 +1999,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T11:34:41.924352+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655025+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -1987,9 +2033,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T11:37:09.836468+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655029+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2020,9 +2067,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T11:37:34.990069+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655035+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2053,9 +2101,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T11:38:03.915607+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655039+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2086,9 +2135,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T11:38:27.558335+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655042+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2119,9 +2169,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T11:42:04.705801+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655046+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2152,9 +2203,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T11:45:44.295672+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655050+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2185,9 +2237,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T12:00:22.654509+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655054+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2218,9 +2271,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T12:16:00.297839+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655058+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2251,9 +2305,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T12:30:34.981130+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655062+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2284,9 +2339,10 @@
       "confidence": 75,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T12:45:20.130777+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655066+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2317,9 +2373,10 @@
       "confidence": 65,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T13:01:08.925128+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655069+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2350,9 +2407,10 @@
       "confidence": 65,
       "price_at_predict": 748.17,
       "timestamp": "2026-05-15T13:15:56.972226+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655073+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2383,9 +2441,10 @@
       "confidence": 75,
       "price_at_predict": 741.28,
       "timestamp": "2026-05-15T13:30:39.854124+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655077+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2416,9 +2475,10 @@
       "confidence": 65,
       "price_at_predict": 738.58,
       "timestamp": "2026-05-15T13:45:28.332793+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655081+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2449,9 +2509,10 @@
       "confidence": 75,
       "price_at_predict": 739.59,
       "timestamp": "2026-05-15T14:01:09.604343+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655086+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2482,9 +2543,10 @@
       "confidence": 75,
       "price_at_predict": 741.16,
       "timestamp": "2026-05-15T14:15:46.854396+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655090+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2515,9 +2577,10 @@
       "confidence": 75,
       "price_at_predict": 741.41,
       "timestamp": "2026-05-15T14:30:24.946791+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655094+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2548,9 +2611,10 @@
       "confidence": 75,
       "price_at_predict": 741.55,
       "timestamp": "2026-05-15T14:46:04.498855+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655097+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2581,9 +2645,10 @@
       "confidence": 75,
       "price_at_predict": 741.17,
       "timestamp": "2026-05-15T15:00:48.915746+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655101+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2614,9 +2679,10 @@
       "confidence": 75,
       "price_at_predict": 740.9,
       "timestamp": "2026-05-15T15:15:40.384337+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655105+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2647,9 +2713,10 @@
       "confidence": 75,
       "price_at_predict": 741.58,
       "timestamp": "2026-05-15T15:30:16.925592+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655110+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2680,9 +2747,10 @@
       "confidence": 75,
       "price_at_predict": 741.34,
       "timestamp": "2026-05-15T15:34:03.160410+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655114+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2713,9 +2781,10 @@
       "confidence": 75,
       "price_at_predict": 741.57,
       "timestamp": "2026-05-15T15:37:42.673894+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655118+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2746,9 +2815,10 @@
       "confidence": 75,
       "price_at_predict": 740.02,
       "timestamp": "2026-05-15T15:45:21.979306+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655122+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2779,9 +2849,10 @@
       "confidence": 65,
       "price_at_predict": 740.13,
       "timestamp": "2026-05-15T15:47:22.244817+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655126+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2812,9 +2883,10 @@
       "confidence": 65,
       "price_at_predict": 739.4,
       "timestamp": "2026-05-15T15:54:37.361756+00:00",
-      "evaluated": false,
-      "was_correct": null,
-      "roi_at_eval": null
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655132+00:00"
     },
     {
       "bot": "researcher_bot",
@@ -2845,6 +2917,40 @@
       "confidence": 75,
       "price_at_predict": 740.33,
       "timestamp": "2026-05-15T16:01:05.534917+00:00",
+      "evaluated": true,
+      "was_correct": false,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-15T16:15:40.655136+00:00"
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "MTUM",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 299.54,
+      "timestamp": "2026-05-15T16:01:11.694453+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPMO",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 143.88,
+      "timestamp": "2026-05-15T16:15:44.744506+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPY",
+      "recommendation": "SELL",
+      "confidence": 75,
+      "price_at_predict": 740.29,
+      "timestamp": "2026-05-15T16:15:50.844906+00:00",
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
@@ -2854,8 +2960,8 @@
       "ticker": "MTUM",
       "recommendation": "ACCUMULATE",
       "confidence": 65,
-      "price_at_predict": 299.54,
-      "timestamp": "2026-05-15T16:01:11.694453+00:00",
+      "price_at_predict": 299.32,
+      "timestamp": "2026-05-15T16:15:57.259030+00:00",
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
