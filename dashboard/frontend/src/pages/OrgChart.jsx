@@ -223,6 +223,12 @@ function OrgChart() {
                   <div className="font-bold">${(selected.salary || 0).toLocaleString()}</div>
                 </div>
               </div>
+              {selected.on_pip && (
+                <div className="mt-3 bg-orange-900/30 border border-orange-600 rounded p-2">
+                  <div className="text-xs text-orange-400 font-bold">ON PERFORMANCE IMPROVEMENT PLAN</div>
+                  <div className="text-xs text-slate-400">Under review by manager. Must improve above 40% accuracy.</div>
+                </div>
+              )}
               {selected.bio && (
                 <p className="mt-3 text-xs text-slate-400 italic">{selected.bio}</p>
               )}
