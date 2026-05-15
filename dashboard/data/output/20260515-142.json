@@ -1,0 +1,55 @@
+{
+  "task_id": "20260515-142",
+  "subject": "XOM energy sector rotation",
+  "timestamp": "2026-05-15T07:45:48.519650+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 65,
+  "summary": "XOM \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $152.78.",
+  "key_metrics": {
+    "ticker": "XOM",
+    "current_price": 152.78,
+    "previous_close": 151.57,
+    "pe_ratio": null,
+    "market_cap": null,
+    "52_week_high": 176.41,
+    "52_week_low": 101.19,
+    "avg_volume": null,
+    "_source": "yahoo_chart_api",
+    "sentiment_score": 100.0,
+    "sentiment_label": "BULLISH"
+  },
+  "news": [
+    {
+      "title": "Sintana Energy advancing Atlantic Margin opportunity",
+      "published": "Fri, 15 May 2026 06:27:00 +0000",
+      "url": "https://www.proactiveinvestors.com/companies/news/1092352/sintana-energy-advancing-atlantic-margin-opportunity-1092352.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Exxon Mobil Texas Move Pits Shareholder Rights Against Governance Goals",
+      "published": "Thu, 14 May 2026 21:22:34 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-texas-move-pits-212234672.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "What Does the Strong Q1 Earnings Growth Say About the Economy?",
+      "published": "Thu, 14 May 2026 20:15:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-strong-q1-earnings-growth-201500452.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish_mentions": 4,
+    "bearish_mentions": 0,
+    "total_mentions": 4
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/XOM"
+  ],
+  "full_text": "## XOM Research Result\n\n### Recommendation: ACCUMULATE (65% confidence)\n\n### Sentiment: BULLISH (100.0)\n\n### Key Metrics\n- **ticker:** XOM\n- **current_price:** 152.78\n- **previous_close:** 151.57\n- **pe_ratio:** None\n- **market_cap:** None\n- **52_week_high:** 176.41\n- **52_week_low:** 101.19\n- **avg_volume:** None\n- **_source:** yahoo_chart_api\n- **sentiment_score:** 100.0\n- **sentiment_label:** BULLISH\n\n### Latest News\n- [Sintana Energy advancing Atlantic Margin opportunity](https://www.proactiveinvestors.com/companies/news/1092352/sintana-energy-advancing-atlantic-margin-opportunity-1092352.html?.tsrc=rss)\n- [Exxon Mobil Texas Move Pits Shareholder Rights Against Governance Goals](https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-texas-move-pits-212234672.html?.tsrc=rss)\n- [What Does the Strong Q1 Earnings Growth Say About the Economy?](https://finance.yahoo.com/markets/stocks/articles/does-strong-q1-earnings-growth-201500452.html?.tsrc=rss)",
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 152.78,
+  "asset_type": "stock"
+}

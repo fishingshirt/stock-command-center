@@ -1,15 +1,16 @@
 {
   "ticker": "XOM",
-  "timestamp": "2026-05-15T07:45:08.260795+00:00",
-  "compliance_score": 51.1,
-  "risk_level": "MEDIUM",
-  "sanctions_risk": 9.8,
+  "timestamp": "2026-05-15T07:45:50.376950+00:00",
+  "compliance_score": 82.6,
+  "risk_level": "LOW",
+  "sanctions_risk": 1.5,
   "pep_exposure": 0,
-  "esg_score": 82.7,
-  "controversy_count": 0,
+  "esg_score": 48.3,
+  "controversy_count": 1,
   "jurisdiction_risk": "low",
   "flags": [
-    "Elevated sanctions exposure (9.8/10)"
+    "Poor ESG score (48.3)",
+    "1 active controversies"
   ],
   "pass": true
 }

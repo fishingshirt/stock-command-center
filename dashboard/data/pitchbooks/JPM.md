@@ -1,41 +1,47 @@
 # Investment Memo: JPM
 
-**Recommendation:** NO_DATA  
-**Confidence:** 0%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T07:45:05.900816+00:00  
+**Recommendation:** HOLD  
+**Confidence:** 55%  
+**Strategy:** MOMENTUM  
+**Generated:** 2026-05-15T07:45:42.328749+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Data unavailable for JPM: No data source available. No recommendation can be made.
+JPM — NEUTRAL sentiment, HOLD (55% confidence). PE: None, RSI: N/A, Price: $299.91.
 
-**Key Takeaway:** JPM is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$68.62**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** JPM is rated **HOLD** with 55% confidence. Valuation model suggests a blended target of **$92.68**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **-3.1%**
-- Next earnings date: **2026-06-02**
+- Earnings momentum score: **80/100** (Strong earnings momentum)
+- Recent EPS surprise: **+6.5%**
+- Next earnings date: **2026-05-28**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $132.48 |
-| DCF Intrinsic Value | $78.4 |
-| Comparable Implied | $58.84 |
-| Blended Target | $68.62 |
+| Current Price | $160.82 |
+| DCF Intrinsic Value | $72.84 |
+| Comparable Implied | $112.51 |
+| Blended Target | $92.68 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** JPM
-- ** Error:** No data source available
+- **Current Price:** 299.91
+- **Previous Close:** 300.25
+- **Pe Ratio:** None
+- **Market Cap:** None
+- **52 Week High:** 337.25
+- **52 Week Low:** 256.0
+- **Avg Volume:** None
 
 ---
 
@@ -43,29 +49,30 @@ Data unavailable for JPM: No data source available. No recommendation can be mad
 
 - ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
-- ⚠️ Low confidence score (0%) — uncertain conviction
+- ⚠️ Low confidence score (55%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 70.0/100
+- **Compliance Score:** 69.8/100
 - **Sanctions Risk:** 2.0/10
-- **ESG Score:** 72.9/100
+- **ESG Score:** 73.9/100
 - **Controversies:** 2
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** MOMENTUM
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
 ## 6. Sources & References
+- https://finance.yahoo.com/quote/JPM
 
 ---
 

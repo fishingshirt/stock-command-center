@@ -1,0 +1,53 @@
+{
+  "task_id": "20260515-141",
+  "subject": "JPM banking sector risk",
+  "timestamp": "2026-05-15T07:45:40.585340+00:00",
+  "recommendation": "HOLD",
+  "confidence": 55,
+  "summary": "JPM \u2014 NEUTRAL sentiment, HOLD (55% confidence). PE: None, RSI: N/A, Price: $299.91.",
+  "key_metrics": {
+    "ticker": "JPM",
+    "current_price": 299.91,
+    "previous_close": 300.25,
+    "pe_ratio": null,
+    "market_cap": null,
+    "52_week_high": 337.25,
+    "52_week_low": 256.0,
+    "avg_volume": null,
+    "_source": "yahoo_chart_api",
+    "sentiment_score": 0,
+    "sentiment_label": "NEUTRAL"
+  },
+  "news": [
+    {
+      "title": "How The SSE (LSE:SSE) Investment Story Is Shifting As Analysts Split On Valuation",
+      "published": "Fri, 15 May 2026 07:25:05 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sse-lse-sse-investment-story-072505057.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Where is JPMorgan Chase\u2019s headquarters? Inside the banking giant\u2019s new NYC tower",
+      "published": "Fri, 15 May 2026 01:35:33 +0000",
+      "url": "https://www.thestreet.com/investing/stocks/jpmorgan-chase-headquarters?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "JPMorgan\u2019s New Ethereum Money Market Fund Might Change The Case For Investing In JPMorgan Chase (JPM)",
+      "published": "Fri, 15 May 2026 00:58:40 +0000",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-ethereum-money-market-fund-005840839.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": 0,
+    "label": "NEUTRAL",
+    "mentions": 0
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/JPM"
+  ],
+  "full_text": "## JPM Research Result\n\n### Recommendation: HOLD (55% confidence)\n\n### Sentiment: NEUTRAL (0)\n\n### Key Metrics\n- **ticker:** JPM\n- **current_price:** 299.91\n- **previous_close:** 300.25\n- **pe_ratio:** None\n- **market_cap:** None\n- **52_week_high:** 337.25\n- **52_week_low:** 256.0\n- **avg_volume:** None\n- **_source:** yahoo_chart_api\n- **sentiment_score:** 0\n- **sentiment_label:** NEUTRAL\n\n### Latest News\n- [How The SSE (LSE:SSE) Investment Story Is Shifting As Analysts Split On Valuation](https://finance.yahoo.com/markets/stocks/articles/sse-lse-sse-investment-story-072505057.html?.tsrc=rss)\n- [Where is JPMorgan Chase\u2019s headquarters? Inside the banking giant\u2019s new NYC tower](https://www.thestreet.com/investing/stocks/jpmorgan-chase-headquarters?.tsrc=rss)\n- [JPMorgan\u2019s New Ethereum Money Market Fund Might Change The Case For Investing In JPMorgan Chase (JPM)](https://finance.yahoo.com/markets/crypto/articles/jpmorgan-ethereum-money-market-fund-005840839.html?.tsrc=rss)",
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 299.91,
+  "asset_type": "stock"
+}

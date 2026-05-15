@@ -252,6 +252,39 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPY",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 748.17,
+      "timestamp": "2026-05-15T07:45:32.627729+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "JPM",
+      "recommendation": "HOLD",
+      "confidence": 55,
+      "price_at_predict": 299.91,
+      "timestamp": "2026-05-15T07:45:40.663386+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "XOM",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 152.78,
+      "timestamp": "2026-05-15T07:45:48.598294+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

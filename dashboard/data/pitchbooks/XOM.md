@@ -1,59 +1,65 @@
 # Investment Memo: XOM
 
-**Recommendation:** NO_DATA  
-**Confidence:** 0%  
+**Recommendation:** ACCUMULATE  
+**Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T07:45:08.297859+00:00  
+**Generated:** 2026-05-15T07:45:50.401797+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-Data unavailable for XOM: No data source available. No recommendation can be made.
+XOM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $152.78.
 
-**Key Takeaway:** XOM is rated **NO_DATA** with 0% confidence. Valuation model suggests a blended target of **$319.25**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** XOM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$308.18**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **10/100** (Earnings weakness detected)
-- Recent EPS surprise: **-13.7%**
-- Next earnings date: **2026-06-14**
+- Earnings momentum score: **35/100** (Mixed earnings signals)
+- Recent EPS surprise: **-8.5%**
+- Next earnings date: **2026-06-01**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $566.14 |
-| DCF Intrinsic Value | $37.32 |
-| Comparable Implied | $601.18 |
-| Blended Target | $319.25 |
+| Current Price | $327.28 |
+| DCF Intrinsic Value | $80.45 |
+| Comparable Implied | $535.9 |
+| Blended Target | $308.18 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** XOM
-- ** Error:** No data source available
+- **Current Price:** 152.78
+- **Previous Close:** 151.57
+- **Pe Ratio:** None
+- **Market Cap:** None
+- **52 Week High:** 176.41
+- **52 Week Low:** 101.19
+- **Avg Volume:** None
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (9.8/10)
+- ⚠️ Poor ESG score (48.3)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
-- ⚠️ Low confidence score (0%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 51.1/100
-- **Sanctions Risk:** 9.8/10
-- **ESG Score:** 82.7/100
-- **Controversies:** 0
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 82.6/100
+- **Sanctions Risk:** 1.5/10
+- **ESG Score:** 48.3/100
+- **Controversies:** 1
 
 ---
 
@@ -66,6 +72,7 @@ This position is classified under the **GROWTH** strategy bucket. Portfolio cons
 ---
 
 ## 6. Sources & References
+- https://finance.yahoo.com/quote/XOM
 
 ---
 
