@@ -41,17 +41,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260515-149
-**Subject:** Research SCHK & SCHG — Schwab large-cap pair analysis
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T08:00:17.461876+00:00
-**Details:**
-- SCHK (1000 index) vs SCHG (growth) correlation
-- Combined portfolio overlap
-- Expense ratio advantage
-- Rebalancing signal
+_(No tasks in this section.)_
 
 ## Done
 
@@ -981,3 +971,18 @@ Auto-generated research task. Bot: researcher_bot.
 - Top 10 holdings drift
 - Momentum signal strength
 - Compare to SPMO overlap
+
+### Task ID: 20260515-149
+**Subject:** Research SCHK & SCHG — Schwab large-cap pair analysis
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:17.461876+00:00
+**Completed At:** 2026-05-15T08:00:18.585147+00:00
+**Result:** dashboard/data/output/20260515-149.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+- SCHK (1000 index) vs SCHG (growth) correlation
+- Combined portfolio overlap
+- Expense ratio advantage
+- Rebalancing signal
