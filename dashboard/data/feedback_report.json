@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-05-15T15:47:06.718907+00:00",
+  "generated_at": "2026-05-15T15:54:23.226868+00:00",
   "overall": {
     "closed_trades": 0,
-    "open_positions": 0,
-    "cash": 100000.0
+    "open_positions": 3,
+    "cash": 72900.017732
   },
   "bot_leaderboard": [
     {
       "name": "researcher_bot",
       "expertise": "multi-domain_research",
       "accuracy": 50.0,
-      "predictions": 251,
+      "predictions": 254,
       "correct": 0
     },
     {
@@ -56,6 +56,14 @@
       "correct": 0
     }
   ],
-  "strategy_stats": {},
+  "strategy_stats": {
+    "GROWTH": {
+      "trades": 3,
+      "win_rate": 0.0,
+      "avg_return_pct": 0.0,
+      "wins": 0,
+      "losses": 0
+    }
+  },
   "warnings": []
 }

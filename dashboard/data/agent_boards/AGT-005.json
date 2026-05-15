@@ -1,0 +1,39 @@
+{
+  "agent_id": "AGT-005",
+  "To Do": [
+    {
+      "subject": "SPMO S&P 500 Momentum ETF trend scan",
+      "details": "Auto-generated research task. Bot: researcher_bot.",
+      "priority": "medium",
+      "kanban_task_id": "20260515-362",
+      "task_id": "AGT-005-20260515155354-755",
+      "created": "2026-05-15T15:53:54.768557+00:00"
+    }
+  ],
+  "In Progress": [],
+  "Done": [
+    {
+      "subject": "SPMO S&P 500 Momentum ETF trend scan",
+      "details": "Auto-generated research task. Bot: researcher_bot.",
+      "priority": "medium",
+      "kanban_task_id": "20260515-362",
+      "task_id": "AGT-005-20260515155147-366",
+      "created": "2026-05-15T15:51:47.162636+00:00",
+      "started": "2026-05-15T15:51:47.152366+00:00",
+      "completed": "2026-05-15T15:51:47.948697+00:00",
+      "status": "fail"
+    },
+    {
+      "subject": "MTUM iShares Momentum Factor ETF rotation",
+      "details": "Auto-generated research task. Bot: researcher_bot.",
+      "priority": "medium",
+      "kanban_task_id": "20260515-364",
+      "task_id": "AGT-005-20260515155147-860",
+      "created": "2026-05-15T15:51:47.163388+00:00",
+      "started": "2026-05-15T15:53:54.757998+00:00",
+      "completed": "2026-05-15T15:53:54.769771+00:00",
+      "status": "ok"
+    }
+  ],
+  "updated_at": "2026-05-15T15:53:54.769775+00:00"
+}

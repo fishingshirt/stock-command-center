@@ -1,0 +1,30 @@
+{
+  "agent_id": "AGT-006",
+  "To Do": [],
+  "In Progress": [],
+  "Done": [
+    {
+      "subject": "V Visa payment network fundamentals",
+      "details": "Auto-generated research task. Bot: researcher_bot.",
+      "priority": "medium",
+      "kanban_task_id": "20260515-363",
+      "task_id": "AGT-006-20260515155147-747",
+      "created": "2026-05-15T15:51:47.163239+00:00",
+      "started": "2026-05-15T15:51:47.152366+00:00",
+      "completed": "2026-05-15T15:51:47.976508+00:00",
+      "status": "fail"
+    },
+    {
+      "subject": "V Visa payment network fundamentals",
+      "details": "Auto-generated research task. Bot: researcher_bot.",
+      "priority": "medium",
+      "kanban_task_id": "20260515-363",
+      "task_id": "AGT-006-20260515155354-985",
+      "created": "2026-05-15T15:53:54.768800+00:00",
+      "started": "2026-05-15T15:53:54.757998+00:00",
+      "completed": "2026-05-15T15:53:54.770164+00:00",
+      "status": "ok"
+    }
+  ],
+  "updated_at": "2026-05-15T15:53:54.770169+00:00"
+}
