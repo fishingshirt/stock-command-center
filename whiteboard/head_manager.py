@@ -303,7 +303,38 @@ def run_cycle():
     except Exception as e:
         log(f"Employee review error: {e}", "WARN")
 
-    # Phase 6: Push everything
+    # Phase 6: Agent Ecosystem Cycle (all 19 agents run their tasks)
+    log("Running Agent Ecosystem cycle...")
+    try:
+        agt_proc = subprocess.run(
+            [sys.executable, str(REPO / "bots" / "agent_workflow.py"), "cycle"],
+            capture_output=True, text=True, timeout=300, cwd=str(REPO),
+        )
+        out = agt_proc.stdout[-1000:] if len(agt_proc.stdout) > 1000 else agt_proc.stdout
+        if agt_proc.returncode == 0:
+            log("Agent cycle OK")
+            # Parse the report
+            try:
+                parsed = json.loads(agt_proc.stdout.strip().split('\n')[-1])
+                outcomes.append(f"agts_cycled_{parsed['agents_cycled']}")
+                outcomes.append(f"agts_tasks_ok_{parsed['tasks_executed']}")
+                outcomes.append(f"agts_tasks_fail_{parsed['tasks_failed']}")
+                if parsed['reworked']:
+                    outcomes.append("agts_reworked")
+                if parsed['fired']:
+                    outcomes.append("agts_fired")
+                if parsed['hired']:
+                    outcomes.append("agts_hired")
+            except:
+                outcomes.append("agts_cycle_no_report")
+        else:
+            log(f"Agent cycle WARNING: {out[:200]}", "WARN")
+            outcomes.append("agts_cycle_warn")
+    except Exception as e:
+        log(f"Agent cycle error: {e}", "WARN")
+        outcomes.append("agts_cycle_error")
+
+    # Phase 7: Push everything
     duration = round(time.time() - start, 1)
     write_cycle_report(outcomes, duration)
     git_push(f"auto(head-manager): cycle complete in {duration}s | {' '.join(outcomes)}")

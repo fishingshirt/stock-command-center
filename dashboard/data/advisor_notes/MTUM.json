@@ -2,11 +2,11 @@
   "ticker": "MTUM",
   "recommendation": "ACCUMULATE",
   "confidence": 65,
-  "reasoning": "MTUM looks attractive on a scale-in basis.\n\n**Research Findings:**\n- MTUM \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $307.25.\n\n**Earnings Analysis:**\n- Earnings weakness detected \u2014 catalyst score 20/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $197.53\n\n**Confidence Drivers:**\n- Overall confidence: **65%**\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
+  "reasoning": "MTUM looks attractive on a scale-in basis.\n\n**Research Findings:**\n- MTUM \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $307.25.\n\n**Earnings Analysis:**\n- Strong earnings momentum \u2014 catalyst score 65/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $137.26\n\n**Confidence Drivers:**\n- Overall confidence: **65%**\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **MOMENTUM** play: earnings acceleration driving the thesis.",
   "pitchbook_path": "/home/fishingshirt/stock-command-center/dashboard/data/pitchbooks/MTUM.md",
-  "generated_at": "2026-05-15T09:15:44.319396+00:00",
+  "generated_at": "2026-05-15T09:27:44.519868+00:00",
   "confidence_factors": {
-    "earnings_score": 20,
+    "earnings_score": 65,
     "valuation_margin": 0,
     "research_confidence": 65
   }

@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** MOMENTUM  
-**Generated:** 2026-05-15T09:15:36.170795+00:00  
+**Generated:** 2026-05-15T09:27:37.210075+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,7 +12,7 @@
 
 SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $748.17.
 
-**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$384.25**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$220.81**, representing a **0% margin of safety** from current levels.
 
 ---
 
@@ -20,16 +20,16 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Pric
 
 ### 2.1 Catalysts
 - Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+1.9%**
-- Next earnings date: **2026-06-08**
+- Recent EPS surprise: **+19.5%**
+- Next earnings date: **2026-05-20**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $550.6 |
-| DCF Intrinsic Value | $330.66 |
-| Comparable Implied | $437.85 |
-| Blended Target | $384.25 |
+| Current Price | $475.78 |
+| DCF Intrinsic Value | $77.63 |
+| Comparable Implied | $363.99 |
+| Blended Target | $220.81 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,8 +47,7 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Pric
 
 ## 3. Risks
 
-- ⚠️ Poor ESG score (41.2)
-- ⚠️ 3 active controversies
+- ⚠️ Elevated sanctions exposure (10.0/10)
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
@@ -56,10 +55,10 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Pric
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 57.5/100
-- **Sanctions Risk:** 2.5/10
-- **ESG Score:** 41.2/100
-- **Controversies:** 3
+- **Compliance Score:** 50.1/100
+- **Sanctions Risk:** 10.0/10
+- **ESG Score:** 73.7/100
+- **Controversies:** 0
 
 ---
 
