@@ -2,8 +2,8 @@
 
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T21:31:03.245049+00:00  
+**Strategy:** MOMENTUM  
+**Generated:** 2026-05-15T21:45:39.737403+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$240.73**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$388.72**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **-11.5%**
-- Next earnings date: **2026-06-05**
+- Earnings momentum score: **65/100** (Strong earnings momentum)
+- Recent EPS surprise: **+9.5%**
+- Next earnings date: **2026-06-28**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $539.9 |
-| DCF Intrinsic Value | $135.76 |
-| Comparable Implied | $345.7 |
-| Blended Target | $240.73 |
+| Current Price | $560.42 |
+| DCF Intrinsic Value | $20.1 |
+| Comparable Implied | $757.33 |
+| Blended Target | $388.72 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,27 +47,26 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (7.2/10)
-- ⚠️ 3 active controversies
+- ⚠️ Jurisdiction risk: high
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 34.0/100
-- **Sanctions Risk:** 7.2/10
-- **ESG Score:** 69.9/100
-- **Controversies:** 3
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 98.2/100
+- **Sanctions Risk:** 0.4/10
+- **ESG Score:** 72.9/100
+- **Controversies:** 0
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** MOMENTUM
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
