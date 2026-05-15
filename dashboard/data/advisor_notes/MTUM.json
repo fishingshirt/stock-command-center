@@ -2,11 +2,11 @@
   "ticker": "MTUM",
   "recommendation": "ACCUMULATE",
   "confidence": 65,
-  "reasoning": "MTUM looks attractive on a scale-in basis.\n\n**Research Findings:**\n- MTUM \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.818466, RSI: 65.13, Price: $299.58.\n\n**Earnings Analysis:**\n- Mixed earnings signals \u2014 catalyst score 40/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $98.14\n\n**Confidence Drivers:**\n- Overall confidence: **65%**\n- P/E ratio of 32.818466 vs peers\n- RSI(14) at 65.13 \u2014 neutral\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
+  "reasoning": "MTUM looks attractive on a scale-in basis.\n\n**Research Findings:**\n- MTUM \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.797665, RSI: 64.94, Price: $299.4.\n\n**Earnings Analysis:**\n- Earnings weakness detected \u2014 catalyst score 10/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $172.62\n\n**Confidence Drivers:**\n- Overall confidence: **65%**\n- P/E ratio of 32.797665 vs peers\n- RSI(14) at 64.94 \u2014 neutral\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
   "pitchbook_path": "/home/fishingshirt/stock-command-center/dashboard/data/pitchbooks/MTUM.md",
-  "generated_at": "2026-05-15T19:31:24.619016+00:00",
+  "generated_at": "2026-05-15T19:45:23.190757+00:00",
   "confidence_factors": {
-    "earnings_score": 40,
+    "earnings_score": 10,
     "valuation_margin": 0,
     "research_confidence": 65
   }

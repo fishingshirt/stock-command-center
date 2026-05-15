@@ -3,16 +3,16 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T19:31:12.928092+00:00  
+**Generated:** 2026-05-15T19:45:10.679613+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.349316, RSI: 69.1, Price: $143.98.
+SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.337387, RSI: 68.99, Price: $143.93.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$449.69**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$170.25**, representing a **0% margin of safety** from current levels.
 
 ---
 
@@ -20,24 +20,24 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.349316, RSI: 69.
 
 ### 2.1 Catalysts
 - Earnings momentum score: **35/100** (Mixed earnings signals)
-- Recent EPS surprise: **-5.5%**
-- Next earnings date: **2026-06-22**
+- Recent EPS surprise: **-11.0%**
+- Next earnings date: **2026-05-25**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $477.74 |
-| DCF Intrinsic Value | $75.89 |
-| Comparable Implied | $823.5 |
-| Blended Target | $449.69 |
+| Current Price | $393.69 |
+| DCF Intrinsic Value | $159.45 |
+| Comparable Implied | $181.05 |
+| Blended Target | $170.25 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPMO
-- **Current Price:** 143.98
+- **Current Price:** 143.93
 - **Previous Close:** 147.52
-- **Pe Ratio:** 34.349316
+- **Pe Ratio:** 34.337387
 - **Market Cap:** None
 - **52 Week High:** 147.87
 - **52 Week Low:** 101.8
@@ -47,18 +47,18 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.349316, RSI: 69.
 
 ## 3. Risks
 
-- No material compliance flags detected.
+- ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 91.5/100
-- **Sanctions Risk:** 1.7/10
-- **ESG Score:** 56.3/100
-- **Controversies:** 0
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 66.6/100
+- **Sanctions Risk:** 0.7/10
+- **ESG Score:** 74.9/100
+- **Controversies:** 3
 
 ---
 
