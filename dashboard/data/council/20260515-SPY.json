@@ -1,7 +1,7 @@
 {
   "ticker": "SPY",
   "date": "20260515",
-  "timestamp": "2026-05-15T20:15:33.618046+00:00",
+  "timestamp": "2026-05-15T20:31:10.835095+00:00",
   "consensus": {
     "recommendation": "HOLD",
     "confidence": 100.0,
@@ -14,7 +14,7 @@
       "recommendation": "HOLD",
       "confidence": 55,
       "weight": 0.3,
-      "weight_reason": "researcher_bot accuracy=20.5%"
+      "weight_reason": "researcher_bot accuracy=20.7%"
     },
     {
       "bot": "earnings_analyzer",

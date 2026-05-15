@@ -3,15 +3,12 @@
     "researcher_bot": {
       "name": "researcher_bot",
       "expertise": "multi-domain_research",
-      "historical_accuracy": 20.5,
-      "total_predictions": 500,
-      "correct_predictions": 102,
-      "last_run": "2026-05-15T20:15:37.616649+00:00",
-      "avg_confidence": 68.3,
+      "historical_accuracy": 20.7,
+      "total_predictions": 505,
+      "correct_predictions": 104,
+      "last_run": "2026-05-15T20:31:14.785268+00:00",
+      "avg_confidence": 67.3,
       "confidence_history": [
-        75,
-        75,
-        65,
         75,
         75,
         65,
@@ -38,10 +35,13 @@
         65,
         65,
         55,
+        65,
+        65,
+        55,
         65
       ],
       "created_at": "2026-05-13T04:11:59.484242+00:00",
-      "last_evaluated": "2026-05-15T20:15:21.728213+00:00"
+      "last_evaluated": "2026-05-15T20:30:58.789420+00:00"
     },
     "earnings_analyzer": {
       "name": "earnings_analyzer",
@@ -110,5 +110,5 @@
       "created_at": "2026-05-13T04:11:59.485236+00:00"
     }
   },
-  "updated_at": "2026-05-15T20:15:37.619807+00:00"
+  "updated_at": "2026-05-15T20:31:14.788474+00:00"
 }
