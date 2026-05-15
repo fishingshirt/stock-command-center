@@ -148,7 +148,7 @@ def _run_council(ticker: str, result_data: dict, earn_path: Path, model_path: Pa
     cmd = [
         sys.executable, str(REPO_ROOT / "bots" / "council_meeting.py"),
         "--ticker", ticker,
-        "--research", str(OUTPUT_DIR / result_data.get("task_id", "")),
+        "--research", str(OUTPUT_DIR / f"{result_data.get('task_id', '')}.json"),
         "--earnings", str(earn_path),
         "--model", str(model_path),
         "--kyc", str(kyc_path),
