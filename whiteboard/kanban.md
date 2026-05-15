@@ -10,14 +10,7 @@ _(No tasks in this section.)_
 
 ## In Progress
 
-### Task ID: 20260515-130
-**Subject:** BTC top crypto momentum scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T07:30:07.975283+00:00
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -12710,5 +12703,17 @@ Auto-generated research task. Bot: researcher_bot.
 **Completed At:** 2026-05-15T07:30:06.497357+00:00
 **Result:** dashboard/data/output/20260515-129.json
 **Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260515-130
+**Subject:** BTC top crypto momentum scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:30:07.975283+00:00
+**Completed At:** 2026-05-15T07:30:09.767857+00:00
+**Result:** dashboard/data/output/20260515-130.json
+**Summary:** HOLD (50%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
