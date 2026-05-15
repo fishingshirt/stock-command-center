@@ -1,14 +1,14 @@
 {
   "ticker": "MTUM",
   "target_pct_of_portfolio": 3.25,
-  "target_dollars": 3250.85,
+  "target_dollars": 3251.37,
   "kelly_fraction": 0.25,
   "confidence_multiplier": 0.65,
   "margin_of_safety_multiplier": 1.0,
   "diversification_limit": "20% max single position",
   "sector_risk": "Within limits",
-  "cash_available": 82733.66,
-  "total_portfolio_value": 100026.29,
+  "cash_available": 91942.23,
+  "total_portfolio_value": 100042.23,
   "strategy": "GROWTH",
-  "timestamp": "2026-05-15T18:46:11.260392+00:00"
+  "timestamp": "2026-05-15T19:00:58.242623+00:00"
 }
