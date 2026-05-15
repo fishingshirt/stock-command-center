@@ -2,8 +2,8 @@
 
 **Recommendation:** SELL  
 **Confidence:** 75%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T12:16:08.427935+00:00  
+**Strategy:** MOMENTUM  
+**Generated:** 2026-05-15T12:30:43.066379+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 MTUM — BULLISH sentiment, SELL (75% confidence). PE: 33.65814, RSI: 74.08, Price: $307.25.
 
-**Key Takeaway:** MTUM is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$150.03**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$200.08**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **35/100** (Mixed earnings signals)
-- Recent EPS surprise: **-5.7%**
-- Next earnings date: **2026-06-13**
+- Earnings momentum score: **80/100** (Strong earnings momentum)
+- Recent EPS surprise: **+16.1%**
+- Next earnings date: **2026-05-29**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $160.44 |
-| DCF Intrinsic Value | $159.26 |
-| Comparable Implied | $140.8 |
-| Blended Target | $150.03 |
+| Current Price | $205.73 |
+| DCF Intrinsic Value | $242.03 |
+| Comparable Implied | $158.13 |
+| Blended Target | $200.08 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -55,18 +55,18 @@ MTUM — BULLISH sentiment, SELL (75% confidence). PE: 33.65814, RSI: 74.08, Pri
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 61.4/100
-- **Sanctions Risk:** 1.7/10
-- **ESG Score:** 62.1/100
+- **Compliance Score:** 60.8/100
+- **Sanctions Risk:** 1.8/10
+- **ESG Score:** 83.3/100
 - **Controversies:** 3
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** MOMENTUM
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
