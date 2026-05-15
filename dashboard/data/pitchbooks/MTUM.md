@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T21:15:25.926810+00:00  
+**Generated:** 2026-05-15T21:31:03.245049+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,7 +12,7 @@
 
 MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$174.16**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$240.73**, representing a **0% margin of safety** from current levels.
 
 ---
 
@@ -20,16 +20,16 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ### 2.1 Catalysts
 - Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **+0.4%**
-- Next earnings date: **2026-06-07**
+- Recent EPS surprise: **-11.5%**
+- Next earnings date: **2026-06-05**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $443.29 |
-| DCF Intrinsic Value | $136.81 |
-| Comparable Implied | $211.51 |
-| Blended Target | $174.16 |
+| Current Price | $539.9 |
+| DCF Intrinsic Value | $135.76 |
+| Comparable Implied | $345.7 |
+| Blended Target | $240.73 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,18 +47,19 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (5.7/10)
+- ⚠️ Elevated sanctions exposure (7.2/10)
+- ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 71.7/100
-- **Sanctions Risk:** 5.7/10
-- **ESG Score:** 50.5/100
-- **Controversies:** 0
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 34.0/100
+- **Sanctions Risk:** 7.2/10
+- **ESG Score:** 69.9/100
+- **Controversies:** 3
 
 ---
 
