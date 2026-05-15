@@ -1,0 +1,42 @@
+{
+  "ticker": "SPYM",
+  "timestamp": "2026-05-15T09:00:05.673291+00:00",
+  "current_price": 282.98,
+  "dcf_target": 100.37,
+  "comparable_target": 324.8,
+  "blended_target": 212.59,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 11.65,
+    "projected_fcf_5yr": [
+      14.0,
+      16.82,
+      20.22,
+      24.29,
+      29.19
+    ],
+    "growth_rate_assumed": 0.202,
+    "wacc": 0.113,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 363.58,
+    "enterprise_value_billions": 286.97,
+    "net_cash_billions": 13.84,
+    "equity_value_billions": 300.81,
+    "intrinsic_per_share": 100.37,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 282.98,
+    "trailing_pe": 21.72,
+    "forward_pe": 20.48,
+    "ev_ebitda": 16.39,
+    "price_to_sales": 10.16,
+    "price_to_book": 9.14,
+    "eps": 13.03,
+    "peer_median_pe": 24.93,
+    "implied_price_pe": 324.8,
+    "upside_pct": 14.78,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

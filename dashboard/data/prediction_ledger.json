@@ -714,6 +714,17 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPYM",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-05-15T09:00:05.598530+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

@@ -37,6 +37,9 @@ function EmployeeCard({ emp, depth = 0, onSelect, selected, showControls, onFire
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2">
             <span className="font-bold text-sm truncate">{emp.name}</span>
+            {emp.on_pip && (
+              <span className="text-xs px-1.5 py-0.5 rounded bg-orange-600 text-white font-bold">ON PIP</span>
+            )}
             <span className={`text-xs px-1.5 py-0.5 rounded text-white ${perfBadge}`}>
               {emp.performance?.toFixed?.(0) ?? 0}%
             </span>
