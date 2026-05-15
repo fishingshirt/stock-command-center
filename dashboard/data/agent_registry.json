@@ -1,0 +1,398 @@
+{
+  "company": "Stock Command Center",
+  "version": "3.0",
+  "agents": [
+    {
+      "id": "AGT-001",
+      "name": "Elena Vasquez",
+      "role": "Chief Investment Officer Agent",
+      "short_name": "cio_agent",
+      "script": "bots/agents/cio_agent.py",
+      "department": "Executive",
+      "reports_to": null,
+      "salary": 480000,
+      "level": "exec",
+      "responsibilities": [
+        "Final buy/sell decisions",
+        "Council meeting chair",
+        "Portfolio strategy oversight",
+        "Manager of all research agents"
+      ],
+      "performance_threshold": 75,
+      "pip_threshold": 45,
+      "fire_threshold": 30,
+      "active": true
+    },
+    {
+      "id": "AGT-002",
+      "name": "Marcus Chen",
+      "role": "Market Research Agent",
+      "short_name": "market_research",
+      "script": "bots/agents/market_research.py",
+      "department": "Research",
+      "reports_to": "AGT-001",
+      "salary": 220000,
+      "level": "senior",
+      "responsibilities": [
+        "Macro market overview (SPY, VIX, sectors)",
+        "Sector rotation signals",
+        "Economic calendar tracking"
+      ],
+      "performance_threshold": 70,
+      "pip_threshold": 40,
+      "fire_threshold": 25,
+      "active": true
+    },
+    {
+      "id": "AGT-003",
+      "name": "Linda Wu",
+      "role": "Stock Research Agent",
+      "short_name": "stock_research",
+      "script": "bots/agents/stock_research.py",
+      "department": "Research",
+      "reports_to": "AGT-001",
+      "salary": 200000,
+      "level": "senior",
+      "responsibilities": [
+        "Deep-dive on individual tickers",
+        "Price target models",
+        "Company fundamentals review"
+      ],
+      "performance_threshold": 70,
+      "pip_threshold": 40,
+      "fire_threshold": 25,
+      "active": true
+    },
+    {
+      "id": "AGT-004",
+      "name": "Raj Patel",
+      "role": "News & Catalyst Agent",
+      "short_name": "news_agent",
+      "script": "bots/agents/news_agent.py",
+      "department": "Research",
+      "reports_to": "AGT-001",
+      "salary": 180000,
+      "level": "mid",
+      "responsibilities": [
+        "Earnings announcements",
+        "News sentiment scanning",
+        "Catalyst detection (M&A, FDA, contracts)"
+      ],
+      "performance_threshold": 65,
+      "pip_threshold": 38,
+      "fire_threshold": 22,
+      "active": true
+    },
+    {
+      "id": "AGT-005",
+      "name": "Dr. James Kim",
+      "role": "Technical Analysis Agent",
+      "short_name": "tech_analysis",
+      "script": "bots/agents/tech_analysis.py",
+      "department": "Research",
+      "reports_to": "AGT-001",
+      "salary": 210000,
+      "level": "senior",
+      "responsibilities": [
+        "RSI, MACD, SMA analysis",
+        "Support/resistance levels",
+        "Chart pattern detection",
+        "Volume profile"
+      ],
+      "performance_threshold": 70,
+      "pip_threshold": 40,
+      "fire_threshold": 25,
+      "active": true
+    },
+    {
+      "id": "AGT-006",
+      "name": "Carlos Mendez",
+      "role": "Fundamental Analysis Agent",
+      "short_name": "fundamental",
+      "script": "bots/agents/fundamental.py",
+      "department": "Research",
+      "reports_to": "AGT-001",
+      "salary": 230000,
+      "level": "senior",
+      "responsibilities": [
+        "DCF valuation models",
+        "Comparable company analysis",
+        "Earnings quality assessment",
+        "Margin of safety calculation"
+      ],
+      "performance_threshold": 70,
+      "pip_threshold": 40,
+      "fire_threshold": 25,
+      "active": true
+    },
+    {
+      "id": "AGT-007",
+      "name": "Fatima Al-Rashid",
+      "role": "Risk Manager Agent",
+      "short_name": "risk_manager",
+      "script": "bots/agents/risk_manager.py",
+      "department": "Compliance",
+      "reports_to": "AGT-001",
+      "salary": 240000,
+      "level": "senior",
+      "responsibilities": [
+        "KYC screening",
+        "Concentration risk checks",
+        "Max drawdown monitoring",
+        "Position sizing limits"
+      ],
+      "performance_threshold": 80,
+      "pip_threshold": 50,
+      "fire_threshold": 30,
+      "active": true
+    },
+    {
+      "id": "AGT-008",
+      "name": "Victoria Hartwell",
+      "role": "Portfolio Manager Agent",
+      "short_name": "portfolio_mgr",
+      "script": "bots/agents/portfolio_mgr.py",
+      "department": "Investment",
+      "reports_to": "AGT-001",
+      "salary": 280000,
+      "level": "exec",
+      "responsibilities": [
+        "Position sizing",
+        "Sector allocation",
+        "Rebalancing triggers",
+        "Portfolio heat map"
+      ],
+      "performance_threshold": 75,
+      "pip_threshold": 45,
+      "fire_threshold": 30,
+      "active": true
+    },
+    {
+      "id": "AGT-009",
+      "name": "David O'Brien",
+      "role": "Paper Trading Agent",
+      "short_name": "paper_trader",
+      "script": "bots/agents/paper_trader.py",
+      "department": "Investment",
+      "reports_to": "AGT-008",
+      "salary": 190000,
+      "level": "mid",
+      "responsibilities": [
+        "Execute paper trades during market hours",
+        "Track P&L",
+        "Record trade history",
+        "Slippage estimation"
+      ],
+      "performance_threshold": 70,
+      "pip_threshold": 40,
+      "fire_threshold": 25,
+      "active": true
+    },
+    {
+      "id": "AGT-010",
+      "name": "Sarah Chen",
+      "role": "Performance Review Agent",
+      "short_name": "perf_review",
+      "script": "bots/agents/perf_review.py",
+      "department": "Operations",
+      "reports_to": "AGT-001",
+      "salary": 200000,
+      "level": "senior",
+      "responsibilities": [
+        "Evaluate prediction accuracy",
+        "Track agent performance scores",
+        "Generate improvement tasks",
+        "Report to CIO"
+      ],
+      "performance_threshold": 75,
+      "pip_threshold": 45,
+      "fire_threshold": 30,
+      "active": true
+    },
+    {
+      "id": "AGT-011",
+      "name": "Dr. Emily Nakamura",
+      "role": "Strategy Optimizer Agent",
+      "short_name": "strategy_opt",
+      "script": "bots/agents/strategy_opt.py",
+      "department": "Operations",
+      "reports_to": "AGT-010",
+      "salary": 220000,
+      "level": "senior",
+      "responsibilities": [
+        "Tune strategy thresholds",
+        "Backtest parameter changes",
+        "Compare strategy win rates",
+        "Auto-adjust confidence minimums"
+      ],
+      "performance_threshold": 70,
+      "pip_threshold": 40,
+      "fire_threshold": 25,
+      "active": true
+    },
+    {
+      "id": "AGT-012",
+      "name": "Alex Turner",
+      "role": "Prompt Improvement Agent",
+      "short_name": "prompt_improver",
+      "script": "bots/agents/prompt_improver.py",
+      "department": "Engineering",
+      "reports_to": "AGT-015",
+      "salary": 160000,
+      "level": "mid",
+      "responsibilities": [
+        "Refine agent prompts based on output quality",
+        "A/B test prompt versions",
+        "Document best practices"
+      ],
+      "performance_threshold": 65,
+      "pip_threshold": 38,
+      "fire_threshold": 22,
+      "active": true
+    },
+    {
+      "id": "AGT-013",
+      "name": "Priya Sharma",
+      "role": "Data Quality Agent",
+      "short_name": "data_quality",
+      "script": "bots/agents/data_quality.py",
+      "department": "Engineering",
+      "reports_to": "AGT-015",
+      "salary": 170000,
+      "level": "mid",
+      "responsibilities": [
+        "Validate price data freshness",
+        "Check for stale/duplicate outputs",
+        "Verify no mock data slipped through",
+        "Rate data source reliability"
+      ],
+      "performance_threshold": 80,
+      "pip_threshold": 50,
+      "fire_threshold": 30,
+      "active": true
+    },
+    {
+      "id": "AGT-014",
+      "name": "Robert Jackson",
+      "role": "Backtesting Agent",
+      "short_name": "backtester",
+      "script": "bots/agents/backtester.py",
+      "department": "Research",
+      "reports_to": "AGT-011",
+      "salary": 210000,
+      "level": "senior",
+      "responsibilities": [
+        "Run historical strategy backtests",
+        "Sharpe ratio calculation",
+        "Max drawdown analysis",
+        "Strategy comparison reports"
+      ],
+      "performance_threshold": 70,
+      "pip_threshold": 40,
+      "fire_threshold": 25,
+      "active": true
+    },
+    {
+      "id": "AGT-015",
+      "name": "Raj Patel",
+      "role": "Developer Agent",
+      "short_name": "developer",
+      "script": "bots/agents/developer.py",
+      "department": "Engineering",
+      "reports_to": "AGT-001",
+      "salary": 250000,
+      "level": "exec",
+      "responsibilities": [
+        "Build new features",
+        "Fix bugs from QA reports",
+        "Docker builds",
+        "Git integration"
+      ],
+      "performance_threshold": 75,
+      "pip_threshold": 45,
+      "fire_threshold": 30,
+      "active": true
+    },
+    {
+      "id": "AGT-016",
+      "name": "Tom Bradley",
+      "role": "Website Dashboard Agent",
+      "short_name": "dashboard_dev",
+      "script": "bots/agents/dashboard_dev.py",
+      "department": "Engineering",
+      "reports_to": "AGT-015",
+      "salary": 160000,
+      "level": "mid",
+      "responsibilities": [
+        "Build React frontend pages",
+        "Wire API endpoints",
+        "Style dark-terminal theme"
+      ],
+      "performance_threshold": 65,
+      "pip_threshold": 38,
+      "fire_threshold": 22,
+      "active": true
+    },
+    {
+      "id": "AGT-017",
+      "name": "Mia Johnson",
+      "role": "UI/UX Improvement Agent",
+      "short_name": "uiux",
+      "script": "bots/agents/uiux.py",
+      "department": "Engineering",
+      "reports_to": "AGT-015",
+      "salary": 150000,
+      "level": "junior",
+      "responsibilities": [
+        "Design mockups",
+        "CSS improvements",
+        "Responsive layout fixes"
+      ],
+      "performance_threshold": 60,
+      "pip_threshold": 35,
+      "fire_threshold": 20,
+      "active": true
+    },
+    {
+      "id": "AGT-018",
+      "name": "Kevin Wu",
+      "role": "QA Testing Agent",
+      "short_name": "qa_tester",
+      "script": "bots/agents/qa_tester.py",
+      "department": "Engineering",
+      "reports_to": "AGT-015",
+      "salary": 170000,
+      "level": "mid",
+      "responsibilities": [
+        "Test endpoints",
+        "Write test cases",
+        "Report regressions to developer"
+      ],
+      "performance_threshold": 75,
+      "pip_threshold": 45,
+      "fire_threshold": 30,
+      "active": true
+    },
+    {
+      "id": "AGT-019",
+      "name": "Sarah Mitchell",
+      "role": "Audit / Compliance Agent",
+      "short_name": "auditor",
+      "script": "bots/agents/auditor.py",
+      "department": "Compliance",
+      "reports_to": "AGT-007",
+      "salary": 200000,
+      "level": "senior",
+      "responsibilities": [
+        "Audit trade logs",
+        "Verify no conflicts of interest",
+        "Check regulatory compliance",
+        "Generate audit trails"
+      ],
+      "performance_threshold": 80,
+      "pip_threshold": 50,
+      "fire_threshold": 30,
+      "active": true
+    }
+  ]
+}

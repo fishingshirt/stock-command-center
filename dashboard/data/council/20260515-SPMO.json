@@ -1,10 +1,10 @@
 {
   "ticker": "SPMO",
   "date": "20260515",
-  "timestamp": "2026-05-15T08:15:24.878026+00:00",
+  "timestamp": "2026-05-15T09:15:03.493790+00:00",
   "consensus": {
     "recommendation": "HOLD",
-    "confidence": 83.3,
+    "confidence": 90.9,
     "verdict": "STRONG CONSENSUS",
     "position_size_boost_pct": 0.25
   },
@@ -39,8 +39,8 @@
     },
     {
       "bot": "advisor_reasoning",
-      "recommendation": "ACCUMULATE",
-      "confidence": 65,
+      "recommendation": "NO_DATA",
+      "confidence": 0,
       "weight": 0.5,
       "weight_reason": "advisor_reasoning accuracy=50.0%"
     },
@@ -53,8 +53,8 @@
     }
   ],
   "breakdown": {
-    "HOLD": 83.3,
-    "ACCUMULATE": 16.7
+    "HOLD": 90.9,
+    "NO_DATA": 9.1
   },
   "memo_path": null
 }
