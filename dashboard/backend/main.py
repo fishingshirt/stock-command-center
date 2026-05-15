@@ -367,5 +367,8 @@ def bots_status():
         "total_bots": len(bots),
         "active_bots": sum(1 for b in bots if b["active"]),
     }
+
+
+if __name__ == "__main__":
     import uvicorn
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)

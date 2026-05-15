@@ -1,10 +1,11 @@
 {
-  "auto_trade_enabled": false,
+  "auto_trade_enabled": true,
   "paper_trade_confidence_threshold": 70,
   "max_positions": 10,
   "position_size_pct": 0.10,
   "enable_council": true,
   "enable_feedback_loop": true,
   "git_push_after_cycle": true,
-  "agent_state": "RESEARCH PHASE"
+  "agent_state": "RESEARCH PHASE",
+  "initial_capital": 100000.0
 }

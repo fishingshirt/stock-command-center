@@ -1,29 +1,49 @@
 """
 bots/paper_trade.py
 Paper trading engine. Treats virtual positions as real money for learning.
+Trades ONLY during US market hours (9:30-16:00 ET, Mon-Fri).
 """
 import json
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 LEDGER_PATH = REPO_ROOT / "dashboard" / "data" / "paper_ledger.json"
 SETTINGS_PATH = REPO_ROOT / "dashboard" / "data" / "settings.json"
 
-# Ensure parent dir exists
 LEDGER_PATH.parent.mkdir(parents=True, exist_ok=True)
 
 INITIAL_CAPITAL = 100000.0
 
 
+def _is_market_open() -> dict:
+    """Check if US stock market is currently open."""
+    now = datetime.now(timezone.utc)
+    et_offset = timedelta(hours=-4)  # DST
+    et_now = now + et_offset
+    weekday = et_now.weekday()
+    if weekday >= 5:
+        return {"open": False, "reason": f"Weekend ({et_now.strftime('%A')})", "et_time": et_now.strftime("%H:%M")}
+    hour = et_now.hour
+    minute = et_now.minute
+    current = hour * 60 + minute
+    market_open = 9 * 60 + 30
+    market_close = 16 * 60
+    if current < market_open:
+        return {"open": False, "reason": "Pre-market", "et_time": et_now.strftime("%H:%M")}
+    if current > market_close:
+        return {"open": False, "reason": "After-hours", "et_time": et_now.strftime("%H:%M")}
+    return {"open": True, "reason": "Regular hours", "et_time": et_now.strftime("%H:%M")}
+
+
 def _load_settings() -> dict:
-    """Load settings.json with defaults."""
     defaults = {
         "auto_trade_enabled": False,
         "paper_trade_confidence_threshold": 70,
         "max_positions": 10,
         "position_size_pct": 0.10,
+        "initial_capital": 100000.0,
     }
     if SETTINGS_PATH.exists():
         try:
@@ -64,10 +84,24 @@ def _save_ledger(ledger: dict):
 
 
 def get_stats() -> dict:
-    """Return portfolio summary for dashboard."""
     ledger = _load_ledger()
     positions = ledger.get("positions", {})
     history = ledger.get("history", [])
+    
+    # Update prices for open positions
+    try:
+        import yfinance as yf_local
+        for ticker in positions:
+            try:
+                t = yf_local.Ticker(ticker)
+                hist = t.history(period="1d")
+                if len(hist) > 0:
+                    positions[ticker]["last_price"] = round(float(hist.Close.iloc[-1]), 4)
+            except Exception:
+                pass
+        _save_ledger(ledger)
+    except Exception:
+        pass
 
     realized_pnl = sum(h.get("pnl", 0) for h in history)
     unrealized_pnl = sum(
@@ -86,6 +120,8 @@ def get_stats() -> dict:
     avg_return = sum(h.get("return_pct", 0) for h in history) / len(history) if history else 0
     max_drawdown = min((h.get("return_pct", 0) for h in history), default=0)
 
+    market_status = _is_market_open()
+
     return {
         "cash": round(ledger["cash"], 2),
         "total_value": round(total_value, 2),
@@ -98,20 +134,29 @@ def get_stats() -> dict:
         "avg_return_pct": round(avg_return, 2),
         "max_drawdown_pct": round(max_drawdown, 2),
         "positions": positions,
-        "history": history[-20:],  # last 20 for preview
+        "history": history[-20:],
+        "market_status": market_status,
+        "initial_capital": INITIAL_CAPITAL,
     }
 
 
 def buy(ticker: str, price: float, confidence: float, reasoning: str, shares: float = None, task_id: str = ""):
-    """Open a paper position."""
+    """Open a paper position — only if market is open."""
+    market = _is_market_open()
+    if not market["open"]:
+        return {"status": "market_closed", "message": f"Cannot buy — {market['reason']} ({market['et_time']} ET)", "market": market}
+    
     ledger = _load_ledger()
     if ticker.upper() in ledger.get("positions", {}):
         return {"status": "already_open", "message": f"Position already open for {ticker}"}
 
     settings = _load_settings()
     position_size_pct = settings.get("position_size_pct", 0.10)
+    max_positions = settings.get("max_positions", 10)
+    
+    if len(ledger.get("positions", {})) >= max_positions:
+        return {"status": "max_positions", "message": f"Max {max_positions} positions reached"}
 
-    # Default shares: invest ~position_size_pct of cash per trade
     if shares is None:
         invest = ledger["cash"] * position_size_pct
         shares = round(invest / price, 4)
@@ -132,11 +177,15 @@ def buy(ticker: str, price: float, confidence: float, reasoning: str, shares: fl
         "opened_at": datetime.now(timezone.utc).isoformat(),
     }
     _save_ledger(ledger)
-    return {"status": "ok", "message": f"Bought {shares} {ticker} @ ${price}", "cost": round(cost, 2)}
+    return {"status": "ok", "message": f"Bought {shares} {ticker} @ ${price}", "cost": round(cost, 2), "market": market}
 
 
 def sell(ticker: str, price: float, reasoning: str = "", task_id: str = ""):
-    """Close a paper position and record P&L."""
+    """Close a paper position — only if market is open."""
+    market = _is_market_open()
+    if not market["open"]:
+        return {"status": "market_closed", "message": f"Cannot sell — {market['reason']} ({market['et_time']} ET)", "market": market}
+    
     ledger = _load_ledger()
     pos = ledger.get("positions", {}).pop(ticker.upper(), None)
     if not pos:
@@ -168,11 +217,11 @@ def sell(ticker: str, price: float, reasoning: str = "", task_id: str = ""):
         "message": f"Sold {pos['shares']} {ticker} @ ${price}",
         "pnl": round(pnl, 2),
         "return_pct": round(return_pct, 2),
+        "market": market,
     }
 
 
 def update_price(ticker: str, current_price: float):
-    """Update last_price for an open position (called by dashboard or researcher)."""
     ledger = _load_ledger()
     pos = ledger.get("positions", {}).get(ticker.upper())
     if pos:
@@ -181,21 +230,14 @@ def update_price(ticker: str, current_price: float):
 
 
 def auto_trade_from_result(result: dict):
-    """
-    Given a researcher result dict, auto-trade if confidence exceeds threshold.
-    Respects settings.json: auto_trade_enabled, paper_trade_confidence_threshold, max_positions.
-    Thresholds:
-      BUY / ACCUMULATE  → confidence >= threshold, invest ~position_size_pct of cash
-      SELL              → close position immediately if open
-      HOLD / WATCH      → no action
-    """
+    """Auto-trade if confidence exceeds threshold and market is open."""
     settings = _load_settings()
     if not settings.get("auto_trade_enabled", False):
-        return {"status": "skipped", "reason": "auto_trade_enabled=false in settings.json"}
+        return {"status": "skipped", "reason": "auto_trade_enabled=false"}
 
     rec = result.get("recommendation", "WATCH")
     conf = result.get("confidence", 0)
-    ticker = result.get("key_metrics", {}).get("ticker") or _extract_ticker(result["subject"])
+    ticker = result.get("key_metrics", {}).get("ticker") or _extract_ticker(result.get("subject", ""))
     price = result.get("key_metrics", {}).get("current_price") or result.get("paper_trade_price", 0)
     if price is None:
         price = 0
@@ -204,12 +246,10 @@ def auto_trade_from_result(result: dict):
 
     threshold = settings.get("paper_trade_confidence_threshold", 70)
     max_positions = settings.get("max_positions", 10)
-    position_size_pct = settings.get("position_size_pct", 0.10)
 
     if not ticker or not price:
         return {"status": "skipped", "reason": "missing ticker or price"}
 
-    # Check max positions for buys
     if rec in ("BUY", "ACCUMULATE"):
         ledger = _load_ledger()
         if len(ledger.get("positions", {})) >= max_positions:
@@ -220,7 +260,7 @@ def auto_trade_from_result(result: dict):
     elif rec == "SELL":
         return sell(ticker, price, summary, task_id=task_id)
     else:
-        return {"status": "skipped", "reason": f"recommendation={rec} confidence={conf} threshold={threshold}"}
+        return {"status": "skipped", "reason": f"rec={rec} conf={conf} threshold={threshold}"}
 
 
 def _extract_ticker(subject: str) -> str:

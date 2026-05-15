@@ -7,6 +7,8 @@ import Whiteboard from './pages/Whiteboard'
 import Settings from './pages/Settings'
 import Advisor from './pages/Advisor'
 import Council from './pages/Council'
+import Portfolio from './pages/Portfolio'
+import WarRoom from './pages/WarRoom'
 import './css/index.css'
 
 function App() {
@@ -20,6 +22,8 @@ function App() {
           </div>
           <div className="flex gap-6 text-sm">
             <Link to="/" className="hover:text-violet-400 transition">Home</Link>
+            <Link to="/war-room" className="hover:text-violet-400 transition">War Room</Link>
+            <Link to="/portfolio" className="hover:text-violet-400 transition">Portfolio</Link>
             <Link to="/advisor" className="hover:text-violet-400 transition">Advisor</Link>
             <Link to="/council" className="hover:text-violet-400 transition">Council</Link>
             <Link to="/archive" className="hover:text-violet-400 transition">Archive</Link>
@@ -30,6 +34,8 @@ function App() {
         <main className="p-6">
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/war-room" element={<WarRoom />} />
+            <Route path="/portfolio" element={<Portfolio />} />
             <Route path="/advisor" element={<Advisor />} />
             <Route path="/council" element={<Council />} />
             <Route path="/archive" element={<Archive />} />
