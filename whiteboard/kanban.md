@@ -6,17 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260515-149
-**Subject:** Research SCHK & SCHG — Schwab large-cap pair analysis
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-15
-**Details:**
-- SCHK (1000 index) vs SCHG (growth) correlation
-- Combined portfolio overlap
-- Expense ratio advantage
-- Rebalancing signal
-
 ### Task ID: 20260515-150
 **Subject:** Research SPYG & SPYM — State Street growth + dividend combo
 **Assigned Bot:** researcher_bot
@@ -52,7 +41,17 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260515-149
+**Subject:** Research SCHK & SCHG — Schwab large-cap pair analysis
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:17.461876+00:00
+**Details:**
+- SCHK (1000 index) vs SCHG (growth) correlation
+- Combined portfolio overlap
+- Expense ratio advantage
+- Rebalancing signal
 
 ## Done
 
