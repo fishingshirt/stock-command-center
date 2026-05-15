@@ -1,15 +1,6 @@
 {
   "agent_id": "AGT-005",
-  "To Do": [
-    {
-      "subject": "SPMO S&P 500 Momentum ETF trend scan",
-      "details": "Auto-generated research task. Bot: researcher_bot.",
-      "priority": "medium",
-      "kanban_task_id": "20260515-362",
-      "task_id": "AGT-005-20260515155354-755",
-      "created": "2026-05-15T15:53:54.768557+00:00"
-    }
-  ],
+  "To Do": [],
   "In Progress": [],
   "Done": [
     {
@@ -33,7 +24,18 @@
       "started": "2026-05-15T15:53:54.757998+00:00",
       "completed": "2026-05-15T15:53:54.769771+00:00",
       "status": "ok"
+    },
+    {
+      "subject": "SPMO S&P 500 Momentum ETF trend scan",
+      "details": "Auto-generated research task. Bot: researcher_bot.",
+      "priority": "medium",
+      "kanban_task_id": "20260515-362",
+      "task_id": "AGT-005-20260515155354-755",
+      "created": "2026-05-15T15:53:54.768557+00:00",
+      "started": "2026-05-15T15:54:59.701197+00:00",
+      "completed": "2026-05-15T15:54:59.702142+00:00",
+      "status": "ok"
     }
   ],
-  "updated_at": "2026-05-15T15:53:54.769775+00:00"
+  "updated_at": "2026-05-15T15:54:59.702151+00:00"
 }
