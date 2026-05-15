@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260515-249
-**Subject:** V Visa payment network fundamentals
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-15
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
-
 ### Task ID: 20260515-250
 **Subject:** MTUM iShares Momentum Factor ETF rotation
 **Assigned Bot:** researcher_bot
@@ -48,7 +40,14 @@ Auto-generated research task. Bot: researcher_bot.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260515-249
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:15:05.533104+00:00
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
 
 ## Done
 
