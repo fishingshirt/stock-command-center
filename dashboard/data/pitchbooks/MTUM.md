@@ -2,8 +2,8 @@
 
 **Recommendation:** SELL  
 **Confidence:** 75%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-15T13:01:17.025793+00:00  
+**Strategy:** VALUE  
+**Generated:** 2026-05-15T13:16:04.581167+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,7 +12,7 @@
 
 MTUM — BULLISH sentiment, SELL (75% confidence). PE: 33.65814, RSI: 74.08, Price: $307.25.
 
-**Key Takeaway:** MTUM is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$145.72**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$135.78**, representing a **42.22% margin of safety** from current levels.
 
 ---
 
@@ -20,18 +20,18 @@ MTUM — BULLISH sentiment, SELL (75% confidence). PE: 33.65814, RSI: 74.08, Pri
 
 ### 2.1 Catalysts
 - Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **+3.0%**
-- Next earnings date: **2026-06-12**
+- Recent EPS surprise: **-10.4%**
+- Next earnings date: **2026-05-26**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $349.66 |
-| DCF Intrinsic Value | $39.17 |
-| Comparable Implied | $252.27 |
-| Blended Target | $145.72 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $78.46 |
+| DCF Intrinsic Value | $234.45 |
+| Comparable Implied | $37.11 |
+| Blended Target | $135.78 |
+| Margin of Safety | 42.22% |
+| Verdict | Undervalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** MTUM
@@ -47,26 +47,26 @@ MTUM — BULLISH sentiment, SELL (75% confidence). PE: 33.65814, RSI: 74.08, Pri
 
 ## 3. Risks
 
-- ⚠️ 2 active controversies
-- ⚠️ Low margin of safety — limited downside protection
+- ⚠️ Elevated sanctions exposure (7.6/10)
+- ⚠️ 1 active controversies
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 73.6/100
-- **Sanctions Risk:** 1.3/10
-- **ESG Score:** 81.0/100
-- **Controversies:** 2
+- **Compliance Score:** 51.8/100
+- **Sanctions Risk:** 7.6/10
+- **ESG Score:** 66.3/100
+- **Controversies:** 1
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** VALUE
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 

@@ -2,8 +2,8 @@
 
 **Recommendation:** SELL  
 **Confidence:** 75%  
-**Strategy:** VALUE  
-**Generated:** 2026-05-15T13:01:04.605687+00:00  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-15T13:15:52.671338+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,26 +12,26 @@
 
 SPMO — BULLISH sentiment, SELL (75% confidence). PE: 35.193855, RSI: 78.45, Price: $147.52.
 
-**Key Takeaway:** SPMO is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$199.31**, representing a **19.88% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$54.29**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+6.1%**
-- Next earnings date: **2026-06-03**
+- Earnings momentum score: **25/100** (Earnings weakness detected)
+- Recent EPS surprise: **-4.4%**
+- Next earnings date: **2026-06-25**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $159.68 |
-| DCF Intrinsic Value | $269.33 |
-| Comparable Implied | $129.29 |
-| Blended Target | $199.31 |
-| Margin of Safety | 19.88% |
-| Verdict | Fairly valued |
+| Current Price | $70.27 |
+| DCF Intrinsic Value | $61.2 |
+| Comparable Implied | $47.38 |
+| Blended Target | $54.29 |
+| Margin of Safety | 0% |
+| Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPMO
@@ -47,25 +47,27 @@ SPMO — BULLISH sentiment, SELL (75% confidence). PE: 35.193855, RSI: 78.45, Pr
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (8.7/10)
+- ⚠️ Elevated sanctions exposure (5.9/10)
+- ⚠️ 2 active controversies
+- ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 56.7/100
-- **Sanctions Risk:** 8.7/10
-- **ESG Score:** 54.6/100
-- **Controversies:** 0
+- **Compliance Score:** 50.5/100
+- **Sanctions Risk:** 5.9/10
+- **ESG Score:** 57.7/100
+- **Controversies:** 2
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** VALUE
+**Primary Strategy:** GROWTH
 
-This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
