@@ -10,14 +10,7 @@ _(No tasks in this section.)_
 
 ## In Progress
 
-### Task ID: 20260515-136
-**Subject:** AMD semiconductor sector check
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-15
-**Started At:** 2026-05-15T07:38:34.730684+00:00
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -780,5 +773,17 @@ Auto-generated research task. Bot: researcher_bot.
 **Completed At:** 2026-05-15T07:38:31.742480+00:00
 **Result:** dashboard/data/output/20260515-135.json
 **Summary:** WATCH (55%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260515-136
+**Subject:** AMD semiconductor sector check
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:38:34.730684+00:00
+**Completed At:** 2026-05-15T07:38:39.958546+00:00
+**Result:** dashboard/data/output/20260515-136.json
+**Summary:** HOLD (40%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
