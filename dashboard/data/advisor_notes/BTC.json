@@ -1,13 +1,13 @@
 {
   "ticker": "BTC",
-  "recommendation": "ACCUMULATE",
-  "confidence": 60,
-  "reasoning": "BTC looks attractive on a scale-in basis.\n\n**Research Findings:**\n- BTC analyzed via crypto data. Recommendation: ACCUMULATE.\n\n**Earnings Analysis:**\n- Strong earnings momentum \u2014 catalyst score 65/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $169.93\n\n**Confidence Drivers:**\n- Overall confidence: **60%**\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **MOMENTUM** play: earnings acceleration driving the thesis.",
+  "recommendation": "HOLD",
+  "confidence": 65,
+  "reasoning": "We maintain our HOLD on BTC.\n\n**Research Findings:**\n- BTC analyzed via crypto data. Recommendation: HOLD.\n\n**Earnings Analysis:**\n- Mixed earnings signals \u2014 catalyst score 55/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $250.31\n\n**Confidence Drivers:**\n- Overall confidence: **65%**\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
   "pitchbook_path": "/home/fishingshirt/stock-command-center/dashboard/data/pitchbooks/BTC.md",
-  "generated_at": "2026-05-14T00:01:23.693180+00:00",
+  "generated_at": "2026-05-15T06:36:35.202196+00:00",
   "confidence_factors": {
-    "earnings_score": 65,
+    "earnings_score": 55,
     "valuation_margin": 0,
-    "research_confidence": 60
+    "research_confidence": 65
   }
 }

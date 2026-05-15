@@ -1,0 +1,25 @@
+{
+  "task_id": "20260515-082",
+  "subject": "Auto: Top crypto momentum scan (BTC, ETH, SOL)",
+  "timestamp": "2026-05-15T06:36:33.121896+00:00",
+  "recommendation": "HOLD",
+  "confidence": 65,
+  "summary": "BTC analyzed via crypto data. Recommendation: HOLD.",
+  "key_metrics": {
+    "current_price": 80512,
+    "market_cap": 1612702976308,
+    "total_volume": 44431069759,
+    "price_change_24h": 716.15,
+    "price_change_percentage_24h": 0.89748,
+    "ath": 126080,
+    "ath_change_percentage": -36.14241,
+    "ticker": "BTC"
+  },
+  "sources": [
+    "https://www.coingecko.com/en/coins/bitcoin"
+  ],
+  "full_text": "## BTC Research Result\n\nData sourced from real-time APIs.\n\n### Recommendation: HOLD (65% confidence)\n\n### Metrics\n- **current_price:** 80512\n- **market_cap:** 1612702976308\n- **total_volume:** 44431069759\n- **price_change_24h:** 716.15\n- **price_change_percentage_24h:** 0.89748\n- **ath:** 126080\n- **ath_change_percentage:** -36.14241\n- **ticker:** BTC",
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 80512,
+  "asset_type": "crypto"
+}

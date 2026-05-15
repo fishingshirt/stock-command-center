@@ -1,52 +1,54 @@
 # Investment Memo: BTC
 
-**Recommendation:** ACCUMULATE  
-**Confidence:** 60%  
-**Strategy:** MOMENTUM  
-**Generated:** 2026-05-14T00:01:23.665670+00:00  
+**Recommendation:** HOLD  
+**Confidence:** 65%  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-15T06:36:35.177528+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-BTC analyzed via crypto data. Recommendation: ACCUMULATE.
+BTC analyzed via crypto data. Recommendation: HOLD.
 
-**Key Takeaway:** BTC is rated **ACCUMULATE** with 60% confidence. Valuation model suggests a blended target of **$169.93**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** BTC is rated **HOLD** with 65% confidence. Valuation model suggests a blended target of **$250.31**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+15.2%**
-- Next earnings date: **2026-06-08**
+- Earnings momentum score: **55/100** (Mixed earnings signals)
+- Recent EPS surprise: **+7.4%**
+- Next earnings date: **2026-06-27**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $263.59 |
-| DCF Intrinsic Value | $121.07 |
-| Comparable Implied | $218.79 |
-| Blended Target | $169.93 |
+| Current Price | $454.12 |
+| DCF Intrinsic Value | $163.96 |
+| Comparable Implied | $336.67 |
+| Blended Target | $250.31 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
-- **Current Price:** 79280
-- **Market Cap:** 1587717799782
-- **Total Volume:** 44883334108
-- **Price Change 24H:** -1132.2530737245397
-- **Price Change Percentage 24H:** -1.40807
+- **Current Price:** 80512
+- **Market Cap:** 1612702976308
+- **Total Volume:** 44431069759
+- **Price Change 24H:** 716.15
+- **Price Change Percentage 24H:** 0.89748
 - **Ath:** 126080
-- **Ath Change Percentage:** -37.11948
+- **Ath Change Percentage:** -36.14241
 - **Ticker:** BTC
 
 ---
 
 ## 3. Risks
 
+- ⚠️ Elevated sanctions exposure (9.7/10)
+- ⚠️ Poor ESG score (40.5)
 - ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
@@ -54,19 +56,19 @@ BTC analyzed via crypto data. Recommendation: ACCUMULATE.
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 71.2/100
-- **Sanctions Risk:** 1.8/10
-- **ESG Score:** 55.2/100
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 31.4/100
+- **Sanctions Risk:** 9.7/10
+- **ESG Score:** 40.5/100
 - **Controversies:** 2
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** MOMENTUM
+**Primary Strategy:** GROWTH
 
-This position is classified under the **MOMENTUM** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
