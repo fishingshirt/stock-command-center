@@ -401,9 +401,10 @@ def run_cycle():
             trade_res = auto_trade_from_result(result_data)
             logger.info(f"Paper trade {ticker}: {trade_res.get('status')} — {trade_res.get('message','')[:100]}")
 
-            # 9. Strategy tracker
-            from bots.strategy_tracker import record_trade
-            record_trade(result_data, model_data, earn_data, strategy_label)
+            # Record strategy trade only if an actual paper trade BUY was executed
+            if trade_res.get('status') == 'ok' and rec in ('BUY', 'ACCUMULATE'):
+                from bots.strategy_tracker import record_trade
+                record_trade(result_data, model_data, earn_data, strategy_label)
 
             extra["advisor_pitchbook"] = str(pitch_path.relative_to(REPO_ROOT))
             extra["advisor_reasoning"] = str(reason_path.relative_to(REPO_ROOT))
