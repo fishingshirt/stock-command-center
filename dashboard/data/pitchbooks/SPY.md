@@ -3,7 +3,7 @@
 **Recommendation:** SELL  
 **Confidence:** 75%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T11:38:29.350145+00:00  
+**Generated:** 2026-05-15T11:42:06.527936+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Price: $748.17.
 
-**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$307.99**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$150.38**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **55/100** (Mixed earnings signals)
-- Recent EPS surprise: **+17.9%**
-- Next earnings date: **2026-06-08**
+- Earnings momentum score: **40/100** (Mixed earnings signals)
+- Recent EPS surprise: **+20.6%**
+- Next earnings date: **2026-06-03**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $324.52 |
-| DCF Intrinsic Value | $84.64 |
-| Comparable Implied | $531.34 |
-| Blended Target | $307.99 |
+| Current Price | $237.28 |
+| DCF Intrinsic Value | $87.5 |
+| Comparable Implied | $213.25 |
+| Blended Target | $150.38 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,19 +47,19 @@ SPY — BULLISH sentiment, SELL (75% confidence). PE: 28.10644, RSI: 82.03, Pric
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (7.5/10)
-- ⚠️ 2 active controversies
+- ⚠️ Elevated sanctions exposure (6.0/10)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 42.4/100
-- **Sanctions Risk:** 7.5/10
-- **ESG Score:** 53.3/100
-- **Controversies:** 2
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 59.8/100
+- **Sanctions Risk:** 6.0/10
+- **ESG Score:** 56.7/100
+- **Controversies:** 1
 
 ---
 

@@ -3,7 +3,7 @@
 **Recommendation:** SELL  
 **Confidence:** 75%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T11:38:23.555640+00:00  
+**Generated:** 2026-05-15T11:42:00.601051+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPMO — BULLISH sentiment, SELL (75% confidence). PE: 35.193855, RSI: 78.45, Price: $147.52.
 
-**Key Takeaway:** SPMO is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$302.38**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$95.33**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **55/100** (Mixed earnings signals)
-- Recent EPS surprise: **+10.3%**
-- Next earnings date: **2026-05-23**
+- Earnings momentum score: **40/100** (Mixed earnings signals)
+- Recent EPS surprise: **+7.6%**
+- Next earnings date: **2026-06-25**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $329.02 |
-| DCF Intrinsic Value | $54.0 |
-| Comparable Implied | $550.75 |
-| Blended Target | $302.38 |
+| Current Price | $131.59 |
+| DCF Intrinsic Value | $114.48 |
+| Comparable Implied | $76.17 |
+| Blended Target | $95.33 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,8 +47,6 @@ SPMO — BULLISH sentiment, SELL (75% confidence). PE: 35.193855, RSI: 78.45, Pr
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (4.1/10)
-- ⚠️ Poor ESG score (46.9)
 - ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
@@ -56,10 +54,10 @@ SPMO — BULLISH sentiment, SELL (75% confidence). PE: 35.193855, RSI: 78.45, Pr
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 49.5/100
-- **Sanctions Risk:** 4.1/10
-- **ESG Score:** 46.9/100
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 66.6/100
+- **Sanctions Risk:** 0.7/10
+- **ESG Score:** 68.8/100
 - **Controversies:** 3
 
 ---
