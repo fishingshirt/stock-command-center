@@ -1,0 +1,54 @@
+{
+  "task_id": "20260515-131",
+  "subject": "ETH Ethereum ecosystem health",
+  "timestamp": "2026-05-15T07:30:25.535287+00:00",
+  "recommendation": "WATCH",
+  "confidence": 65,
+  "summary": "ETH \u2014 BULLISH sentiment, WATCH (65% confidence). PE: N/A, RSI: N/A, Price: $2267.21.",
+  "key_metrics": {
+    "current_price": 2267.21,
+    "market_cap": 273658014354,
+    "total_volume": 19224743326,
+    "price_change_24h": -1.6869266184021399,
+    "price_change_percentage_24h": -0.07435,
+    "ath": 4946.05,
+    "ath_change_percentage": -54.16125,
+    "ticker": "ETH",
+    "sentiment_score": 33.3,
+    "sentiment_label": "BULLISH"
+  },
+  "news": [
+    {
+      "title": "Ethereum/Bitcoin Ratio Falls To 10-Month Low",
+      "published": "Tue, 12 May 2026 13:47:00 +0000",
+      "url": "https://www.cryptoprowl.com/releases/ethereumbitcoin-ratio-falls-to-10-month-low-4453?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tom Lee Calls The End Of Crypto Winter Once Again, BitMine Chair Says Ethereum Performing As 'Wartime' Store Of Value",
+      "published": "Tue, 12 May 2026 07:32:52 +0000",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/tom-lee-calls-end-crypto-073252950.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Circle Internet Stock Is Up 68% in 2026: Is It Outperforming Other Crypto Stocks Like Strategy and Bitmine?",
+      "published": "Mon, 11 May 2026 19:15:51 +0000",
+      "url": "https://247wallst.com/investing/2026/05/11/circle-internet-stock-is-up-68-in-2026-is-it-outperforming-other-crypto-stocks-like-strategy-and-bitmine/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": 33.3,
+    "label": "BULLISH",
+    "bullish_mentions": 2,
+    "bearish_mentions": 1,
+    "total_mentions": 3
+  },
+  "sources": [
+    "https://www.coingecko.com/en/coins/ethereum"
+  ],
+  "full_text": "## ETH Research Result\n\n### Recommendation: WATCH (65% confidence)\n\n### Sentiment: BULLISH (33.3)\n\n### Key Metrics\n- **current_price:** 2267.21\n- **market_cap:** 273658014354\n- **total_volume:** 19224743326\n- **price_change_24h:** -1.6869266184021399\n- **price_change_percentage_24h:** -0.07435\n- **ath:** 4946.05\n- **ath_change_percentage:** -54.16125\n- **ticker:** ETH\n- **sentiment_score:** 33.3\n- **sentiment_label:** BULLISH\n\n### Latest News\n- [Ethereum/Bitcoin Ratio Falls To 10-Month Low](https://www.cryptoprowl.com/releases/ethereumbitcoin-ratio-falls-to-10-month-low-4453?.tsrc=rss)\n- [Tom Lee Calls The End Of Crypto Winter Once Again, BitMine Chair Says Ethereum Performing As 'Wartime' Store Of Value](https://finance.yahoo.com/markets/crypto/articles/tom-lee-calls-end-crypto-073252950.html?.tsrc=rss)\n- [Circle Internet Stock Is Up 68% in 2026: Is It Outperforming Other Crypto Stocks Like Strategy and Bitmine?](https://247wallst.com/investing/2026/05/11/circle-internet-stock-is-up-68-in-2026-is-it-outperforming-other-crypto-stocks-like-strategy-and-bitmine/?.tsrc=rss)",
+  "paper_trade_signal": "WATCH",
+  "paper_trade_price": 2267.21,
+  "asset_type": "crypto"
+}

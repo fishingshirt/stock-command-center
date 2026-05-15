@@ -1,0 +1,36 @@
+{
+  "next_earnings_date": "2026-06-23",
+  "earnings_history": [
+    {
+      "date": "2026-02-28",
+      "eps_estimate": 2.75,
+      "reported_eps": 2.95,
+      "surprise_pct": 21.8
+    },
+    {
+      "date": "2025-11-30",
+      "eps_estimate": 2.45,
+      "reported_eps": 2.65,
+      "surprise_pct": 19.3
+    },
+    {
+      "date": "2025-08-30",
+      "eps_estimate": 2.15,
+      "reported_eps": 2.35,
+      "surprise_pct": 20.4
+    }
+  ],
+  "eps_ttm": 11.8,
+  "eps_forward": 15.34,
+  "revenue_growth": 0.228,
+  "earnings_growth": 0.208,
+  "pe_trailing": 37.41,
+  "pe_forward": 44.73,
+  "peg_ratio": 1.03,
+  "ticker": "SOL",
+  "analyzed_at": "2026-05-15T07:30:32.402038+00:00",
+  "source": "mock_fallback",
+  "surprise_avg_pct": 20.5,
+  "earnings_catalyst_score": 80,
+  "verdict": "Strong earnings momentum"
+}

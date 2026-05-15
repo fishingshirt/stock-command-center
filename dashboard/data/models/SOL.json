@@ -1,0 +1,42 @@
+{
+  "ticker": "SOL",
+  "timestamp": "2026-05-15T07:30:32.502148+00:00",
+  "current_price": 235.03,
+  "dcf_target": 207.8,
+  "comparable_target": 229.31,
+  "blended_target": 218.56,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 10.92,
+    "projected_fcf_5yr": [
+      12.69,
+      14.74,
+      17.13,
+      19.9,
+      23.12
+    ],
+    "growth_rate_assumed": 0.162,
+    "wacc": 0.101,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 335.34,
+    "enterprise_value_billions": 271.61,
+    "net_cash_billions": 4.91,
+    "equity_value_billions": 276.52,
+    "intrinsic_per_share": 207.8,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 235.03,
+    "trailing_pe": 16.03,
+    "forward_pe": 12.06,
+    "ev_ebitda": 13.98,
+    "price_to_sales": 14.79,
+    "price_to_book": 5.03,
+    "eps": 14.66,
+    "peer_median_pe": 15.64,
+    "implied_price_pe": 229.31,
+    "upside_pct": -2.43,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

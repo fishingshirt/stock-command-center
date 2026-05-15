@@ -1,0 +1,15 @@
+{
+  "ticker": "SOL",
+  "timestamp": "2026-05-15T07:30:32.527022+00:00",
+  "compliance_score": 56.8,
+  "risk_level": "MEDIUM",
+  "sanctions_risk": 2.6,
+  "pep_exposure": 0,
+  "esg_score": 60.5,
+  "controversy_count": 3,
+  "jurisdiction_risk": "low",
+  "flags": [
+    "3 active controversies"
+  ],
+  "pass": true
+}

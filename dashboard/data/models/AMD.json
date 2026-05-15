@@ -1,0 +1,42 @@
+{
+  "ticker": "AMD",
+  "timestamp": "2026-05-15T07:30:39.971811+00:00",
+  "current_price": 146.33,
+  "dcf_target": 23.93,
+  "comparable_target": 129.75,
+  "blended_target": 76.84,
+  "margin_of_safety_pct": 0,
+  "dcf_model": {
+    "current_fcf_billions": 2.36,
+    "projected_fcf_5yr": [
+      2.9,
+      3.56,
+      4.38,
+      5.39,
+      6.62
+    ],
+    "growth_rate_assumed": 0.23,
+    "wacc": 0.107,
+    "terminal_growth": 0.03,
+    "terminal_value_billions": 88.4,
+    "enterprise_value_billions": 69.45,
+    "net_cash_billions": 1.33,
+    "equity_value_billions": 70.79,
+    "intrinsic_per_share": 23.93,
+    "method": "DCF_5yr"
+  },
+  "comparable_model": {
+    "current_price": 146.33,
+    "trailing_pe": 37.42,
+    "forward_pe": 23.12,
+    "ev_ebitda": 13.08,
+    "price_to_sales": 7.41,
+    "price_to_book": 4.57,
+    "eps": 3.91,
+    "peer_median_pe": 33.18,
+    "implied_price_pe": 129.75,
+    "upside_pct": -11.33,
+    "method": "peer_multiples"
+  },
+  "verdict": "Overvalued"
+}

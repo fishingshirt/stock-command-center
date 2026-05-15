@@ -1,0 +1,33 @@
+{
+  "task_id": "20260515-132",
+  "subject": "SOL Solana breakout potential",
+  "timestamp": "2026-05-15T07:30:30.880851+00:00",
+  "recommendation": "WATCH",
+  "confidence": 55,
+  "summary": "SOL \u2014 NEUTRAL sentiment, WATCH (55% confidence). PE: N/A, RSI: N/A, Price: $91.59.",
+  "key_metrics": {
+    "current_price": 91.59,
+    "market_cap": 52930609478,
+    "total_volume": 3296574742,
+    "price_change_24h": 0.755798,
+    "price_change_percentage_24h": 0.83202,
+    "ath": 293.31,
+    "ath_change_percentage": -68.77229,
+    "ticker": "SOL",
+    "sentiment_score": 0,
+    "sentiment_label": "NEUTRAL"
+  },
+  "news": [],
+  "sentiment": {
+    "score": 0,
+    "label": "NEUTRAL",
+    "mentions": 0
+  },
+  "sources": [
+    "https://www.coingecko.com/en/coins/solana"
+  ],
+  "full_text": "## SOL Research Result\n\n### Recommendation: WATCH (55% confidence)\n\n### Sentiment: NEUTRAL (0)\n\n### Key Metrics\n- **current_price:** 91.59\n- **market_cap:** 52930609478\n- **total_volume:** 3296574742\n- **price_change_24h:** 0.755798\n- **price_change_percentage_24h:** 0.83202\n- **ath:** 293.31\n- **ath_change_percentage:** -68.77229\n- **ticker:** SOL\n- **sentiment_score:** 0\n- **sentiment_label:** NEUTRAL\n\n### Latest News\n",
+  "paper_trade_signal": "WATCH",
+  "paper_trade_price": 91.59,
+  "asset_type": "crypto"
+}

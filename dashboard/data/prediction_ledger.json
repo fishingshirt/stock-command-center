@@ -153,6 +153,39 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "ETH",
+      "recommendation": "WATCH",
+      "confidence": 65,
+      "price_at_predict": 2267.21,
+      "timestamp": "2026-05-15T07:30:25.612655+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SOL",
+      "recommendation": "WATCH",
+      "confidence": 55,
+      "price_at_predict": 91.59,
+      "timestamp": "2026-05-15T07:30:30.957867+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "AMD",
+      "recommendation": "HOLD",
+      "confidence": 40,
+      "price_at_predict": 449.7,
+      "timestamp": "2026-05-15T07:30:38.400935+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }
