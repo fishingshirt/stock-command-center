@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260515-161
-**Subject:** MTUM iShares Momentum Factor ETF rotation
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-15
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
-
 ### Task ID: 20260515-162
 **Subject:** SCHK Schwab 1000 Index valuation
 **Assigned Bot:** researcher_bot
@@ -40,7 +32,14 @@ Auto-generated research task. Bot: researcher_bot.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260515-161
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:30:05.465342+00:00
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
 
 ## Done
 
