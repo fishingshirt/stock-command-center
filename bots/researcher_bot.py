@@ -1,5 +1,4 @@
 """
-"""
 bots/researcher_bot.py
 Domain expert worker. Gathers stock/crypto data and writes structured result JSON.
 Usage:
@@ -9,7 +8,6 @@ import argparse
 import json
 import os
 import re
-import subprocess
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -17,7 +15,6 @@ from pathlib import Path
 parent = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, parent)
 
-# Optional imports — degrade gracefully if unavailable
 try:
     import yfinance as yf
 except ImportError:
@@ -31,7 +28,6 @@ except ImportError:
 
 def infer_ticker(subject: str) -> tuple:
     """Try to extract a stock or crypto ticker from the subject text."""
-    # Stock tickers: common patterns
     known_stocks = {
         "nvda": "NVDA", "tsla": "TSLA", "aapl": "AAPL", "amzn": "AMZN",
         "msft": "MSFT", "goog": "GOOGL", "meta": "META", "nflx": "NFLX",
@@ -41,27 +37,19 @@ def infer_ticker(subject: str) -> tuple:
         "pfe": "PFE", "unh": "UNH", "xom": "XOM", "cvx": "CVX",
         "jpm": "JPM", "gs": "GS", "bac": "BAC", "c": "C",
     }
-    
     subj_lower = subject.lower()
-    
-    # Crypto tickers
     known_crypto = {
         "btc": "bitcoin", "eth": "ethereum", "sol": "solana",
         "bnb": "binancecoin", "ada": "cardano", "xrp": "ripple",
         "dot": "polkadot", "avax": "avalanche-2", "matic": "matic-network",
         "doge": "dogecoin", "shib": "shiba-inu", "ltc": "litecoin",
     }
-    
     for sym, full in known_crypto.items():
         if re.search(rf'\b{re.escape(sym)}\b', subj_lower) or full.replace("-", " ") in subj_lower:
             return (sym.upper(), "crypto", full)
-    
     for sym, ticker in known_stocks.items():
         if re.search(rf'\b{re.escape(sym)}\b', subj_lower) or re.search(rf'\b{re.escape(ticker.lower())}\b', subj_lower):
             return (ticker, "stock", None)
-    
-    # Regex fallback: uppercase 2-5 letter words that look like tickers
-    # BUT reject common words / single letters that appear in generic task descriptions
     generic_blocklist = {
         "A", "AN", "THE", "AND", "OR", "FOR", "TO", "IN", "ON", "AT", "BY", "WITH", "FROM",
         "S", "P", "C", "T", "B", "X", "V", "I", "R", "E", "N", "D", "G", "F", "Y", "Q",
@@ -72,22 +60,18 @@ def infer_ticker(subject: str) -> tuple:
         cand = m.group(1)
         if cand not in generic_blocklist:
             return (cand, "stock", None)
-    
     return ("SPY", "stock", None)
 
 
-def fetch_stock_yfinance(ticker: str) -> dict:
+def fetch_stock_yfinance(ticker: str) -> dict | None:
     if yf is None:
         return None
     try:
-        import yfinance as yf_local
-        t = yf_local.Ticker(ticker)
+        t = yf.Ticker(ticker)
         hist = t.history(period="5d")
         info = t.info or {}
-        
         current_price = float(hist.Close.iloc[-1]) if len(hist) > 0 else None
         prev_close = float(hist.Close.iloc[-2]) if len(hist) > 1 else current_price
-        
         metrics = {
             "ticker": ticker,
             "current_price": round(current_price, 2) if current_price else None,
@@ -96,7 +80,6 @@ def fetch_stock_yfinance(ticker: str) -> dict:
             "market_cap": info.get("marketCap"),
             "52_week_high": info.get("fiftyTwoWeekHigh"),
             "52_week_low": info.get("fiftyTwoWeekLow"),
-            "rsi_14": None,  # would need ta-lib or manual calc
             "avg_volume": info.get("averageVolume"),
         }
         return metrics
@@ -104,7 +87,7 @@ def fetch_stock_yfinance(ticker: str) -> dict:
         return {"_error": str(e)}
 
 
-def fetch_crypto_coingecko(crypto_id: str) -> dict:
+def fetch_crypto_coingecko(crypto_id: str) -> dict | None:
     if requests is None:
         return None
     try:
@@ -127,132 +110,207 @@ def fetch_crypto_coingecko(crypto_id: str) -> dict:
         return {"_error": str(e)}
 
 
-def generate_mock_result(ticker: str, asset_type: str, subject: str, task_id: str) -> dict:
-    """Generate rich demo data when real APIs are unavailable."""
-    recommendation = random.choice(["BUY", "HOLD", "SELL", "WATCH", "ACCUMULATE"])
-    confidence = random.randint(45, 95)
-    
-    if asset_type == "crypto":
-        price = round(random.uniform(20, 80000), 2)
-        metrics = {
-            "ticker": ticker,
-            "current_price": price,
-            "market_cap": round(random.uniform(1e9, 1.5e12), 0),
-            "total_volume_24h": round(random.uniform(1e8, 5e10), 0),
-            "price_change_24h_pct": round(random.uniform(-12, 15), 2),
-            "ath": round(price * random.uniform(1.2, 5.0), 2),
-            "dominance_pct": round(random.uniform(0.5, 70), 2),
-        }
-        summaries = [
-            f"{ticker} showing mixed signals with strong on-chain accumulation but regulatory uncertainty weighing near-term.",
-            f"Momentum slowing for {ticker} after a strong Q1 rally; institutional flows remain positive.",
-            f"DeFi ecosystem around {ticker} expanding; TVL growth justifies elevated valuation.",
-        ]
-    else:
-        price = round(random.uniform(50, 600), 2)
-        metrics = {
-            "ticker": ticker,
-            "current_price": price,
-            "pe_ratio": round(random.uniform(12, 65), 2),
-            "forward_pe": round(random.uniform(10, 50), 2),
-            "rsi_14": random.randint(20, 80),
-            "market_cap": round(random.uniform(5e9, 2.5e12), 0),
-            "52_week_high": round(price * random.uniform(1.1, 1.8), 2),
-            "52_week_low": round(price * random.uniform(0.4, 0.9), 2),
-        }
-        summaries = [
-            f"Elevated PE but strong revenue trajectory suggests {ticker} can grow into valuation.",
-            f"Near-term headwinds in {ticker}'s core segment balanced by emerging AI revenue streams.",
-            f"Options flow turning bullish for {ticker} into earnings; technicals support a breakout.",
-        ]
-    
+def _calc_rsi(prices: list, period: int = 14) -> float | None:
+    if len(prices) < period + 1:
+        return None
+    deltas = [prices[i] - prices[i-1] for i in range(1, len(prices))]
+    gains = [d for d in deltas[-period:] if d > 0]
+    losses = [-d for d in deltas[-period:] if d < 0]
+    avg_gain = sum(gains) / period if gains else 0
+    avg_loss = sum(losses) / period if losses else 0
+    if avg_loss == 0:
+        return 100.0
+    rs = avg_gain / avg_loss
+    return round(100 - (100 / (1 + rs)), 2)
+
+
+def _calc_sma(prices: list, period: int) -> float | None:
+    if len(prices) >= period:
+        return round(sum(prices[-period:]) / period, 2)
+    return None
+
+
+def _fetch_yahoo_news(ticker: str) -> list:
+    if requests is None:
+        return []
+    try:
+        import xml.etree.ElementTree as ET
+        url = f"https://finance.yahoo.com/rss/headline?s={ticker}"
+        r = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+        if r.status_code != 200:
+            return []
+        root = ET.fromstring(r.content)
+        items = root.findall(".//item")
+        news = []
+        for item in items[:5]:
+            title = item.find("title")
+            pub = item.find("pubDate")
+            link = item.find("link")
+            if title is not None:
+                news.append({
+                    "title": title.text or "",
+                    "published": pub.text if pub is not None else "",
+                    "url": link.text if link is not None else "",
+                    "source": "Yahoo Finance",
+                })
+        return news
+    except Exception as e:
+        return [{"_error": str(e)}]
+
+
+def _analyze_sentiment(news_items: list) -> dict:
+    if not news_items:
+        return {"score": 0, "label": "NEUTRAL", "mentions": 0}
+    bullish_words = {"surge", "rally", "gain", "beat", "strong", "bull", "buy", "upgrade", "outperform", "growth", "breakout", "moon", "rocket", " ath", "all-time high"}
+    bearish_words = {"drop", "fall", "crash", "bear", "sell", "downgrade", "underperform", "loss", "miss", "weak", "recession", "layoff", "lawsuit", "sec", "investigation"}
+    bullish = 0
+    bearish = 0
+    for item in news_items:
+        title = item.get("title", "").lower()
+        for w in bullish_words:
+            if w in title:
+                bullish += 1
+        for w in bearish_words:
+            if w in title:
+                bearish += 1
+    total = bullish + bearish
+    if total == 0:
+        return {"score": 0, "label": "NEUTRAL", "mentions": 0}
+    score = round((bullish - bearish) / total * 100, 1)
+    label = "BULLISH" if score > 20 else "BEARISH" if score < -20 else "NEUTRAL"
+    return {"score": score, "label": label, "bullish_mentions": bullish, "bearish_mentions": bearish, "total_mentions": total}
+
+
+def _generate_empty_result(task_id: str, subject: str, ticker: str, asset_type: str, reason: str) -> dict:
     return {
         "task_id": task_id,
         "subject": subject,
         "timestamp": datetime.now(timezone.utc).isoformat(),
-        "recommendation": recommendation,
-        "confidence": confidence,
-        "summary": random.choice(summaries),
-        "key_metrics": metrics,
-        "sources": [
-            "https://finance.yahoo.com/quote/" + ticker,
-            "https://www.coingecko.com/en/coins/" + ticker.lower() if asset_type == "crypto" else "https://seekingalpha.com/symbol/" + ticker,
-        ],
-        "full_text": f"## {ticker} Deep Research\n\n### Overview\n{random.choice(summaries)}\n\n### Key Metrics\n" + "\n".join([f"- **{k}:** {v}" for k, v in metrics.items()]) + "\n\n### Recommendation\n" + recommendation + f" with {confidence}% confidence.",
-        "paper_trade_signal": recommendation,
-        "paper_trade_price": price,
+        "recommendation": "NO_DATA",
+        "confidence": 0,
+        "summary": f"Data unavailable for {ticker}: {reason}. No recommendation can be made.",
+        "key_metrics": {"ticker": ticker, "_error": reason},
+        "sources": [],
+        "full_text": f"## {ticker} Research — DATA UNAVAILABLE\n\nReason: {reason}\n\nNo real-time data was retrieved. The system refuses to fabricate numbers.\n",
+        "paper_trade_signal": "NO_DATA",
+        "paper_trade_price": 0,
         "asset_type": asset_type,
     }
+
+
+def _generate_recommendation(metrics: dict, asset_type: str, sentiment: dict) -> tuple:
+    pe = metrics.get("pe_ratio")
+    rsi = metrics.get("rsi_14")
+    change = metrics.get("price_change_24h", 0) or metrics.get("price_change_percentage_24h", 0)
+    sentiment_label = sentiment.get("label", "NEUTRAL")
+    sentiment_score = sentiment.get("score", 0)
+
+    if asset_type == "crypto":
+        if change and change > 5:
+            rec, conf = "HOLD", 65
+        elif change and change < -8:
+            rec, conf = "ACCUMULATE", 60
+        else:
+            rec, conf = "WATCH", 55
+    else:
+        if pe and pe > 40:
+            rec, conf = "HOLD", 58
+        elif pe and pe < 20:
+            rec, conf = "BUY", 72
+        elif rsi and rsi > 70:
+            rec, conf = "SELL", 65
+        elif rsi and rsi < 30:
+            rec, conf = "BUY", 70
+        else:
+            rec, conf = "HOLD", 55
+
+    if sentiment_label == "BULLISH" and sentiment_score > 30:
+        conf = min(95, conf + 10)
+        if rec == "HOLD":
+            rec = "ACCUMULATE"
+    elif sentiment_label == "BEARISH" and sentiment_score < -30:
+        conf = max(30, conf - 15)
+        if rec in ("BUY", "ACCUMULATE"):
+            rec = "HOLD"
+
+    return rec, conf
 
 
 def run(args) -> bool:
     task_id = args.task_id
     subject = args.subject
-    details = args.details
     output_path = Path(args.output)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     
     ticker, asset_type, crypto_id = infer_ticker(subject)
     
-    # Attempt real data fetch
     real_data = None
     if asset_type == "crypto":
         real_data = fetch_crypto_coingecko(crypto_id) if crypto_id else None
     else:
         real_data = fetch_stock_yfinance(ticker)
     
-    if real_data is not None and not real_data.get("_error"):
-        # Build result from real data + smart recommendation
-        metrics = real_data
-        metrics["ticker"] = ticker  # ensure ticker is always present
-        price = metrics.get("current_price", 0)
-        
-        # Simple rule-based recommendation
-        pe = metrics.get("pe_ratio")
-        rsi = metrics.get("rsi_14")
-        change = metrics.get("price_change_24h", 0) or metrics.get("price_change_percentage_24h", 0)
-        
-        if asset_type == "crypto":
-            if change and change > 5:
-                recommendation, confidence = "HOLD", 65
-            elif change and change < -8:
-                recommendation, confidence = "ACCUMULATE", 60
-            else:
-                recommendation, confidence = "WATCH", 55
-        else:
-            if pe and pe > 40:
-                recommendation, confidence = "HOLD", 58
-            elif pe and pe < 20:
-                recommendation, confidence = "BUY", 72
-            elif rsi and rsi > 70:
-                recommendation, confidence = "SELL", 65
-            elif rsi and rsi < 30:
-                recommendation, confidence = "BUY", 70
-            else:
-                recommendation, confidence = "HOLD", 55
-        
-        result = {
-            "task_id": task_id,
-            "subject": subject,
-            "timestamp": datetime.now(timezone.utc).isoformat(),
-            "recommendation": recommendation,
-            "confidence": confidence,
-            "summary": f"{ticker} analyzed via {asset_type} data. Recommendation: {recommendation}.",
-            "key_metrics": metrics,
-            "sources": ["https://finance.yahoo.com/quote/" + ticker if asset_type == "stock" else "https://www.coingecko.com/en/coins/" + crypto_id],
-            "full_text": f"## {ticker} Research Result\n\nData sourced from real-time APIs.\n\n### Recommendation: {recommendation} ({confidence}% confidence)\n\n### Metrics\n" + "\n".join([f"- **{k}:** {v}" for k, v in metrics.items()]),
-            "paper_trade_signal": recommendation,
-            "paper_trade_price": price,
-            "asset_type": asset_type,
-        }
-    else:
-        # Fallback to rich mock data so system always works
-        result = generate_mock_result(ticker, asset_type, subject, task_id)
+    if real_data is None or real_data.get("_error"):
+        reason = real_data.get("_error", "No data source available") if real_data else "No data source available"
+        result = _generate_empty_result(task_id, subject, ticker, asset_type, reason)
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(result, f, indent=2)
+        print(f"EMPTY result for {output_path} — {reason}")
+        return True
+    
+    metrics = real_data
+    metrics["ticker"] = ticker
+    
+    # Calculate RSI and SMA from history
+    if asset_type == "stock" and yf is not None:
+        try:
+            hist = yf.Ticker(ticker).history(period="1mo")
+            if len(hist) > 14:
+                prices = hist.Close.tolist()
+                metrics["rsi_14"] = _calc_rsi(prices)
+                metrics["sma_20"] = _calc_sma(prices, 20)
+                metrics["sma_50"] = _calc_sma(prices, 50)
+                if len(prices) >= 5:
+                    metrics["price_change_5d_pct"] = round((prices[-1] - prices[-5]) / prices[-5] * 100, 2)
+        except Exception:
+            pass
+    
+    news = _fetch_yahoo_news(ticker)
+    sentiment = _analyze_sentiment(news)
+    metrics["sentiment_score"] = sentiment.get("score")
+    metrics["sentiment_label"] = sentiment.get("label")
+    
+    price = metrics.get("current_price", 0) or 0
+    recommendation, confidence = _generate_recommendation(metrics, asset_type, sentiment)
+    
+    result = {
+        "task_id": task_id,
+        "subject": subject,
+        "timestamp": datetime.now(timezone.utc).isoformat(),
+        "recommendation": recommendation,
+        "confidence": confidence,
+        "summary": f"{ticker} — {sentiment.get('label', 'NEUTRAL')} sentiment, {recommendation} ({confidence}% confidence). "
+                   + f"PE: {metrics.get('pe_ratio', 'N/A')}, RSI: {metrics.get('rsi_14', 'N/A')}, Price: ${price}.",
+        "key_metrics": metrics,
+        "news": news[:3] if news else [],
+        "sentiment": sentiment,
+        "sources": ["https://finance.yahoo.com/quote/" + ticker if asset_type == "stock" else "https://www.coingecko.com/en/coins/" + crypto_id],
+        "full_text": (
+            f"## {ticker} Research Result\n\n"
+            f"### Recommendation: {recommendation} ({confidence}% confidence)\n\n"
+            f"### Sentiment: {sentiment.get('label', 'NEUTRAL')} ({sentiment.get('score', 0)})\n\n"
+            f"### Key Metrics\n" + "\n".join([f"- **{k}:** {v}" for k, v in metrics.items()]) + "\n\n"
+            f"### Latest News\n" + "\n".join([f"- [{n.get('title', '')}]({n.get('url', '')})" for n in news[:3]])
+        ),
+        "paper_trade_signal": recommendation,
+        "paper_trade_price": price,
+        "asset_type": asset_type,
+    }
     
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(result, f, indent=2)
     
-    print(f"Researcher bot wrote result to {output_path}")
+    print(f"REAL result for {output_path} — {ticker} {recommendation} {confidence}%")
     return True
 
 
