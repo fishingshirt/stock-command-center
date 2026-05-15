@@ -152,6 +152,47 @@ def agent_cycle() -> dict:
         "hired": [],
     }
 
+    # ── Sync tasks from main kanban board into agent boards ──
+    try:
+        from whiteboard.parser import load_board
+        main_board = load_board(str(REPO / "whiteboard" / "kanban.md"))
+        for t in main_board.get("To Do", []):
+            subject = t.get("subject", "")
+            bot = t.get("assigned_bot", "researcher_bot")
+            # Route to matching agent
+            agent_id = None
+            if bot == "researcher_bot":
+                # Default to stock research agent
+                agent_id = "AGT-003"
+                if "momentum" in subject.lower() or "technical" in subject.lower() or "levels" in subject.lower():
+                    agent_id = "AGT-005"
+                elif "fundamental" in subject.lower() or "valuation" in subject.lower() or "earnings" in subject.lower():
+                    agent_id = "AGT-006"
+                elif "sentiment" in subject.lower() or "news" in subject.lower():
+                    agent_id = "AGT-004"
+                elif "market" in subject.lower() or "sector" in subject.lower():
+                    agent_id = "AGT-002"
+                elif "crypto" in subject.lower() or "btc" in subject.lower() or "eth" in subject.lower():
+                    agent_id = "AGT-003"
+            elif bot == "self_build":
+                agent_id = "AGT-015"  # Developer
+            elif bot == "council_meeting":
+                agent_id = "AGT-001"  # CIO
+            elif bot == "portfolio_constructor":
+                agent_id = "AGT-008"  # Portfolio Manager
+            elif bot == "paper_trade":
+                agent_id = "AGT-009"  # Paper Trader
+            elif bot == "feedback_loop":
+                agent_id = "AGT-010"  # Performance Review
+            if agent_id:
+                # Avoid duplicates
+                existing = get_agent_board(agent_id)
+                existing_subjects = {x.get("subject", "") for x in existing.get("To Do", [])}
+                if subject not in existing_subjects:
+                    add_agent_task(agent_id, {"subject": subject, "details": t.get("details", ""), "priority": t.get("priority", "medium"), "kanban_task_id": t.get("task_id", "")})
+    except Exception:
+        pass
+
     for agent_def in registry.get("agents", []):
         if not agent_def.get("active", False):
             continue

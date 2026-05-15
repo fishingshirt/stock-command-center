@@ -1,65 +1,64 @@
 # Investment Memo: SPY
 
-**Recommendation:** SELL  
-**Confidence:** 75%  
+**Recommendation:** ACCUMULATE  
+**Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T15:45:23.914227+00:00  
+**Generated:** 2026-05-15T15:47:24.573342+00:00  
 **Model:** Financial Advisor AI  
 
 ---
 
 ## 1. Executive Summary
 
-SPY — BULLISH sentiment, SELL (75% confidence). PE: 27.800648, RSI: 70.61, Price: $740.02.
+SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $740.13.
 
-**Key Takeaway:** SPY is rated **SELL** with 75% confidence. Valuation model suggests a blended target of **$156.38**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$172.22**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **40/100** (Mixed earnings signals)
-- Recent EPS surprise: **+12.1%**
-- Next earnings date: **2026-05-21**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **-8.3%**
+- Next earnings date: **2026-06-19**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $590.13 |
-| DCF Intrinsic Value | $83.11 |
-| Comparable Implied | $229.64 |
-| Blended Target | $156.38 |
+| Current Price | $196.42 |
+| DCF Intrinsic Value | $65.39 |
+| Comparable Implied | $279.04 |
+| Blended Target | $172.22 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
-- **Current Price:** 740.02
+- **Current Price:** 740.13
 - **Previous Close:** 748.17
-- **Pe Ratio:** 27.800648
+- **Pe Ratio:** None
 - **Market Cap:** None
 - **52 Week High:** 749.53
 - **52 Week Low:** 575.6
-- **Avg Volume:** 74117604
+- **Avg Volume:** None
 
 ---
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (6.4/10)
-- ⚠️ 3 active controversies
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 38.0/100
-- **Sanctions Risk:** 6.4/10
-- **ESG Score:** 61.5/100
-- **Controversies:** 3
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 80.9/100
+- **Sanctions Risk:** 1.8/10
+- **ESG Score:** 72.1/100
+- **Controversies:** 1
 
 ---
 

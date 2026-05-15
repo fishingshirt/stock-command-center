@@ -1,6 +1,6 @@
 {
   "auto_trade_enabled": true,
-  "paper_trade_confidence_threshold": 70,
+  "paper_trade_confidence_threshold": 60,
   "max_positions": 10,
   "position_size_pct": 0.10,
   "enable_council": true,
