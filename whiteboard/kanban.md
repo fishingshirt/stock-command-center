@@ -22,6 +22,14 @@ Auto-generated research task. Bot: researcher_bot.
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
 
+### Task ID: 20260516-100
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
 ## In Progress
 
 _(No tasks in this section.)_
