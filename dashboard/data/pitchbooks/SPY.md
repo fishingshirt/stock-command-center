@@ -3,7 +3,7 @@
 **Recommendation:** HOLD  
 **Confidence:** 55%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-16T13:00:47.210411+00:00  
+**Generated:** 2026-05-16T13:15:22.845577+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPY — NEUTRAL sentiment, HOLD (55% confidence). PE: 27.768337, RSI: 69.61, Price: $739.17.
 
-**Key Takeaway:** SPY is rated **HOLD** with 55% confidence. Valuation model suggests a blended target of **$226.19**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **HOLD** with 55% confidence. Valuation model suggests a blended target of **$212.07**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **20/100** (Earnings weakness detected)
-- Recent EPS surprise: **-13.8%**
-- Next earnings date: **2026-06-02**
+- Earnings momentum score: **40/100** (Mixed earnings signals)
+- Recent EPS surprise: **+4.1%**
+- Next earnings date: **2026-06-13**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $553.38 |
-| DCF Intrinsic Value | $107.99 |
-| Comparable Implied | $344.38 |
-| Blended Target | $226.19 |
+| Current Price | $537.39 |
+| DCF Intrinsic Value | $108.37 |
+| Comparable Implied | $315.77 |
+| Blended Target | $212.07 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,8 +47,7 @@ SPY — NEUTRAL sentiment, HOLD (55% confidence). PE: 27.768337, RSI: 69.61, Pri
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (7.0/10)
-- ⚠️ Poor ESG score (42.7)
+- ⚠️ Elevated sanctions exposure (9.5/10)
 - ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 - ⚠️ Low confidence score (55%) — uncertain conviction
@@ -57,10 +56,10 @@ SPY — NEUTRAL sentiment, HOLD (55% confidence). PE: 27.768337, RSI: 69.61, Pri
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 55.2/100
-- **Sanctions Risk:** 7.0/10
-- **ESG Score:** 42.7/100
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 42.5/100
+- **Sanctions Risk:** 9.5/10
+- **ESG Score:** 71.2/100
 - **Controversies:** 1
 
 ---
