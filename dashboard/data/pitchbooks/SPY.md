@@ -2,8 +2,8 @@
 
 **Recommendation:** HOLD  
 **Confidence:** 55%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-16T05:45:20.469384+00:00  
+**Strategy:** VALUE  
+**Generated:** 2026-05-16T06:01:08.684133+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,26 +12,26 @@
 
 SPY — NEUTRAL sentiment, HOLD (55% confidence). PE: 27.768337, RSI: 69.61, Price: $739.17.
 
-**Key Takeaway:** SPY is rated **HOLD** with 55% confidence. Valuation model suggests a blended target of **$301.84**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **HOLD** with 55% confidence. Valuation model suggests a blended target of **$87.98**, representing a **22.3% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **0/100** (Earnings weakness detected)
-- Recent EPS surprise: **-3.0%**
-- Next earnings date: **2026-06-08**
+- Earnings momentum score: **25/100** (Earnings weakness detected)
+- Recent EPS surprise: **+0.9%**
+- Next earnings date: **2026-05-22**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $467.97 |
-| DCF Intrinsic Value | $99.54 |
-| Comparable Implied | $504.14 |
-| Blended Target | $301.84 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $68.36 |
+| DCF Intrinsic Value | $146.4 |
+| Comparable Implied | $29.57 |
+| Blended Target | $87.98 |
+| Margin of Safety | 22.3% |
+| Verdict | Undervalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
@@ -47,28 +47,26 @@ SPY — NEUTRAL sentiment, HOLD (55% confidence). PE: 27.768337, RSI: 69.61, Pri
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (6.1/10)
-- ⚠️ 1 active controversies
-- ⚠️ Low margin of safety — limited downside protection
+- No material compliance flags detected.
 - ⚠️ Low confidence score (55%) — uncertain conviction
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 59.6/100
-- **Sanctions Risk:** 6.1/10
-- **ESG Score:** 50.8/100
-- **Controversies:** 1
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 86.2/100
+- **Sanctions Risk:** 2.8/10
+- **ESG Score:** 51.8/100
+- **Controversies:** 0
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** VALUE
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
