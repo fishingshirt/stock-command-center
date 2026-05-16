@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** MOMENTUM  
-**Generated:** 2026-05-16T21:15:25.627357+00:00  
+**Generated:** 2026-05-16T21:31:00.573069+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,7 +12,7 @@
 
 SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.61, Price: $739.17.
 
-**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$151.75**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$149.72**, representing a **0% margin of safety** from current levels.
 
 ---
 
@@ -20,16 +20,16 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.6
 
 ### 2.1 Catalysts
 - Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+4.0%**
-- Next earnings date: **2026-05-22**
+- Recent EPS surprise: **+7.2%**
+- Next earnings date: **2026-06-19**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $200.02 |
-| DCF Intrinsic Value | $57.21 |
-| Comparable Implied | $246.28 |
-| Blended Target | $151.75 |
+| Current Price | $267.03 |
+| DCF Intrinsic Value | $121.52 |
+| Comparable Implied | $177.91 |
+| Blended Target | $149.72 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,18 +47,18 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.6
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (6.7/10)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 66.6/100
-- **Sanctions Risk:** 6.7/10
-- **ESG Score:** 82.5/100
-- **Controversies:** 0
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 87.6/100
+- **Sanctions Risk:** 0.5/10
+- **ESG Score:** 53.7/100
+- **Controversies:** 1
 
 ---
 
