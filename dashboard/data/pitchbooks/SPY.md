@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-16T20:45:59.795933+00:00  
+**Generated:** 2026-05-16T21:00:46.548249+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,7 +12,7 @@
 
 SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.61, Price: $739.17.
 
-**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$134.56**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$135.5**, representing a **0% margin of safety** from current levels.
 
 ---
 
@@ -20,16 +20,16 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.6
 
 ### 2.1 Catalysts
 - Earnings momentum score: **40/100** (Mixed earnings signals)
-- Recent EPS surprise: **+5.8%**
-- Next earnings date: **2026-06-28**
+- Recent EPS surprise: **+19.1%**
+- Next earnings date: **2026-05-26**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $258.78 |
-| DCF Intrinsic Value | $37.92 |
-| Comparable Implied | $231.19 |
-| Blended Target | $134.56 |
+| Current Price | $282.86 |
+| DCF Intrinsic Value | $152.77 |
+| Comparable Implied | $118.24 |
+| Blended Target | $135.5 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,18 +47,19 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.6
 
 ## 3. Risks
 
-- ⚠️ 1 active controversies
+- ⚠️ Elevated sanctions exposure (7.0/10)
+- ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 87.4/100
-- **Sanctions Risk:** 0.5/10
-- **ESG Score:** 78.1/100
-- **Controversies:** 1
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 45.1/100
+- **Sanctions Risk:** 7.0/10
+- **ESG Score:** 61.3/100
+- **Controversies:** 2
 
 ---
 
