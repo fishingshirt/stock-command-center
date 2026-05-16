@@ -7034,6 +7034,41 @@
       "confidence": 65,
       "price_at_predict": 143.48,
       "timestamp": "2026-05-16T20:15:38.346360+00:00",
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.22,
+      "evaluated_at": "2026-05-16T20:30:11.259400+00:00"
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPY",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 739.17,
+      "timestamp": "2026-05-16T20:15:44.728713+00:00",
+      "evaluated": true,
+      "was_correct": true,
+      "roi_at_eval": 0.03,
+      "evaluated_at": "2026-05-16T20:30:11.259313+00:00"
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "MTUM",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 298.27,
+      "timestamp": "2026-05-16T20:15:50.739779+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPMO",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 143.48,
+      "timestamp": "2026-05-16T20:30:15.080891+00:00",
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
@@ -7044,7 +7079,7 @@
       "recommendation": "ACCUMULATE",
       "confidence": 65,
       "price_at_predict": 739.17,
-      "timestamp": "2026-05-16T20:15:44.728713+00:00",
+      "timestamp": "2026-05-16T20:30:20.872801+00:00",
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
@@ -7055,7 +7090,7 @@
       "recommendation": "ACCUMULATE",
       "confidence": 65,
       "price_at_predict": 298.27,
-      "timestamp": "2026-05-16T20:15:50.739779+00:00",
+      "timestamp": "2026-05-16T20:30:26.653344+00:00",
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
