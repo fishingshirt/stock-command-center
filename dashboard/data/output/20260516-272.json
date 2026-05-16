@@ -1,0 +1,58 @@
+{
+  "task_id": "20260516-272",
+  "subject": "MTUM iShares Momentum Factor ETF rotation",
+  "timestamp": "2026-05-16T17:00:27.035520+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 65,
+  "summary": "MTUM \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.",
+  "key_metrics": {
+    "ticker": "MTUM",
+    "current_price": 298.27,
+    "previous_close": 307.25,
+    "pe_ratio": 32.67441,
+    "market_cap": null,
+    "52_week_high": 307.96,
+    "52_week_low": 223.47,
+    "avg_volume": 838914,
+    "rsi_14": 63.79,
+    "sma_20": 288.64,
+    "sma_50": null,
+    "price_change_5d_pct": -2.74,
+    "sentiment_score": 100.0,
+    "sentiment_label": "BULLISH"
+  },
+  "news": [
+    {
+      "title": "Mind the Momentum ETFs: SPMO, MTUM Having Strong Month",
+      "published": "Mon, 27 Apr 2026 18:27:35 +0000",
+      "url": "https://finance.yahoo.com/markets/options/articles/mind-momentum-etfs-spmo-mtum-182735912.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Straight Path Wealth Management Adds 53K Shares of Dimensional Global Core Plus Fixed Income ETF",
+      "published": "Thu, 23 Apr 2026 17:33:22 +0000",
+      "url": "https://www.fool.com/coverage/filings/2026/04/23/straight-path-adds-53k-dfgp-shares/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nasdaq scores longest winning streak since 1992 as historic stock-market comeback continues",
+      "published": "Fri, 17 Apr 2026 21:32:00 +0000",
+      "url": "https://www.marketwatch.com/story/nasdaq-heads-toward-its-longest-winning-streak-since-1992-as-historic-stock-market-comeback-continues-e84c2c59?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish_mentions": 1,
+    "bearish_mentions": 0,
+    "total_mentions": 1
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/MTUM"
+  ],
+  "full_text": "## MTUM Research Result\n\n### Recommendation: ACCUMULATE (65% confidence)\n\n### Sentiment: BULLISH (100.0)\n\n### Key Metrics\n- **ticker:** MTUM\n- **current_price:** 298.27\n- **previous_close:** 307.25\n- **pe_ratio:** 32.67441\n- **market_cap:** None\n- **52_week_high:** 307.96\n- **52_week_low:** 223.47\n- **avg_volume:** 838914\n- **rsi_14:** 63.79\n- **sma_20:** 288.64\n- **sma_50:** None\n- **price_change_5d_pct:** -2.74\n- **sentiment_score:** 100.0\n- **sentiment_label:** BULLISH\n\n### Latest News\n- [Mind the Momentum ETFs: SPMO, MTUM Having Strong Month](https://finance.yahoo.com/markets/options/articles/mind-momentum-etfs-spmo-mtum-182735912.html?.tsrc=rss)\n- [Straight Path Wealth Management Adds 53K Shares of Dimensional Global Core Plus Fixed Income ETF](https://www.fool.com/coverage/filings/2026/04/23/straight-path-adds-53k-dfgp-shares/?.tsrc=rss)\n- [Nasdaq scores longest winning streak since 1992 as historic stock-market comeback continues](https://www.marketwatch.com/story/nasdaq-heads-toward-its-longest-winning-streak-since-1992-as-historic-stock-market-comeback-continues-e84c2c59?.tsrc=rss)",
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 298.27,
+  "asset_type": "stock"
+}
