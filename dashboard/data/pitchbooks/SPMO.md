@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** MOMENTUM  
-**Generated:** 2026-05-16T12:30:16.486395+00:00  
+**Generated:** 2026-05-16T12:45:54.562223+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.01, Price: $143.48.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$372.74**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$366.38**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **80/100** (Strong earnings momentum)
-- Recent EPS surprise: **+12.6%**
-- Next earnings date: **2026-05-24**
+- Earnings momentum score: **65/100** (Strong earnings momentum)
+- Recent EPS surprise: **+14.9%**
+- Next earnings date: **2026-06-14**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $588.14 |
-| DCF Intrinsic Value | $49.07 |
-| Comparable Implied | $696.41 |
-| Blended Target | $372.74 |
+| Current Price | $543.4 |
+| DCF Intrinsic Value | $121.89 |
+| Comparable Implied | $610.88 |
+| Blended Target | $366.38 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,18 +47,20 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ## 3. Risks
 
-- ⚠️ 1 active controversies
+- ⚠️ Elevated sanctions exposure (4.2/10)
+- ⚠️ 3 active controversies
+- ⚠️ Jurisdiction risk: high
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 80.8/100
-- **Sanctions Risk:** 1.8/10
-- **ESG Score:** 76.3/100
-- **Controversies:** 1
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 49.0/100
+- **Sanctions Risk:** 4.2/10
+- **ESG Score:** 62.1/100
+- **Controversies:** 3
 
 ---
 

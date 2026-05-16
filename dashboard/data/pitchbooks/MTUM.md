@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-16T12:30:28.486734+00:00  
+**Generated:** 2026-05-16T12:46:06.348488+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$227.08**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$76.75**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **25/100** (Earnings weakness detected)
-- Recent EPS surprise: **-3.5%**
-- Next earnings date: **2026-06-29**
+- Earnings momentum score: **55/100** (Mixed earnings signals)
+- Recent EPS surprise: **+13.9%**
+- Next earnings date: **2026-06-13**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $292.37 |
-| DCF Intrinsic Value | $21.95 |
-| Comparable Implied | $432.21 |
-| Blended Target | $227.08 |
+| Current Price | $225.52 |
+| DCF Intrinsic Value | $71.59 |
+| Comparable Implied | $81.91 |
+| Blended Target | $76.75 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,19 +47,19 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ## 3. Risks
 
-- ⚠️ Poor ESG score (48.7)
-- ⚠️ 1 active controversies
+- ⚠️ Elevated sanctions exposure (8.0/10)
+- ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 75.2/100
-- **Sanctions Risk:** 3.0/10
-- **ESG Score:** 48.7/100
-- **Controversies:** 1
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 40.1/100
+- **Sanctions Risk:** 8.0/10
+- **ESG Score:** 77.9/100
+- **Controversies:** 2
 
 ---
 
