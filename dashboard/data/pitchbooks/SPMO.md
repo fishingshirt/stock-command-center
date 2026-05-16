@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-16T15:15:34.567133+00:00  
+**Generated:** 2026-05-16T15:30:14.774885+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.01, Price: $143.48.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$164.33**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$124.67**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **-0.3%**
-- Next earnings date: **2026-06-22**
+- Earnings momentum score: **20/100** (Earnings weakness detected)
+- Recent EPS surprise: **-2.2%**
+- Next earnings date: **2026-05-28**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $281.58 |
-| DCF Intrinsic Value | $108.29 |
-| Comparable Implied | $220.36 |
-| Blended Target | $164.33 |
+| Current Price | $227.61 |
+| DCF Intrinsic Value | $94.34 |
+| Comparable Implied | $155.01 |
+| Blended Target | $124.67 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,18 +47,19 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (3.6/10)
+- ⚠️ Elevated sanctions exposure (7.1/10)
+- ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 81.9/100
-- **Sanctions Risk:** 3.6/10
-- **ESG Score:** 66.8/100
-- **Controversies:** 0
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 44.7/100
+- **Sanctions Risk:** 7.1/10
+- **ESG Score:** 78.1/100
+- **Controversies:** 2
 
 ---
 
