@@ -1,0 +1,58 @@
+{
+  "task_id": "20260516-038",
+  "subject": "SPMO S&P 500 Momentum ETF trend scan",
+  "timestamp": "2026-05-16T02:30:53.593444+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 65,
+  "summary": "SPMO \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.01, Price: $143.48.",
+  "key_metrics": {
+    "ticker": "SPMO",
+    "current_price": 143.48,
+    "previous_close": 147.52,
+    "pe_ratio": 34.23003,
+    "market_cap": null,
+    "52_week_high": 147.87,
+    "52_week_low": 101.8,
+    "avg_volume": 1695125,
+    "rsi_14": 68.01,
+    "sma_20": 136.5,
+    "sma_50": null,
+    "price_change_5d_pct": -1.77,
+    "sentiment_score": 100.0,
+    "sentiment_label": "BULLISH"
+  },
+  "news": [
+    {
+      "title": "Momentum ETF (SPMO) Hits New 52-Week High",
+      "published": "Tue, 14 Apr 2026 16:28:00 +0000",
+      "url": "https://finance.yahoo.com/markets/options/articles/momentum-etf-spmo-hits-52-162800306.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "High Beta & Momentum ETFs Likely to Rally on War De-escalation Hopes",
+      "published": "Tue, 31 Mar 2026 13:00:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/high-beta-momentum-etfs-likely-130000192.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "This 1 ETF Keeps Outrallying the SPY, While Also Losing Less During Downturns",
+      "published": "Sat, 21 Mar 2026 12:21:49 +0000",
+      "url": "https://247wallst.com/investing/2026/03/21/this-1-etf-keeps-outrallying-the-spy-while-also-losing-less-during-downturns/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish_mentions": 5,
+    "bearish_mentions": 0,
+    "total_mentions": 5
+  },
+  "sources": [
+    "https://finance.yahoo.com/quote/SPMO"
+  ],
+  "full_text": "## SPMO Research Result\n\n### Recommendation: ACCUMULATE (65% confidence)\n\n### Sentiment: BULLISH (100.0)\n\n### Key Metrics\n- **ticker:** SPMO\n- **current_price:** 143.48\n- **previous_close:** 147.52\n- **pe_ratio:** 34.23003\n- **market_cap:** None\n- **52_week_high:** 147.87\n- **52_week_low:** 101.8\n- **avg_volume:** 1695125\n- **rsi_14:** 68.01\n- **sma_20:** 136.5\n- **sma_50:** None\n- **price_change_5d_pct:** -1.77\n- **sentiment_score:** 100.0\n- **sentiment_label:** BULLISH\n\n### Latest News\n- [Momentum ETF (SPMO) Hits New 52-Week High](https://finance.yahoo.com/markets/options/articles/momentum-etf-spmo-hits-52-162800306.html?.tsrc=rss)\n- [High Beta & Momentum ETFs Likely to Rally on War De-escalation Hopes](https://finance.yahoo.com/markets/stocks/articles/high-beta-momentum-etfs-likely-130000192.html?.tsrc=rss)\n- [This 1 ETF Keeps Outrallying the SPY, While Also Losing Less During Downturns](https://247wallst.com/investing/2026/03/21/this-1-etf-keeps-outrallying-the-spy-while-also-losing-less-during-downturns/?.tsrc=rss)",
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 143.48,
+  "asset_type": "stock"
+}
