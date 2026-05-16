@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-16T22:45:57.902641+00:00  
+**Generated:** 2026-05-16T23:00:34.684951+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.01, Price: $143.48.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$327.41**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$75.08**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **+0.6%**
-- Next earnings date: **2026-06-12**
+- Earnings momentum score: **35/100** (Mixed earnings signals)
+- Recent EPS surprise: **-13.1%**
+- Next earnings date: **2026-05-25**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $469.34 |
-| DCF Intrinsic Value | $232.23 |
-| Comparable Implied | $422.59 |
-| Blended Target | $327.41 |
+| Current Price | $93.75 |
+| DCF Intrinsic Value | $48.71 |
+| Comparable Implied | $101.46 |
+| Blended Target | $75.08 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,19 +47,20 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (4.1/10)
-- ⚠️ Poor ESG score (49.8)
+- ⚠️ Elevated sanctions exposure (6.8/10)
+- ⚠️ Poor ESG score (43.4)
+- ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 79.7/100
-- **Sanctions Risk:** 4.1/10
-- **ESG Score:** 49.8/100
-- **Controversies:** 0
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 36.0/100
+- **Sanctions Risk:** 6.8/10
+- **ESG Score:** 43.4/100
+- **Controversies:** 3
 
 ---
 
