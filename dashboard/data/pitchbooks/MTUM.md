@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-16T14:16:30.402380+00:00  
+**Generated:** 2026-05-16T14:31:11.095644+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,7 +12,7 @@
 
 MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$87.31**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$122.25**, representing a **0% margin of safety** from current levels.
 
 ---
 
@@ -20,16 +20,16 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ### 2.1 Catalysts
 - Earnings momentum score: **55/100** (Mixed earnings signals)
-- Recent EPS surprise: **+20.6%**
-- Next earnings date: **2026-06-16**
+- Recent EPS surprise: **+20.3%**
+- Next earnings date: **2026-06-21**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $114.61 |
-| DCF Intrinsic Value | $130.26 |
-| Comparable Implied | $44.36 |
-| Blended Target | $87.31 |
+| Current Price | $141.78 |
+| DCF Intrinsic Value | $85.5 |
+| Comparable Implied | $159.01 |
+| Blended Target | $122.25 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,18 +47,19 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ## 3. Risks
 
-- No material compliance flags detected.
+- ⚠️ Elevated sanctions exposure (6.5/10)
+- ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 91.5/100
-- **Sanctions Risk:** 1.7/10
-- **ESG Score:** 51.0/100
-- **Controversies:** 0
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 47.5/100
+- **Sanctions Risk:** 6.5/10
+- **ESG Score:** 84.5/100
+- **Controversies:** 2
 
 ---
 
