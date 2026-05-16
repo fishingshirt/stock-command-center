@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-16T10:15:38.259921+00:00  
+**Generated:** 2026-05-16T10:31:19.261571+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,7 +12,7 @@
 
 MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$472.1**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$112.55**, representing a **0% margin of safety** from current levels.
 
 ---
 
@@ -20,16 +20,16 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ### 2.1 Catalysts
 - Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **-2.6%**
-- Next earnings date: **2026-06-11**
+- Recent EPS surprise: **-8.6%**
+- Next earnings date: **2026-05-26**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $504.54 |
-| DCF Intrinsic Value | $103.11 |
-| Comparable Implied | $841.09 |
-| Blended Target | $472.1 |
+| Current Price | $246.23 |
+| DCF Intrinsic Value | $54.31 |
+| Comparable Implied | $170.79 |
+| Blended Target | $112.55 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,20 +47,19 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (5.0/10)
-- ⚠️ Poor ESG score (47.9)
-- ⚠️ 3 active controversies
+- ⚠️ Poor ESG score (46.4)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 45.0/100
-- **Sanctions Risk:** 5.0/10
-- **ESG Score:** 47.9/100
-- **Controversies:** 3
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 76.3/100
+- **Sanctions Risk:** 2.7/10
+- **ESG Score:** 46.4/100
+- **Controversies:** 1
 
 ---
 
