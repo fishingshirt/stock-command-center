@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-16T06:30:53.693501+00:00  
+**Generated:** 2026-05-16T06:45:28.642572+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$211.79**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$320.76**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **55/100** (Mixed earnings signals)
-- Recent EPS surprise: **+20.8%**
-- Next earnings date: **2026-06-17**
+- Earnings momentum score: **25/100** (Earnings weakness detected)
+- Recent EPS surprise: **-14.3%**
+- Next earnings date: **2026-06-16**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $544.64 |
-| DCF Intrinsic Value | $74.03 |
-| Comparable Implied | $349.54 |
-| Blended Target | $211.79 |
+| Current Price | $546.7 |
+| DCF Intrinsic Value | $182.31 |
+| Comparable Implied | $459.22 |
+| Blended Target | $320.76 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,7 +47,7 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (8.2/10)
+- ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
@@ -55,10 +55,10 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 58.8/100
-- **Sanctions Risk:** 8.2/10
-- **ESG Score:** 71.9/100
-- **Controversies:** 0
+- **Compliance Score:** 70.5/100
+- **Sanctions Risk:** 1.9/10
+- **ESG Score:** 70.0/100
+- **Controversies:** 2
 
 ---
 
