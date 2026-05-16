@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-16T06:16:07.601013+00:00  
+**Generated:** 2026-05-16T06:30:42.515324+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.01, Price: $143.48.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$339.39**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$125.81**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **35/100** (Mixed earnings signals)
-- Recent EPS surprise: **-1.6%**
-- Next earnings date: **2026-06-02**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **-14.8%**
+- Next earnings date: **2026-06-20**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $539.44 |
-| DCF Intrinsic Value | $176.44 |
-| Comparable Implied | $502.35 |
-| Blended Target | $339.39 |
+| Current Price | $210.57 |
+| DCF Intrinsic Value | $167.15 |
+| Comparable Implied | $84.48 |
+| Blended Target | $125.81 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,18 +47,19 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (3.5/10)
+- ⚠️ Elevated sanctions exposure (10.0/10)
+- ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 82.7/100
-- **Sanctions Risk:** 3.5/10
-- **ESG Score:** 75.2/100
-- **Controversies:** 0
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 30.1/100
+- **Sanctions Risk:** 10.0/10
+- **ESG Score:** 64.2/100
+- **Controversies:** 2
 
 ---
 
