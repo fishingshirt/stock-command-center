@@ -2,11 +2,11 @@
   "ticker": "",
   "recommendation": "HOLD",
   "confidence": 55,
-  "reasoning": "We maintain our HOLD on .\n\n**Research Findings:**\n- SPY \u2014 NEUTRAL sentiment, HOLD (55% confidence). PE: 27.768337, RSI: 69.61, Price: $739.17.\n\n**Earnings Analysis:**\n- Strong earnings momentum \u2014 catalyst score 80/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $137.98\n\n**Confidence Drivers:**\n- Overall confidence: **55%**\n- P/E ratio of 27.768337 vs peers\n- RSI(14) at 69.61 \u2014 neutral\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Low confidence indicates significant uncertainty\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **MOMENTUM** play: earnings acceleration driving the thesis.",
+  "reasoning": "We maintain our HOLD on .\n\n**Research Findings:**\n- SPY \u2014 NEUTRAL sentiment, HOLD (55% confidence). PE: 27.768337, RSI: 69.61, Price: $739.17.\n\n**Earnings Analysis:**\n- Mixed earnings signals \u2014 catalyst score 50/100\n\n**Valuation Model:**\n- Overvalued with a blended target of $61.52\n\n**Confidence Drivers:**\n- Overall confidence: **55%**\n- P/E ratio of 27.768337 vs peers\n- RSI(14) at 69.61 \u2014 neutral\n\n**Risks to the Thesis:**\n- Limited margin of safety \u2014 downside risk elevated\n- Low confidence indicates significant uncertainty\n- Market-wide macro risks (rates, geopolitics)\n- Stock-specific execution risk\n\n**Why This Strategy:**\nThis is a **GROWTH** play: positioned for forward-looking appreciation.",
   "pitchbook_path": "/home/fishingshirt/stock-command-center/dashboard/data/pitchbooks/SPY.md",
-  "generated_at": "2026-05-16T03:30:35.580534+00:00",
+  "generated_at": "2026-05-16T03:46:12.077068+00:00",
   "confidence_factors": {
-    "earnings_score": 80,
+    "earnings_score": 50,
     "valuation_margin": 0,
     "research_confidence": 55
   }
