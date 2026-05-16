@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260516-162
-**Subject:** SPMO S&P 500 Momentum ETF trend scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-16
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
-
 ### Task ID: 20260516-163
 **Subject:** V Visa payment network fundamentals
 **Assigned Bot:** researcher_bot
@@ -44,7 +36,14 @@ Auto-generated research task. Bot: researcher_bot.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260516-162
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:15:22.171637+00:00
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
 
 ## Done
 
