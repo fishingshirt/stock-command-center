@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-16T08:00:24.203082+00:00  
+**Generated:** 2026-05-16T08:16:02.160490+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.01, Price: $143.48.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$127.69**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$228.26**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **+0.9%**
-- Next earnings date: **2026-06-03**
+- Earnings momentum score: **35/100** (Mixed earnings signals)
+- Recent EPS surprise: **-5.5%**
+- Next earnings date: **2026-05-23**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $128.04 |
-| DCF Intrinsic Value | $80.45 |
-| Comparable Implied | $174.92 |
-| Blended Target | $127.69 |
+| Current Price | $230.79 |
+| DCF Intrinsic Value | $162.86 |
+| Comparable Implied | $293.66 |
+| Blended Target | $228.26 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,20 +47,19 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (7.3/10)
-- ⚠️ 2 active controversies
-- ⚠️ Jurisdiction risk: medium
+- ⚠️ Elevated sanctions exposure (4.8/10)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 43.4/100
-- **Sanctions Risk:** 7.3/10
-- **ESG Score:** 57.6/100
-- **Controversies:** 2
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 65.9/100
+- **Sanctions Risk:** 4.8/10
+- **ESG Score:** 64.7/100
+- **Controversies:** 1
 
 ---
 
