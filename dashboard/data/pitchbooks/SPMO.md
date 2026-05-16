@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-16T20:01:02.870485+00:00  
+**Generated:** 2026-05-16T20:15:40.607003+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.01, Price: $143.48.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$74.8**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$83.26**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **-1.2%**
-- Next earnings date: **2026-05-22**
+- Earnings momentum score: **10/100** (Earnings weakness detected)
+- Recent EPS surprise: **-10.5%**
+- Next earnings date: **2026-05-21**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $89.32 |
-| DCF Intrinsic Value | $45.41 |
-| Comparable Implied | $104.18 |
-| Blended Target | $74.8 |
+| Current Price | $133.3 |
+| DCF Intrinsic Value | $59.42 |
+| Comparable Implied | $107.1 |
+| Blended Target | $83.26 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,19 +47,19 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (4.3/10)
-- ⚠️ 3 active controversies
+- ⚠️ Poor ESG score (45.4)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 48.6/100
-- **Sanctions Risk:** 4.3/10
-- **ESG Score:** 72.1/100
-- **Controversies:** 3
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 84.0/100
+- **Sanctions Risk:** 1.2/10
+- **ESG Score:** 45.4/100
+- **Controversies:** 1
 
 ---
 
