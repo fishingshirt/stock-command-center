@@ -20,14 +20,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260516-352
-**Subject:** MTUM iShares Momentum Factor ETF rotation
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-16
-**Started At:** 2026-05-16T22:01:15.345111+00:00
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -9962,6 +9955,18 @@ Auto-generated research task. Bot: researcher_bot.
 **Started At:** 2026-05-16T22:01:09.439886+00:00
 **Completed At:** 2026-05-16T22:01:12.337931+00:00
 **Result:** dashboard/data/output/20260516-351.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260516-352
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:01:15.345111+00:00
+**Completed At:** 2026-05-16T22:01:18.408835+00:00
+**Result:** dashboard/data/output/20260516-352.json
 **Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
