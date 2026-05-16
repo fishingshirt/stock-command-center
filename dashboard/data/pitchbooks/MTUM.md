@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-16T18:30:28.272111+00:00  
+**Generated:** 2026-05-16T18:46:06.250479+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$217.63**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$87.29**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **55/100** (Mixed earnings signals)
-- Recent EPS surprise: **+5.6%**
-- Next earnings date: **2026-06-26**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **+17.5%**
+- Next earnings date: **2026-05-25**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $390.42 |
-| DCF Intrinsic Value | $148.49 |
-| Comparable Implied | $286.77 |
-| Blended Target | $217.63 |
+| Current Price | $166.33 |
+| DCF Intrinsic Value | $33.71 |
+| Comparable Implied | $140.87 |
+| Blended Target | $87.29 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,7 +47,7 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ## 3. Risks
 
-- ⚠️ 2 active controversies
+- ⚠️ Elevated sanctions exposure (4.3/10)
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
@@ -55,10 +55,10 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 75.1/100
-- **Sanctions Risk:** 1.0/10
-- **ESG Score:** 75.5/100
-- **Controversies:** 2
+- **Compliance Score:** 78.4/100
+- **Sanctions Risk:** 4.3/10
+- **ESG Score:** 77.4/100
+- **Controversies:** 0
 
 ---
 
