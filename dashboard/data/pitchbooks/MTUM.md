@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** MOMENTUM  
-**Generated:** 2026-05-16T08:30:51.664852+00:00  
+**Generated:** 2026-05-16T08:45:29.314650+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$245.26**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$141.34**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+20.3%**
-- Next earnings date: **2026-06-18**
+- Earnings momentum score: **80/100** (Strong earnings momentum)
+- Recent EPS surprise: **+23.6%**
+- Next earnings date: **2026-06-13**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $315.76 |
-| DCF Intrinsic Value | $229.77 |
-| Comparable Implied | $260.76 |
-| Blended Target | $245.26 |
+| Current Price | $331.61 |
+| DCF Intrinsic Value | $54.27 |
+| Comparable Implied | $228.4 |
+| Blended Target | $141.34 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,18 +47,19 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ## 3. Risks
 
-- No material compliance flags detected.
+- ⚠️ Elevated sanctions exposure (4.1/10)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 95.2/100
-- **Sanctions Risk:** 1.0/10
-- **ESG Score:** 67.9/100
-- **Controversies:** 0
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 69.6/100
+- **Sanctions Risk:** 4.1/10
+- **ESG Score:** 71.4/100
+- **Controversies:** 1
 
 ---
 
