@@ -4,11 +4,11 @@
   "target_dollars": 4443.63,
   "kelly_fraction": 0.25,
   "confidence_multiplier": 0.65,
-  "margin_of_safety_multiplier": 1.89,
+  "margin_of_safety_multiplier": 1.97,
   "diversification_limit": "20% max single position",
   "sector_risk": "Sector limit: would exceed 30% Other",
   "cash_available": 74473.19,
   "total_portfolio_value": 100042.23,
   "strategy": "VALUE",
-  "timestamp": "2026-05-16T21:00:52.715660+00:00"
+  "timestamp": "2026-05-16T21:15:31.464727+00:00"
 }

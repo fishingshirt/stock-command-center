@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** VALUE  
-**Generated:** 2026-05-16T21:00:52.657926+00:00  
+**Generated:** 2026-05-16T21:15:31.407397+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,25 +12,25 @@
 
 MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$341.76**, representing a **44.58% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$188.32**, representing a **48.57% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+8.4%**
-- Next earnings date: **2026-06-02**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **-13.3%**
+- Next earnings date: **2026-05-29**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $189.42 |
-| DCF Intrinsic Value | $467.35 |
-| Comparable Implied | $216.18 |
-| Blended Target | $341.76 |
-| Margin of Safety | 44.58% |
+| Current Price | $96.86 |
+| DCF Intrinsic Value | $207.6 |
+| Comparable Implied | $169.04 |
+| Blended Target | $188.32 |
+| Margin of Safety | 48.57% |
 | Verdict | Undervalued |
 
 ### 2.3 Key Metrics Snapshot
@@ -47,17 +47,20 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ## 3. Risks
 
-- ⚠️ 1 active controversies
+- ⚠️ Elevated sanctions exposure (4.4/10)
+- ⚠️ Poor ESG score (47.1)
+- ⚠️ 2 active controversies
+- ⚠️ Jurisdiction risk: medium
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 82.8/100
-- **Sanctions Risk:** 1.4/10
-- **ESG Score:** 68.5/100
-- **Controversies:** 1
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 58.0/100
+- **Sanctions Risk:** 4.4/10
+- **ESG Score:** 47.1/100
+- **Controversies:** 2
 
 ---
 
