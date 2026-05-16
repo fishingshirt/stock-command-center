@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-15T23:45:58.371183+00:00  
+**Generated:** 2026-05-16T00:00:34.314259+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,7 +12,7 @@
 
 MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$167.84**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$145.65**, representing a **0% margin of safety** from current levels.
 
 ---
 
@@ -20,16 +20,16 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ### 2.1 Catalysts
 - Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **-5.5%**
-- Next earnings date: **2026-06-11**
+- Recent EPS surprise: **+21.3%**
+- Next earnings date: **2026-06-30**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $214.96 |
-| DCF Intrinsic Value | $92.26 |
-| Comparable Implied | $243.41 |
-| Blended Target | $167.84 |
+| Current Price | $447.66 |
+| DCF Intrinsic Value | $78.01 |
+| Comparable Implied | $213.29 |
+| Blended Target | $145.65 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,18 +47,19 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ## 3. Risks
 
-- ⚠️ 2 active controversies
+- ⚠️ Poor ESG score (40.8)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 77.1/100
-- **Sanctions Risk:** 0.6/10
-- **ESG Score:** 74.7/100
-- **Controversies:** 2
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 88.0/100
+- **Sanctions Risk:** 0.4/10
+- **ESG Score:** 40.8/100
+- **Controversies:** 1
 
 ---
 

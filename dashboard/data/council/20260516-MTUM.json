@@ -1,0 +1,60 @@
+{
+  "ticker": "MTUM",
+  "date": "20260516",
+  "timestamp": "2026-05-16T00:00:34.401475+00:00",
+  "consensus": {
+    "recommendation": "HOLD",
+    "confidence": 71.4,
+    "verdict": "MILD CONSENSUS",
+    "position_size_boost_pct": 0.0
+  },
+  "votes": [
+    {
+      "bot": "researcher_bot",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "weight": 0.3,
+      "weight_reason": "researcher_bot accuracy=23.1%"
+    },
+    {
+      "bot": "earnings_analyzer",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "weight": 0.5,
+      "weight_reason": "earnings_analyzer accuracy=50.0%"
+    },
+    {
+      "bot": "financial_model",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "weight": 0.5,
+      "weight_reason": "financial_model accuracy=50.0%"
+    },
+    {
+      "bot": "kyc_screen",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "weight": 0.5,
+      "weight_reason": "kyc_screen accuracy=50.0%"
+    },
+    {
+      "bot": "advisor_reasoning",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "weight": 0.5,
+      "weight_reason": "advisor_reasoning accuracy=50.0%"
+    },
+    {
+      "bot": "portfolio_constructor",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "weight": 0.5,
+      "weight_reason": "portfolio_constructor accuracy=50.0%"
+    }
+  ],
+  "breakdown": {
+    "ACCUMULATE": 28.6,
+    "HOLD": 71.4
+  },
+  "memo_path": null
+}
