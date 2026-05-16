@@ -2,8 +2,8 @@
 
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
-**Strategy:** VALUE  
-**Generated:** 2026-05-16T23:15:20.179601+00:00  
+**Strategy:** GROWTH  
+**Generated:** 2026-05-16T23:30:54.802278+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,26 +12,26 @@
 
 SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.61, Price: $739.17.
 
-**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$268.58**, representing a **70.74% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$144.18**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **35/100** (Mixed earnings signals)
-- Recent EPS surprise: **-9.5%**
-- Next earnings date: **2026-06-22**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **+14.2%**
+- Next earnings date: **2026-06-25**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $78.58 |
-| DCF Intrinsic Value | $399.13 |
-| Comparable Implied | $138.04 |
-| Blended Target | $268.58 |
-| Margin of Safety | 70.74% |
-| Verdict | Undervalued |
+| Current Price | $390.89 |
+| DCF Intrinsic Value | $127.66 |
+| Comparable Implied | $160.7 |
+| Blended Target | $144.18 |
+| Margin of Safety | 0% |
+| Verdict | Overvalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPY
@@ -48,24 +48,25 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.6
 ## 3. Risks
 
 - No material compliance flags detected.
+- ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** LOW
-- **Compliance Score:** 98.9/100
-- **Sanctions Risk:** 0.2/10
-- **ESG Score:** 66.8/100
+- **Compliance Score:** 90.9/100
+- **Sanctions Risk:** 1.8/10
+- **ESG Score:** 58.0/100
 - **Controversies:** 0
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** VALUE
+**Primary Strategy:** GROWTH
 
-This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
