@@ -1,36 +1,36 @@
 {
-  "next_earnings_date": "2026-06-01",
+  "next_earnings_date": "2026-05-25",
   "earnings_history": [
     {
       "date": "2026-02-28",
-      "eps_estimate": 1.89,
-      "reported_eps": 2.09,
-      "surprise_pct": 11.6
+      "eps_estimate": 6.65,
+      "reported_eps": 6.85,
+      "surprise_pct": -2.0
     },
     {
       "date": "2025-11-30",
-      "eps_estimate": 1.59,
-      "reported_eps": 1.79,
-      "surprise_pct": 6.7
+      "eps_estimate": 6.35,
+      "reported_eps": 6.55,
+      "surprise_pct": -3.5
     },
     {
       "date": "2025-08-30",
-      "eps_estimate": 1.29,
-      "reported_eps": 1.49,
-      "surprise_pct": 17.1
+      "eps_estimate": 6.05,
+      "reported_eps": 6.25,
+      "surprise_pct": 3.1
     }
   ],
-  "eps_ttm": 8.36,
-  "eps_forward": 10.87,
-  "revenue_growth": 0.22,
-  "earnings_growth": 0.138,
-  "pe_trailing": 29.81,
-  "pe_forward": 23.66,
-  "peg_ratio": 1.98,
+  "eps_ttm": 27.4,
+  "eps_forward": 35.62,
+  "revenue_growth": 0.132,
+  "earnings_growth": 0.467,
+  "pe_trailing": 51.23,
+  "pe_forward": 15.5,
+  "peg_ratio": 1.26,
   "ticker": "MTUM",
-  "analyzed_at": "2026-05-16T17:46:20.172763+00:00",
+  "analyzed_at": "2026-05-16T18:01:04.355522+00:00",
   "source": "mock_fallback",
-  "surprise_avg_pct": 11.8,
-  "earnings_catalyst_score": 65,
-  "verdict": "Strong earnings momentum"
+  "surprise_avg_pct": -0.8,
+  "earnings_catalyst_score": 35,
+  "verdict": "Mixed earnings signals"
 }
