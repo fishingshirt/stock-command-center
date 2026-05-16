@@ -4,9 +4,9 @@
       "name": "researcher_bot",
       "expertise": "multi-domain_research",
       "historical_accuracy": 29.3,
-      "total_predictions": 905,
-      "correct_predictions": 264,
-      "last_run": "2026-05-16T16:31:09.187920+00:00",
+      "total_predictions": 910,
+      "correct_predictions": 266,
+      "last_run": "2026-05-16T16:45:46.467234+00:00",
       "avg_confidence": 61.7,
       "confidence_history": [
         65,
@@ -41,7 +41,7 @@
         65
       ],
       "created_at": "2026-05-13T04:11:59.484242+00:00",
-      "last_evaluated": "2026-05-16T16:30:53.396997+00:00"
+      "last_evaluated": "2026-05-16T16:45:30.742187+00:00"
     },
     "earnings_analyzer": {
       "name": "earnings_analyzer",
@@ -110,5 +110,5 @@
       "created_at": "2026-05-13T04:11:59.485236+00:00"
     }
   },
-  "updated_at": "2026-05-16T16:31:09.193395+00:00"
+  "updated_at": "2026-05-16T16:45:46.472705+00:00"
 }
