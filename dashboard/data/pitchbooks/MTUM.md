@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-16T12:46:06.348488+00:00  
+**Generated:** 2026-05-16T13:00:53.119017+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,7 +12,7 @@
 
 MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$76.75**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$381.54**, representing a **0% margin of safety** from current levels.
 
 ---
 
@@ -20,16 +20,16 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ### 2.1 Catalysts
 - Earnings momentum score: **55/100** (Mixed earnings signals)
-- Recent EPS surprise: **+13.9%**
-- Next earnings date: **2026-06-13**
+- Recent EPS surprise: **+5.3%**
+- Next earnings date: **2026-06-18**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $225.52 |
-| DCF Intrinsic Value | $71.59 |
-| Comparable Implied | $81.91 |
-| Blended Target | $76.75 |
+| Current Price | $530.09 |
+| DCF Intrinsic Value | $66.34 |
+| Comparable Implied | $696.74 |
+| Blended Target | $381.54 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,19 +47,19 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (8.0/10)
-- ⚠️ 2 active controversies
+- ⚠️ Elevated sanctions exposure (6.2/10)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 40.1/100
-- **Sanctions Risk:** 8.0/10
-- **ESG Score:** 77.9/100
-- **Controversies:** 2
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 58.9/100
+- **Sanctions Risk:** 6.2/10
+- **ESG Score:** 76.7/100
+- **Controversies:** 1
 
 ---
 
