@@ -6,7 +6,13 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-_(No tasks in this section.)_
+### Task ID: 20260516-114
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
 
 ## In Progress
 
@@ -6850,9 +6856,6 @@ Auto-generated research task. Bot: researcher_bot.
 **Completed At:** 2026-05-16T07:01:05.415442+00:00
 **Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
 **Summary:** No actionable build steps for: - Bot: researcher_bot
-- Accuracy: 26.4% over last 712 predictions
-- Target: improve to >= 40.0%
-- Su
 **Details:**
 - Bot: researcher_bot
 - Accuracy: 26.4% over last 712 predictions
