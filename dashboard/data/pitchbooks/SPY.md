@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-16T23:30:54.802278+00:00  
+**Generated:** 2026-05-16T23:45:30.738573+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.61, Price: $739.17.
 
-**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$144.18**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$461.97**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **+14.2%**
-- Next earnings date: **2026-06-25**
+- Earnings momentum score: **40/100** (Mixed earnings signals)
+- Recent EPS surprise: **+21.8%**
+- Next earnings date: **2026-06-20**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $390.89 |
-| DCF Intrinsic Value | $127.66 |
-| Comparable Implied | $160.7 |
-| Blended Target | $144.18 |
+| Current Price | $467.98 |
+| DCF Intrinsic Value | $155.06 |
+| Comparable Implied | $768.87 |
+| Blended Target | $461.97 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,7 +47,7 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.6
 
 ## 3. Risks
 
-- No material compliance flags detected.
+- ⚠️ Elevated sanctions exposure (3.6/10)
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
@@ -55,9 +55,9 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.6
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** LOW
-- **Compliance Score:** 90.9/100
-- **Sanctions Risk:** 1.8/10
-- **ESG Score:** 58.0/100
+- **Compliance Score:** 81.8/100
+- **Sanctions Risk:** 3.6/10
+- **ESG Score:** 70.4/100
 - **Controversies:** 0
 
 ---
