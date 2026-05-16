@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-16T15:30:14.774885+00:00  
+**Generated:** 2026-05-16T15:45:55.751000+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.01, Price: $143.48.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$124.67**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$314.38**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **20/100** (Earnings weakness detected)
-- Recent EPS surprise: **-2.2%**
-- Next earnings date: **2026-05-28**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **-14.1%**
+- Next earnings date: **2026-06-17**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $227.61 |
-| DCF Intrinsic Value | $94.34 |
-| Comparable Implied | $155.01 |
-| Blended Target | $124.67 |
+| Current Price | $525.49 |
+| DCF Intrinsic Value | $53.28 |
+| Comparable Implied | $575.49 |
+| Blended Target | $314.38 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,19 +47,18 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (7.1/10)
-- ⚠️ 2 active controversies
+- ⚠️ Elevated sanctions exposure (9.4/10)
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 44.7/100
-- **Sanctions Risk:** 7.1/10
-- **ESG Score:** 78.1/100
-- **Controversies:** 2
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 52.9/100
+- **Sanctions Risk:** 9.4/10
+- **ESG Score:** 50.7/100
+- **Controversies:** 0
 
 ---
 
