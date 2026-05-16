@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T09:00:48.092562+00:00",
+  "generated_at": "2026-05-16T09:15:26.994157+00:00",
   "overall": {
     "closed_trades": 4,
     "open_positions": 3,
@@ -51,9 +51,9 @@
     {
       "name": "researcher_bot",
       "expertise": "multi-domain_research",
-      "accuracy": 27.1,
-      "predictions": 752,
-      "correct": 204
+      "accuracy": 27.2,
+      "predictions": 757,
+      "correct": 206
     }
   ],
   "strategy_stats": {
@@ -66,7 +66,7 @@
     }
   },
   "warnings": [
-    "researcher_bot accuracy 27.1% \u2014 below threshold",
+    "researcher_bot accuracy 27.2% \u2014 below threshold",
     "Strategy GROWTH win rate 28.6% \u2014 below threshold"
   ]
 }

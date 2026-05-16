@@ -3,7 +3,7 @@
 **Recommendation:** HOLD  
 **Confidence:** 55%  
 **Strategy:** MOMENTUM  
-**Generated:** 2026-05-16T09:00:58.354680+00:00  
+**Generated:** 2026-05-16T09:15:37.544270+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,7 +12,7 @@
 
 SPY — NEUTRAL sentiment, HOLD (55% confidence). PE: 27.768337, RSI: 69.61, Price: $739.17.
 
-**Key Takeaway:** SPY is rated **HOLD** with 55% confidence. Valuation model suggests a blended target of **$90.67**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **HOLD** with 55% confidence. Valuation model suggests a blended target of **$277.88**, representing a **0% margin of safety** from current levels.
 
 ---
 
@@ -20,16 +20,16 @@ SPY — NEUTRAL sentiment, HOLD (55% confidence). PE: 27.768337, RSI: 69.61, Pri
 
 ### 2.1 Catalysts
 - Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+9.5%**
-- Next earnings date: **2026-05-27**
+- Recent EPS surprise: **+11.0%**
+- Next earnings date: **2026-05-24**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $163.6 |
-| DCF Intrinsic Value | $90.18 |
-| Comparable Implied | $91.16 |
-| Blended Target | $90.67 |
+| Current Price | $568.52 |
+| DCF Intrinsic Value | $41.28 |
+| Comparable Implied | $514.48 |
+| Blended Target | $277.88 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,8 +47,7 @@ SPY — NEUTRAL sentiment, HOLD (55% confidence). PE: 27.768337, RSI: 69.61, Pri
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (7.7/10)
-- ⚠️ 2 active controversies
+- ⚠️ Poor ESG score (49.7)
 - ⚠️ Low margin of safety — limited downside protection
 - ⚠️ Low confidence score (55%) — uncertain conviction
 
@@ -56,11 +55,11 @@ SPY — NEUTRAL sentiment, HOLD (55% confidence). PE: 27.768337, RSI: 69.61, Pri
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 41.6/100
-- **Sanctions Risk:** 7.7/10
-- **ESG Score:** 83.9/100
-- **Controversies:** 2
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 99.6/100
+- **Sanctions Risk:** 0.1/10
+- **ESG Score:** 49.7/100
+- **Controversies:** 0
 
 ---
 
