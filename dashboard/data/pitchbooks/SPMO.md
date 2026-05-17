@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** MOMENTUM  
-**Generated:** 2026-05-17T04:45:17.258055+00:00  
+**Generated:** 2026-05-17T05:00:32.040310+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,7 +12,7 @@
 
 SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.01, Price: $143.48.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$135.41**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$196.84**, representing a **0% margin of safety** from current levels.
 
 ---
 
@@ -20,16 +20,16 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ### 2.1 Catalysts
 - Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+19.9%**
-- Next earnings date: **2026-06-18**
+- Recent EPS surprise: **+14.5%**
+- Next earnings date: **2026-06-07**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $243.97 |
-| DCF Intrinsic Value | $143.28 |
-| Comparable Implied | $127.54 |
-| Blended Target | $135.41 |
+| Current Price | $418.63 |
+| DCF Intrinsic Value | $147.07 |
+| Comparable Implied | $246.61 |
+| Blended Target | $196.84 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,7 +47,8 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (8.7/10)
+- ⚠️ Elevated sanctions exposure (3.9/10)
+- ⚠️ 2 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
@@ -55,10 +56,10 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 56.5/100
-- **Sanctions Risk:** 8.7/10
-- **ESG Score:** 73.4/100
-- **Controversies:** 0
+- **Compliance Score:** 60.6/100
+- **Sanctions Risk:** 3.9/10
+- **ESG Score:** 82.1/100
+- **Controversies:** 2
 
 ---
 
