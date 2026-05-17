@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-17T10:31:10.239415+00:00  
+**Generated:** 2026-05-17T10:45:58.145490+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,7 +12,7 @@
 
 MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$43.74**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$360.3**, representing a **0% margin of safety** from current levels.
 
 ---
 
@@ -20,16 +20,16 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ### 2.1 Catalysts
 - Earnings momentum score: **40/100** (Mixed earnings signals)
-- Recent EPS surprise: **+6.9%**
-- Next earnings date: **2026-06-15**
+- Recent EPS surprise: **+15.8%**
+- Next earnings date: **2026-06-05**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $51.18 |
-| DCF Intrinsic Value | $56.98 |
-| Comparable Implied | $30.51 |
-| Blended Target | $43.74 |
+| Current Price | $549.49 |
+| DCF Intrinsic Value | $205.08 |
+| Comparable Implied | $515.52 |
+| Blended Target | $360.3 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,19 +47,18 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (7.2/10)
-- ⚠️ 3 active controversies
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 34.2/100
-- **Sanctions Risk:** 7.2/10
-- **ESG Score:** 71.2/100
-- **Controversies:** 3
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 78.7/100
+- **Sanctions Risk:** 2.3/10
+- **ESG Score:** 74.8/100
+- **Controversies:** 1
 
 ---
 
