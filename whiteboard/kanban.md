@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260517-301
-**Subject:** INTC analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Details:**
-Real-time market analysis for INTC. Auto-generated watchlist task.
-
 ### Task ID: 20260517-302
 **Subject:** JPM analysis
 **Assigned Bot:** researcher_bot
@@ -32,7 +24,14 @@ Real-time market analysis for XOM. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260517-301
+**Subject:** INTC analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T15:46:03.121343+00:00
+**Details:**
+Real-time market analysis for INTC. Auto-generated watchlist task.
 
 ## Done
 
