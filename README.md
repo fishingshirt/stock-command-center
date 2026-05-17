@@ -1,8 +1,8 @@
 # Stock Command Center
 
-Autonomous stock intelligence platform. A main orchestrator bot spawns researcher sub-bots, collects financial insights, and feeds a locally-hosted Docker dashboard with buy/sell/hold recommendations.
+Autonomous stock intelligence platform with **real market data**. Analyzes stocks and crypto via yfinance, computes technical indicators, runs valuation models, and produces actionable BUY/SELL/HOLD recommendations with a live paper-trading portfolio.
 
-## Quick Links for the Next AI
+## Quick Links
 
 | Document | Purpose |
 |----------|---------|
@@ -13,19 +13,103 @@ Autonomous stock intelligence platform. A main orchestrator bot spawns researche
 | [docs/TASK_SYSTEM.md](docs/TASK_SYSTEM.md) | Cron job, task states, and "Done" archive logic |
 | [docs/DOCKER_SETUP.md](docs/DOCKER_SETUP.md) | Docker Compose and container instructions |
 
-## Project Status
-- [x] Repo created
-- [x] Whiteboard system built
-- [x] Cron job scheduled
-- [x] Main bot implemented
-- [x] Sub-bots implemented
-- [x] Dashboard built in Docker
-- [x] First research cycle completed
-- [ ] **Data quality verified** — researcher bot producing inconsistent/fake prices (SPY $159→$70, PE 18→35)
-- [ ] **Paper trading ledger working** — virtual portfolio not persisting properly
-- [ ] **Dashboard UI modernized** — basic Tailwind cards, needs financial-terminal design
-- [ ] **Bot registry accuracy tracking** — feedback loop not comparing predictions vs actual
-- [ ] **Logic review complete** — council meeting, advisor reasoning, position sizing need verification
-- [ ] **Ready for production research cycles**
+## How It Works
 
-**Current Phase:** Review & Fix — Build tasks on whiteboard only. No auto-generated research until quality passes.
+1. **Orchestrator** (`bots/main_orchestrator.py`) runs on schedule, picks tickers from a watchlist
+2. **Researcher Bot** (`bots/researcher_bot.py`) fetches real data via yfinance:
+   - Price, SMA 20/50/200, RSI(14), P/E, PEG, EPS, revenue/earnings growth, profit margin, beta, volume
+   - News sentiment from Yahoo Finance RSS headlines
+   - Computes weighted signal scores → **BUY / ACCUMULATE / HOLD / REDUCE / SELL** with 50-95% confidence
+3. **Financial Model** (`bots/financial_model.py`) runs DCF + comparable valuation using real fundamentals
+4. **Earnings Analyzer** (`bots/earnings_analyzer.py`) fetches real earnings dates, surprise history, EPS trajectory
+5. **Paper Trader** (`bots/paper_trade.py`) auto-trades when confidence ≥ 65%, tracks portfolio with live price updates
+6. **Results** are saved as JSON, pushed to GitHub, and served by FastAPI backend + React frontend
+
+## Dashboard URL
+
+- **Frontend:** http://localhost:8081
+- **Backend API:** http://localhost:8000
+- `/api/recommendations` — Latest research results
+- `/api/portfolio` — Live paper portfolio
+- `/api/pitchbooks` — Investment theses
+- `/api/bot_leaderboard` — Bot accuracy tracking
+
+## Data Sources
+
+- **yfinance** — Real-time prices, fundamentals, earnings, history
+- **Yahoo Finance RSS** — News headlines for sentiment analysis
+- **CoinGecko API** — Crypto prices for BTC, ETH, SOL
+
+## Paper Trading
+
+- Initial capital: $100,000
+- Auto-trades on BUY/ACCUMULATE with confidence ≥ 65%
+- No market-hours restriction (paper only)
+- Portfolio tracks unrealized P&L with live price updates
+
+## Cron Schedule
+
+Runs every 2 hours via `hermes cron job` ID: `stock-command-center`
+
+## Project Status
+
+- [x] Repo created
+- [x] Real market data via yfinance
+- [x] Technical analysis: SMA, RSI, momentum signals
+- [x] Valuation: DCF + comparable multiples using real fundamentals
+- [x] Earnings analysis: surprise tracking, EPS trajectory
+- [x] News sentiment analysis
+- [x] Paper trading with auto-execution
+- [x] Dashboard with live recommendations
+- [x] Docker containers running (backend:8000, frontend:8081)
+- [x] Cron job scheduled every 2h
+- [ ] **Dashboard terminal UI** — Needs Bloomberg-style facelift
+- [ ] **Feedback loop** — Track prediction accuracy vs actual outcomes
+- [ ] **Strategy backtesting** — Historical performance per strategy bucket
+
+## Architecture
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    Stock Command Center                      │
+│                                                              │
+│   ┌──────────────┐     ┌──────────┐     ┌─────────────┐   │
+│   │ Researcher   │────▶│ Valuation│────▶│   Earnings  │   │
+│   │ (yfinance)   │     │   Model  │     │  Analyzer   │   │
+│   └──────────────┘     └──────────┘     └─────────────┘   │
+│         │                       │               │          │
+│         └───────────────────────┼───────────────┘          │
+│                                 ▼                          │
+│                        ┌──────────────┐                   │
+│                        │ Paper Trader │                   │
+│                        │  (portfolio) │                   │
+│                        └──────────────┘                   │
+│                                 │                          │
+│                                 ▼                          │
+│   ┌──────────────────────────────────────────────┐        │
+│   │  FastAPI Backend  +   React Frontend          │        │
+│   │  localhost:8000       localhost:8081           │        │
+│   └──────────────────────────────────────────────┘        │
+└─────────────────────────────────────────────────────────────┘
+```
+
+## Running Locally
+
+```bash
+cd ~/stock-command-center
+docker compose up -d          # Start backend + frontend
+python3 bots/run_cycle.py     # Run one research cycle manually
+python3 bots/paper_trade.py stats  # Check portfolio
+```
+
+## Key Files
+
+| File | Purpose |
+|------|---------|
+| `bots/researcher_bot.py` | Real market analysis engine |
+| `bots/financial_model.py` | DCF + comparable valuation |
+| `bots/earnings_analyzer.py` | Earnings surprise tracking |
+| `bots/paper_trade.py` | Paper trading engine |
+| `bots/main_orchestrator.py` | Cycle orchestrator |
+| `dashboard/backend/main.py` | FastAPI server |
+| `whiteboard/kanban.md` | Task queue |

@@ -46,6 +46,17 @@ Real-time market analysis for UBER. Auto-generated watchlist task.
 **Details:**
 Real-time market analysis for COIN. Auto-generated watchlist task.
 
+### Task ID: 20260517-227
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Details:**
+- Identify top 5 daily movers
+- Fundamentals check
+- News sentiment
+- Investment recommendation
+
 ## In Progress
 
 _(No tasks in this section.)_
