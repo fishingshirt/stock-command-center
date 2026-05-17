@@ -1,0 +1,148 @@
+{
+  "task_id": "20260517-378",
+  "subject": "VOO analysis",
+  "ticker": "VOO",
+  "timestamp": "2026-05-17T19:46:01.010059+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 66,
+  "summary": "VOO @ $679.44 \u2014 ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range \u2014 limited upside | RSI: 69.67 | P/E: 29.334908 | Strategy: GROWTH",
+  "signal_score": 0.273,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "VOO",
+    "current_price": 679.44,
+    "previous_close": 687.73,
+    "day_change_pct": -1.21,
+    "sma_20": 665.39,
+    "sma_50": 633.99,
+    "sma_200": 618.91,
+    "rsi_14": 69.67,
+    "52_week_high": 689.1,
+    "52_week_low": 529.11,
+    "price_vs_52w_pct": 94.0,
+    "volume_surge": 0.6,
+    "avg_volume": 9418619,
+    "market_cap": null,
+    "pe_trailing": 29.334908,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -0.01,
+    "return_1mo_pct": 4.28,
+    "return_3mo_pct": 8.53,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 69.67"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (665.39)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (618.91) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (94.0% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (60.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [
+    "Price at 94.0% of 52-week range \u2014 limited upside"
+  ],
+  "sentiment": {
+    "score": 60.0,
+    "label": "BULLISH",
+    "bullish": 4,
+    "bearish": 1,
+    "total_mentions": 5
+  },
+  "news": [
+    {
+      "title": "At 33, They're Planning 2 Years Of 80 Hour Workweeks To Make Up For Lost Time. Some Say The Plan 'Sounds Absolutely Miserable'",
+      "published": "Sun, 17 May 2026 18:31:09 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/33-theyre-planning-2-years-183109836.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "CF Industries and Norwegian Cruise Line have been highlighted as Zacks Bull and Bear of the Day",
+      "published": "Fri, 15 May 2026 12:46:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cf-industries-norwegian-cruise-line-124600665.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "S&P 500 Headed for Massive Highs Ahead? ETFs in Focus",
+      "published": "Thu, 14 May 2026 13:00:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-headed-massive-highs-130000503.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "1 Low-Cost ETF That Could Outperform Actively Managed Funds This Year",
+      "published": "Wed, 13 May 2026 11:36:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/13/1-low-cost-etf-that-could-outperform-actively-mana/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "It\u2019s a Growth Stock World\u2014and Nothing Is Going to Change That",
+      "published": "Wed, 13 May 2026 11:02:00 +0000",
+      "url": "https://finance.yahoo.com/m/cde686e8-da09-3e6c-9554-ec753b660943/it%E2%80%99s-a-growth-stock-world%E2%80%94and.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/VOO"
+  ],
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 679.44,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 781.71,
+    "margin_of_safety_pct": 13.08,
+    "verdict": "FAIRLY_VALUED",
+    "upside_pct": 15.05
+  },
+  "earnings": {
+    "catalyst_score": 0,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "FLAT",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "max_positions",
+    "message": "No rotation candidate"
+  },
+  "advisor": {
+    "ticker": "VOO",
+    "recommendation": "ACCUMULATE",
+    "confidence": 66,
+    "strategy": "GROWTH",
+    "reasoning": "## VOO Investment Thesis\n\n**Recommendation:** ACCUMULATE (66% confidence)\n**Strategy:** GROWTH\n**Price:** $679.44\n**Daily Change:** \ud83d\udd34 -1.21%\n\n**Valuation:** Target $781.71 | Upside 15.05% | MoS 13.08% | Verdict: FAIRLY_VALUED\n\n**Earnings:** Earnings weakness detected (catalyst 0)\n\n### Technical Signals\n\u26a0\ufe0f **Rsi:** RSI overbought 69.67\n\u2705 **Sma20:** Price above SMA20 (665.39)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (618.91) \u2014 confirmed uptrend\n\u26a0\ufe0f **52W:** Near 52-week high (94.0% of range)\n\u2705 **Sentiment:** Bullish news sentiment (60.0)\n\n### Positive Factors\n\u2705 Bullish news sentiment detected\n\n### Risk Factors\n\u26a0\ufe0f Price at 94.0% of 52-week range \u2014 limited upside\n\n### News Sentiment: BULLISH (60.0)\n- 4 bullish mentions, 1 bearish\n- Recent headlines:\n  - At 33, They're Planning 2 Years Of 80 Hour Workweeks To Make Up For Lost Time. Some Say The Plan 'Sounds Absolutely Miserable'\n  - CF Industries and Norwegian Cruise Line have been highlighted as Zacks Bull and Bear of the Day\n  - S&P 500 Headed for Massive Highs Ahead? ETFs in Focus\n\n### Key Metrics\n- **Ticker:** VOO\n- **Price:** $679.44\n- **P/E (trailing):** 29.334908\n- **RSI(14):** 69.67\n- **SMA 20:** 665.39\n- **SMA 50:** 633.99\n- **52W Range:** $529.11 - $689.1\n- **1mo Return:** 4.28%\n- **3mo Return:** 8.53%\n- **Volume Surge:** 0.6\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T19:46:05.691245+00:00"
+  }
+}
