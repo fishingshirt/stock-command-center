@@ -24,14 +24,7 @@ Real-time market analysis for XLI. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-281
-**Subject:** XLF analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T14:45:50.243494+00:00
-**Details:**
-Real-time market analysis for XLF. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -748,3 +741,15 @@ Real-time market analysis for VGT. Auto-generated watchlist task.
 **Summary:** XLK @ $176.26 — ACCUMULATE (65% confidence) | Warnings: Price at 94.1% of 52-week range — limited upside; Bearish news sentiment detected | RSI: 73.31 | P/E: 38
 **Details:**
 Real-time market analysis for XLK. Auto-generated watchlist task.
+
+### Task ID: 20260517-281
+**Subject:** XLF analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T14:45:50.243494+00:00
+**Completed At:** 2026-05-17T14:45:58.776527+00:00
+**Result:** dashboard/data/output/20260517-281.json
+**Summary:** XLF @ $51.1 — BUY (95% confidence) | RSI: 39.14 | P/E: 16.482962 | Strategy: VALUE
+**Details:**
+Real-time market analysis for XLF. Auto-generated watchlist task.
