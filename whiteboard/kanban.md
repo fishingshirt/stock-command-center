@@ -6,16 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260517-181
-**Subject:** HEAD MANAGER ALERT: Docker heal failed — backend unreachable
-**Assigned Bot:** self_build
-**Priority:** critical
-**Created:** 2026-05-17
-**Details:**
-- Attempted docker compose up -d
-- Backend still not responding on port 8000
-- Manual investigation needed: check docker logs, port conflicts
-
 ### Task ID: 20260517-182
 **Subject:** Auto: Improve researcher_bot model
 **Assigned Bot:** self_build
@@ -30,7 +20,16 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260517-181
+**Subject:** HEAD MANAGER ALERT: Docker heal failed — backend unreachable
+**Assigned Bot:** self_build
+**Priority:** critical
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:16:19.023037+00:00
+**Details:**
+- Attempted docker compose up -d
+- Backend still not responding on port 8000
+- Manual investigation needed: check docker logs, port conflicts
 
 ## Done
 
