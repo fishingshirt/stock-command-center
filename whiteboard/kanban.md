@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260517-231
-**Subject:** WFC analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Details:**
-Real-time market analysis for WFC. Auto-generated watchlist task.
-
 ### Task ID: 20260517-232
 **Subject:** CVX analysis
 **Assigned Bot:** researcher_bot
@@ -24,7 +16,14 @@ Real-time market analysis for CVX. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260517-231
+**Subject:** WFC analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:16:29.696587+00:00
+**Details:**
+Real-time market analysis for WFC. Auto-generated watchlist task.
 
 ## Done
 
@@ -13365,6 +13364,6 @@ Real-time market analysis for BAC. Auto-generated watchlist task.
 **Started At:** 2026-05-17T13:16:21.283967+00:00
 **Completed At:** 2026-05-17T13:16:28.511648+00:00
 **Result:** dashboard/data/output/20260517-230.json
-**Summary:** GS @ $948.47 — BUY (86% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 91.0% of 52-week range — limited upside | RSI: 52.96 | P/E: 
+**Summary:** GS @ $948.47 — BUY (86% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 91.0% of 52-week range — limited upside | RSI: 52.96 | P/E:
 **Details:**
 Real-time market analysis for GS. Auto-generated watchlist task.
