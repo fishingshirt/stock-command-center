@@ -10,18 +10,7 @@ _(No tasks in this section.)_
 
 ## In Progress
 
-### Task ID: 20260517-017
-**Subject:** Auto: Improve researcher_bot model
-**Assigned Bot:** self_build
-**Priority:** high
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T01:01:15.377730+00:00
-**Details:**
-- Bot: researcher_bot
-- Accuracy: 31.0% over last 1072 predictions
-- Target: improve to >= 40.0%
-- Suggestion: review data sources and scoring weights
-- Created via feedback_loop auto-improve
+_(No tasks in this section.)_
 
 ## Done
 
@@ -10595,3 +10584,22 @@ Auto-generated research task. Bot: researcher_bot.
 **Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260517-017
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:01:15.377730+00:00
+**Completed At:** 2026-05-17T01:01:16.470077+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+- Accuracy: 31.0% over last 1072 predictions
+- Target: improve to >= 40.0%
+- S
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.0% over last 1072 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
