@@ -32,14 +32,7 @@ Real-time market analysis for CVX. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-229
-**Subject:** BAC analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T13:16:12.622003+00:00
-**Details:**
-Real-time market analysis for BAC. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13359,3 +13352,15 @@ Real-time market analysis for COIN. Auto-generated watchlist task.
 **Summary:** PLTR @ $133.99 — HOLD (50% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 152.26137x — growth expectations priced in | RSI: 38.93 |
 **Details:**
 Real-time market analysis for PLTR. Auto-generated watchlist task.
+
+### Task ID: 20260517-229
+**Subject:** BAC analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:16:12.622003+00:00
+**Completed At:** 2026-05-17T13:16:20.190829+00:00
+**Result:** dashboard/data/output/20260517-229.json
+**Summary:** BAC @ $49.77 — BUY (88% confidence) | Bullish: RSI 31.71 — approaching oversold; Trailing P/E 12.349875x — below market average | RSI: 31.71 | P/E: 12.349875 | 
+**Details:**
+Real-time market analysis for BAC. Auto-generated watchlist task.
