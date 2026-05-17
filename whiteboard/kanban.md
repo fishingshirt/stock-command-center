@@ -56,14 +56,7 @@ Real-time market analysis for MSFT. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-287
-**Subject:** SPMO analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T15:15:31.253694+00:00
-**Details:**
-Real-time market analysis for SPMO. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -852,3 +845,15 @@ Real-time market analysis for SPYG. Auto-generated watchlist task.
 **Summary:** MTUM @ $298.27 — BUY (91% confidence) | Bullish: Bullish news sentiment detected | RSI: 63.79 | P/E: 32.67441 | Strategy: GROWTH
 **Details:**
 Real-time market analysis for MTUM. Auto-generated watchlist task.
+
+### Task ID: 20260517-287
+**Subject:** SPMO analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T15:15:31.253694+00:00
+**Completed At:** 2026-05-17T15:15:40.958765+00:00
+**Result:** dashboard/data/output/20260517-287.json
+**Summary:** SPMO @ $143.48 — BUY (81% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 90.5% of 52-week range — limited upside | RSI: 68.01 | P/E
+**Details:**
+Real-time market analysis for SPMO. Auto-generated watchlist task.
