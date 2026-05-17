@@ -24,14 +24,7 @@ Real-time market analysis for COST. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-240
-**Subject:** PFE analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T13:46:32.483142+00:00
-**Details:**
-Real-time market analysis for PFE. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13483,3 +13476,15 @@ Real-time market analysis for F. Auto-generated watchlist task.
 **Summary:** LLY @ $1004.92 — BUY (85% confidence) | RSI: 74.45 | P/E: 35.711445 | Strategy: GROWTH
 **Details:**
 Real-time market analysis for LLY. Auto-generated watchlist task.
+
+### Task ID: 20260517-240
+**Subject:** PFE analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:46:32.483142+00:00
+**Completed At:** 2026-05-17T13:46:40.090190+00:00
+**Result:** dashboard/data/output/20260517-240.json
+**Summary:** PFE @ $25.33 — HOLD (52% confidence) | Bullish: RSI 32.35 — approaching oversold; Bullish news sentiment detected | RSI: 32.35 | P/E: 19.335878 | Strategy: GROW
+**Details:**
+Real-time market analysis for PFE. Auto-generated watchlist task.
