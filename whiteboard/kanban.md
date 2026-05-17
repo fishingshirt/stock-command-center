@@ -32,14 +32,7 @@ Real-time market analysis for AMD. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-295
-**Subject:** META analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T15:31:34.995312+00:00
-**Details:**
-Real-time market analysis for META. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -924,3 +917,15 @@ Real-time market analysis for MSFT. Auto-generated watchlist task.
 **Summary:** GOOGL @ $396.78 — BUY (81% confidence) | Bullish: Bullish news sentiment detected | Warnings: RSI 75.48 — possible reversal risk; Price at 97.1% of 52-week rang
 **Details:**
 Real-time market analysis for GOOGL. Auto-generated watchlist task.
+
+### Task ID: 20260517-295
+**Subject:** META analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T15:31:34.995312+00:00
+**Completed At:** 2026-05-17T15:31:44.681599+00:00
+**Result:** dashboard/data/output/20260517-295.json
+**Summary:** META @ $614.23 — ACCUMULATE (69% confidence) | Bullish: RSI 25.34 — approaching oversold | Warnings: Bearish news sentiment detected | RSI: 25.34 | P/E: 22.3194
+**Details:**
+Real-time market analysis for META. Auto-generated watchlist task.
