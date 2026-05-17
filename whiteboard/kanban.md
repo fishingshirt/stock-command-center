@@ -30,6 +30,16 @@ Auto-generated research task. Bot: researcher_bot.
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
 
+### Task ID: 20260517-181
+**Subject:** HEAD MANAGER ALERT: Docker heal failed — backend unreachable
+**Assigned Bot:** self_build
+**Priority:** critical
+**Created:** 2026-05-17
+**Details:**
+- Attempted docker compose up -d
+- Backend still not responding on port 8000
+- Manual investigation needed: check docker logs, port conflicts
+
 ## In Progress
 
 _(No tasks in this section.)_
