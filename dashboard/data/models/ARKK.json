@@ -1,0 +1,30 @@
+{
+  "ticker": "ARKK",
+  "timestamp": "2026-05-17T14:16:30.083651+00:00",
+  "current_price": 74.9,
+  "dcf_target": null,
+  "comparable_target": 74.9,
+  "blended_target": 74.9,
+  "margin_of_safety_pct": 0,
+  "upside_pct": 0.0,
+  "verdict": "SLIGHTLY_OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 44.874775,
+    "forward_pe": null,
+    "price_to_sales": null,
+    "price_to_book": null,
+    "ev_ebitda": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "sector": "",
+    "sector_median_pe": 22,
+    "implied_pe": null,
+    "implied_ps": null,
+    "implied_pb": null,
+    "free_cash_flow": null,
+    "shares_outstanding": null,
+    "growth_assumed": 0.15,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "PEP",
+  "timestamp": "2026-05-17T14:16:21.950828+00:00",
+  "current_price": 149.12,
+  "dcf_target": 245.82,
+  "comparable_target": 99.41,
+  "blended_target": 172.62,
+  "margin_of_safety_pct": 13.61,
+  "upside_pct": 15.76,
+  "verdict": "FAIRLY_VALUED",
+  "valuation_inputs": {
+    "trailing_pe": 23.409733,
+    "forward_pe": 16.301792,
+    "price_to_sales": 2.1355722,
+    "price_to_book": 9.540016,
+    "ev_ebitda": 13.151,
+    "eps_ttm": 6.37,
+    "eps_forward": 9.14746,
+    "sector": "Consumer Defensive",
+    "sector_median_pe": 20,
+    "implied_pe": 127.4,
+    "implied_ps": 139.57,
+    "implied_pb": 31.26,
+    "free_cash_flow": 8746250240,
+    "shares_outstanding": 1366768315,
+    "growth_assumed": 0.278,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

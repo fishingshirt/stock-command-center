@@ -1,0 +1,30 @@
+{
+  "ticker": "KO",
+  "timestamp": "2026-05-17T14:16:13.487870+00:00",
+  "current_price": 80.82,
+  "dcf_target": 14.67,
+  "comparable_target": 34.05,
+  "blended_target": 24.36,
+  "margin_of_safety_pct": 0,
+  "upside_pct": -69.86,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 25.415094,
+    "forward_pe": 23.199938,
+    "price_to_sales": 7.055568,
+    "price_to_book": 10.340327,
+    "ev_ebitda": 22.773,
+    "eps_ttm": 3.18,
+    "eps_forward": 3.48363,
+    "sector": "Consumer Defensive",
+    "sector_median_pe": 20,
+    "implied_pe": 63.6,
+    "implied_ps": 22.91,
+    "implied_pb": 15.63,
+    "free_cash_flow": 3124250112,
+    "shares_outstanding": 4302482418,
+    "growth_assumed": 0.182,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

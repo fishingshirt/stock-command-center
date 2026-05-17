@@ -1,0 +1,30 @@
+{
+  "ticker": "SBUX",
+  "timestamp": "2026-05-17T14:15:56.837385+00:00",
+  "current_price": 106.82,
+  "dcf_target": null,
+  "comparable_target": 39.77,
+  "blended_target": 39.77,
+  "margin_of_safety_pct": 0,
+  "upside_pct": -62.77,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 81.53817,
+    "forward_pe": 35.293827,
+    "price_to_sales": 3.1643357,
+    "price_to_book": -14.378114,
+    "ev_ebitda": 26.774,
+    "eps_ttm": 1.31,
+    "eps_forward": 3.02645,
+    "sector": "Consumer Cyclical",
+    "sector_median_pe": 22,
+    "implied_pe": 28.82,
+    "implied_ps": 50.72,
+    "implied_pb": null,
+    "free_cash_flow": -1304087552,
+    "shares_outstanding": 1139700000,
+    "growth_assumed": 0.326,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

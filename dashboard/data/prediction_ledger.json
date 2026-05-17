@@ -9809,6 +9809,61 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SBUX",
+      "recommendation": "HOLD",
+      "confidence": 52,
+      "price_at_predict": 106.82,
+      "timestamp": "2026-05-17T14:15:55.621658+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "F",
+      "recommendation": "BUY",
+      "confidence": 85,
+      "price_at_predict": 13.4,
+      "timestamp": "2026-05-17T14:16:03.528731+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "KO",
+      "recommendation": "ACCUMULATE",
+      "confidence": 63,
+      "price_at_predict": 80.82,
+      "timestamp": "2026-05-17T14:16:12.207329+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "PEP",
+      "recommendation": "BUY",
+      "confidence": 82,
+      "price_at_predict": 149.12,
+      "timestamp": "2026-05-17T14:16:20.765456+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "ARKK",
+      "recommendation": "REDUCE",
+      "confidence": 59,
+      "price_at_predict": 74.9,
+      "timestamp": "2026-05-17T14:16:28.948443+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

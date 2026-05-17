@@ -1,0 +1,56 @@
+{
+  "ticker": "PEP",
+  "analyzed_at": "2026-05-17T14:16:24.517124+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
+    {
+      "date": "2026-07-16",
+      "eps_estimate": 2.23,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
+    },
+    {
+      "date": "2026-04-16",
+      "eps_estimate": 1.55,
+      "reported_eps": 1.61,
+      "surprise_pct": 3.75
+    },
+    {
+      "date": "2026-02-03",
+      "eps_estimate": 2.24,
+      "reported_eps": 2.26,
+      "surprise_pct": 1.02
+    },
+    {
+      "date": "2025-10-09",
+      "eps_estimate": 2.26,
+      "reported_eps": 2.29,
+      "surprise_pct": 1.33
+    },
+    {
+      "date": "2025-07-17",
+      "eps_estimate": 2.03,
+      "reported_eps": 2.12,
+      "surprise_pct": 4.48
+    },
+    {
+      "date": "2025-04-24",
+      "eps_estimate": 1.5,
+      "reported_eps": 1.33,
+      "surprise_pct": -11.04
+    }
+  ],
+  "quarterly_history": [],
+  "pe_trailing": 23.409733,
+  "pe_forward": 16.301792,
+  "peg_ratio": 1.61,
+  "eps_ttm": 6.37,
+  "eps_forward": 9.14746,
+  "revenue_growth": 0.085,
+  "earnings_growth": 0.278,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 30,
+  "verdict": "Mixed earnings signals"
+}

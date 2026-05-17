@@ -1,0 +1,162 @@
+{
+  "task_id": "20260517-247",
+  "subject": "SBUX analysis",
+  "ticker": "SBUX",
+  "timestamp": "2026-05-17T14:15:55.502611+00:00",
+  "recommendation": "HOLD",
+  "confidence": 52,
+  "summary": "SBUX @ $106.82 \u2014 HOLD (52% confidence) | Warnings: RSI 75.61 \u2014 possible reversal risk; High P/E 81.53817x \u2014 growth expectations priced in | RSI: 75.61 | P/E: 81.53817 | Strategy: GROWTH",
+  "signal_score": 0.1,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "SBUX",
+    "current_price": 106.82,
+    "previous_close": 105.78,
+    "day_change_pct": 0.98,
+    "sma_20": 102.6,
+    "sma_50": 97.98,
+    "sma_200": 89.53,
+    "rsi_14": 75.61,
+    "52_week_high": 108.88,
+    "52_week_low": 77.99,
+    "price_vs_52w_pct": 93.3,
+    "volume_surge": 0.98,
+    "avg_volume": 7707169,
+    "market_cap": 121737052160,
+    "pe_trailing": 81.53817,
+    "pe_forward": 35.293827,
+    "peg_ratio": 1.8,
+    "eps_ttm": 1.31,
+    "eps_forward": 3.02645,
+    "revenue_growth": 0.088,
+    "earnings_growth": 0.326,
+    "profit_margin": 0.03888,
+    "short_ratio": 5.92,
+    "beta": 1.009,
+    "return_5d_pct": 1.61,
+    "return_1mo_pct": 8.59,
+    "return_3mo_pct": 12.64,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +8.59%"
+    },
+    {
+      "name": "rsi",
+      "score": -2.0,
+      "note": "RSI extremely overbought 75.61"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (102.6)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (89.53) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -1.5,
+      "note": "High trailing P/E 81.53817x \u2014 stretched valuation"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 35.293827x < trailing 81.53817x (expected growth)"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 33% YoY"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (93.3% of range)"
+    }
+  ],
+  "reasons": [],
+  "warnings": [
+    "RSI 75.61 \u2014 possible reversal risk",
+    "High P/E 81.53817x \u2014 growth expectations priced in",
+    "Price at 93.3% of 52-week range \u2014 limited upside"
+  ],
+  "sentiment": {
+    "score": 0,
+    "label": "NEUTRAL",
+    "bullish": 0,
+    "bearish": 0
+  },
+  "news": [
+    {
+      "title": "Is There Now An Opportunity In Starbucks Corporation (NASDAQ:SBUX)?",
+      "published": "Sun, 17 May 2026 11:00:08 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/now-opportunity-starbucks-corporation-nasdaq-110008260.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "1 Chip Stock Making Bold Plans",
+      "published": "Sat, 16 May 2026 19:59:46 +0000",
+      "url": "https://www.fool.com/investing/2026/05/16/1-chip-stock-making-bold-plans/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "A $5 Coffee Habit Compounded 40,000% Yet Wall Street Still Cheers the Layoffs",
+      "published": "Sat, 16 May 2026 13:49:07 +0000",
+      "url": "https://beincrypto.com/wall-street-cheers-starbucks-layoffs/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Starbucks to Cut 300 Corporate Jobs as Turnaround Efforts Continue",
+      "published": "Sat, 16 May 2026 10:04:17 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-cut-300-corporate-jobs-100417887.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Starbucks to open first corporate office in India for tech expansion",
+      "published": "Sat, 16 May 2026 05:55:39 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/starbucks-open-first-corporate-office-055539634.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/SBUX"
+  ],
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 106.82,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 39.77,
+    "margin_of_safety_pct": 0,
+    "verdict": "OVERVALUED",
+    "upside_pct": -62.77
+  },
+  "earnings": {
+    "catalyst_score": 30,
+    "verdict": "Mixed earnings signals",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "skipped",
+    "reason": "rec=HOLD"
+  },
+  "advisor": {
+    "ticker": "SBUX",
+    "recommendation": "HOLD",
+    "confidence": 52,
+    "strategy": "GROWTH",
+    "reasoning": "## SBUX Investment Thesis\n\n**Recommendation:** HOLD (52% confidence)\n**Strategy:** GROWTH\n**Price:** $106.82\n**Daily Change:** \ud83d\udfe2 +0.98%\n\n**Valuation:** Target $39.77 | Upside -62.77% | MoS 0% | Verdict: OVERVALUED\n\n**Earnings:** Mixed earnings signals (catalyst 30)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Positive 1mo momentum +8.59%\n\u26a0\ufe0f **Rsi:** RSI extremely overbought 75.61\n\u2705 **Sma20:** Price above SMA20 (102.6)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (89.53) \u2014 confirmed uptrend\n\u26a0\ufe0f **Pe:** High trailing P/E 81.53817x \u2014 stretched valuation\n\u2705 **Pe Forward:** Forward P/E 35.293827x < trailing 81.53817x (expected growth)\n\u2705 **Earnings Growth:** Earnings growing 33% YoY\n\n### Risk Factors\n\u26a0\ufe0f RSI 75.61 \u2014 possible reversal risk\n\u26a0\ufe0f High P/E 81.53817x \u2014 growth expectations priced in\n\u26a0\ufe0f Price at 93.3% of 52-week range \u2014 limited upside\n\n### News Sentiment: NEUTRAL (0)\n- Recent headlines:\n  - Is There Now An Opportunity In Starbucks Corporation (NASDAQ:SBUX)?\n  - 1 Chip Stock Making Bold Plans\n  - A $5 Coffee Habit Compounded 40,000% Yet Wall Street Still Cheers the Layoffs\n\n### Key Metrics\n- **Ticker:** SBUX\n- **Price:** $106.82\n- **P/E (trailing):** 81.53817\n- **P/E (forward):** 35.293827\n- **PEG:** 1.8\n- **RSI(14):** 75.61\n- **SMA 20:** 102.6\n- **SMA 50:** 97.98\n- **52W Range:** $77.99 - $108.88\n- **1mo Return:** 8.59%\n- **3mo Return:** 12.64%\n- **Volume Surge:** 0.98\n- **Market Cap:** $121.7B\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T14:15:59.327728+00:00"
+  }
+}
