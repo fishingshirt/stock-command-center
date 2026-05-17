@@ -1,0 +1,179 @@
+{
+  "task_id": "20260517-299",
+  "subject": "AVGO analysis",
+  "ticker": "AVGO",
+  "timestamp": "2026-05-17T15:45:47.133573+00:00",
+  "recommendation": "BUY",
+  "confidence": 83,
+  "summary": "AVGO @ $425.19 \u2014 BUY (83% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 82.721794x \u2014 growth expectations priced in; Price at 92.2% of 52-week range \u2014 limited upside | RSI: 52.52 | P/E: 82.721794 | Strategy: GROWTH",
+  "signal_score": 0.538,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "AVGO",
+    "current_price": 425.19,
+    "previous_close": 439.79,
+    "day_change_pct": -3.32,
+    "sma_20": 418.54,
+    "sma_50": 369.25,
+    "sma_200": 345.83,
+    "rsi_14": 52.52,
+    "52_week_high": 442.36,
+    "52_week_low": 221.6,
+    "price_vs_52w_pct": 92.2,
+    "volume_surge": 0.77,
+    "avg_volume": 23883604,
+    "market_cap": 2013133668352,
+    "pe_trailing": 82.721794,
+    "pe_forward": 23.247448,
+    "peg_ratio": 0.93,
+    "eps_ttm": 5.14,
+    "eps_forward": 18.28975,
+    "revenue_growth": 0.295,
+    "earnings_growth": 0.316,
+    "profit_margin": 0.36571997,
+    "short_ratio": 2.28,
+    "beta": 1.44,
+    "return_5d_pct": -0.76,
+    "return_1mo_pct": 6.4,
+    "return_3mo_pct": 28.13,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +6.4%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +28.13%"
+    },
+    {
+      "name": "day_spike",
+      "score": -0.5,
+      "note": "Big daily drop -3.32%"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (345.83) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -1.5,
+      "note": "High trailing P/E 82.721794x \u2014 stretched valuation"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 23.247448x < trailing 82.721794x (expected growth)"
+    },
+    {
+      "name": "peg",
+      "score": 1.0,
+      "note": "PEG 0.93 < 1.0 \u2014 growth cheap vs price"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.5,
+      "note": "Revenue growing 30% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 32% YoY"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (92.2% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [
+    "High P/E 82.721794x \u2014 growth expectations priced in",
+    "Price at 92.2% of 52-week range \u2014 limited upside"
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 4,
+    "bearish": 0,
+    "total_mentions": 4
+  },
+  "news": [
+    {
+      "title": "Dow Jones Futures: Nvidia Due As Yields, Oil Prices Pressure Rally; What To Do Now",
+      "published": "Sun, 17 May 2026 13:21:09 +0000",
+      "url": "https://finance.yahoo.com/m/fb4e2544-bb05-342b-8de5-a2ec001e3c84/dow-jones-futures%3A-nvidia-due.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "3 Dividend Stocks That Are Quietly Crushing the Market",
+      "published": "Sun, 17 May 2026 09:04:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/17/3-dividend-stocks-that-are-quietly-crushing-the-ma/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is It Too Late to Buy Broadcom Stock?",
+      "published": "Sun, 17 May 2026 03:20:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/16/is-it-too-late-to-buy-broadcom-stock/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "5-star analyst resets Nvidia stock price target ahead of earnings",
+      "published": "Sat, 16 May 2026 19:37:00 +0000",
+      "url": "https://www.thestreet.com/investing/stocks/td-cowen-raises-nvidia-stock-price-target-ahead-of-earnings?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "5-star analysts reset Broadcom stock price target",
+      "published": "Sat, 16 May 2026 17:33:00 +0000",
+      "url": "https://www.thestreet.com/investing/stocks/5-star-analysts-raise-broadcom-stock-price-target?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/AVGO"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 425.19,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 179.72,
+    "margin_of_safety_pct": 0,
+    "verdict": "OVERVALUED",
+    "upside_pct": -57.73
+  },
+  "earnings": {
+    "catalyst_score": 50,
+    "verdict": "Solid earnings trend",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "max_positions",
+    "message": "No rotation candidate"
+  },
+  "advisor": {
+    "ticker": "AVGO",
+    "recommendation": "BUY",
+    "confidence": 83,
+    "strategy": "GROWTH",
+    "reasoning": "## AVGO Investment Thesis\n\n**Recommendation:** BUY (83% confidence)\n**Strategy:** GROWTH\n**Price:** $425.19\n**Daily Change:** \ud83d\udd34 -3.32%\n\n**Valuation:** Target $179.72 | Upside -57.73% | MoS 0% | Verdict: OVERVALUED\n\n**Earnings:** Solid earnings trend (catalyst 50)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Positive 1mo momentum +6.4%\n\u2705 **3Mo Momentum:** Strong 3mo momentum +28.13%\n\u26a0\ufe0f **Day Spike:** Big daily drop -3.32%\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (345.83) \u2014 confirmed uptrend\n\u26a0\ufe0f **Pe:** High trailing P/E 82.721794x \u2014 stretched valuation\n\u2705 **Pe Forward:** Forward P/E 23.247448x < trailing 82.721794x (expected growth)\n\u2705 **Peg:** PEG 0.93 < 1.0 \u2014 growth cheap vs price\n\n### Positive Factors\n\u2705 Bullish news sentiment detected\n\n### Risk Factors\n\u26a0\ufe0f High P/E 82.721794x \u2014 growth expectations priced in\n\u26a0\ufe0f Price at 92.2% of 52-week range \u2014 limited upside\n\n### News Sentiment: BULLISH (100.0)\n- 4 bullish mentions, 0 bearish\n- Recent headlines:\n  - Dow Jones Futures: Nvidia Due As Yields, Oil Prices Pressure Rally; What To Do Now\n  - 3 Dividend Stocks That Are Quietly Crushing the Market\n  - Is It Too Late to Buy Broadcom Stock?\n\n### Key Metrics\n- **Ticker:** AVGO\n- **Price:** $425.19\n- **P/E (trailing):** 82.721794\n- **P/E (forward):** 23.247448\n- **PEG:** 0.93\n- **RSI(14):** 52.52\n- **SMA 20:** 418.54\n- **SMA 50:** 369.25\n- **52W Range:** $221.6 - $442.36\n- **1mo Return:** 6.4%\n- **3mo Return:** 28.13%\n- **Volume Surge:** 0.77\n- **Market Cap:** $2013.1B\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T15:45:53.004497+00:00"
+  }
+}

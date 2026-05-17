@@ -1,36 +1,56 @@
 {
-  "next_earnings_date": "2026-06-12",
-  "earnings_history": [
+  "ticker": "AMD",
+  "analyzed_at": "2026-05-17T15:45:41.899458+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
     {
-      "date": "2026-02-28",
-      "eps_estimate": 4.4,
-      "reported_eps": 4.6,
-      "surprise_pct": 10.1
+      "date": "2026-08-04",
+      "eps_estimate": 1.61,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
     },
     {
-      "date": "2025-11-30",
-      "eps_estimate": 4.1,
-      "reported_eps": 4.3,
-      "surprise_pct": 5.3
+      "date": "2026-05-05",
+      "eps_estimate": 1.29,
+      "reported_eps": 1.37,
+      "surprise_pct": 5.82
     },
     {
-      "date": "2025-08-30",
-      "eps_estimate": 3.8,
-      "reported_eps": 4.0,
-      "surprise_pct": 9.5
+      "date": "2026-02-03",
+      "eps_estimate": 1.32,
+      "reported_eps": 1.53,
+      "surprise_pct": 15.98
+    },
+    {
+      "date": "2025-11-04",
+      "eps_estimate": 0.68,
+      "reported_eps": 0.75,
+      "surprise_pct": 10.04
+    },
+    {
+      "date": "2025-08-05",
+      "eps_estimate": -0.05,
+      "reported_eps": 0.54,
+      "surprise_pct": 1240.2
+    },
+    {
+      "date": "2025-05-06",
+      "eps_estimate": 0.93,
+      "reported_eps": 0.96,
+      "surprise_pct": 2.83
     }
   ],
-  "eps_ttm": 18.4,
-  "eps_forward": 23.92,
-  "revenue_growth": 0.216,
-  "earnings_growth": 0.184,
-  "pe_trailing": 45.67,
-  "pe_forward": 14.92,
-  "peg_ratio": 1.76,
-  "ticker": "AMD",
-  "analyzed_at": "2026-05-15T07:38:41.459581+00:00",
-  "source": "mock_fallback",
-  "surprise_avg_pct": 8.3,
-  "earnings_catalyst_score": 65,
-  "verdict": "Strong earnings momentum"
+  "quarterly_history": [],
+  "pe_trailing": 140.89702,
+  "pe_forward": 32.73839,
+  "peg_ratio": 1.02,
+  "eps_ttm": 3.01,
+  "eps_forward": 12.95421,
+  "revenue_growth": 0.378,
+  "earnings_growth": 0.912,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 50,
+  "verdict": "Solid earnings trend"
 }

@@ -1,0 +1,160 @@
+{
+  "task_id": "20260517-297",
+  "subject": "TSLA analysis",
+  "ticker": "TSLA",
+  "timestamp": "2026-05-17T15:45:27.173507+00:00",
+  "recommendation": "HOLD",
+  "confidence": 51,
+  "summary": "TSLA @ $422.24 \u2014 HOLD (51% confidence) | Warnings: High P/E 383.85452x \u2014 growth expectations priced in | RSI: 66.66 | P/E: 383.85452 | Strategy: GROWTH",
+  "signal_score": 0.059,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "TSLA",
+    "current_price": 422.24,
+    "previous_close": 443.3,
+    "day_change_pct": -4.75,
+    "sma_20": 401.32,
+    "sma_50": 386.78,
+    "sma_200": 407.4,
+    "rsi_14": 66.66,
+    "52_week_high": 498.83,
+    "52_week_low": 273.21,
+    "price_vs_52w_pct": 66.1,
+    "volume_surge": 0.98,
+    "avg_volume": 62541961,
+    "market_cap": 1585816797184,
+    "pe_trailing": 383.85452,
+    "pe_forward": 167.95412,
+    "peg_ratio": 5.81,
+    "eps_ttm": 1.1,
+    "eps_forward": 2.51402,
+    "revenue_growth": 0.158,
+    "earnings_growth": 0.083,
+    "profit_margin": 0.03946,
+    "short_ratio": 1.13,
+    "beta": 1.793,
+    "return_5d_pct": -5.11,
+    "return_1mo_pct": 7.58,
+    "return_3mo_pct": 2.83,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +7.58%"
+    },
+    {
+      "name": "day_spike",
+      "score": -0.5,
+      "note": "Big daily drop -4.75%"
+    },
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 66.66"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (401.32)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "pe",
+      "score": -1.5,
+      "note": "High trailing P/E 383.85452x \u2014 stretched valuation"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 167.95412x < trailing 383.85452x (expected growth)"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 5.81 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.0,
+      "note": "Revenue growing 16% YoY"
+    }
+  ],
+  "reasons": [],
+  "warnings": [
+    "High P/E 383.85452x \u2014 growth expectations priced in"
+  ],
+  "sentiment": {
+    "score": 0,
+    "label": "NEUTRAL",
+    "bullish": 0,
+    "bearish": 0
+  },
+  "news": [
+    {
+      "title": "Why SpaceX Split Its Stock and 2 More Trillion-Dollar Issues",
+      "published": "Sun, 17 May 2026 14:49:00 +0000",
+      "url": "https://finance.yahoo.com/m/1b84b54a-661a-3a5f-b409-773a270a6441/why-spacex-split-its-stock.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Just Raised Its EV Prices. Here\u2019s Why.",
+      "published": "Sun, 17 May 2026 14:27:00 +0000",
+      "url": "https://finance.yahoo.com/m/72e56694-7429-3e23-9d2e-d28b9f7715f1/tesla-just-raised-its-ev.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is a SpaceX-Tesla Merger Elon Musk's Endgame? Here Are 4 Factors Investors Need to Consider.",
+      "published": "Sun, 17 May 2026 11:50:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/17/is-a-spacex-tesla-merger-elon-musks-endgame-here-a/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Tesla Robotaxi Hubs Highlight Autonomy Potential As Australian Scrutiny Builds",
+      "published": "Sun, 17 May 2026 09:08:24 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-robotaxi-hubs-highlight-autonomy-090824913.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Elon Musk Says If We Don't Do Something About Corruption And Waste, 'The Ship Of America Is Going To Sink' \u2014And We're All Going Down With It",
+      "published": "Sat, 16 May 2026 23:02:13 +0000",
+      "url": "https://finance.yahoo.com/economy/policy/articles/elon-musk-says-if-we-don39t-do-something-about-corruption-and-waste-39the-ship-of-america-is-going-to-sink39-and-we39re-all-going-down-with-it-230213252.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/TSLA"
+  ],
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 422.24,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 36.86,
+    "margin_of_safety_pct": 0,
+    "verdict": "OVERVALUED",
+    "upside_pct": -91.27
+  },
+  "earnings": {
+    "catalyst_score": 20,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "skipped",
+    "reason": "rec=HOLD"
+  },
+  "advisor": {
+    "ticker": "TSLA",
+    "recommendation": "HOLD",
+    "confidence": 51,
+    "strategy": "GROWTH",
+    "reasoning": "## TSLA Investment Thesis\n\n**Recommendation:** HOLD (51% confidence)\n**Strategy:** GROWTH\n**Price:** $422.24\n**Daily Change:** \ud83d\udd34 -4.75%\n\n**Valuation:** Target $36.86 | Upside -91.27% | MoS 0% | Verdict: OVERVALUED\n\n**Earnings:** Earnings weakness detected (catalyst 20)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Positive 1mo momentum +7.58%\n\u26a0\ufe0f **Day Spike:** Big daily drop -4.75%\n\u26a0\ufe0f **Rsi:** RSI overbought 66.66\n\u2705 **Sma20:** Price above SMA20 (401.32)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u26a0\ufe0f **Pe:** High trailing P/E 383.85452x \u2014 stretched valuation\n\u2705 **Pe Forward:** Forward P/E 167.95412x < trailing 383.85452x (expected growth)\n\u26a0\ufe0f **Peg:** PEG 5.81 > 2.0 \u2014 expensive growth\n\n### Risk Factors\n\u26a0\ufe0f High P/E 383.85452x \u2014 growth expectations priced in\n\n### News Sentiment: NEUTRAL (0)\n- Recent headlines:\n  - Why SpaceX Split Its Stock and 2 More Trillion-Dollar Issues\n  - Tesla Just Raised Its EV Prices. Here\u2019s Why.\n  - Is a SpaceX-Tesla Merger Elon Musk's Endgame? Here Are 4 Factors Investors Need to Consider.\n\n### Key Metrics\n- **Ticker:** TSLA\n- **Price:** $422.24\n- **P/E (trailing):** 383.85452\n- **P/E (forward):** 167.95412\n- **PEG:** 5.81\n- **RSI(14):** 66.66\n- **SMA 20:** 401.32\n- **SMA 50:** 386.78\n- **52W Range:** $273.21 - $498.83\n- **1mo Return:** 7.58%\n- **3mo Return:** 2.83%\n- **Volume Surge:** 0.98\n- **Market Cap:** $1585.8B\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T15:45:34.028826+00:00"
+  }
+}

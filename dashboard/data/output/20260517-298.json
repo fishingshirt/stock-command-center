@@ -1,0 +1,178 @@
+{
+  "task_id": "20260517-298",
+  "subject": "AMD analysis",
+  "ticker": "AMD",
+  "timestamp": "2026-05-17T15:45:37.869672+00:00",
+  "recommendation": "BUY",
+  "confidence": 83,
+  "summary": "AMD @ $424.1 \u2014 BUY (83% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 140.89702x \u2014 growth expectations priced in | RSI: 67.62 | P/E: 140.89702 | Strategy: MOMENTUM",
+  "signal_score": 0.538,
+  "strategy": "MOMENTUM",
+  "key_metrics": {
+    "ticker": "AMD",
+    "current_price": 424.1,
+    "previous_close": 449.7,
+    "day_change_pct": -5.69,
+    "sma_20": 371.71,
+    "sma_50": 279.21,
+    "sma_200": 224.19,
+    "rsi_14": 67.62,
+    "52_week_high": 469.22,
+    "52_week_low": 107.67,
+    "price_vs_52w_pct": 87.5,
+    "volume_surge": 0.88,
+    "avg_volume": 38885459,
+    "market_cap": 691537707008,
+    "pe_trailing": 140.89702,
+    "pe_forward": 32.73839,
+    "peg_ratio": 1.02,
+    "eps_ttm": 3.01,
+    "eps_forward": 12.95421,
+    "revenue_growth": 0.378,
+    "earnings_growth": 0.912,
+    "profit_margin": 0.13374,
+    "short_ratio": 0.9,
+    "beta": 2.399,
+    "return_5d_pct": -7.56,
+    "return_1mo_pct": 54.25,
+    "return_3mo_pct": 108.83,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.5,
+      "note": "Strong 1mo momentum +54.25%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +108.83%"
+    },
+    {
+      "name": "day_spike",
+      "score": -0.5,
+      "note": "Big daily drop -5.69%"
+    },
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 67.62"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (371.71)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (224.19) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -1.5,
+      "note": "High trailing P/E 140.89702x \u2014 stretched valuation"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 32.73839x < trailing 140.89702x (expected growth)"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.5,
+      "note": "Revenue growing 38% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 91% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [
+    "High P/E 140.89702x \u2014 growth expectations priced in"
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 3,
+    "bearish": 0,
+    "total_mentions": 3
+  },
+  "news": [
+    {
+      "title": "Totem Point Dumps 155,000 Bill Holdings (BILL) Shares Worth $6.9 Million",
+      "published": "Sun, 17 May 2026 14:00:18 +0000",
+      "url": "https://www.fool.com/coverage/filings/2026/05/17/totem-point-dumps-155-000-bill-holdings-bill-shares-worth-usd6-9-million/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "5 big analyst AI moves: PT hikes for Samsung and SK Hynix, AMD downgraded",
+      "published": "Sun, 17 May 2026 09:30:03 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-big-analyst-ai-moves-093003635.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Analyst Predicts Nvidia Stock Should Be 42% Higher",
+      "published": "Sun, 17 May 2026 00:50:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/16/analyst-predicts-nvidia-stock-should-be-42-higher/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "1 Chip Stock Making Bold Plans",
+      "published": "Sat, 16 May 2026 19:59:46 +0000",
+      "url": "https://www.fool.com/investing/2026/05/16/1-chip-stock-making-bold-plans/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "5-star analyst resets Nvidia stock price target ahead of earnings",
+      "published": "Sat, 16 May 2026 19:37:00 +0000",
+      "url": "https://www.thestreet.com/investing/stocks/td-cowen-raises-nvidia-stock-price-target-ahead-of-earnings?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/AMD"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 424.1,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 723.03,
+    "margin_of_safety_pct": 41.34,
+    "verdict": "STRONG_BUY",
+    "upside_pct": 70.49
+  },
+  "earnings": {
+    "catalyst_score": 50,
+    "verdict": "Solid earnings trend",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "max_positions",
+    "message": "No rotation candidate"
+  },
+  "advisor": {
+    "ticker": "AMD",
+    "recommendation": "BUY",
+    "confidence": 83,
+    "strategy": "MOMENTUM",
+    "reasoning": "## AMD Investment Thesis\n\n**Recommendation:** BUY (83% confidence)\n**Strategy:** MOMENTUM\n**Price:** $424.1\n**Daily Change:** \ud83d\udd34 -5.69%\n\n**Valuation:** Target $723.03 | Upside 70.49% | MoS 41.34% | Verdict: STRONG_BUY\n\n**Earnings:** Solid earnings trend (catalyst 50)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Strong 1mo momentum +54.25%\n\u2705 **3Mo Momentum:** Strong 3mo momentum +108.83%\n\u26a0\ufe0f **Day Spike:** Big daily drop -5.69%\n\u26a0\ufe0f **Rsi:** RSI overbought 67.62\n\u2705 **Sma20:** Price above SMA20 (371.71)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (224.19) \u2014 confirmed uptrend\n\u26a0\ufe0f **Pe:** High trailing P/E 140.89702x \u2014 stretched valuation\n\n### Positive Factors\n\u2705 Bullish news sentiment detected\n\n### Risk Factors\n\u26a0\ufe0f High P/E 140.89702x \u2014 growth expectations priced in\n\n### News Sentiment: BULLISH (100.0)\n- 3 bullish mentions, 0 bearish\n- Recent headlines:\n  - Totem Point Dumps 155,000 Bill Holdings (BILL) Shares Worth $6.9 Million\n  - 5 big analyst AI moves: PT hikes for Samsung and SK Hynix, AMD downgraded\n  - Analyst Predicts Nvidia Stock Should Be 42% Higher\n\n### Key Metrics\n- **Ticker:** AMD\n- **Price:** $424.1\n- **P/E (trailing):** 140.89702\n- **P/E (forward):** 32.73839\n- **PEG:** 1.02\n- **RSI(14):** 67.62\n- **SMA 20:** 371.71\n- **SMA 50:** 279.21\n- **52W Range:** $107.67 - $469.22\n- **1mo Return:** 54.25%\n- **3mo Return:** 108.83%\n- **Volume Surge:** 0.88\n- **Market Cap:** $691.5B\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T15:45:43.190764+00:00"
+  }
+}

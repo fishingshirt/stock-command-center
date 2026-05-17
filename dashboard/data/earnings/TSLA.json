@@ -1,36 +1,56 @@
 {
-  "next_earnings_date": "2026-06-20",
-  "earnings_history": [
+  "ticker": "TSLA",
+  "analyzed_at": "2026-05-17T15:45:30.711272+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
     {
-      "date": "2026-02-28",
-      "eps_estimate": 7.66,
-      "reported_eps": 7.86,
-      "surprise_pct": -3.9
+      "date": "2026-07-22",
+      "eps_estimate": 0.45,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
     },
     {
-      "date": "2025-11-30",
-      "eps_estimate": 7.36,
-      "reported_eps": 7.56,
-      "surprise_pct": -7.4
+      "date": "2026-04-22",
+      "eps_estimate": 0.2,
+      "reported_eps": 0.13,
+      "surprise_pct": -36.54
     },
     {
-      "date": "2025-08-30",
-      "eps_estimate": 7.06,
-      "reported_eps": 7.26,
-      "surprise_pct": -3.4
+      "date": "2026-01-28",
+      "eps_estimate": 0.34,
+      "reported_eps": 0.24,
+      "surprise_pct": -29.32
+    },
+    {
+      "date": "2025-10-22",
+      "eps_estimate": 0.44,
+      "reported_eps": 0.39,
+      "surprise_pct": -12.16
+    },
+    {
+      "date": "2025-07-23",
+      "eps_estimate": 0.3,
+      "reported_eps": 0.33,
+      "surprise_pct": 10.49
+    },
+    {
+      "date": "2025-04-22",
+      "eps_estimate": 0.35,
+      "reported_eps": 0.12,
+      "surprise_pct": -65.25
     }
   ],
-  "eps_ttm": 31.44,
-  "eps_forward": 40.87,
-  "revenue_growth": 0.237,
-  "earnings_growth": 0.028,
-  "pe_trailing": 28.08,
-  "pe_forward": 20.79,
-  "peg_ratio": 1.75,
-  "ticker": "TSLA",
-  "analyzed_at": "2026-05-15T07:15:12.147607+00:00",
-  "source": "mock_fallback",
-  "surprise_avg_pct": -4.9,
-  "earnings_catalyst_score": 35,
-  "verdict": "Mixed earnings signals"
+  "quarterly_history": [],
+  "pe_trailing": 383.85452,
+  "pe_forward": 167.95412,
+  "peg_ratio": 5.81,
+  "eps_ttm": 1.1,
+  "eps_forward": 2.51402,
+  "revenue_growth": 0.158,
+  "earnings_growth": 0.083,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 20,
+  "verdict": "Earnings weakness detected"
 }
