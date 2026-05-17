@@ -48,14 +48,7 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-303
-**Subject:** XOM analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T16:01:10.647577+00:00
-**Details:**
-Real-time market analysis for XOM. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -1036,3 +1029,15 @@ Real-time market analysis for INTC. Auto-generated watchlist task.
 **Summary:** JPM @ $297.81 — BUY (87% confidence) | Bullish: RSI 34.99 — approaching oversold; Trailing P/E 14.262932x — below market average | RSI: 34.99 | P/E: 14.262932 |
 **Details:**
 Real-time market analysis for JPM. Auto-generated watchlist task.
+
+### Task ID: 20260517-303
+**Subject:** XOM analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T16:01:10.647577+00:00
+**Completed At:** 2026-05-17T16:01:18.861003+00:00
+**Result:** dashboard/data/output/20260517-303.json
+**Summary:** XOM @ $157.92 — ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | RSI: 65.32 | P/E: 26.585857 | Strategy: GROWTH
+**Details:**
+Real-time market analysis for XOM. Auto-generated watchlist task.
