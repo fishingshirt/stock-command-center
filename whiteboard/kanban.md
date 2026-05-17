@@ -6,21 +6,22 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
+_(No tasks in this section.)_
+
+## In Progress
+
 ### Task ID: 20260517-029
 **Subject:** Auto: Improve researcher_bot model
 **Assigned Bot:** self_build
 **Priority:** high
 **Created:** 2026-05-17
+**Started At:** 2026-05-17T01:45:46.224887+00:00
 **Details:**
 - Bot: researcher_bot
 - Accuracy: 31.1% over last 1087 predictions
 - Target: improve to >= 40.0%
 - Suggestion: review data sources and scoring weights
 - Created via feedback_loop auto-improve
-
-## In Progress
-
-_(No tasks in this section.)_
 
 ## Done
 
