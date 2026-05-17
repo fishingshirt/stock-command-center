@@ -126,10 +126,24 @@ def execute_trade(result: dict) -> dict:
 # ── Task helpers ───────────────────────────────────────────────────
 
 WATCHLIST = [
+    # ETFs
     "SPY", "QQQ", "IWM", "VTI", "VOO", "VGT", "XLK", "XLF", "XLE", "XLI",
+    "SCHG", "SPYG", "MTUM", "SPMO", "SCHK", "SPYM", "VOOG",
+    # Mega-cap tech
     "NVDA", "AAPL", "MSFT", "GOOGL", "META", "AMZN", "TSLA", "AMD", "AVGO", "CRM",
-    "JPM", "BAC", "GS", "XOM", "CVX", "UNH", "JNJ", "LLY", "PFE",
-    "DIS", "NFLX", "PYPL", "UBER", "COIN", "PLTR", "ARKK",
+    # Large-cap
+    "INTC", "ADBE", "NFLX", "PYPL", "UBER", "COIN", "PLTR",
+    # Banks / Finance
+    "JPM", "BAC", "GS", "WFC",
+    # Energy / Industrials
+    "XOM", "CVX", "BA", "F", "GE",
+    # Healthcare
+    "UNH", "JNJ", "LLY", "PFE",
+    # Consumer
+    "DIS", "NKE", "COST", "WMT", "HD", "LOW", "SBUX", "KO", "PEP",
+    # Others
+    "ARKK",
+    # Crypto
     "BTC-USD", "ETH-USD", "SOL-USD",
 ]
 

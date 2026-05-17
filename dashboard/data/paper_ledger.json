@@ -1,5 +1,5 @@
 {
-  "cash": 74473.19219500001,
+  "cash": 48861.86987500001,
   "initial_capital": 100000.0,
   "positions": {
     "MTUM": {
@@ -31,6 +31,46 @@
       "reasoning": "SPY \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.76646, RSI: 69.55, Price: $739.12.",
       "task_id": "20260515-441",
       "opened_at": "2026-05-15T20:00:56.628828+00:00"
+    },
+    "QQQ": {
+      "ticker": "QQQ",
+      "shares": 10.505,
+      "entry_price": 708.93,
+      "last_price": 708.93,
+      "confidence": 80,
+      "reasoning": "QQQ @ $708.93 \u2014 BUY (80% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 93.9% of 52-week range \u2014 limited upside | RSI: 73.26 | P/E: 34.582596 | Strategy: GROWTH",
+      "task_id": "20260517-212",
+      "opened_at": "2026-05-17T12:58:36.565439+00:00"
+    },
+    "IWM": {
+      "ticker": "IWM",
+      "shares": 24.1448,
+      "entry_price": 277.6,
+      "last_price": 277.6,
+      "confidence": 95,
+      "reasoning": "IWM @ $277.6 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 50.55 | P/E: 19.102314 | Strategy: VALUE",
+      "task_id": "20260517-213",
+      "opened_at": "2026-05-17T12:58:43.952523+00:00"
+    },
+    "XLK": {
+      "ticker": "XLK",
+      "shares": 34.224,
+      "entry_price": 176.26,
+      "last_price": 176.26,
+      "confidence": 65,
+      "reasoning": "XLK @ $176.26 \u2014 ACCUMULATE (65% confidence) | Warnings: Price at 94.1% of 52-week range \u2014 limited upside; Bearish news sentiment detected | RSI: 73.31 | P/E: 38.625595 | Strategy: MOMENTUM",
+      "task_id": "20260517-215",
+      "opened_at": "2026-05-17T12:58:59.023042+00:00"
+    },
+    "XLF": {
+      "ticker": "XLF",
+      "shares": 106.2445,
+      "entry_price": 51.1,
+      "last_price": 51.1,
+      "confidence": 95,
+      "reasoning": "XLF @ $51.1 \u2014 BUY (95% confidence) | RSI: 39.14 | P/E: 16.482962 | Strategy: VALUE",
+      "task_id": "20260517-216",
+      "opened_at": "2026-05-17T12:59:06.731806+00:00"
     }
   },
   "history": [
@@ -92,5 +132,5 @@
     }
   ],
   "created_at": "2026-05-15T06:50:00+00:00",
-  "updated_at": "2026-05-17T12:49:35.019615+00:00"
+  "updated_at": "2026-05-17T12:59:06.731816+00:00"
 }

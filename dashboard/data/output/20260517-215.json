@@ -1,0 +1,155 @@
+{
+  "task_id": "20260517-215",
+  "subject": "XLK analysis",
+  "ticker": "XLK",
+  "timestamp": "2026-05-17T12:58:55.752495+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 65,
+  "summary": "XLK @ $176.26 \u2014 ACCUMULATE (65% confidence) | Warnings: Price at 94.1% of 52-week range \u2014 limited upside; Bearish news sentiment detected | RSI: 73.31 | P/E: 38.625595 | Strategy: MOMENTUM",
+  "signal_score": 0.222,
+  "strategy": "MOMENTUM",
+  "key_metrics": {
+    "ticker": "XLK",
+    "current_price": 176.26,
+    "previous_close": 179.5,
+    "day_change_pct": -1.81,
+    "sma_20": 165.55,
+    "sma_50": 149.71,
+    "sma_200": 142.87,
+    "rsi_14": 73.31,
+    "52_week_high": 180.22,
+    "52_week_low": 112.55,
+    "price_vs_52w_pct": 94.1,
+    "volume_surge": 0.85,
+    "avg_volume": 14573433,
+    "market_cap": null,
+    "pe_trailing": 38.625595,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -0.91,
+    "return_1mo_pct": 14.04,
+    "return_3mo_pct": 26.53,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.5,
+      "note": "Strong 1mo momentum +14.04%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +26.53%"
+    },
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 73.31"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (165.55)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (142.87) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 38.625595x"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (94.1% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": -1.0,
+      "note": "Bearish news sentiment (-50.0)"
+    }
+  ],
+  "reasons": [],
+  "warnings": [
+    "Price at 94.1% of 52-week range \u2014 limited upside",
+    "Bearish news sentiment detected"
+  ],
+  "sentiment": {
+    "score": -50.0,
+    "label": "BEARISH",
+    "bullish": 1,
+    "bearish": 3,
+    "total_mentions": 4
+  },
+  "news": [
+    {
+      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "published": "Fri, 15 May 2026 19:48:23 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-194823391.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Sector Update: Tech Stocks Fall in Afternoon Trading",
+      "published": "Fri, 15 May 2026 17:50:12 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/sector-tech-stocks-fall-afternoon-175012746.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Exchange-Traded Funds Lower as US Equities Drop After Midday",
+      "published": "Fri, 15 May 2026 17:07:16 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-us-170716522.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday Amid Oil Surge, Higher Yields, Geopolitical Uncertainty",
+      "published": "Fri, 15 May 2026 13:14:14 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131414580.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "published": "Thu, 14 May 2026 19:46:47 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-194647658.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/XLK"
+  ],
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 176.26,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 298.71,
+    "margin_of_safety_pct": 40.99,
+    "verdict": "STRONG_BUY",
+    "upside_pct": 69.47
+  },
+  "earnings": {
+    "catalyst_score": 0,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "FLAT",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "ok",
+    "message": "Bought 34.224 XLK @ $176.26",
+    "cost": 6032.32
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "VTI",
+  "timestamp": "2026-05-17T12:58:49.390520+00:00",
+  "current_price": 362.74,
+  "dcf_target": null,
+  "comparable_target": 279.01,
+  "blended_target": 279.01,
+  "margin_of_safety_pct": 0,
+  "upside_pct": -23.08,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 28.37391,
+    "forward_pe": null,
+    "price_to_sales": null,
+    "price_to_book": 2.600175,
+    "ev_ebitda": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "sector": "",
+    "sector_median_pe": 22,
+    "implied_pe": null,
+    "implied_ps": null,
+    "implied_pb": 279.01,
+    "free_cash_flow": null,
+    "shares_outstanding": 743262976,
+    "growth_assumed": 0.15,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

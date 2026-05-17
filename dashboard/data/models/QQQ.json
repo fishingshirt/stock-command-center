@@ -1,0 +1,30 @@
+{
+  "ticker": "QQQ",
+  "timestamp": "2026-05-17T12:58:34.383174+00:00",
+  "current_price": 708.93,
+  "dcf_target": null,
+  "comparable_target": 715.55,
+  "blended_target": 715.55,
+  "margin_of_safety_pct": 0.93,
+  "upside_pct": 0.93,
+  "verdict": "SLIGHTLY_OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 34.582596,
+    "forward_pe": null,
+    "price_to_sales": null,
+    "price_to_book": 1.9815023,
+    "ev_ebitda": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "sector": "",
+    "sector_median_pe": 22,
+    "implied_pe": null,
+    "implied_ps": null,
+    "implied_pb": 715.55,
+    "free_cash_flow": null,
+    "shares_outstanding": 393100000,
+    "growth_assumed": 0.15,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

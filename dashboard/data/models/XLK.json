@@ -1,0 +1,30 @@
+{
+  "ticker": "XLK",
+  "timestamp": "2026-05-17T12:58:57.063275+00:00",
+  "current_price": 176.26,
+  "dcf_target": null,
+  "comparable_target": 298.71,
+  "blended_target": 298.71,
+  "margin_of_safety_pct": 40.99,
+  "upside_pct": 69.47,
+  "verdict": "STRONG_BUY",
+  "valuation_inputs": {
+    "trailing_pe": 38.625595,
+    "forward_pe": null,
+    "price_to_sales": null,
+    "price_to_book": 1.1801413,
+    "ev_ebitda": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "sector": "",
+    "sector_median_pe": 22,
+    "implied_pe": null,
+    "implied_ps": null,
+    "implied_pb": 298.71,
+    "free_cash_flow": null,
+    "shares_outstanding": 272056000,
+    "growth_assumed": 0.15,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

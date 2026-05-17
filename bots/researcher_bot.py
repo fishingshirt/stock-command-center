@@ -523,8 +523,21 @@ def run(args) -> bool:
     ticker = args.ticker if hasattr(args, 'ticker') and args.ticker else None
     if not ticker:
         # Try extract from subject
-        m = re.search(r'\b([A-Z]{2,5}(?:-USD)?)\b', getattr(args, 'subject', '') or '')
-        ticker = m.group(1) if m else "SPY"
+        m = re.search(
+            r'\b(?:SPY|QQQ|IWM|VTI|VOO|VGT|XLK|XLF|XLE|XLI|SCHG|SPYG|MTUM|SPMO|SCHK|SPYM|VOOG|'
+            r'NVDA|AAPL|MSFT|GOOGL|META|AMZN|TSLA|AMD|AVGO|CRM|INTC|ADBE|NFLX|'
+            r'JPM|BAC|GS|XOM|CVX|UNH|JNJ|LLY|PFE|DIS|PYPL|UBER|COIN|PLTR|ARKK|'
+            r'F|V|T|BA|KO|PEP|C|WFC|WMT|HD|LOW|NKE|COST|SBUX|'
+            r'BTC-USD|ETH-USD|SOL-USD)\b',
+            getattr(args, 'subject', '') or '', re.IGNORECASE)
+        ticker = m.group(0).upper() if m else None
+        if not ticker:
+            # Single letter tickers as last resort
+            m2 = re.search(r'\b([A-Z])\b', getattr(args, 'subject', '') or '')
+            if m2 and m2.group(1) in ('V','F','T','C','X'):
+                ticker = m2.group(1)
+            else:
+                ticker = "SPY"
 
     result = analyze_ticker(
         ticker=ticker,
