@@ -6,17 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260517-227
-**Subject:** Auto: S&P 500 top movers sentiment scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Details:**
-- Identify top 5 daily movers
-- Fundamentals check
-- News sentiment
-- Investment recommendation
-
 ### Task ID: 20260517-228
 **Subject:** PLTR analysis
 **Assigned Bot:** researcher_bot
@@ -59,7 +48,17 @@ Real-time market analysis for CVX. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260517-227
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:15:57.028632+00:00
+**Details:**
+- Identify top 5 daily movers
+- Fundamentals check
+- News sentiment
+- Investment recommendation
 
 ## Done
 
