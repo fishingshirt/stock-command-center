@@ -19,14 +19,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260517-226
-**Subject:** COIN analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T13:12:03.145338+00:00
-**Details:**
-Real-time market analysis for COIN. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13307,3 +13300,15 @@ Real-time market analysis for PYPL. Auto-generated watchlist task.
 **Summary:** UBER @ $75.09 — HOLD (50% confidence) | Bullish: Bullish news sentiment detected | RSI: 46.77 | P/E: 18.632753 | Strategy: GROWTH
 **Details:**
 Real-time market analysis for UBER. Auto-generated watchlist task.
+
+### Task ID: 20260517-226
+**Subject:** COIN analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:12:03.145338+00:00
+**Completed At:** 2026-05-17T13:12:10.177221+00:00
+**Result:** dashboard/data/output/20260517-226.json
+**Summary:** COIN @ $195.43 — REDUCE (58% confidence) | Warnings: High P/E 71.84926x — growth expectations priced in | RSI: 49.44 | P/E: 71.84926 | Strategy: GROWTH
+**Details:**
+Real-time market analysis for COIN. Auto-generated watchlist task.
