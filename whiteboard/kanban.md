@@ -40,14 +40,7 @@ Real-time market analysis for XLF. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-212
-**Subject:** QQQ analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T12:58:29.699419+00:00
-**Details:**
-Real-time market analysis for QQQ. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13160,3 +13153,15 @@ Auto-generated research task. Bot: researcher_bot.
 - Fundamentals check
 - News sentiment
 - Investment recommendation
+
+### Task ID: 20260517-212
+**Subject:** QQQ analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:58:29.699419+00:00
+**Completed At:** 2026-05-17T12:58:36.565998+00:00
+**Result:** dashboard/data/output/20260517-212.json
+**Summary:** QQQ @ $708.93 — BUY (80% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 93.9% of 52-week range — limited upside | RSI: 73.26 | P/E:
+**Details:**
+Real-time market analysis for QQQ. Auto-generated watchlist task.
