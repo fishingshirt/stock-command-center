@@ -234,13 +234,28 @@ def strategy_leaderboard():
 
 @app.get("/api/holdings")
 def list_holdings():
-    """Return SCC's paper portfolio (company holdings) from the live ledger."""
+    """Return SCC's paper portfolio with live prices."""
+    import json as _json
     ledger_file = REPO_ROOT / "dashboard" / "data" / "paper_ledger.json"
     if not ledger_file.exists():
         return {"name": "SCC Portfolio", "cash": 100000.0, "total_value": 100000.0, "holdings": []}
 
     with open(ledger_file, "r", encoding="utf-8") as f:
-        ledger = json.load(f)
+        ledger = _json.load(f)
+
+    # Refresh prices before reporting
+    try:
+        import yfinance as yf
+        for ticker, pos in ledger.get("positions", {}).items():
+            try:
+                t = yf.Ticker(ticker)
+                hist = t.history(period="5d")
+                if len(hist) > 0:
+                    pos["last_price"] = round(float(hist.Close.iloc[-1]), 4)
+            except Exception:
+                pass
+    except Exception:
+        pass
 
     holdings = []
     total_value = ledger.get("cash", 100000.0)

@@ -64,22 +64,34 @@ def _save_ledger(ledger: dict):
         json.dump(ledger, f, indent=2)
 
 
-def _update_prices(ledger: dict):
-    """Pull live prices for all open positions."""
+def _get_live_price(ticker: str) -> float | None:
+    """Fetch current live price from yfinance."""
     try:
         import yfinance as yf
-        for ticker in list(ledger.get("positions", {}).keys()):
-            try:
-                t = yf.Ticker(ticker)
-                # Use 5d instead of 1d to handle weekends/holidays
-                hist = t.history(period="5d")
-                if len(hist) > 0:
-                    ledger["positions"][ticker]["last_price"] = round(float(hist.Close.iloc[-1]), 4)
-            except Exception:
-                pass
+        t = yf.Ticker(ticker)
+        hist = t.history(period="5d")
+        if len(hist) > 0:
+            return round(float(hist.Close.iloc[-1]), 4)
     except Exception:
         pass
+    return None
+
+
+def _update_prices(ledger: dict):
+    """Pull live prices for all open positions."""
+    for ticker in list(ledger.get("positions", {}).keys()):
+        live = _get_live_price(ticker)
+        if live is not None:
+            ledger["positions"][ticker]["last_price"] = live
     return ledger
+
+
+def _price_sanity_check(entry_price: float, current_price: float, max_pct: float = 25.0) -> bool:
+    """Reject trades where price has moved more than max_pct% from entry in a single session."""
+    if entry_price <= 0 or current_price <= 0:
+        return False
+    move = abs(current_price - entry_price) / entry_price * 100
+    return move <= max_pct
 
 
 def get_stats() -> dict:
@@ -147,6 +159,10 @@ def buy(ticker: str, price: float, confidence: float, reasoning: str, shares: fl
     if len(ledger.get("positions", {})) >= max_positions:
         return {"status": "max_positions", "message": f"Max {max_positions} positions reached"}
 
+    # Sanity check — reject if price is zero/negative or looks completely wrong
+    if price <= 0:
+        return {"status": "invalid", "message": f"Reject buy: invalid price ${price}"}
+
     if shares is None:
         invest = _calc_position_size(ledger["cash"], confidence, base_pct, conviction_scaling)
         shares = round(invest / price, 4) if price > 0 else 0
@@ -177,15 +193,24 @@ def buy(ticker: str, price: float, confidence: float, reasoning: str, shares: fl
 
 
 def sell(ticker: str, price: float, reasoning: str = "", task_id: str = ""):
+    """Sell position at live price. Validates price sanity against entry price."""
     ledger = _load_ledger()
     ticker = ticker.upper()
     pos = ledger.get("positions", {}).pop(ticker, None)
     if not pos:
         return {"status": "no_position", "message": f"No open position for {ticker}"}
 
+    entry_price = pos.get("entry_price", 0)
+    if not _price_sanity_check(entry_price, price):
+        # Reject trade if price looks wildly wrong (e.g. stale ticker confusion)
+        return {
+            "status": "price_rejected",
+            "message": f"Sell price ${price} rejected: >25% move from entry ${entry_price}.",
+        }
+
     proceeds = pos["shares"] * price
-    pnl = proceeds - (pos["shares"] * pos["entry_price"])
-    return_pct = (price - pos["entry_price"]) / pos["entry_price"] * 100 if pos["entry_price"] else 0
+    pnl = proceeds - (pos["shares"] * entry_price)
+    return_pct = (price - entry_price) / entry_price * 100 if entry_price else 0
     hold_seconds = 0
     try:
         opened = datetime.fromisoformat(pos["opened_at"])
@@ -198,7 +223,7 @@ def sell(ticker: str, price: float, reasoning: str = "", task_id: str = ""):
         "ticker": ticker,
         "action": "SELL",
         "shares": pos["shares"],
-        "entry_price": pos["entry_price"],
+        "entry_price": entry_price,
         "exit_price": round(price, 4),
         "pnl": round(pnl, 2),
         "return_pct": round(return_pct, 2),
@@ -246,12 +271,8 @@ def _rotation_check(ledger: dict, ticker: str, confidence: float, price: float, 
 
 
 def auto_trade_from_result(result: dict) -> dict:
-    """Auto-trade: buy on BUY/ACCUMULATE, sell on SELL/REDUCE for held positions."""
-    # Refresh all position prices before making trade decisions
-    ledger = _load_ledger()
-    ledger = _update_prices(ledger)
-    _save_ledger(ledger)
-    
+    """Auto-trade: buy on BUY/ACCUMULATE, sell on SELL/REDUCE for held positions.
+    Always uses freshly-queried live price."""
     settings = _load_settings()
     if not settings.get("auto_trade_enabled", True):
         return {"status": "skipped", "reason": "auto_trade_enabled=false"}
@@ -259,19 +280,21 @@ def auto_trade_from_result(result: dict) -> dict:
     rec = result.get("recommendation", "WATCH")
     conf = result.get("confidence", 0)
     ticker = result.get("ticker", "") or result.get("key_metrics", {}).get("ticker", "")
-    price_raw = result.get("key_metrics", {}).get("current_price") or result.get("paper_trade_price", 0)
-    price = float(price_raw) if price_raw is not None else 0.0
-    if price <= 0:
-        return {"status": "skipped", "reason": "missing price"}
+    if not ticker:
+        return {"status": "skipped", "reason": "no ticker"}
+    ticker = ticker.upper()
+
+    # Always get live price at execution time — never trust stale or test prices
+    live_price = _get_live_price(ticker)
+    if live_price is None:
+        return {"status": "skipped", "reason": "unable to fetch live price"}
 
     task_id = result.get("task_id", "")
     summary = result.get("summary", "")
-    ledger = _load_ledger()  # Reload after price update
+    ledger = _load_ledger()
 
-    # ── SELL logic: if we hold this ticker and it got SELL/REDUCE ──
-    if rec in ("SELL", "REDUCE") and ticker.upper() in ledger.get("positions", {}):
-        # Use live price from ledger for accurate P&L
-        live_price = ledger["positions"][ticker.upper()].get("last_price", price)
+    # ── SELL logic ──
+    if rec in ("SELL", "REDUCE") and ticker in ledger.get("positions", {}):
         return sell(ticker, live_price, summary, task_id)
 
     # ── BUY logic ──
@@ -285,11 +308,9 @@ def auto_trade_from_result(result: dict) -> dict:
         return {"status": "skipped", "reason": f"conf={conf} < threshold={threshold}"}
 
     if len(ledger.get("positions", {})) >= max_pos:
-        # Try rotation
-        return _rotation_check(ledger, ticker, conf, price, summary, task_id)
+        return _rotation_check(ledger, ticker, conf, live_price, summary, task_id)
 
-    return buy(ticker, price, conf, summary, task_id=task_id)
-
+    return buy(ticker, live_price, conf, summary, task_id=task_id)
 
 if __name__ == "__main__":
     import sys
