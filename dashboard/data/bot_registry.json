@@ -4,16 +4,11 @@
       "name": "researcher_bot",
       "expertise": "multi-domain_research",
       "historical_accuracy": 32.6,
-      "total_predictions": 1330,
+      "total_predictions": 1335,
       "correct_predictions": 426,
-      "last_run": "2026-05-17T13:12:06.382812+00:00",
-      "avg_confidence": 72.7,
+      "last_run": "2026-05-17T13:16:33.074051+00:00",
+      "avg_confidence": 73.3,
       "confidence_history": [
-        65,
-        65,
-        65,
-        65,
-        65,
         65,
         65,
         65,
@@ -38,7 +33,12 @@
         50,
         69,
         50,
-        58
+        58,
+        66,
+        50,
+        88,
+        86,
+        52
       ],
       "created_at": "2026-05-13T04:11:59.484242+00:00",
       "last_evaluated": "2026-05-17T12:45:53.381236+00:00"
@@ -110,5 +110,5 @@
       "created_at": "2026-05-13T04:11:59.485236+00:00"
     }
   },
-  "updated_at": "2026-05-17T13:12:06.390830+00:00"
+  "updated_at": "2026-05-17T13:16:33.082147+00:00"
 }

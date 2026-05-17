@@ -9589,6 +9589,61 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPY",
+      "recommendation": "ACCUMULATE",
+      "confidence": 66,
+      "price_at_predict": 739.17,
+      "timestamp": "2026-05-17T13:16:00.346726+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "PLTR",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "price_at_predict": 133.99,
+      "timestamp": "2026-05-17T13:16:07.800777+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "BAC",
+      "recommendation": "BUY",
+      "confidence": 88,
+      "price_at_predict": 49.77,
+      "timestamp": "2026-05-17T13:16:16.104749+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "GS",
+      "recommendation": "BUY",
+      "confidence": 86,
+      "price_at_predict": 948.47,
+      "timestamp": "2026-05-17T13:16:24.667823+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "WFC",
+      "recommendation": "HOLD",
+      "confidence": 52,
+      "price_at_predict": 73.42,
+      "timestamp": "2026-05-17T13:16:33.075235+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

@@ -1,0 +1,56 @@
+{
+  "ticker": "PLTR",
+  "analyzed_at": "2026-05-17T13:16:11.302770+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
+    {
+      "date": "2026-08-03",
+      "eps_estimate": 0.34,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
+    },
+    {
+      "date": "2026-05-04",
+      "eps_estimate": 0.28,
+      "reported_eps": 0.33,
+      "surprise_pct": 18.08
+    },
+    {
+      "date": "2026-02-02",
+      "eps_estimate": 0.23,
+      "reported_eps": 0.25,
+      "surprise_pct": 8.6
+    },
+    {
+      "date": "2025-11-03",
+      "eps_estimate": 0.17,
+      "reported_eps": 0.21,
+      "surprise_pct": 25.46
+    },
+    {
+      "date": "2025-08-04",
+      "eps_estimate": 0.14,
+      "reported_eps": 0.16,
+      "surprise_pct": 15.57
+    },
+    {
+      "date": "2025-05-05",
+      "eps_estimate": 0.13,
+      "reported_eps": 0.13,
+      "surprise_pct": 1.11
+    }
+  ],
+  "quarterly_history": [],
+  "pe_trailing": 152.26137,
+  "pe_forward": 64.897514,
+  "peg_ratio": 1.94,
+  "eps_ttm": 0.88,
+  "eps_forward": 2.06464,
+  "revenue_growth": 0.847,
+  "earnings_growth": 3.25,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 50,
+  "verdict": "Solid earnings trend"
+}

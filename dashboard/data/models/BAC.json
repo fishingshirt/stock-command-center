@@ -1,0 +1,30 @@
+{
+  "ticker": "BAC",
+  "timestamp": "2026-05-17T13:16:17.312898+00:00",
+  "current_price": 49.77,
+  "dcf_target": null,
+  "comparable_target": 60.7,
+  "blended_target": 60.7,
+  "margin_of_safety_pct": 18.01,
+  "upside_pct": 21.96,
+  "verdict": "FAIRLY_VALUED",
+  "valuation_inputs": {
+    "trailing_pe": 12.349875,
+    "forward_pe": 9.870848,
+    "price_to_sales": 3.2228973,
+    "price_to_book": 1.287244,
+    "ev_ebitda": null,
+    "eps_ttm": 4.03,
+    "eps_forward": 5.04212,
+    "sector": "Financial Services",
+    "sector_median_pe": 15,
+    "implied_pe": 60.45,
+    "implied_ps": 44.33,
+    "implied_pb": 77.33,
+    "free_cash_flow": null,
+    "shares_outstanding": 7096590651,
+    "growth_assumed": 0.244,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

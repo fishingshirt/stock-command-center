@@ -1,0 +1,30 @@
+{
+  "ticker": "WFC",
+  "timestamp": "2026-05-17T13:16:34.311273+00:00",
+  "current_price": 73.42,
+  "dcf_target": null,
+  "comparable_target": 93.56,
+  "blended_target": 93.56,
+  "margin_of_safety_pct": 21.53,
+  "upside_pct": 27.43,
+  "verdict": "BUY",
+  "valuation_inputs": {
+    "trailing_pe": 11.347759,
+    "forward_pe": 9.343784,
+    "price_to_sales": 2.7692006,
+    "price_to_book": 1.3802308,
+    "ev_ebitda": null,
+    "eps_ttm": 6.47,
+    "eps_forward": 7.85763,
+    "sector": "Financial Services",
+    "sector_median_pe": 15,
+    "implied_pe": 97.05,
+    "implied_ps": 77.23,
+    "implied_pb": 106.39,
+    "free_cash_flow": null,
+    "shares_outstanding": 3060189494,
+    "growth_assumed": 0.151,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

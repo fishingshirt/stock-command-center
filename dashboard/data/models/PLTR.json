@@ -1,0 +1,30 @@
+{
+  "ticker": "PLTR",
+  "timestamp": "2026-05-17T13:16:08.960116+00:00",
+  "current_price": 133.99,
+  "dcf_target": 11777.45,
+  "comparable_target": 17.15,
+  "blended_target": 5897.3,
+  "margin_of_safety_pct": 97.73,
+  "upside_pct": 4301.3,
+  "verdict": "STRONG_BUY",
+  "valuation_inputs": {
+    "trailing_pe": 152.26137,
+    "forward_pe": 64.897514,
+    "price_to_sales": 61.48644,
+    "price_to_book": 43.3765,
+    "ev_ebitda": 155.336,
+    "eps_ttm": 0.88,
+    "eps_forward": 2.06464,
+    "sector": "Technology",
+    "sector_median_pe": 28,
+    "implied_pe": 24.64,
+    "implied_ps": 17.55,
+    "implied_pb": 9.27,
+    "free_cash_flow": 1752997120,
+    "shares_outstanding": 2296071334,
+    "growth_assumed": 3.25,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

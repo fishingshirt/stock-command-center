@@ -1,0 +1,30 @@
+{
+  "ticker": "GS",
+  "timestamp": "2026-05-17T13:16:25.910927+00:00",
+  "current_price": 948.47,
+  "dcf_target": null,
+  "comparable_target": 710.65,
+  "blended_target": 710.65,
+  "margin_of_safety_pct": 0,
+  "upside_pct": -25.07,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 17.329983,
+    "forward_pe": 14.505174,
+    "price_to_sales": 4.547246,
+    "price_to_book": 2.662215,
+    "ev_ebitda": null,
+    "eps_ttm": 54.73,
+    "eps_forward": 65.38839,
+    "sector": "Financial Services",
+    "sector_median_pe": 15,
+    "implied_pe": 820.95,
+    "implied_ps": 598.47,
+    "implied_pb": 712.54,
+    "free_cash_flow": null,
+    "shares_outstanding": 295007421,
+    "growth_assumed": 0.242,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

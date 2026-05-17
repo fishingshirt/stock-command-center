@@ -1,0 +1,56 @@
+{
+  "ticker": "WFC",
+  "analyzed_at": "2026-05-17T13:16:36.930010+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
+    {
+      "date": "2026-07-14",
+      "eps_estimate": 1.71,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
+    },
+    {
+      "date": "2026-04-14",
+      "eps_estimate": 1.6,
+      "reported_eps": 1.56,
+      "surprise_pct": -2.67
+    },
+    {
+      "date": "2026-01-14",
+      "eps_estimate": 1.67,
+      "reported_eps": 1.62,
+      "surprise_pct": -2.85
+    },
+    {
+      "date": "2025-10-14",
+      "eps_estimate": 1.54,
+      "reported_eps": 1.73,
+      "surprise_pct": 12.32
+    },
+    {
+      "date": "2025-07-15",
+      "eps_estimate": 1.4,
+      "reported_eps": 1.54,
+      "surprise_pct": 10.19
+    },
+    {
+      "date": "2025-04-11",
+      "eps_estimate": 1.22,
+      "reported_eps": 1.28,
+      "surprise_pct": 4.7
+    }
+  ],
+  "quarterly_history": [],
+  "pe_trailing": 11.347759,
+  "pe_forward": 9.343784,
+  "peg_ratio": 1.3,
+  "eps_ttm": 6.47,
+  "eps_forward": 7.85763,
+  "revenue_growth": 0.057,
+  "earnings_growth": 0.151,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 20,
+  "verdict": "Earnings weakness detected"
+}

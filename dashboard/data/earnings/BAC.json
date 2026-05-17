@@ -1,0 +1,56 @@
+{
+  "ticker": "BAC",
+  "analyzed_at": "2026-05-17T13:16:20.041668+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
+    {
+      "date": "2026-07-14",
+      "eps_estimate": 1.09,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
+    },
+    {
+      "date": "2026-04-15",
+      "eps_estimate": 1.02,
+      "reported_eps": 1.11,
+      "surprise_pct": 8.78
+    },
+    {
+      "date": "2026-01-14",
+      "eps_estimate": 0.95,
+      "reported_eps": 0.98,
+      "surprise_pct": 2.69
+    },
+    {
+      "date": "2025-10-15",
+      "eps_estimate": 0.95,
+      "reported_eps": 1.06,
+      "surprise_pct": 11.43
+    },
+    {
+      "date": "2025-07-16",
+      "eps_estimate": 0.86,
+      "reported_eps": 0.89,
+      "surprise_pct": 3.61
+    },
+    {
+      "date": "2025-04-15",
+      "eps_estimate": 0.81,
+      "reported_eps": 0.9,
+      "surprise_pct": 10.74
+    }
+  ],
+  "quarterly_history": [],
+  "pe_trailing": 12.349875,
+  "pe_forward": 9.870848,
+  "peg_ratio": 0.89,
+  "eps_ttm": 4.03,
+  "eps_forward": 5.04212,
+  "revenue_growth": 0.081,
+  "earnings_growth": 0.244,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 20,
+  "verdict": "Earnings weakness detected"
+}

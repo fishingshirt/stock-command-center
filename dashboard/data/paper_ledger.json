@@ -1,17 +1,7 @@
 {
-  "cash": 32934.397840000005,
+  "cash": 36916.659683000005,
   "initial_capital": 100000.0,
   "positions": {
-    "MTUM": {
-      "ticker": "MTUM",
-      "shares": 27.0162,
-      "entry_price": 299.82,
-      "last_price": 298.27,
-      "confidence": 65,
-      "reasoning": "MTUM \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: None, RSI: N/A, Price: $299.82.",
-      "task_id": "20260515-361",
-      "opened_at": "2026-05-15T15:47:34.631225+00:00"
-    },
     "SPMO": {
       "ticker": "SPMO",
       "shares": 63.8133,
@@ -121,6 +111,16 @@
       "reasoning": "PYPL @ $44.41 \u2014 ACCUMULATE (69% confidence) | Bullish: RSI 21.18 \u2014 oversold bounce potential; Trailing P/E 8.332083x \u2014 below market average | RSI: 21.18 | P/E: 8.332083 | Strategy: VALUE",
       "task_id": "20260517-224",
       "opened_at": "2026-05-17T13:11:53.780250+00:00"
+    },
+    "GS": {
+      "ticker": "GS",
+      "shares": 4.2973,
+      "entry_price": 948.47,
+      "last_price": 948.47,
+      "confidence": 86,
+      "reasoning": "GS @ $948.47 \u2014 BUY (86% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 91.0% of 52-week range \u2014 limited upside | RSI: 52.96 | P/E: 17.329983 | Strategy: VALUE",
+      "task_id": "20260517-230",
+      "opened_at": "2026-05-17T13:16:28.472130+00:00"
     }
   },
   "history": [
@@ -193,8 +193,22 @@
       "opened_at": "2026-05-15T20:00:56.628828+00:00",
       "closed_at": "2026-05-17T13:10:36.662873+00:00",
       "task_id": "TEST"
+    },
+    {
+      "ticker": "MTUM",
+      "action": "SELL",
+      "shares": 27.0162,
+      "entry_price": 299.82,
+      "exit_price": 298.27,
+      "pnl": -41.88,
+      "return_pct": -0.52,
+      "hold_seconds": 163733.8,
+      "reasoning": "Rotated out for GS (86% vs 65%)",
+      "opened_at": "2026-05-15T15:47:34.631225+00:00",
+      "closed_at": "2026-05-17T13:16:28.471695+00:00",
+      "task_id": "20260517-230"
     }
   ],
   "created_at": "2026-05-15T06:50:00+00:00",
-  "updated_at": "2026-05-17T13:13:23.735865+00:00"
+  "updated_at": "2026-05-17T13:16:28.472135+00:00"
 }

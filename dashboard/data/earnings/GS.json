@@ -1,0 +1,56 @@
+{
+  "ticker": "GS",
+  "analyzed_at": "2026-05-17T13:16:28.363344+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
+    {
+      "date": "2026-07-14",
+      "eps_estimate": 13.72,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
+    },
+    {
+      "date": "2026-04-13",
+      "eps_estimate": 16.24,
+      "reported_eps": 17.55,
+      "surprise_pct": 8.09
+    },
+    {
+      "date": "2026-01-15",
+      "eps_estimate": 11.76,
+      "reported_eps": 14.01,
+      "surprise_pct": 19.09
+    },
+    {
+      "date": "2025-10-14",
+      "eps_estimate": 11.09,
+      "reported_eps": 12.25,
+      "surprise_pct": 10.49
+    },
+    {
+      "date": "2025-07-16",
+      "eps_estimate": 9.62,
+      "reported_eps": 10.91,
+      "surprise_pct": 13.39
+    },
+    {
+      "date": "2025-04-14",
+      "eps_estimate": 12.29,
+      "reported_eps": 14.12,
+      "surprise_pct": 14.88
+    }
+  ],
+  "quarterly_history": [],
+  "pe_trailing": 17.329983,
+  "pe_forward": 14.505174,
+  "peg_ratio": 1.47,
+  "eps_ttm": 54.73,
+  "eps_forward": 65.38839,
+  "revenue_growth": 0.145,
+  "earnings_growth": 0.242,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 30,
+  "verdict": "Mixed earnings signals"
+}
