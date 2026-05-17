@@ -1,0 +1,163 @@
+{
+  "task_id": "20260517-305",
+  "subject": "QQQ analysis",
+  "ticker": "QQQ",
+  "timestamp": "2026-05-17T16:01:32.250269+00:00",
+  "recommendation": "BUY",
+  "confidence": 80,
+  "summary": "QQQ @ $708.93 \u2014 BUY (80% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 93.9% of 52-week range \u2014 limited upside | RSI: 73.26 | P/E: 34.582596 | Strategy: GROWTH",
+  "signal_score": 0.412,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "QQQ",
+    "current_price": 708.93,
+    "previous_close": 719.79,
+    "day_change_pct": -1.51,
+    "sma_20": 680.36,
+    "sma_50": 631.29,
+    "sma_200": 609.83,
+    "rsi_14": 73.26,
+    "52_week_high": 722.03,
+    "52_week_low": 505.58,
+    "price_vs_52w_pct": 93.9,
+    "volume_surge": 0.73,
+    "avg_volume": 56953180,
+    "market_cap": null,
+    "pe_trailing": 34.582596,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -0.61,
+    "return_1mo_pct": 9.61,
+    "return_3mo_pct": 18.05,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +9.61%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +18.05%"
+    },
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 73.26"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (680.36)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (609.83) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 34.582596x"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (93.9% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (33.3)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [
+    "Price at 93.9% of 52-week range \u2014 limited upside"
+  ],
+  "sentiment": {
+    "score": 33.3,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 1,
+    "total_mentions": 3
+  },
+  "news": [
+    {
+      "title": "Should You Invest in an S&P 500 ETF or a Tech-Focused Growth Fund? Here's How IVV and QQQ Stack Up",
+      "published": "Sat, 16 May 2026 22:20:01 +0000",
+      "url": "https://www.fool.com/coverage/etfs/2026/05/16/should-you-invest-in-an-s-and-p-500-etf-or-a-tech-focused-growth-fund-here-s-how-ivv-and-qqq-stack-up/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is the Vanguard Information Technology ETF the Right Fit for Your Portfolio Before Summer?",
+      "published": "Sat, 16 May 2026 20:06:02 +0000",
+      "url": "https://www.fool.com/investing/2026/05/16/is-etf-name-the-right-fit-for-your-portfolio-befor/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Exchange-Traded Funds Lower as US Equities Drop After Midday",
+      "published": "Fri, 15 May 2026 17:07:16 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-us-170716522.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Stocks Slide as Inflation Fears Lift Bond Yields",
+      "published": "Fri, 15 May 2026 15:14:42 +0000",
+      "url": "https://www.barchart.com/story/news/1959885/stocks-slide-as-inflation-fears-lift-bond-yields?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Prediction. The S&P 500 Is So Far Above Its Moving Averages That a 10% Correction This Summer Is Not Out of the Question",
+      "published": "Fri, 15 May 2026 14:35:37 +0000",
+      "url": "https://247wallst.com/investing/2026/05/15/prediction-the-sp-500-is-so-far-above-its-moving-averages-that-a-10-correction-this-summer-is-not-out-of-the-question/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/QQQ"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 708.93,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 715.55,
+    "margin_of_safety_pct": 0.93,
+    "verdict": "SLIGHTLY_OVERVALUED",
+    "upside_pct": 0.93
+  },
+  "earnings": {
+    "catalyst_score": 0,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "FLAT",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "max_positions",
+    "message": "No rotation candidate"
+  },
+  "advisor": {
+    "ticker": "QQQ",
+    "recommendation": "BUY",
+    "confidence": 80,
+    "strategy": "GROWTH",
+    "reasoning": "## QQQ Investment Thesis\n\n**Recommendation:** BUY (80% confidence)\n**Strategy:** GROWTH\n**Price:** $708.93\n**Daily Change:** \ud83d\udd34 -1.51%\n\n**Valuation:** Target $715.55 | Upside 0.93% | MoS 0.93% | Verdict: SLIGHTLY_OVERVALUED\n\n**Earnings:** Earnings weakness detected (catalyst 0)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Positive 1mo momentum +9.61%\n\u2705 **3Mo Momentum:** Strong 3mo momentum +18.05%\n\u26a0\ufe0f **Rsi:** RSI overbought 73.26\n\u2705 **Sma20:** Price above SMA20 (680.36)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (609.83) \u2014 confirmed uptrend\n\u26a0\ufe0f **Pe:** Elevated P/E 34.582596x\n\u26a0\ufe0f **52W:** Near 52-week high (93.9% of range)\n\n### Positive Factors\n\u2705 Bullish news sentiment detected\n\n### Risk Factors\n\u26a0\ufe0f Price at 93.9% of 52-week range \u2014 limited upside\n\n### News Sentiment: BULLISH (33.3)\n- 2 bullish mentions, 1 bearish\n- Recent headlines:\n  - Should You Invest in an S&P 500 ETF or a Tech-Focused Growth Fund? Here's How IVV and QQQ Stack Up\n  - Is the Vanguard Information Technology ETF the Right Fit for Your Portfolio Before Summer?\n  - Exchange-Traded Funds Lower as US Equities Drop After Midday\n\n### Key Metrics\n- **Ticker:** QQQ\n- **Price:** $708.93\n- **P/E (trailing):** 34.582596\n- **RSI(14):** 73.26\n- **SMA 20:** 680.36\n- **SMA 50:** 631.29\n- **52W Range:** $505.58 - $722.03\n- **1mo Return:** 9.61%\n- **3mo Return:** 18.05%\n- **Volume Surge:** 0.73\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T16:01:36.760895+00:00"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "task_id": "20260517-303",
+  "subject": "XOM analysis",
+  "ticker": "XOM",
+  "timestamp": "2026-05-17T16:01:14.167152+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 66,
+  "summary": "XOM @ $157.92 \u2014 ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | RSI: 65.32 | P/E: 26.585857 | Strategy: GROWTH",
+  "signal_score": 0.25,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "XOM",
+    "current_price": 157.92,
+    "previous_close": 151.75,
+    "day_change_pct": 4.07,
+    "sma_20": 149.86,
+    "sma_50": 153.94,
+    "sma_200": 128.06,
+    "rsi_14": 65.32,
+    "52_week_high": 176.41,
+    "52_week_low": 101.19,
+    "price_vs_52w_pct": 75.4,
+    "volume_surge": 0.81,
+    "avg_volume": 21283650,
+    "market_cap": 654570029056,
+    "pe_trailing": 26.585857,
+    "pe_forward": 15.207354,
+    "peg_ratio": 1.46,
+    "eps_ttm": 5.94,
+    "eps_forward": 10.38445,
+    "revenue_growth": 0.026,
+    "earnings_growth": -0.434,
+    "profit_margin": 0.077649996,
+    "short_ratio": 2.19,
+    "beta": 0.183,
+    "return_5d_pct": 6.22,
+    "return_1mo_pct": 7.66,
+    "return_3mo_pct": 8.76,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +7.66%"
+    },
+    {
+      "name": "day_spike",
+      "score": 0.5,
+      "note": "Big daily move +4.07%"
+    },
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 65.32"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (149.86)"
+    },
+    {
+      "name": "death_cross",
+      "score": -1.0,
+      "note": "SMA20 < SMA50 (short-term downtrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (128.06) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 15.207354x < trailing 26.585857x (expected growth)"
+    },
+    {
+      "name": "earnings_growth",
+      "score": -1.0,
+      "note": "Earnings declining -43% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 0,
+    "total_mentions": 2
+  },
+  "news": [
+    {
+      "title": "1 Brilliant Energy Stock to Buy Now and Hold for the Long Term",
+      "published": "Sun, 17 May 2026 13:35:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/17/1-brilliant-energy-stock-to-buy-now-and-hold-for-t/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Up 231%, Is RTX Proving Why It Was a Mistake for Honeywell to Replace RTX in the Dow Jones Industrial Average?",
+      "published": "Sun, 17 May 2026 00:20:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/16/rtx-honeywell-stock-dow-jones-industrial-average/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Exxon Mobil Cleared In Climate Case What Verdict Means For Dividend Risk",
+      "published": "Sat, 16 May 2026 04:25:08 +0000",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/exxon-mobil-cleared-climate-case-042508474.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Gain Late Afternoon",
+      "published": "Fri, 15 May 2026 20:00:42 +0000",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-stocks-gain-afternoon-200042362.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Rise Friday Afternoon",
+      "published": "Fri, 15 May 2026 18:05:45 +0000",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/sector-energy-stocks-rise-friday-180545839.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/XOM"
+  ],
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 157.92,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 77.33,
+    "margin_of_safety_pct": 0,
+    "verdict": "OVERVALUED",
+    "upside_pct": -51.03
+  },
+  "earnings": {
+    "catalyst_score": 5,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "max_positions",
+    "message": "No rotation candidate"
+  },
+  "advisor": {
+    "ticker": "XOM",
+    "recommendation": "ACCUMULATE",
+    "confidence": 66,
+    "strategy": "GROWTH",
+    "reasoning": "## XOM Investment Thesis\n\n**Recommendation:** ACCUMULATE (66% confidence)\n**Strategy:** GROWTH\n**Price:** $157.92\n**Daily Change:** \ud83d\udfe2 +4.07%\n\n**Valuation:** Target $77.33 | Upside -51.03% | MoS 0% | Verdict: OVERVALUED\n\n**Earnings:** Earnings weakness detected (catalyst 5)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Positive 1mo momentum +7.66%\n\u2705 **Day Spike:** Big daily move +4.07%\n\u26a0\ufe0f **Rsi:** RSI overbought 65.32\n\u2705 **Sma20:** Price above SMA20 (149.86)\n\u26a0\ufe0f **Death Cross:** SMA20 < SMA50 (short-term downtrend)\n\u2705 **Sma200:** Price well above SMA200 (128.06) \u2014 confirmed uptrend\n\u2705 **Pe Forward:** Forward P/E 15.207354x < trailing 26.585857x (expected growth)\n\u26a0\ufe0f **Earnings Growth:** Earnings declining -43% YoY\n\n### Positive Factors\n\u2705 Bullish news sentiment detected\n\n### News Sentiment: BULLISH (100.0)\n- 2 bullish mentions, 0 bearish\n- Recent headlines:\n  - 1 Brilliant Energy Stock to Buy Now and Hold for the Long Term\n  - Up 231%, Is RTX Proving Why It Was a Mistake for Honeywell to Replace RTX in the Dow Jones Industrial Average?\n  - Exxon Mobil Cleared In Climate Case What Verdict Means For Dividend Risk\n\n### Key Metrics\n- **Ticker:** XOM\n- **Price:** $157.92\n- **P/E (trailing):** 26.585857\n- **P/E (forward):** 15.207354\n- **PEG:** 1.46\n- **RSI(14):** 65.32\n- **SMA 20:** 149.86\n- **SMA 50:** 153.94\n- **52W Range:** $101.19 - $176.41\n- **1mo Return:** 7.66%\n- **3mo Return:** 8.76%\n- **Volume Surge:** 0.81\n- **Market Cap:** $654.6B\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T16:01:18.855796+00:00"
+  }
+}

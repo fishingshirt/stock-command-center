@@ -1,42 +1,30 @@
 {
   "ticker": "JPM",
-  "timestamp": "2026-05-15T07:45:42.279239+00:00",
-  "current_price": 160.82,
-  "dcf_target": 72.84,
-  "comparable_target": 112.51,
-  "blended_target": 92.68,
+  "timestamp": "2026-05-17T16:01:04.054709+00:00",
+  "current_price": 297.81,
+  "dcf_target": null,
+  "comparable_target": 253.08,
+  "blended_target": 253.08,
   "margin_of_safety_pct": 0,
-  "dcf_model": {
-    "current_fcf_billions": 2.95,
-    "projected_fcf_5yr": [
-      3.58,
-      4.35,
-      5.29,
-      6.43,
-      7.81
-    ],
-    "growth_rate_assumed": 0.215,
-    "wacc": 0.101,
-    "terminal_growth": 0.03,
-    "terminal_value_billions": 113.06,
-    "enterprise_value_billions": 89.82,
-    "net_cash_billions": 11.31,
-    "equity_value_billions": 101.13,
-    "intrinsic_per_share": 72.84,
-    "method": "DCF_5yr"
-  },
-  "comparable_model": {
-    "current_price": 160.82,
-    "trailing_pe": 48.64,
-    "forward_pe": 43.09,
-    "ev_ebitda": 12.1,
-    "price_to_sales": 14.07,
-    "price_to_book": 9.61,
-    "eps": 3.31,
-    "peer_median_pe": 34.03,
-    "implied_price_pe": 112.51,
-    "upside_pct": -30.04,
-    "method": "peer_multiples"
-  },
-  "verdict": "Overvalued"
+  "upside_pct": -15.02,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 14.262932,
+    "forward_pe": 12.65393,
+    "price_to_sales": 4.597775,
+    "price_to_book": 2.319772,
+    "ev_ebitda": null,
+    "eps_ttm": 20.88,
+    "eps_forward": 23.53498,
+    "sector": "Financial Services",
+    "sector_median_pe": 15,
+    "implied_pe": 313.2,
+    "implied_ps": 189.29,
+    "implied_pb": 256.76,
+    "free_cash_flow": null,
+    "shares_outstanding": 2679511418,
+    "growth_assumed": 0.172,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
 }

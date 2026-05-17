@@ -10414,6 +10414,61 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "JPM",
+      "recommendation": "BUY",
+      "confidence": 87,
+      "price_at_predict": 297.81,
+      "timestamp": "2026-05-17T16:01:02.761980+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "XOM",
+      "recommendation": "ACCUMULATE",
+      "confidence": 66,
+      "price_at_predict": 157.92,
+      "timestamp": "2026-05-17T16:01:14.264976+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPY",
+      "recommendation": "ACCUMULATE",
+      "confidence": 66,
+      "price_at_predict": 739.17,
+      "timestamp": "2026-05-17T16:01:22.987093+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "QQQ",
+      "recommendation": "BUY",
+      "confidence": 80,
+      "price_at_predict": 708.93,
+      "timestamp": "2026-05-17T16:01:32.347908+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "IWM",
+      "recommendation": "BUY",
+      "confidence": 95,
+      "price_at_predict": 277.6,
+      "timestamp": "2026-05-17T16:01:40.947033+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

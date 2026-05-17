@@ -1,42 +1,30 @@
 {
   "ticker": "XOM",
-  "timestamp": "2026-05-15T07:45:50.352051+00:00",
-  "current_price": 327.28,
-  "dcf_target": 80.45,
-  "comparable_target": 535.9,
-  "blended_target": 308.18,
+  "timestamp": "2026-05-17T16:01:15.662369+00:00",
+  "current_price": 157.92,
+  "dcf_target": 51.27,
+  "comparable_target": 103.38,
+  "blended_target": 77.33,
   "margin_of_safety_pct": 0,
-  "dcf_model": {
-    "current_fcf_billions": 7.85,
-    "projected_fcf_5yr": [
-      9.17,
-      10.72,
-      12.53,
-      14.64,
-      17.11
-    ],
-    "growth_rate_assumed": 0.169,
-    "wacc": 0.094,
-    "terminal_growth": 0.03,
-    "terminal_value_billions": 274.39,
-    "enterprise_value_billions": 222.93,
-    "net_cash_billions": 15.76,
-    "equity_value_billions": 238.69,
-    "intrinsic_per_share": 80.45,
-    "method": "DCF_5yr"
-  },
-  "comparable_model": {
-    "current_price": 327.28,
-    "trailing_pe": 12.88,
-    "forward_pe": 8.92,
-    "ev_ebitda": 18.11,
-    "price_to_sales": 8.44,
-    "price_to_book": 5.13,
-    "eps": 25.41,
-    "peer_median_pe": 21.09,
-    "implied_price_pe": 535.9,
-    "upside_pct": 63.74,
-    "method": "peer_multiples"
-  },
-  "verdict": "Overvalued"
+  "upside_pct": -51.03,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 26.585857,
+    "forward_pe": 15.207354,
+    "price_to_sales": 2.0078342,
+    "price_to_book": 2.5442653,
+    "ev_ebitda": 12.506,
+    "eps_ttm": 5.94,
+    "eps_forward": 10.38445,
+    "sector": "Energy",
+    "sector_median_pe": 12,
+    "implied_pe": 71.28,
+    "implied_ps": 114.72,
+    "implied_pb": 124.14,
+    "free_cash_flow": 11630499840,
+    "shares_outstanding": 4144947162,
+    "growth_assumed": 0.1,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
 }
