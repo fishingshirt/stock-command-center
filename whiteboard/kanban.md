@@ -48,14 +48,7 @@ Real-time market analysis for JNJ. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-232
-**Subject:** CVX analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T13:31:00.364732+00:00
-**Details:**
-Real-time market analysis for CVX. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13411,3 +13404,15 @@ Real-time market analysis for GS. Auto-generated watchlist task.
 **Summary:** WFC @ $73.42 — HOLD (52% confidence) | Bullish: RSI 29.36 — approaching oversold; Trailing P/E 11.347759x — below market average | RSI: 29.36 | P/E: 11.347759 |
 **Details:**
 Real-time market analysis for WFC. Auto-generated watchlist task.
+
+### Task ID: 20260517-232
+**Subject:** CVX analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:31:00.364732+00:00
+**Completed At:** 2026-05-17T13:31:08.469440+00:00
+**Result:** dashboard/data/output/20260517-232.json
+**Summary:** CVX @ $191.1 — ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | RSI: 59.37 | P/E: 33.35079 | Strategy: GROWTH
+**Details:**
+Real-time market analysis for CVX. Auto-generated watchlist task.
