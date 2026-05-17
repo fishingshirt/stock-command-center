@@ -1,0 +1,158 @@
+{
+  "task_id": "20260517-285",
+  "subject": "SPYG analysis",
+  "ticker": "SPYG",
+  "timestamp": "2026-05-17T15:00:51.140326+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 67,
+  "summary": "SPYG @ $118.37 \u2014 ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 93.8% of 52-week range \u2014 limited upside | RSI: 70.19 | P/E: 32.526485 | Strategy: GROWTH",
+  "signal_score": 0.286,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "SPYG",
+    "current_price": 118.37,
+    "previous_close": 120.28,
+    "day_change_pct": -1.59,
+    "sma_20": 114.31,
+    "sma_50": 106.87,
+    "sma_200": 104.88,
+    "rsi_14": 70.19,
+    "52_week_high": 120.42,
+    "52_week_low": 87.22,
+    "price_vs_52w_pct": 93.8,
+    "volume_surge": 0.54,
+    "avg_volume": 5162354,
+    "market_cap": null,
+    "pe_trailing": 32.526485,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": 0.39,
+    "return_1mo_pct": 7.06,
+    "return_3mo_pct": 14.68,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +7.06%"
+    },
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 70.19"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (114.31)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (104.88) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 32.526485x"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (93.8% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [
+    "Price at 93.8% of 52-week range \u2014 limited upside"
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 7,
+    "bearish": 0,
+    "total_mentions": 7
+  },
+  "news": [
+    {
+      "title": "SPYG Has Beaten SPYV by 390% Over a Decade and the Reason Matters More Than You Think",
+      "published": "Sun, 17 May 2026 14:05:18 +0000",
+      "url": "https://247wallst.com/investing/2026/05/17/spyg-has-beaten-spyv-by-390-over-a-decade-and-the-reason-matters-more-than-you-think/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Here's How Much $1000 Invested In State Street SPDR Portfolio S&P 500 Growth ETF 15 Years Ago Would Be Worth Today",
+      "published": "Wed, 13 May 2026 14:00:36 +0000",
+      "url": "https://finance.yahoo.com/news/heres-much-1000-invested-state-140036591.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Growth ETF (SPYG) Hits New 52-Week High",
+      "published": "Fri, 17 Apr 2026 15:32:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/growth-etf-spyg-hits-52-153200692.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is the Market Turning Risk-On Again? Growth ETFs to Watch",
+      "published": "Tue, 14 Apr 2026 16:29:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-turning-risk-again-growth-162900024.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Why Investors Own VOOG for Growth Not Its Tiny 0.46% Dividend",
+      "published": "Thu, 02 Apr 2026 12:15:54 +0000",
+      "url": "https://247wallst.com/investing/2026/04/02/why-investors-own-voog-for-growth-not-its-tiny-0-46-dividend/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/SPYG"
+  ],
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 118.37,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 125.96,
+    "margin_of_safety_pct": 6.03,
+    "verdict": "FAIRLY_VALUED",
+    "upside_pct": 6.41
+  },
+  "earnings": {
+    "catalyst_score": 0,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "FLAT",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "max_positions",
+    "message": "No rotation candidate"
+  },
+  "advisor": {
+    "ticker": "SPYG",
+    "recommendation": "ACCUMULATE",
+    "confidence": 67,
+    "strategy": "GROWTH",
+    "reasoning": "## SPYG Investment Thesis\n\n**Recommendation:** ACCUMULATE (67% confidence)\n**Strategy:** GROWTH\n**Price:** $118.37\n**Daily Change:** \ud83d\udd34 -1.59%\n\n**Valuation:** Target $125.96 | Upside 6.41% | MoS 6.03% | Verdict: FAIRLY_VALUED\n\n**Earnings:** Earnings weakness detected (catalyst 0)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Positive 1mo momentum +7.06%\n\u26a0\ufe0f **Rsi:** RSI overbought 70.19\n\u2705 **Sma20:** Price above SMA20 (114.31)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (104.88) \u2014 confirmed uptrend\n\u26a0\ufe0f **Pe:** Elevated P/E 32.526485x\n\u26a0\ufe0f **52W:** Near 52-week high (93.8% of range)\n\u2705 **Sentiment:** Bullish news sentiment (100.0)\n\n### Positive Factors\n\u2705 Bullish news sentiment detected\n\n### Risk Factors\n\u26a0\ufe0f Price at 93.8% of 52-week range \u2014 limited upside\n\n### News Sentiment: BULLISH (100.0)\n- 7 bullish mentions, 0 bearish\n- Recent headlines:\n  - SPYG Has Beaten SPYV by 390% Over a Decade and the Reason Matters More Than You Think\n  - Here's How Much $1000 Invested In State Street SPDR Portfolio S&P 500 Growth ETF 15 Years Ago Would Be Worth Today\n  - Growth ETF (SPYG) Hits New 52-Week High\n\n### Key Metrics\n- **Ticker:** SPYG\n- **Price:** $118.37\n- **P/E (trailing):** 32.526485\n- **RSI(14):** 70.19\n- **SMA 20:** 114.31\n- **SMA 50:** 106.87\n- **52W Range:** $87.22 - $120.42\n- **1mo Return:** 7.06%\n- **3mo Return:** 14.68%\n- **Volume Surge:** 0.54\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T15:00:55.608751+00:00"
+  }
+}

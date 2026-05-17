@@ -10194,6 +10194,61 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "XLE",
+      "recommendation": "BUY",
+      "confidence": 95,
+      "price_at_predict": 59.44,
+      "timestamp": "2026-05-17T15:00:22.840137+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "XLI",
+      "recommendation": "BUY",
+      "confidence": 95,
+      "price_at_predict": 171.4,
+      "timestamp": "2026-05-17T15:00:33.250792+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SCHG",
+      "recommendation": "ACCUMULATE",
+      "confidence": 67,
+      "price_at_predict": 34.26,
+      "timestamp": "2026-05-17T15:00:41.691696+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPYG",
+      "recommendation": "ACCUMULATE",
+      "confidence": 67,
+      "price_at_predict": 118.37,
+      "timestamp": "2026-05-17T15:00:51.238156+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "MTUM",
+      "recommendation": "BUY",
+      "confidence": 91,
+      "price_at_predict": 298.27,
+      "timestamp": "2026-05-17T15:00:59.644386+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

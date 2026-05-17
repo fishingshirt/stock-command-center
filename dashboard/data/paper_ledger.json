@@ -1,5 +1,5 @@
 {
-  "cash": 66977.73609100001,
+  "cash": 58547.553177000016,
   "initial_capital": 100000.0,
   "positions": {
     "IWM": {
@@ -86,21 +86,11 @@
       "ticker": "BTC-USD",
       "shares": 0.0748,
       "entry_price": 78062.0,
-      "last_price": 78008.1016,
+      "last_price": 77990.0078,
       "confidence": 95,
       "reasoning": "BTC-USD @ $78062 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | Strategy: GROWTH",
       "task_id": "20260517-252",
       "opened_at": "2026-05-17T14:30:24.728055+00:00"
-    },
-    "VOO": {
-      "ticker": "VOO",
-      "shares": 3.8564,
-      "entry_price": 679.44,
-      "last_price": 679.44,
-      "confidence": 66,
-      "reasoning": "VOO @ $679.44 \u2014 ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range \u2014 limited upside | RSI: 69.67 | P/E: 29.334908 | Strategy: GROWTH",
-      "task_id": "20260517-273",
-      "opened_at": "2026-05-17T14:40:28.289189+00:00"
     },
     "VGT": {
       "ticker": "VGT",
@@ -111,6 +101,26 @@
       "reasoning": "VGT @ $113.31 \u2014 ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 40.479847x \u2014 growth expectations priced in; Price at 94.5% of 52-week range \u2014 limited upside | RSI: 73.65 | P/E: 40.479847 | Strategy: MOMENTUM",
       "task_id": "20260517-279",
       "opened_at": "2026-05-17T14:45:41.061572+00:00"
+    },
+    "SCHG": {
+      "ticker": "SCHG",
+      "shares": 109.4791,
+      "entry_price": 34.26,
+      "last_price": 34.26,
+      "confidence": 67,
+      "reasoning": "SCHG @ $34.26 \u2014 ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range \u2014 limited upside | RSI: 71.04 | P/E: 33.920525 | Strategy: GROWTH",
+      "task_id": "20260517-284",
+      "opened_at": "2026-05-17T15:00:46.691685+00:00"
+    },
+    "MTUM": {
+      "ticker": "MTUM",
+      "shares": 24.4732,
+      "entry_price": 298.27,
+      "last_price": 298.27,
+      "confidence": 91,
+      "reasoning": "MTUM @ $298.27 \u2014 BUY (91% confidence) | Bullish: Bullish news sentiment detected | RSI: 63.79 | P/E: 32.67441 | Strategy: GROWTH",
+      "task_id": "20260517-286",
+      "opened_at": "2026-05-17T15:01:04.485228+00:00"
     }
   },
   "history": [
@@ -365,8 +375,22 @@
       "opened_at": "2026-05-17T14:45:49.169973+00:00",
       "closed_at": "2026-05-17T14:45:58.736821+00:00",
       "task_id": "20260517-281"
+    },
+    {
+      "ticker": "VOO",
+      "action": "SELL",
+      "shares": 3.8564,
+      "entry_price": 679.44,
+      "exit_price": 679.44,
+      "pnl": 0.0,
+      "return_pct": 0.0,
+      "hold_seconds": 1236.2,
+      "reasoning": "Rotated out for MTUM (91% vs 66%)",
+      "opened_at": "2026-05-17T14:40:28.289189+00:00",
+      "closed_at": "2026-05-17T15:01:04.476472+00:00",
+      "task_id": "20260517-286"
     }
   ],
   "created_at": "2026-05-15T06:50:00+00:00",
-  "updated_at": "2026-05-17T14:45:58.736825+00:00"
+  "updated_at": "2026-05-17T15:01:04.485233+00:00"
 }
