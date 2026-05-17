@@ -30,6 +30,14 @@ Real-time market analysis for F. Auto-generated watchlist task.
 **Details:**
 Real-time market analysis for KO. Auto-generated watchlist task.
 
+### Task ID: 20260517-250
+**Subject:** PEP analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Details:**
+Real-time market analysis for PEP. Auto-generated watchlist task.
+
 ## In Progress
 
 _(No tasks in this section.)_
