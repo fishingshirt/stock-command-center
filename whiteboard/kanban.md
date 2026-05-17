@@ -28,14 +28,7 @@ Auto-generated research task. Bot: researcher_bot.
 
 ## In Progress
 
-### Task ID: 20260517-131
-**Subject:** V Visa payment network fundamentals
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T08:15:34.336980+00:00
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -12091,5 +12084,17 @@ Auto-generated research task. Bot: researcher_bot.
 **Completed At:** 2026-05-17T08:15:31.325133+00:00
 **Result:** dashboard/data/output/20260517-130.json
 **Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260517-131
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:15:34.336980+00:00
+**Completed At:** 2026-05-17T08:15:37.128580+00:00
+**Result:** dashboard/data/output/20260517-131.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
