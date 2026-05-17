@@ -1,5 +1,5 @@
 {
-  "cash": 46924.55122100001,
+  "cash": 48787.523369,
   "initial_capital": 100000.0,
   "positions": {
     "IWM": {
@@ -82,16 +82,6 @@
       "task_id": "20260517-230",
       "opened_at": "2026-05-17T13:16:28.472130+00:00"
     },
-    "F": {
-      "ticker": "F",
-      "shares": 334.0017,
-      "entry_price": 13.4,
-      "last_price": 13.4,
-      "confidence": 85,
-      "reasoning": "F @ $13.4 \u2014 BUY (85% confidence) | Bullish: Bullish news sentiment detected | RSI: 59.32 | Strategy: GROWTH",
-      "task_id": "20260517-234",
-      "opened_at": "2026-05-17T13:31:25.789685+00:00"
-    },
     "LLY": {
       "ticker": "LLY",
       "shares": 4.4148,
@@ -106,11 +96,21 @@
       "ticker": "BTC-USD",
       "shares": 0.0748,
       "entry_price": 78062.0,
-      "last_price": 78062.0,
+      "last_price": 77976.9297,
       "confidence": 95,
       "reasoning": "BTC-USD @ $78062 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | Strategy: GROWTH",
       "task_id": "20260517-252",
       "opened_at": "2026-05-17T14:30:24.728055+00:00"
+    },
+    "VOO": {
+      "ticker": "VOO",
+      "shares": 3.8453,
+      "entry_price": 679.44,
+      "last_price": 679.44,
+      "confidence": 66,
+      "reasoning": "VOO @ $679.44 \u2014 ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range \u2014 limited upside | RSI: 69.67 | P/E: 29.334908 | Strategy: GROWTH",
+      "task_id": "20260517-262",
+      "opened_at": "2026-05-17T14:35:01.821851+00:00"
     }
   },
   "history": [
@@ -281,8 +281,36 @@
       "opened_at": "2026-05-17T14:31:47.413838+00:00",
       "closed_at": "2026-05-17T14:32:10.059424+00:00",
       "task_id": "20260517-260"
+    },
+    {
+      "ticker": "F",
+      "action": "SELL",
+      "shares": 334.0017,
+      "entry_price": 13.4,
+      "exit_price": 13.4,
+      "pnl": 0.0,
+      "return_pct": 0.0,
+      "hold_seconds": 3679.3,
+      "reasoning": "Test SELL for Ford",
+      "opened_at": "2026-05-17T13:31:25.789685+00:00",
+      "closed_at": "2026-05-17T14:32:45.122373+00:00",
+      "task_id": "TEST-001"
+    },
+    {
+      "ticker": "SPY",
+      "action": "SELL",
+      "shares": 3.7352,
+      "entry_price": 739.17,
+      "exit_price": 739.17,
+      "pnl": 0.0,
+      "return_pct": 0.0,
+      "hold_seconds": 161.1,
+      "reasoning": "Rotated out for IWM (95% vs 66%)",
+      "opened_at": "2026-05-17T14:32:56.006359+00:00",
+      "closed_at": "2026-05-17T14:35:37.095166+00:00",
+      "task_id": "20260517-266"
     }
   ],
   "created_at": "2026-05-15T06:50:00+00:00",
-  "updated_at": "2026-05-17T14:32:10.059431+00:00"
+  "updated_at": "2026-05-17T14:35:37.095171+00:00"
 }

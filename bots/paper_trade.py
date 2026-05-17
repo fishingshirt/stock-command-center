@@ -71,7 +71,8 @@ def _update_prices(ledger: dict):
         for ticker in list(ledger.get("positions", {}).keys()):
             try:
                 t = yf.Ticker(ticker)
-                hist = t.history(period="1d")
+                # Use 5d instead of 1d to handle weekends/holidays
+                hist = t.history(period="5d")
                 if len(hist) > 0:
                     ledger["positions"][ticker]["last_price"] = round(float(hist.Close.iloc[-1]), 4)
             except Exception:
@@ -246,6 +247,11 @@ def _rotation_check(ledger: dict, ticker: str, confidence: float, price: float, 
 
 def auto_trade_from_result(result: dict) -> dict:
     """Auto-trade: buy on BUY/ACCUMULATE, sell on SELL/REDUCE for held positions."""
+    # Refresh all position prices before making trade decisions
+    ledger = _load_ledger()
+    ledger = _update_prices(ledger)
+    _save_ledger(ledger)
+    
     settings = _load_settings()
     if not settings.get("auto_trade_enabled", True):
         return {"status": "skipped", "reason": "auto_trade_enabled=false"}
@@ -260,7 +266,7 @@ def auto_trade_from_result(result: dict) -> dict:
 
     task_id = result.get("task_id", "")
     summary = result.get("summary", "")
-    ledger = _load_ledger()
+    ledger = _load_ledger()  # Reload after price update
 
     # ── SELL logic: if we hold this ticker and it got SELL/REDUCE ──
     if rec in ("SELL", "REDUCE") and ticker.upper() in ledger.get("positions", {}):
@@ -294,7 +300,7 @@ if __name__ == "__main__":
         try:
             import yfinance as yf_s
             t = yf_s.Ticker(sys.argv[2])
-            hist = t.history(period="1d")
+            hist = t.history(period="5d")  # Use 5d instead of 1d
             price = float(hist.Close.iloc[-1]) if len(hist) > 0 else float(sys.argv[3])
         except Exception:
             price = float(sys.argv[3]) if len(sys.argv) > 3 else 0
