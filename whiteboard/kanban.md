@@ -24,14 +24,7 @@ Real-time market analysis for XOM. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-301
-**Subject:** INTC analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T15:46:03.121343+00:00
-**Details:**
-Real-time market analysis for INTC. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -988,3 +981,15 @@ Real-time market analysis for AVGO. Auto-generated watchlist task.
 **Summary:** CRM @ $173.51 — ACCUMULATE (67% confidence) | Bullish: Price near 52-week low — potential value entry; Bullish news sentiment detected | RSI: 43.99 | P/E: 22.21
 **Details:**
 Real-time market analysis for CRM. Auto-generated watchlist task.
+
+### Task ID: 20260517-301
+**Subject:** INTC analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T15:46:03.121343+00:00
+**Completed At:** 2026-05-17T15:46:11.815274+00:00
+**Result:** dashboard/data/output/20260517-301.json
+**Summary:** INTC @ $108.77 — BUY (91% confidence) | Bullish: Bullish news sentiment detected | RSI: 64.67 | Strategy: MOMENTUM
+**Details:**
+Real-time market analysis for INTC. Auto-generated watchlist task.
