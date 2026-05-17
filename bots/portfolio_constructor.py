@@ -3,7 +3,7 @@ bots/portfolio_constructor.py
 Position sizing, sector limits, Kelly criterion, diversification.
 Usage: called after advisor reasoning to size the position.
 """
-import argparse, json, random, sys
+import argparse, json, sys
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
@@ -58,12 +58,21 @@ def recommend_position(ticker: str, confidence: float, margin_of_safety: float, 
         for p in ledger.get("positions", {}).values()
     )
     
-    # Base sizing
+    # Base sizing (must be grounded — no fabricated win rates)
     base_pct = 0.10  # 10% baseline
     
-    # Kelly adjustment
-    win_rate = random.uniform(0.55, 0.75)  # mock from strategy history
-    kelly = kelly_criterion(win_rate, 0.05, 0.03)  # ~5% avg win, ~3% avg loss
+    # Use actual ledger history for Kelly if available
+    history = ledger.get("history", [])
+    realized_wins = [h for h in history if h.get("pnl", 0) > 0]
+    realized_losses = [h for h in history if h.get("pnl", 0) < 0]
+    
+    if realized_wins or realized_losses:
+        win_rate = len(realized_wins) / len(history) if history else 0.55
+        avg_win = sum(h.get("return_pct", 0) for h in realized_wins) / len(realized_wins) if realized_wins else 0.05
+        avg_loss = sum(abs(h.get("return_pct", 0)) for h in realized_losses) / len(realized_losses) if realized_losses else 0.03
+        kelly = kelly_criterion(win_rate, avg_win, avg_loss)
+    else:
+        kelly = 0.02  # No track record yet — ultra conservative
     
     # Adjust for margin of safety
     mos_mult = 1.0 + (margin_of_safety / 100) * 2  # more MoS = bigger position

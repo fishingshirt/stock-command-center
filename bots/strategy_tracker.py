@@ -3,14 +3,14 @@ bots/strategy_tracker.py
 Tags trades with strategy and tracks performance per strategy.
 Usage: called by orchestrator after each completed research task.
 """
-import json, random
+import json
 from datetime import datetime, timezone
 from pathlib import Path
 
 STRATEGIES = ["MOMENTUM", "VALUE", "GROWTH", "QUALITY", "INCOME"]
 
 def classify_strategy(research: dict, model: dict, earnings: dict) -> str:
-    """Classify recommendation into strategy bucket."""
+    """Classify recommendation into strategy bucket using real data."""
     conf = research.get("confidence", 50)
     mos = model.get("margin_of_safety_pct", 0)
     e_score = earnings.get("earnings_catalyst_score", 0)
@@ -27,7 +27,8 @@ def classify_strategy(research: dict, model: dict, earnings: dict) -> str:
     elif rec == "HOLD" and conf < 60:
         return "INCOME"
     else:
-        return random.choice(STRATEGIES)
+        # Honest fallback — no data for a clean classification
+        return "UNCATEGORIZED"
 
 
 def record_trade(research: dict, model: dict, earnings: dict, strategy: str, ledger: dict = None):
