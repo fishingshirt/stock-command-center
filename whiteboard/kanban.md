@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260517-285
-**Subject:** SPYG analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Details:**
-Real-time market analysis for SPYG. Auto-generated watchlist task.
-
 ### Task ID: 20260517-286
 **Subject:** MTUM analysis
 **Assigned Bot:** researcher_bot
@@ -40,7 +32,14 @@ Real-time market analysis for SCHK. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260517-285
+**Subject:** SPYG analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T15:00:47.820577+00:00
+**Details:**
+Real-time market analysis for SPYG. Auto-generated watchlist task.
 
 ## Done
 
