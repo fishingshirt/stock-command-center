@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260517-252
-**Subject:** BTC-USD crypto momentum
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Details:**
-Real-time market analysis for BTC-USD. Auto-generated watchlist task.
-
 ### Task ID: 20260517-253
 **Subject:** SPY analysis
 **Assigned Bot:** researcher_bot
@@ -56,7 +48,14 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260517-252
+**Subject:** BTC-USD crypto momentum
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T14:30:18.619409+00:00
+**Details:**
+Real-time market analysis for BTC-USD. Auto-generated watchlist task.
 
 ## Done
 
