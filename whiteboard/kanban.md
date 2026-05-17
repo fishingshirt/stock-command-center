@@ -48,14 +48,7 @@ Real-time market analysis for BTC-USD. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-247
-**Subject:** SBUX analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T14:15:51.996786+00:00
-**Details:**
-Real-time market analysis for SBUX. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13591,3 +13584,15 @@ Real-time market analysis for HD. Auto-generated watchlist task.
 **Summary:** LOW @ $218.42 — HOLD (56% confidence) | Bullish: RSI 30.0 — approaching oversold; Price near 52-week low — potential value entry | RSI: 30.0 | P/E: 18.416527 |
 **Details:**
 Real-time market analysis for LOW. Auto-generated watchlist task.
+
+### Task ID: 20260517-247
+**Subject:** SBUX analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T14:15:51.996786+00:00
+**Completed At:** 2026-05-17T14:15:59.332901+00:00
+**Result:** dashboard/data/output/20260517-247.json
+**Summary:** SBUX @ $106.82 — HOLD (52% confidence) | Warnings: RSI 75.61 — possible reversal risk; High P/E 81.53817x — growth expectations priced in | RSI: 75.61 | P/E: 81
+**Details:**
+Real-time market analysis for SBUX. Auto-generated watchlist task.
