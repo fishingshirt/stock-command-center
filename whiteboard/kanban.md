@@ -24,14 +24,7 @@ Real-time market analysis for SCHK. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-286
-**Subject:** MTUM analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T15:00:56.706877+00:00
-**Details:**
-Real-time market analysis for MTUM. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -808,3 +801,15 @@ Real-time market analysis for SCHG. Auto-generated watchlist task.
 **Summary:** SPYG @ $118.37 — ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 93.8% of 52-week range — limited upside | RSI: 70.1
 **Details:**
 Real-time market analysis for SPYG. Auto-generated watchlist task.
+
+### Task ID: 20260517-286
+**Subject:** MTUM analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T15:00:56.706877+00:00
+**Completed At:** 2026-05-17T15:01:04.516539+00:00
+**Result:** dashboard/data/output/20260517-286.json
+**Summary:** MTUM @ $298.27 — BUY (91% confidence) | Bullish: Bullish news sentiment detected | RSI: 63.79 | P/E: 32.67441 | Strategy: GROWTH
+**Details:**
+Real-time market analysis for MTUM. Auto-generated watchlist task.
