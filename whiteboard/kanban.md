@@ -40,14 +40,7 @@ Real-time market analysis for CVX. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-228
-**Subject:** PLTR analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T13:16:04.606905+00:00
-**Details:**
-Real-time market analysis for PLTR. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13355,3 +13348,15 @@ Real-time market analysis for COIN. Auto-generated watchlist task.
 - Fundamentals check
 - News sentiment
 - Investment recommendation
+
+### Task ID: 20260517-228
+**Subject:** PLTR analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:16:04.606905+00:00
+**Completed At:** 2026-05-17T13:16:11.442505+00:00
+**Result:** dashboard/data/output/20260517-228.json
+**Summary:** PLTR @ $133.99 — HOLD (50% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 152.26137x — growth expectations priced in | RSI: 38.93 |
+**Details:**
+Real-time market analysis for PLTR. Auto-generated watchlist task.
