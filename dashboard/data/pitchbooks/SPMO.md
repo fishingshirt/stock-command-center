@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-17T01:15:41.366705+00:00  
+**Generated:** 2026-05-17T01:30:22.977660+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,7 +12,7 @@
 
 SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.01, Price: $143.48.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$222.86**, representing a **4.46% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$161.91**, representing a **9.88% margin of safety** from current levels.
 
 ---
 
@@ -20,18 +20,18 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ### 2.1 Catalysts
 - Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **-8.7%**
-- Next earnings date: **2026-06-09**
+- Recent EPS surprise: **+4.1%**
+- Next earnings date: **2026-06-06**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $212.91 |
-| DCF Intrinsic Value | $340.66 |
-| Comparable Implied | $105.06 |
-| Blended Target | $222.86 |
-| Margin of Safety | 4.46% |
-| Verdict | Overvalued |
+| Current Price | $145.91 |
+| DCF Intrinsic Value | $244.09 |
+| Comparable Implied | $79.74 |
+| Blended Target | $161.91 |
+| Margin of Safety | 9.88% |
+| Verdict | Fairly valued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** SPMO
@@ -47,19 +47,18 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (7.4/10)
-- ⚠️ 3 active controversies
-- ⚠️ Low margin of safety — limited downside protection
+- ⚠️ Elevated sanctions exposure (4.8/10)
+- ⚠️ 2 active controversies
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 33.2/100
-- **Sanctions Risk:** 7.4/10
-- **ESG Score:** 51.8/100
-- **Controversies:** 3
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 56.1/100
+- **Sanctions Risk:** 4.8/10
+- **ESG Score:** 73.5/100
+- **Controversies:** 2
 
 ---
 
