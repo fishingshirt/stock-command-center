@@ -77,8 +77,9 @@ def health():
 
 
 @app.get("/api/recommendations")
-def list_recommendations():
-    return _load_all_results()
+def list_recommendations(limit: int = 100):
+    all_results = _load_all_results()
+    return all_results[:limit]
 
 
 @app.get("/api/recommendations/{ticker}")

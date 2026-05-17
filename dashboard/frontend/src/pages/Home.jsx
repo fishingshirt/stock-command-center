@@ -9,25 +9,27 @@ function Home() {
   const [selected, setSelected] = useState(null)
 
   useEffect(() => {
-    fetch(`${API_URL}/api/recommendations`)
-      .then(r => r.json())
-      .then(setRecs)
-      .catch(() => setRecs([]))
-    fetch(`${API_URL}/api/sectors`)
-      .then(r => r.json())
-      .then(d => setSectors(d.sectors || {}))
-      .catch(() => setSectors({}))
-    fetch(`${API_URL}/api/feed`)
-      .then(r => r.json())
-      .then(d => setFeed(d.entries || []))
-      .catch(() => setFeed([]))
-    setLoading(false)
+    let mounted = true
+    Promise.all([
+      fetch(`${API_URL}/api/recommendations`).then(r => r.json()).catch(() => []),
+      fetch(`${API_URL}/api/sectors`).then(r => r.json()).catch(() => ({})),
+      fetch(`${API_URL}/api/feed`).then(r => r.json()).catch(() => ({})),
+    ]).then(([recsData, sectorsData, feedData]) => {
+      if (!mounted) return
+      setRecs(recsData || [])
+      setSectors(sectorsData?.sectors || {})
+      setFeed(feedData?.entries || [])
+      setLoading(false)
+    }).catch(() => {
+      if (!mounted) return
+      setLoading(false)
+    })
 
     const iv = setInterval(() => {
-      fetch(`${API_URL}/api/recommendations`).then(r => r.json()).then(setRecs).catch(() => {})
-      fetch(`${API_URL}/api/feed`).then(r => r.json()).then(d => setFeed(d.entries || [])).catch(() => {})
+      fetch(`${API_URL}/api/recommendations`).then(r => r.json()).then(d => { if (mounted) setRecs(d || []) }).catch(() => {})
+      fetch(`${API_URL}/api/feed`).then(r => r.json()).then(d => { if (mounted) setFeed(d?.entries || []) }).catch(() => {})
     }, 60000)
-    return () => clearInterval(iv)
+    return () => { mounted = false; clearInterval(iv) }
   }, [])
 
   const badgeColor = (r) => {

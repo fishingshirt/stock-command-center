@@ -9,6 +9,8 @@ RUN apt-get update \
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
+COPY main.py /app/main.py
+COPY bots/ /app/bots/
 COPY dashboard/__init__.py /app/dashboard/__init__.py
 
 RUN mkdir -p /app/dashboard/data/output /app/dashboard/data/cache /app/logs
