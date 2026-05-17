@@ -40,14 +40,7 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-253
-**Subject:** SPY analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T14:30:25.957146+00:00
-**Details:**
-Real-time market analysis for SPY. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13655,3 +13648,15 @@ Real-time market analysis for ARKK. Auto-generated watchlist task.
 **Summary:** BTC-USD @ $78062 — BUY (95% confidence) | Bullish: Bullish news sentiment detected | Strategy: GROWTH
 **Details:**
 Real-time market analysis for BTC-USD. Auto-generated watchlist task.
+
+### Task ID: 20260517-253
+**Subject:** SPY analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T14:30:25.957146+00:00
+**Completed At:** 2026-05-17T14:30:32.385660+00:00
+**Result:** dashboard/data/output/20260517-253.json
+**Summary:** SPY @ $739.17 — ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range — limited upside | RSI: 69.61
+**Details:**
+Real-time market analysis for SPY. Auto-generated watchlist task.
