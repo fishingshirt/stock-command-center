@@ -1,42 +1,30 @@
 {
   "ticker": "MSFT",
-  "timestamp": "2026-05-15T07:30:03.692825+00:00",
-  "current_price": 108.36,
-  "dcf_target": 55.64,
-  "comparable_target": 70.32,
-  "blended_target": 62.98,
+  "timestamp": "2026-05-17T15:31:20.383872+00:00",
+  "current_price": 421.92,
+  "dcf_target": 176.46,
+  "comparable_target": 326.71,
+  "blended_target": 251.58,
   "margin_of_safety_pct": 0,
-  "dcf_model": {
-    "current_fcf_billions": 2.94,
-    "projected_fcf_5yr": [
-      3.56,
-      4.3,
-      5.2,
-      6.29,
-      7.61
-    ],
-    "growth_rate_assumed": 0.209,
-    "wacc": 0.084,
-    "terminal_growth": 0.03,
-    "terminal_value_billions": 145.64,
-    "enterprise_value_billions": 118.07,
-    "net_cash_billions": 14.14,
-    "equity_value_billions": 132.21,
-    "intrinsic_per_share": 55.64,
-    "method": "DCF_5yr"
-  },
-  "comparable_model": {
-    "current_price": 108.36,
-    "trailing_pe": 39.37,
-    "forward_pe": 26.18,
-    "ev_ebitda": 20.91,
-    "price_to_sales": 8.09,
-    "price_to_book": 10.83,
-    "eps": 2.75,
-    "peer_median_pe": 25.55,
-    "implied_price_pe": 70.32,
-    "upside_pct": -35.1,
-    "method": "peer_multiples"
-  },
-  "verdict": "Overvalued"
+  "upside_pct": -40.37,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 25.129244,
+    "forward_pe": 21.78098,
+    "price_to_sales": 9.847538,
+    "price_to_book": 7.5644083,
+    "ev_ebitda": 17.247,
+    "eps_ttm": 16.79,
+    "eps_forward": 19.37103,
+    "sector": "Technology",
+    "sector_median_pe": 28,
+    "implied_pe": 470.12,
+    "implied_ps": 342.69,
+    "implied_pb": 167.33,
+    "free_cash_flow": 37011251200,
+    "shares_outstanding": 7428434704,
+    "growth_assumed": 0.234,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
 }

@@ -1,42 +1,30 @@
 {
   "ticker": "AMZN",
-  "timestamp": "2026-05-15T07:30:06.571540+00:00",
-  "current_price": 329.96,
-  "dcf_target": 86.69,
-  "comparable_target": 228.11,
-  "blended_target": 157.4,
+  "timestamp": "2026-05-17T15:31:50.072983+00:00",
+  "current_price": 264.14,
+  "dcf_target": 167.15,
+  "comparable_target": 123.37,
+  "blended_target": 145.26,
   "margin_of_safety_pct": 0,
-  "dcf_model": {
-    "current_fcf_billions": 9.93,
-    "projected_fcf_5yr": [
-      11.22,
-      12.67,
-      14.31,
-      16.16,
-      18.25
-    ],
-    "growth_rate_assumed": 0.129,
-    "wacc": 0.119,
-    "terminal_growth": 0.03,
-    "terminal_value_billions": 211.49,
-    "enterprise_value_billions": 171.67,
-    "net_cash_billions": 14.36,
-    "equity_value_billions": 186.03,
-    "intrinsic_per_share": 86.69,
-    "method": "DCF_5yr"
-  },
-  "comparable_model": {
-    "current_price": 329.96,
-    "trailing_pe": 36.51,
-    "forward_pe": 28.15,
-    "ev_ebitda": 22.11,
-    "price_to_sales": 4.15,
-    "price_to_book": 11.44,
-    "eps": 9.04,
-    "peer_median_pe": 25.24,
-    "implied_price_pe": 228.11,
-    "upside_pct": -30.87,
-    "method": "peer_multiples"
-  },
-  "verdict": "Overvalued"
+  "upside_pct": -45.01,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 31.633533,
+    "forward_pe": 26.751066,
+    "price_to_sales": 3.8253567,
+    "price_to_book": 6.4278593,
+    "ev_ebitda": 18.823,
+    "eps_ttm": 8.35,
+    "eps_forward": 9.874,
+    "sector": "Consumer Cyclical",
+    "sector_median_pe": 22,
+    "implied_pe": 183.7,
+    "implied_ps": 104.22,
+    "implied_pb": 82.19,
+    "free_cash_flow": 9806624768,
+    "shares_outstanding": 10757109436,
+    "growth_assumed": 0.748,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
 }

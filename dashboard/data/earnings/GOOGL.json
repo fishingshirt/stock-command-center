@@ -1,36 +1,56 @@
 {
-  "next_earnings_date": "2026-06-02",
-  "earnings_history": [
+  "ticker": "GOOGL",
+  "analyzed_at": "2026-05-17T15:31:32.051597+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
     {
-      "date": "2026-02-28",
-      "eps_estimate": 1.88,
-      "reported_eps": 2.08,
-      "surprise_pct": 13.9
+      "date": "2026-07-23",
+      "eps_estimate": 2.88,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
     },
     {
-      "date": "2025-11-30",
-      "eps_estimate": 1.58,
-      "reported_eps": 1.78,
-      "surprise_pct": 10.7
+      "date": "2026-04-29",
+      "eps_estimate": 2.63,
+      "reported_eps": 5.11,
+      "surprise_pct": 94.3
     },
     {
-      "date": "2025-08-30",
-      "eps_estimate": 1.28,
-      "reported_eps": 1.48,
-      "surprise_pct": 15.6
+      "date": "2026-02-04",
+      "eps_estimate": 2.64,
+      "reported_eps": 2.82,
+      "surprise_pct": 6.78
+    },
+    {
+      "date": "2025-10-29",
+      "eps_estimate": 2.26,
+      "reported_eps": 2.87,
+      "surprise_pct": 26.88
+    },
+    {
+      "date": "2025-07-23",
+      "eps_estimate": 2.2,
+      "reported_eps": 2.31,
+      "surprise_pct": 5.09
+    },
+    {
+      "date": "2025-04-24",
+      "eps_estimate": 2.01,
+      "reported_eps": 2.81,
+      "surprise_pct": 40.1
     }
   ],
-  "eps_ttm": 8.32,
-  "eps_forward": 10.82,
-  "revenue_growth": 0.008,
-  "earnings_growth": 0.263,
-  "pe_trailing": 54.5,
-  "pe_forward": 13.7,
-  "peg_ratio": 0.78,
-  "ticker": "GOOGL",
-  "analyzed_at": "2026-05-15T08:00:07.298312+00:00",
-  "source": "mock_fallback",
-  "surprise_avg_pct": 13.4,
-  "earnings_catalyst_score": 65,
-  "verdict": "Strong earnings momentum"
+  "quarterly_history": [],
+  "pe_trailing": 30.311687,
+  "pe_forward": 27.456259,
+  "peg_ratio": 1.56,
+  "eps_ttm": 13.09,
+  "eps_forward": 14.45135,
+  "revenue_growth": 0.218,
+  "earnings_growth": 0.82,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 50,
+  "verdict": "Solid earnings trend"
 }

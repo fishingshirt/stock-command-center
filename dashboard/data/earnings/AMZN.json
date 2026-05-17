@@ -1,36 +1,56 @@
 {
-  "next_earnings_date": "2026-06-02",
-  "earnings_history": [
+  "ticker": "AMZN",
+  "analyzed_at": "2026-05-17T15:31:52.630140+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
     {
-      "date": "2026-02-28",
-      "eps_estimate": 3.66,
-      "reported_eps": 3.86,
-      "surprise_pct": -14.5
+      "date": "2026-07-30",
+      "eps_estimate": 1.82,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
     },
     {
-      "date": "2025-11-30",
-      "eps_estimate": 3.36,
-      "reported_eps": 3.56,
-      "surprise_pct": -16.7
+      "date": "2026-04-29",
+      "eps_estimate": 1.64,
+      "reported_eps": 2.78,
+      "surprise_pct": 69.02
     },
     {
-      "date": "2025-08-30",
-      "eps_estimate": 3.06,
-      "reported_eps": 3.26,
-      "surprise_pct": -13.4
+      "date": "2026-02-05",
+      "eps_estimate": 1.95,
+      "reported_eps": 1.95,
+      "surprise_pct": 0.22
+    },
+    {
+      "date": "2025-10-30",
+      "eps_estimate": 1.56,
+      "reported_eps": 1.95,
+      "surprise_pct": 25.2
+    },
+    {
+      "date": "2025-07-31",
+      "eps_estimate": 1.32,
+      "reported_eps": 1.68,
+      "surprise_pct": 27.19
+    },
+    {
+      "date": "2025-05-01",
+      "eps_estimate": 1.36,
+      "reported_eps": 1.59,
+      "surprise_pct": 16.77
     }
   ],
-  "eps_ttm": 15.44,
-  "eps_forward": 20.07,
-  "revenue_growth": 0.074,
-  "earnings_growth": 0.206,
-  "pe_trailing": 19.43,
-  "pe_forward": 40.98,
-  "peg_ratio": 1.35,
-  "ticker": "AMZN",
-  "analyzed_at": "2026-05-15T07:30:06.532166+00:00",
-  "source": "mock_fallback",
-  "surprise_avg_pct": -14.87,
-  "earnings_catalyst_score": 35,
+  "quarterly_history": [],
+  "pe_trailing": 31.633533,
+  "pe_forward": 26.751066,
+  "peg_ratio": 1.83,
+  "eps_ttm": 8.35,
+  "eps_forward": 9.874,
+  "revenue_growth": 0.166,
+  "earnings_growth": 0.748,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 40,
   "verdict": "Mixed earnings signals"
 }

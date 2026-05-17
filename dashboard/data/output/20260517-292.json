@@ -1,0 +1,174 @@
+{
+  "task_id": "20260517-292",
+  "subject": "AAPL analysis",
+  "ticker": "AAPL",
+  "timestamp": "2026-05-17T15:31:07.769223+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 65,
+  "summary": "AAPL @ $300.23 \u2014 ACCUMULATE (65% confidence) | Bullish: Bullish news sentiment detected | Warnings: RSI 88.43 \u2014 possible reversal risk; Price at 97.3% of 52-week range \u2014 limited upside | RSI: 88.43 | P/E: 36.347458 | Strategy: MOMENTUM",
+  "signal_score": 0.217,
+  "strategy": "MOMENTUM",
+  "key_metrics": {
+    "ticker": "AAPL",
+    "current_price": 300.23,
+    "previous_close": 298.21,
+    "day_change_pct": 0.68,
+    "sma_20": 281.36,
+    "sma_50": 265.97,
+    "sma_200": 258.65,
+    "rsi_14": 88.43,
+    "52_week_high": 303.2,
+    "52_week_low": 193.46,
+    "price_vs_52w_pct": 97.3,
+    "volume_surge": 1.06,
+    "avg_volume": 43553490,
+    "market_cap": 4409585041408,
+    "pe_trailing": 36.347458,
+    "pe_forward": 31.31931,
+    "peg_ratio": 2.61,
+    "eps_ttm": 8.26,
+    "eps_forward": 9.5861,
+    "revenue_growth": 0.166,
+    "earnings_growth": 0.218,
+    "profit_margin": 0.27152002,
+    "short_ratio": 3.11,
+    "beta": 1.065,
+    "return_5d_pct": 2.58,
+    "return_1mo_pct": 10.06,
+    "return_3mo_pct": 13.88,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.5,
+      "note": "Strong 1mo momentum +10.06%"
+    },
+    {
+      "name": "rsi",
+      "score": -2.0,
+      "note": "RSI extremely overbought 88.43"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (281.36)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (258.65) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 36.347458x"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 2.61 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.0,
+      "note": "Revenue growing 17% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 22% YoY"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (97.3% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [
+    "RSI 88.43 \u2014 possible reversal risk",
+    "Price at 97.3% of 52-week range \u2014 limited upside"
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 4,
+    "bearish": 0,
+    "total_mentions": 4
+  },
+  "news": [
+    {
+      "title": "Is the iShares EEMA ETF a Buy After Gateway Wealth Partners Raised Its Stake by $17.5 Million?",
+      "published": "Sun, 17 May 2026 15:11:01 +0000",
+      "url": "https://www.fool.com/coverage/filings/2026/05/17/is-the-ishares-eema-etf-a-buy-after-gateway-wealth-partners-raised-its-stake-by-usd17-5-million/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "SPYG Has Beaten SPYV by 390% Over a Decade and the Reason Matters More Than You Think",
+      "published": "Sun, 17 May 2026 14:05:18 +0000",
+      "url": "https://247wallst.com/investing/2026/05/17/spyg-has-beaten-spyv-by-390-over-a-decade-and-the-reason-matters-more-than-you-think/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Volatile Chipmaker Stocks Emerge as Key Driver of S&P 500 Rally",
+      "published": "Sun, 17 May 2026 13:00:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/volatile-chipmaker-stocks-emerge-key-130000517.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "MP Materials\u2019 Apple And Pentagon Deals Reshape US Magnet Growth Story",
+      "published": "Sun, 17 May 2026 12:09:18 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-apple-pentagon-deals-120918538.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "5 big analyst AI moves: PT hikes for Samsung and SK Hynix, AMD downgraded",
+      "published": "Sun, 17 May 2026 09:30:03 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-big-analyst-ai-moves-093003635.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/AAPL"
+  ],
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 300.23,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 201.19,
+    "margin_of_safety_pct": 0,
+    "verdict": "OVERVALUED",
+    "upside_pct": -32.99
+  },
+  "earnings": {
+    "catalyst_score": 30,
+    "verdict": "Mixed earnings signals",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "max_positions",
+    "message": "No rotation candidate"
+  },
+  "advisor": {
+    "ticker": "AAPL",
+    "recommendation": "ACCUMULATE",
+    "confidence": 65,
+    "strategy": "MOMENTUM",
+    "reasoning": "## AAPL Investment Thesis\n\n**Recommendation:** ACCUMULATE (65% confidence)\n**Strategy:** MOMENTUM\n**Price:** $300.23\n**Daily Change:** \ud83d\udfe2 +0.68%\n\n**Valuation:** Target $201.19 | Upside -32.99% | MoS 0% | Verdict: OVERVALUED\n\n**Earnings:** Mixed earnings signals (catalyst 30)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Strong 1mo momentum +10.06%\n\u26a0\ufe0f **Rsi:** RSI extremely overbought 88.43\n\u2705 **Sma20:** Price above SMA20 (281.36)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (258.65) \u2014 confirmed uptrend\n\u26a0\ufe0f **Pe:** Elevated P/E 36.347458x\n\u26a0\ufe0f **Peg:** PEG 2.61 > 2.0 \u2014 expensive growth\n\u2705 **Revenue Growth:** Revenue growing 17% YoY\n\n### Positive Factors\n\u2705 Bullish news sentiment detected\n\n### Risk Factors\n\u26a0\ufe0f RSI 88.43 \u2014 possible reversal risk\n\u26a0\ufe0f Price at 97.3% of 52-week range \u2014 limited upside\n\n### News Sentiment: BULLISH (100.0)\n- 4 bullish mentions, 0 bearish\n- Recent headlines:\n  - Is the iShares EEMA ETF a Buy After Gateway Wealth Partners Raised Its Stake by $17.5 Million?\n  - SPYG Has Beaten SPYV by 390% Over a Decade and the Reason Matters More Than You Think\n  - Volatile Chipmaker Stocks Emerge as Key Driver of S&P 500 Rally\n\n### Key Metrics\n- **Ticker:** AAPL\n- **Price:** $300.23\n- **P/E (trailing):** 36.347458\n- **P/E (forward):** 31.31931\n- **PEG:** 2.61\n- **RSI(14):** 88.43\n- **SMA 20:** 281.36\n- **SMA 50:** 265.97\n- **52W Range:** $193.46 - $303.2\n- **1mo Return:** 10.06%\n- **3mo Return:** 13.88%\n- **Volume Surge:** 1.06\n- **Market Cap:** $4409.6B\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T15:31:14.845218+00:00"
+  }
+}

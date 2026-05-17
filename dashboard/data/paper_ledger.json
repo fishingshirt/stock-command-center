@@ -1,5 +1,5 @@
 {
-  "cash": 56161.56222700002,
+  "cash": 54092.26732900001,
   "initial_capital": 100000.0,
   "positions": {
     "IWM": {
@@ -86,21 +86,11 @@
       "ticker": "BTC-USD",
       "shares": 0.0748,
       "entry_price": 78062.0,
-      "last_price": 77980.6484,
+      "last_price": 77997.2578,
       "confidence": 95,
       "reasoning": "BTC-USD @ $78062 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | Strategy: GROWTH",
       "task_id": "20260517-252",
       "opened_at": "2026-05-17T14:30:24.728055+00:00"
-    },
-    "SCHG": {
-      "ticker": "SCHG",
-      "shares": 109.4791,
-      "entry_price": 34.26,
-      "last_price": 34.26,
-      "confidence": 67,
-      "reasoning": "SCHG @ $34.26 \u2014 ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range \u2014 limited upside | RSI: 71.04 | P/E: 33.920525 | Strategy: GROWTH",
-      "task_id": "20260517-284",
-      "opened_at": "2026-05-17T15:00:46.691685+00:00"
     },
     "MTUM": {
       "ticker": "MTUM",
@@ -121,6 +111,16 @@
       "reasoning": "NVDA @ $225.32 \u2014 BUY (87% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 46.077713x \u2014 growth expectations priced in | RSI: 56.24 | P/E: 46.077713 | Strategy: MOMENTUM",
       "task_id": "20260517-291",
       "opened_at": "2026-05-17T15:16:17.931537+00:00"
+    },
+    "MSFT": {
+      "ticker": "MSFT",
+      "shares": 13.7942,
+      "entry_price": 421.92,
+      "last_price": 421.92,
+      "confidence": 85,
+      "reasoning": "MSFT @ $421.92 \u2014 BUY (85% confidence) | Bullish: Bullish news sentiment detected | RSI: 48.12 | P/E: 25.129244 | Strategy: GROWTH",
+      "task_id": "20260517-293",
+      "opened_at": "2026-05-17T15:31:24.156526+00:00"
     }
   },
   "history": [
@@ -403,8 +403,22 @@
       "opened_at": "2026-05-17T14:45:41.061572+00:00",
       "closed_at": "2026-05-17T15:16:17.922666+00:00",
       "task_id": "20260517-291"
+    },
+    {
+      "ticker": "SCHG",
+      "action": "SELL",
+      "shares": 109.4791,
+      "entry_price": 34.26,
+      "exit_price": 34.26,
+      "pnl": 0.0,
+      "return_pct": 0.0,
+      "hold_seconds": 1837.5,
+      "reasoning": "Rotated out for MSFT (85% vs 67%)",
+      "opened_at": "2026-05-17T15:00:46.691685+00:00",
+      "closed_at": "2026-05-17T15:31:24.147784+00:00",
+      "task_id": "20260517-293"
     }
   ],
   "created_at": "2026-05-15T06:50:00+00:00",
-  "updated_at": "2026-05-17T15:16:17.931542+00:00"
+  "updated_at": "2026-05-17T15:31:53.466835+00:00"
 }
