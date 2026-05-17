@@ -6,20 +6,21 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
+_(No tasks in this section.)_
+
+## In Progress
+
 ### Task ID: 20260517-211
 **Subject:** Auto: S&P 500 top movers sentiment scan
 **Assigned Bot:** researcher_bot
 **Priority:** medium
 **Created:** 2026-05-17
+**Started At:** 2026-05-17T12:56:22.462588+00:00
 **Details:**
 - Identify top 5 daily movers
 - Fundamentals check
 - News sentiment
 - Investment recommendation
-
-## In Progress
-
-_(No tasks in this section.)_
 
 ## Done
 
