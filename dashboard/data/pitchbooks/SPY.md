@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-17T02:46:12.369784+00:00  
+**Generated:** 2026-05-17T03:00:54.962025+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.61, Price: $739.17.
 
-**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$53.78**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$262.38**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **40/100** (Mixed earnings signals)
-- Recent EPS surprise: **+23.8%**
-- Next earnings date: **2026-06-01**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **-8.9%**
+- Next earnings date: **2026-06-23**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $78.3 |
-| DCF Intrinsic Value | $79.41 |
-| Comparable Implied | $28.16 |
-| Blended Target | $53.78 |
+| Current Price | $450.6 |
+| DCF Intrinsic Value | $181.69 |
+| Comparable Implied | $343.06 |
+| Blended Target | $262.38 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,19 +47,18 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.6
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (8.5/10)
-- ⚠️ 1 active controversies
+- ⚠️ Elevated sanctions exposure (8.9/10)
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 47.4/100
-- **Sanctions Risk:** 8.5/10
-- **ESG Score:** 78.3/100
-- **Controversies:** 1
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 55.6/100
+- **Sanctions Risk:** 8.9/10
+- **ESG Score:** 84.0/100
+- **Controversies:** 0
 
 ---
 
