@@ -48,14 +48,7 @@ Real-time market analysis for SBUX. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-242
-**Subject:** COST analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T14:00:39.575293+00:00
-**Details:**
-Real-time market analysis for COST. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13531,3 +13524,15 @@ Real-time market analysis for PFE. Auto-generated watchlist task.
 **Summary:** NKE @ $41.88 — HOLD (53% confidence) | Bullish: RSI 23.01 — oversold bounce potential; Price near 52-week low — potential value entry | RSI: 23.01 | P/E: 27.552
 **Details:**
 Real-time market analysis for NKE. Auto-generated watchlist task.
+
+### Task ID: 20260517-242
+**Subject:** COST analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T14:00:39.575293+00:00
+**Completed At:** 2026-05-17T14:00:46.530019+00:00
+**Result:** dashboard/data/output/20260517-242.json
+**Summary:** COST @ $1048.95 — HOLD (50% confidence) | Warnings: High P/E 54.63281x — growth expectations priced in; Price at 91.9% of 52-week range — limited upside | RSI: 
+**Details:**
+Real-time market analysis for COST. Auto-generated watchlist task.
