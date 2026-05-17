@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-17T07:00:34.566093+00:00  
+**Generated:** 2026-05-17T07:16:15.721694+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.61, Price: $739.17.
 
-**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$262.01**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$350.23**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **25/100** (Earnings weakness detected)
-- Recent EPS surprise: **-0.6%**
-- Next earnings date: **2026-06-04**
+- Earnings momentum score: **55/100** (Mixed earnings signals)
+- Recent EPS surprise: **+9.7%**
+- Next earnings date: **2026-06-13**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $311.02 |
-| DCF Intrinsic Value | $62.81 |
-| Comparable Implied | $461.21 |
-| Blended Target | $262.01 |
+| Current Price | $481.11 |
+| DCF Intrinsic Value | $30.31 |
+| Comparable Implied | $670.16 |
+| Blended Target | $350.23 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,18 +47,19 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.6
 
 ## 3. Risks
 
-- No material compliance flags detected.
+- ⚠️ Elevated sanctions exposure (9.7/10)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** LOW
-- **Compliance Score:** 92.2/100
-- **Sanctions Risk:** 1.6/10
-- **ESG Score:** 76.7/100
-- **Controversies:** 0
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 41.5/100
+- **Sanctions Risk:** 9.7/10
+- **ESG Score:** 58.6/100
+- **Controversies:** 1
 
 ---
 
