@@ -24,14 +24,7 @@ Real-time market analysis for MSFT. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-291
-**Subject:** NVDA analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T15:16:08.611886+00:00
-**Details:**
-Real-time market analysis for NVDA. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -868,3 +861,15 @@ Real-time market analysis for SPYM. Auto-generated watchlist task.
 **Summary:** VOOG @ $82.19 — ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 93.9% of 52-week range — limited upside | RSI: 70.52
 **Details:**
 Real-time market analysis for VOOG. Auto-generated watchlist task.
+
+### Task ID: 20260517-291
+**Subject:** NVDA analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T15:16:08.611886+00:00
+**Completed At:** 2026-05-17T15:16:17.962486+00:00
+**Result:** dashboard/data/output/20260517-291.json
+**Summary:** NVDA @ $225.32 — BUY (87% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 46.077713x — growth expectations priced in | RSI: 56.24 | 
+**Details:**
+Real-time market analysis for NVDA. Auto-generated watchlist task.
