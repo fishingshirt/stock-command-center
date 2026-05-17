@@ -1,0 +1,156 @@
+{
+  "task_id": "20260517-239",
+  "subject": "LLY analysis",
+  "ticker": "LLY",
+  "timestamp": "2026-05-17T13:46:27.362940+00:00",
+  "recommendation": "BUY",
+  "confidence": 85,
+  "summary": "LLY @ $1004.92 \u2014 BUY (85% confidence) | RSI: 74.45 | P/E: 35.711445 | Strategy: GROWTH",
+  "signal_score": 0.6,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "LLY",
+    "current_price": 1004.92,
+    "previous_close": 1004.97,
+    "day_change_pct": -0.0,
+    "sma_20": 942.91,
+    "sma_50": 938.59,
+    "sma_200": 918.39,
+    "rsi_14": 74.45,
+    "52_week_high": 1133.95,
+    "52_week_low": 623.78,
+    "price_vs_52w_pct": 74.7,
+    "volume_surge": 0.95,
+    "avg_volume": 3089317,
+    "market_cap": 896128712704,
+    "pe_trailing": 35.711445,
+    "pe_forward": 22.615337,
+    "peg_ratio": 1.35,
+    "eps_ttm": 28.14,
+    "eps_forward": 44.43533,
+    "revenue_growth": 0.555,
+    "earnings_growth": 1.699,
+    "profit_margin": 0.34986,
+    "short_ratio": 2.45,
+    "beta": 0.481,
+    "return_5d_pct": 4.1,
+    "return_1mo_pct": 9.43,
+    "return_3mo_pct": -2.84,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +9.43%"
+    },
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 74.45"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (942.91)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (918.39) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 35.711445x"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 22.615337x < trailing 35.711445x (expected growth)"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.5,
+      "note": "Revenue growing 56% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 170% YoY"
+    }
+  ],
+  "reasons": [],
+  "warnings": [],
+  "sentiment": {
+    "score": 0.0,
+    "label": "NEUTRAL",
+    "bullish": 2,
+    "bearish": 2,
+    "total_mentions": 4
+  },
+  "news": [
+    {
+      "title": "Could Eli Lilly's Next Weight Loss Drug Waylay Wegovy -- and Even Zap Zepbound?",
+      "published": "Sun, 17 May 2026 05:20:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/17/could-eli-lillys-next-weightloss-drug-waylay-wegov/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "1 of Wall Street\u2019s Favorite Stock to Target This Week and 2 We Avoid",
+      "published": "Sun, 17 May 2026 04:36:55 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stock-043655553.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Eli Lilly (LLY) Is Up 6.0% After Obesity Data And Manufacturing Spend - Has The Bull Case Changed?",
+      "published": "Sat, 16 May 2026 16:13:13 +0000",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-lly-6-0-161313917.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Eli Lilly and Company (LLY): Investors Advised to Focus on the Bigger Picture",
+      "published": "Sat, 16 May 2026 15:26:26 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-company-lly-investors-152626115.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Lilly, Caitlin Clark Foundation, and Musco Lighting open three community sports courts in Indianapolis, expanding year-round access for youth",
+      "published": "Sat, 16 May 2026 15:00:00 +0000",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/lilly-caitlin-clark-foundation-musco-150000449.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/LLY"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 1004.92,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 8476.55,
+    "margin_of_safety_pct": 88.14,
+    "verdict": "STRONG_BUY",
+    "upside_pct": 743.5
+  },
+  "earnings": {
+    "catalyst_score": 50,
+    "verdict": "Solid earnings trend",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "ok",
+    "message": "Bought 4.4148 LLY @ $1004.92",
+    "cost": 4436.52,
+    "rotation": "Sold PYPL to buy LLY"
+  },
+  "advisor": {
+    "ticker": "LLY",
+    "recommendation": "BUY",
+    "confidence": 85,
+    "strategy": "GROWTH",
+    "reasoning": "## LLY Investment Thesis\n\n**Recommendation:** BUY (85% confidence)\n**Strategy:** GROWTH\n**Price:** $1004.92\n**Daily Change:** \ud83d\udd34 -0.00%\n\n**Valuation:** Target $8476.55 | Upside 743.5% | MoS 88.14% | Verdict: STRONG_BUY\n\n**Earnings:** Solid earnings trend (catalyst 50)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Positive 1mo momentum +9.43%\n\u26a0\ufe0f **Rsi:** RSI overbought 74.45\n\u2705 **Sma20:** Price above SMA20 (942.91)\n\u2705 **Sma200:** Price well above SMA200 (918.39) \u2014 confirmed uptrend\n\u26a0\ufe0f **Pe:** Elevated P/E 35.711445x\n\u2705 **Pe Forward:** Forward P/E 22.615337x < trailing 35.711445x (expected growth)\n\u2705 **Revenue Growth:** Revenue growing 56% YoY\n\u2705 **Earnings Growth:** Earnings growing 170% YoY\n\n### News Sentiment: NEUTRAL (0.0)\n- 2 bullish mentions, 2 bearish\n- Recent headlines:\n  - Could Eli Lilly's Next Weight Loss Drug Waylay Wegovy -- and Even Zap Zepbound?\n  - 1 of Wall Street\u2019s Favorite Stock to Target This Week and 2 We Avoid\n  - Eli Lilly (LLY) Is Up 6.0% After Obesity Data And Manufacturing Spend - Has The Bull Case Changed?\n\n### Key Metrics\n- **Ticker:** LLY\n- **Price:** $1004.92\n- **P/E (trailing):** 35.711445\n- **P/E (forward):** 22.615337\n- **PEG:** 1.35\n- **RSI(14):** 74.45\n- **SMA 20:** 942.91\n- **SMA 50:** 938.59\n- **52W Range:** $623.78 - $1133.95\n- **1mo Return:** 9.43%\n- **3mo Return:** -2.84%\n- **Volume Surge:** 0.95\n- **Market Cap:** $896.1B\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T13:46:31.319255+00:00"
+  }
+}

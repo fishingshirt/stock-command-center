@@ -1,0 +1,56 @@
+{
+  "ticker": "LLY",
+  "analyzed_at": "2026-05-17T13:46:31.174531+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
+    {
+      "date": "2026-08-05",
+      "eps_estimate": 8.81,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
+    },
+    {
+      "date": "2026-04-30",
+      "eps_estimate": 6.79,
+      "reported_eps": 8.55,
+      "surprise_pct": 25.9
+    },
+    {
+      "date": "2026-02-04",
+      "eps_estimate": 6.91,
+      "reported_eps": 7.54,
+      "surprise_pct": 9.14
+    },
+    {
+      "date": "2025-10-30",
+      "eps_estimate": 5.89,
+      "reported_eps": 7.02,
+      "surprise_pct": 19.15
+    },
+    {
+      "date": "2025-08-07",
+      "eps_estimate": 5.59,
+      "reported_eps": 6.31,
+      "surprise_pct": 12.89
+    },
+    {
+      "date": "2025-05-01",
+      "eps_estimate": 3.46,
+      "reported_eps": 3.34,
+      "surprise_pct": -3.39
+    }
+  ],
+  "quarterly_history": [],
+  "pe_trailing": 35.711445,
+  "pe_forward": 22.615337,
+  "peg_ratio": 1.35,
+  "eps_ttm": 28.14,
+  "eps_forward": 44.43533,
+  "revenue_growth": 0.555,
+  "earnings_growth": 1.699,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 50,
+  "verdict": "Solid earnings trend"
+}

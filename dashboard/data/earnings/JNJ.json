@@ -1,0 +1,56 @@
+{
+  "ticker": "JNJ",
+  "analyzed_at": "2026-05-17T13:46:14.490244+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
+    {
+      "date": "2026-07-15",
+      "eps_estimate": 2.85,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
+    },
+    {
+      "date": "2026-04-14",
+      "eps_estimate": 2.27,
+      "reported_eps": 2.14,
+      "surprise_pct": -5.86
+    },
+    {
+      "date": "2026-01-21",
+      "eps_estimate": 2.46,
+      "reported_eps": 2.46,
+      "surprise_pct": -0.11
+    },
+    {
+      "date": "2025-10-14",
+      "eps_estimate": 2.76,
+      "reported_eps": 2.8,
+      "surprise_pct": 1.49
+    },
+    {
+      "date": "2025-07-16",
+      "eps_estimate": 2.68,
+      "reported_eps": 2.77,
+      "surprise_pct": 3.21
+    },
+    {
+      "date": "2025-04-15",
+      "eps_estimate": 2.26,
+      "reported_eps": 4.54,
+      "surprise_pct": 100.92
+    }
+  ],
+  "quarterly_history": [],
+  "pe_trailing": 26.239584,
+  "pe_forward": 17.83708,
+  "peg_ratio": 2.95,
+  "eps_ttm": 8.64,
+  "eps_forward": 12.71004,
+  "revenue_growth": 0.099,
+  "earnings_growth": -0.529,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 5,
+  "verdict": "Earnings weakness detected"
+}

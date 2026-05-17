@@ -1,0 +1,157 @@
+{
+  "task_id": "20260517-240",
+  "subject": "PFE analysis",
+  "ticker": "PFE",
+  "timestamp": "2026-05-17T13:46:35.897796+00:00",
+  "recommendation": "HOLD",
+  "confidence": 52,
+  "summary": "PFE @ $25.33 \u2014 HOLD (52% confidence) | Bullish: RSI 32.35 \u2014 approaching oversold; Bullish news sentiment detected | RSI: 32.35 | P/E: 19.335878 | Strategy: GROWTH",
+  "signal_score": -0.143,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "PFE",
+    "current_price": 25.33,
+    "previous_close": 25.75,
+    "day_change_pct": -1.63,
+    "sma_20": 26.1,
+    "sma_50": 26.55,
+    "sma_200": 24.96,
+    "rsi_14": 32.35,
+    "52_week_high": 28.75,
+    "52_week_low": 22.64,
+    "price_vs_52w_pct": 44.0,
+    "volume_surge": 0.9,
+    "avg_volume": 37813496,
+    "market_cap": 144366927872,
+    "pe_trailing": 19.335878,
+    "pe_forward": 8.934618,
+    "peg_ratio": 13.77,
+    "eps_ttm": 1.31,
+    "eps_forward": 2.83504,
+    "revenue_growth": 0.054,
+    "earnings_growth": -0.101,
+    "profit_margin": 0.118310004,
+    "short_ratio": 3.98,
+    "beta": 0.305,
+    "return_5d_pct": -1.86,
+    "return_1mo_pct": -6.44,
+    "return_3mo_pct": -5.93,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": -0.5,
+      "note": "Negative 1mo momentum -6.44%"
+    },
+    {
+      "name": "rsi",
+      "score": 1.0,
+      "note": "RSI oversold 32.35"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (26.1)"
+    },
+    {
+      "name": "death_cross",
+      "score": -1.0,
+      "note": "SMA20 < SMA50 (short-term downtrend)"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 8.934618x < trailing 19.335878x (expected growth)"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 13.77 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "earnings_growth",
+      "score": -1.0,
+      "note": "Earnings declining -10% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "RSI 32.35 \u2014 approaching oversold",
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 0,
+    "total_mentions": 2
+  },
+  "news": [
+    {
+      "title": "Up 231%, Is RTX Proving Why It Was a Mistake for Honeywell to Replace RTX in the Dow Jones Industrial Average?",
+      "published": "Sun, 17 May 2026 00:20:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/16/rtx-honeywell-stock-dow-jones-industrial-average/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Top 5 Analyst Questions From Novavax\u2019s Q1 Earnings Call",
+      "published": "Sat, 16 May 2026 20:12:55 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-novavax-201255463.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Wolfe Research Says COVID Uncertainty Continues to Weigh on Pfizer (PFE) Outlook",
+      "published": "Sat, 16 May 2026 10:56:11 +0000",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/wolfe-research-says-covid-uncertainty-105611688.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Pfizer Hemophilia Approval Expands HYMPAVZI Reach And Supports Valuation Case",
+      "published": "Sat, 16 May 2026 00:21:44 +0000",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/pfizer-hemophilia-approval-expands-hympavzi-002144337.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Rigel Pharmaceuticals Inks Breast Cancer Drug Deal With Arvinas, Pfizer",
+      "published": "Fri, 15 May 2026 20:31:07 +0000",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/rigel-pharmaceuticals-inks-breast-cancer-203107776.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/PFE"
+  ],
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 25.33,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 36.27,
+    "margin_of_safety_pct": 30.16,
+    "verdict": "STRONG_BUY",
+    "upside_pct": 43.19
+  },
+  "earnings": {
+    "catalyst_score": 5,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "skipped",
+    "reason": "rec=HOLD"
+  },
+  "advisor": {
+    "ticker": "PFE",
+    "recommendation": "HOLD",
+    "confidence": 52,
+    "strategy": "GROWTH",
+    "reasoning": "## PFE Investment Thesis\n\n**Recommendation:** HOLD (52% confidence)\n**Strategy:** GROWTH\n**Price:** $25.33\n**Daily Change:** \ud83d\udd34 -1.63%\n\n**Valuation:** Target $36.27 | Upside 43.19% | MoS 30.16% | Verdict: STRONG_BUY\n\n**Earnings:** Earnings weakness detected (catalyst 5)\n\n### Technical Signals\n\u26a0\ufe0f **1Mo Momentum:** Negative 1mo momentum -6.44%\n\u2705 **Rsi:** RSI oversold 32.35\n\u26a0\ufe0f **Sma20:** Price below SMA20 (26.1)\n\u26a0\ufe0f **Death Cross:** SMA20 < SMA50 (short-term downtrend)\n\u2705 **Pe Forward:** Forward P/E 8.934618x < trailing 19.335878x (expected growth)\n\u26a0\ufe0f **Peg:** PEG 13.77 > 2.0 \u2014 expensive growth\n\u26a0\ufe0f **Earnings Growth:** Earnings declining -10% YoY\n\u2705 **Sentiment:** Bullish news sentiment (100.0)\n\n### Positive Factors\n\u2705 RSI 32.35 \u2014 approaching oversold\n\u2705 Bullish news sentiment detected\n\n### News Sentiment: BULLISH (100.0)\n- 2 bullish mentions, 0 bearish\n- Recent headlines:\n  - Up 231%, Is RTX Proving Why It Was a Mistake for Honeywell to Replace RTX in the Dow Jones Industrial Average?\n  - The Top 5 Analyst Questions From Novavax\u2019s Q1 Earnings Call\n  - Wolfe Research Says COVID Uncertainty Continues to Weigh on Pfizer (PFE) Outlook\n\n### Key Metrics\n- **Ticker:** PFE\n- **Price:** $25.33\n- **P/E (trailing):** 19.335878\n- **P/E (forward):** 8.934618\n- **PEG:** 13.77\n- **RSI(14):** 32.35\n- **SMA 20:** 26.1\n- **SMA 50:** 26.55\n- **52W Range:** $22.64 - $28.75\n- **1mo Return:** -6.44%\n- **3mo Return:** -5.93%\n- **Volume Surge:** 0.9\n- **Market Cap:** $144.4B\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T13:46:40.085050+00:00"
+  }
+}

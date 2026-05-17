@@ -1,0 +1,30 @@
+{
+  "ticker": "LLY",
+  "timestamp": "2026-05-17T13:46:28.673525+00:00",
+  "current_price": 1004.92,
+  "dcf_target": 16615.98,
+  "comparable_target": 337.12,
+  "blended_target": 8476.55,
+  "margin_of_safety_pct": 88.14,
+  "upside_pct": 743.5,
+  "verdict": "STRONG_BUY",
+  "valuation_inputs": {
+    "trailing_pe": 35.711445,
+    "forward_pe": 22.615337,
+    "price_to_sales": 12.4033375,
+    "price_to_book": 28.78025,
+    "ev_ebitda": 25.796,
+    "eps_ttm": 28.14,
+    "eps_forward": 44.43533,
+    "sector": "Healthcare",
+    "sector_median_pe": 22,
+    "implied_pe": 619.08,
+    "implied_ps": 322.45,
+    "implied_pb": 69.83,
+    "free_cash_flow": 9156599808,
+    "shares_outstanding": 891741406,
+    "growth_assumed": 1.699,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

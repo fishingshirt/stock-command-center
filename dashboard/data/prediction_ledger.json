@@ -9699,6 +9699,61 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "JNJ",
+      "recommendation": "HOLD",
+      "confidence": 54,
+      "price_at_predict": 226.71,
+      "timestamp": "2026-05-17T13:46:10.662694+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "F",
+      "recommendation": "BUY",
+      "confidence": 83,
+      "price_at_predict": 13.4,
+      "timestamp": "2026-05-17T13:46:18.869477+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "LLY",
+      "recommendation": "BUY",
+      "confidence": 85,
+      "price_at_predict": 1004.92,
+      "timestamp": "2026-05-17T13:46:27.476603+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "PFE",
+      "recommendation": "HOLD",
+      "confidence": 52,
+      "price_at_predict": 25.33,
+      "timestamp": "2026-05-17T13:46:36.011428+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "NKE",
+      "recommendation": "HOLD",
+      "confidence": 53,
+      "price_at_predict": 41.88,
+      "timestamp": "2026-05-17T13:46:44.861587+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

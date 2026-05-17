@@ -1,0 +1,154 @@
+{
+  "task_id": "20260517-238",
+  "subject": "F analysis",
+  "ticker": "F",
+  "timestamp": "2026-05-17T13:46:18.771766+00:00",
+  "recommendation": "BUY",
+  "confidence": 83,
+  "summary": "F @ $13.4 \u2014 BUY (83% confidence) | RSI: 59.32 | Strategy: GROWTH",
+  "signal_score": 0.538,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "F",
+    "current_price": 13.4,
+    "previous_close": 14.48,
+    "day_change_pct": -7.46,
+    "sma_20": 12.36,
+    "sma_50": 12.01,
+    "sma_200": 12.31,
+    "rsi_14": 59.32,
+    "52_week_high": 14.94,
+    "52_week_low": 9.88,
+    "price_vs_52w_pct": 69.6,
+    "volume_surge": 2.12,
+    "avg_volume": 56744641,
+    "market_cap": 53394882560,
+    "pe_trailing": null,
+    "pe_forward": 7.237219,
+    "peg_ratio": 8.48,
+    "eps_ttm": -1.55,
+    "eps_forward": 1.85154,
+    "revenue_growth": 0.064,
+    "earnings_growth": 4.308,
+    "profit_margin": -0.03216,
+    "short_ratio": 0.0,
+    "beta": 1.664,
+    "return_5d_pct": 12.61,
+    "return_1mo_pct": 5.43,
+    "return_3mo_pct": -3.97,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +5.43%"
+    },
+    {
+      "name": "day_spike",
+      "score": -0.5,
+      "note": "Big daily drop -7.46%"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (12.36)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (12.31) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 8.48 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 431% YoY"
+    },
+    {
+      "name": "volume",
+      "score": 0.5,
+      "note": "Volume surge 2.12x average"
+    }
+  ],
+  "reasons": [],
+  "warnings": [],
+  "sentiment": {
+    "score": 20.0,
+    "label": "NEUTRAL",
+    "bullish": 3,
+    "bearish": 2,
+    "total_mentions": 5
+  },
+  "news": [
+    {
+      "title": "Why Ford (F) Stock Is Trading Up Today",
+      "published": "Sun, 17 May 2026 07:16:55 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ford-f-stock-trading-071655355.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Morgan Stanley turns bullish on Ford's EV storage business",
+      "published": "Sat, 16 May 2026 18:33:00 +0000",
+      "url": "https://www.thestreet.com/investing/stocks/morgan-stanley-turns-bullish-on-fords-ev-storage-business?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "General Dynamics Corporation (GD) Partners with Kodiak AI on Autonomous Ground Vehicles for Defense Applications",
+      "published": "Sat, 16 May 2026 18:07:40 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-corporation-gd-partners-180740343.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "For owners, the Ford Bronco isn't just a truck \u2014 it's a lifestyle",
+      "published": "Sat, 16 May 2026 16:09:34 +0000",
+      "url": "https://finance.yahoo.com/markets/article/for-owners-the-ford-bronco-isnt-just-a-truck--its-a-lifestyle-160934055.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "These Stocks Are Today\u2019s Movers: Intel, Boeing, Cerebras, Microsoft, DexCom, Figma, Coherent, Coinbase, and More",
+      "published": "Fri, 15 May 2026 23:15:00 +0000",
+      "url": "https://finance.yahoo.com/m/e5389dcf-3978-3336-a14d-9942c1d59d5a/these-stocks-are-today%E2%80%99s.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/F"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 13.4,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 45.13,
+    "margin_of_safety_pct": 70.31,
+    "verdict": "STRONG_BUY",
+    "upside_pct": 236.79
+  },
+  "earnings": {
+    "catalyst_score": 30,
+    "verdict": "Mixed earnings signals",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "max_positions",
+    "message": "No rotation candidate"
+  },
+  "advisor": {
+    "ticker": "F",
+    "recommendation": "BUY",
+    "confidence": 83,
+    "strategy": "GROWTH",
+    "reasoning": "## F Investment Thesis\n\n**Recommendation:** BUY (83% confidence)\n**Strategy:** GROWTH\n**Price:** $13.4\n**Daily Change:** \ud83d\udd34 -7.46%\n\n**Valuation:** Target $45.13 | Upside 236.79% | MoS 70.31% | Verdict: STRONG_BUY\n\n**Earnings:** Mixed earnings signals (catalyst 30)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Positive 1mo momentum +5.43%\n\u26a0\ufe0f **Day Spike:** Big daily drop -7.46%\n\u2705 **Sma20:** Price above SMA20 (12.36)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (12.31) \u2014 confirmed uptrend\n\u26a0\ufe0f **Peg:** PEG 8.48 > 2.0 \u2014 expensive growth\n\u2705 **Earnings Growth:** Earnings growing 431% YoY\n\u2705 **Volume:** Volume surge 2.12x average\n\n### News Sentiment: NEUTRAL (20.0)\n- 3 bullish mentions, 2 bearish\n- Recent headlines:\n  - Why Ford (F) Stock Is Trading Up Today\n  - Morgan Stanley turns bullish on Ford's EV storage business\n  - General Dynamics Corporation (GD) Partners with Kodiak AI on Autonomous Ground Vehicles for Defense Applications\n\n### Key Metrics\n- **Ticker:** F\n- **Price:** $13.4\n- **P/E (forward):** 7.237219\n- **PEG:** 8.48\n- **RSI(14):** 59.32\n- **SMA 20:** 12.36\n- **SMA 50:** 12.01\n- **52W Range:** $9.88 - $14.94\n- **1mo Return:** 5.43%\n- **3mo Return:** -3.97%\n- **Volume Surge:** 2.12\n- **Market Cap:** $53.4B\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T13:46:22.875941+00:00"
+  }
+}
