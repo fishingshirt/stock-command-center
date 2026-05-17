@@ -1,0 +1,56 @@
+{
+  "ticker": "ADBE",
+  "analyzed_at": "2026-05-17T13:11:36.012548+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
+    {
+      "date": "2026-06-11",
+      "eps_estimate": 5.83,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
+    },
+    {
+      "date": "2026-03-12",
+      "eps_estimate": 5.87,
+      "reported_eps": 6.06,
+      "surprise_pct": 3.18
+    },
+    {
+      "date": "2025-12-10",
+      "eps_estimate": 5.4,
+      "reported_eps": 5.5,
+      "surprise_pct": 1.9
+    },
+    {
+      "date": "2025-09-11",
+      "eps_estimate": 5.18,
+      "reported_eps": 5.31,
+      "surprise_pct": 2.48
+    },
+    {
+      "date": "2025-06-12",
+      "eps_estimate": 4.97,
+      "reported_eps": 5.06,
+      "surprise_pct": 1.71
+    },
+    {
+      "date": "2025-03-12",
+      "eps_estimate": 4.97,
+      "reported_eps": 5.08,
+      "surprise_pct": 2.17
+    }
+  ],
+  "quarterly_history": [],
+  "pe_trailing": 14.428905,
+  "pe_forward": 9.383757,
+  "peg_ratio": 0.7,
+  "eps_ttm": 17.16,
+  "eps_forward": 26.38602,
+  "revenue_growth": 0.12,
+  "earnings_growth": 0.111,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 20,
+  "verdict": "Earnings weakness detected"
+}

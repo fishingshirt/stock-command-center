@@ -1,17 +1,15 @@
 """
 bots/paper_trade.py
-Paper trading engine. Virtual portfolio with real position tracking.
-No market-hours restriction for paper trading (data can flow anytime).
+Paper trading engine. Actually buys AND sells. Rotates positions.
+Conviction-scaled position sizing.
 """
 import json
-import os
 from datetime import datetime, timezone
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 LEDGER_PATH = REPO_ROOT / "dashboard" / "data" / "paper_ledger.json"
 SETTINGS_PATH = REPO_ROOT / "dashboard" / "data" / "settings.json"
-
 LEDGER_PATH.parent.mkdir(parents=True, exist_ok=True)
 
 INITIAL_CAPITAL = 100000.0
@@ -20,9 +18,12 @@ INITIAL_CAPITAL = 100000.0
 def _load_settings() -> dict:
     defaults = {
         "auto_trade_enabled": True,
-        "paper_trade_confidence_threshold": 65,
-        "max_positions": 15,
+        "paper_trade_confidence_threshold": 60,
+        "max_positions": 12,
         "position_size_pct": 0.08,
+        "conviction_scaling": True,
+        "enable_rotation": True,
+        "rotation_threshold_diff": 15,
         "initial_capital": INITIAL_CAPITAL,
     }
     if SETTINGS_PATH.exists():
@@ -63,26 +64,29 @@ def _save_ledger(ledger: dict):
         json.dump(ledger, f, indent=2)
 
 
+def _update_prices(ledger: dict):
+    """Pull live prices for all open positions."""
+    try:
+        import yfinance as yf
+        for ticker in list(ledger.get("positions", {}).keys()):
+            try:
+                t = yf.Ticker(ticker)
+                hist = t.history(period="1d")
+                if len(hist) > 0:
+                    ledger["positions"][ticker]["last_price"] = round(float(hist.Close.iloc[-1]), 4)
+            except Exception:
+                pass
+    except Exception:
+        pass
+    return ledger
+
+
 def get_stats() -> dict:
-    """Get paper portfolio stats with current prices."""
     ledger = _load_ledger()
     positions = ledger.get("positions", {})
     history = ledger.get("history", [])
-
-    # Update prices for open positions
-    try:
-        import yfinance as yf_local
-        for ticker in list(positions.keys()):
-            try:
-                t = yf_local.Ticker(ticker)
-                hist = t.history(period="1d")
-                if len(hist) > 0:
-                    positions[ticker]["last_price"] = round(float(hist.Close.iloc[-1]), 4)
-            except Exception:
-                pass
-        _save_ledger(ledger)
-    except Exception:
-        pass
+    ledger = _update_prices(ledger)
+    _save_ledger(ledger)
 
     realized_pnl = sum(h.get("pnl", 0) for h in history)
     unrealized_pnl = sum(
@@ -95,11 +99,10 @@ def get_stats() -> dict:
     )
 
     wins = [h for h in history if h.get("pnl", 0) > 0]
-    losses = [h for h in history if h.get("pnl", 0) < 0]
 
     win_rate = round(len(wins) / len(history) * 100, 2) if history else 0
     avg_return = round(sum(h.get("return_pct", 0) for h in history) / len(history), 2) if history else 0
-    max_drawdown = round(min((h.get("return_pct", 0) for h in history), default=0), 2)
+    max_dd = round(min((h.get("return_pct", 0) for h in history), default=0), 2)
 
     return {
         "cash": round(ledger["cash"], 2),
@@ -111,7 +114,7 @@ def get_stats() -> dict:
         "closed_trades_count": len(history),
         "win_rate": win_rate,
         "avg_return_pct": avg_return,
-        "max_drawdown_pct": max_drawdown,
+        "max_drawdown_pct": max_dd,
         "positions": positions,
         "history": history[-20:],
         "initial_capital": INITIAL_CAPITAL,
@@ -119,22 +122,32 @@ def get_stats() -> dict:
     }
 
 
+def _calc_position_size(cash: float, confidence: float, base_pct: float, conviction_scaling: bool) -> float:
+    """Conviction-scaled position size."""
+    if not conviction_scaling:
+        return cash * base_pct
+    # Scale from 4% at 60% confidence to 12% at 95% confidence
+    pct = 0.04 + (confidence - 60) / 35 * 0.08 if confidence >= 60 else 0.04
+    pct = max(0.04, min(0.12, pct))
+    return cash * pct
+
+
 def buy(ticker: str, price: float, confidence: float, reasoning: str, shares: float = None, task_id: str = ""):
-    """Open a paper position."""
     ledger = _load_ledger()
     ticker = ticker.upper()
     if ticker in ledger.get("positions", {}):
         return {"status": "already_open", "message": f"Position already open for {ticker}"}
 
     settings = _load_settings()
-    position_size_pct = settings.get("position_size_pct", 0.08)
-    max_positions = settings.get("max_positions", 15)
+    max_positions = settings.get("max_positions", 12)
+    base_pct = settings.get("position_size_pct", 0.08)
+    conviction_scaling = settings.get("conviction_scaling", True)
 
     if len(ledger.get("positions", {})) >= max_positions:
         return {"status": "max_positions", "message": f"Max {max_positions} positions reached"}
 
     if shares is None:
-        invest = ledger["cash"] * position_size_pct
+        invest = _calc_position_size(ledger["cash"], confidence, base_pct, conviction_scaling)
         shares = round(invest / price, 4) if price > 0 else 0
 
     if shares <= 0:
@@ -142,7 +155,6 @@ def buy(ticker: str, price: float, confidence: float, reasoning: str, shares: fl
 
     cost = shares * price
     if cost > ledger["cash"]:
-        # Scale down to available cash
         shares = round(ledger["cash"] / price, 4) if price > 0 else 0
         cost = shares * price
         if cost > ledger["cash"]:
@@ -164,7 +176,6 @@ def buy(ticker: str, price: float, confidence: float, reasoning: str, shares: fl
 
 
 def sell(ticker: str, price: float, reasoning: str = "", task_id: str = ""):
-    """Close a paper position."""
     ledger = _load_ledger()
     ticker = ticker.upper()
     pos = ledger.get("positions", {}).pop(ticker, None)
@@ -205,16 +216,36 @@ def sell(ticker: str, price: float, reasoning: str = "", task_id: str = ""):
     }
 
 
-def update_price(ticker: str, current_price: float):
-    ledger = _load_ledger()
-    pos = ledger.get("positions", {}).get(ticker.upper())
-    if pos:
-        pos["last_price"] = round(current_price, 4)
-        _save_ledger(ledger)
+def _rotation_check(ledger: dict, ticker: str, confidence: float, price: float, reasoning: str, task_id: str) -> dict:
+    """If max positions hit, find weakest holding and rotate if new opportunity is stronger."""
+    settings = _load_settings()
+    if not settings.get("enable_rotation", True):
+        return {"status": "max_positions", "message": "Rotation disabled"}
+    positions = ledger.get("positions", {})
+    if len(positions) == 0:
+        return {"status": "max_positions", "message": "No positions to rotate"}
+    diff_threshold = settings.get("rotation_threshold_diff", 15)
+    weakest = None
+    weakest_score = float("inf")
+    for t, pos in positions.items():
+        ret = (pos.get("last_price", pos["entry_price"]) - pos["entry_price"]) / pos["entry_price"] * 100
+        score = ret + pos.get("confidence", 0) * 0.1
+        if score < weakest_score:
+            weakest_score = score
+            weakest = t
+    if weakest and (confidence - positions[weakest].get("confidence", 0)) >= diff_threshold:
+        wp = positions[weakest]
+        sell_res = sell(weakest, wp.get("last_price", wp["entry_price"]), f"Rotated out for {ticker} ({confidence}% vs {wp['confidence']}%)", task_id)
+        if sell_res.get("status") != "ok":
+            return sell_res
+        buy_res = buy(ticker, price, confidence, reasoning, task_id=task_id)
+        buy_res["rotation"] = f"Sold {weakest} to buy {ticker}"
+        return buy_res
+    return {"status": "max_positions", "message": f"No rotation candidate"}
 
 
-def auto_trade_from_result(result: dict):
-    """Auto-trade based on research result."""
+def auto_trade_from_result(result: dict) -> dict:
+    """Auto-trade: buy on BUY/ACCUMULATE, sell on SELL/REDUCE for held positions."""
     settings = _load_settings()
     if not settings.get("auto_trade_enabled", True):
         return {"status": "skipped", "reason": "auto_trade_enabled=false"}
@@ -229,32 +260,27 @@ def auto_trade_from_result(result: dict):
 
     task_id = result.get("task_id", "")
     summary = result.get("summary", "")
+    ledger = _load_ledger()
 
-    threshold = settings.get("paper_trade_confidence_threshold", 65)
-    max_positions = settings.get("max_positions", 15)
+    # ── SELL logic: if we hold this ticker and it got SELL/REDUCE ──
+    if rec in ("SELL", "REDUCE") and ticker.upper() in ledger.get("positions", {}):
+        return sell(ticker, price, summary, task_id)
 
-    if rec in ("BUY", "ACCUMULATE"):
-        ledger = _load_ledger()
-        if len(ledger.get("positions", {})) >= max_positions:
-            return {"status": "skipped", "reason": f"max_positions={max_positions} reached"}
-        if conf >= threshold:
-            return buy(ticker, price, conf, summary, task_id=task_id)
+    # ── BUY logic ──
+    if rec not in ("BUY", "ACCUMULATE"):
+        return {"status": "skipped", "reason": f"rec={rec}"}
+
+    threshold = settings.get("paper_trade_confidence_threshold", 60)
+    max_pos = settings.get("max_positions", 12)
+
+    if conf < threshold:
         return {"status": "skipped", "reason": f"conf={conf} < threshold={threshold}"}
 
-    elif rec == "SELL":
-        ledger = _load_ledger()
-        if ticker.upper() in ledger.get("positions", {}):
-            return sell(ticker, price, summary, task_id=task_id)
-        return {"status": "skipped", "reason": "no position to sell"}
+    if len(ledger.get("positions", {})) >= max_pos:
+        # Try rotation
+        return _rotation_check(ledger, ticker, conf, price, summary, task_id)
 
-    elif rec == "REDUCE":
-        ledger = _load_ledger()
-        if ticker.upper() in ledger.get("positions", {}):
-            return sell(ticker, price, summary, task_id=task_id)
-        return {"status": "skipped", "reason": "no position to reduce"}
-
-    else:
-        return {"status": "skipped", "reason": f"rec={rec} conf={conf}"}
+    return buy(ticker, price, conf, summary, task_id=task_id)
 
 
 if __name__ == "__main__":
@@ -265,7 +291,6 @@ if __name__ == "__main__":
     elif cmd == "buy" and len(sys.argv) >= 4:
         print(json.dumps(buy(sys.argv[2], float(sys.argv[3]), 80.0, "manual buy"), indent=2))
     elif cmd == "sell" and len(sys.argv) >= 3:
-        # Try to get current price
         try:
             import yfinance as yf_s
             t = yf_s.Ticker(sys.argv[2])
@@ -275,4 +300,4 @@ if __name__ == "__main__":
             price = float(sys.argv[3]) if len(sys.argv) > 3 else 0
         print(json.dumps(sell(sys.argv[2], price), indent=2))
     else:
-        print("Usage: python paper_trade.py [stats|buy TICKER PRICE|sell TICKER PRICE]")
+        print("Usage: python paper_trade.py [stats|buy TICKER PRICE|sell TICKER [PRICE]]")

@@ -1,0 +1,30 @@
+{
+  "ticker": "UBER",
+  "timestamp": "2026-05-17T13:11:59.578183+00:00",
+  "current_price": 75.09,
+  "dcf_target": 66.4,
+  "comparable_target": 119.68,
+  "blended_target": 93.04,
+  "margin_of_safety_pct": 19.29,
+  "upside_pct": 23.9,
+  "verdict": "FAIRLY_VALUED",
+  "valuation_inputs": {
+    "trailing_pe": 18.632753,
+    "forward_pe": 17.325594,
+    "price_to_sales": 2.847116,
+    "price_to_book": 5.7421427,
+    "ev_ebitda": 22.827,
+    "eps_ttm": 4.03,
+    "eps_forward": 4.33405,
+    "sector": "Technology",
+    "sector_median_pe": 28,
+    "implied_pe": 112.84,
+    "implied_ps": 206.97,
+    "implied_pb": 39.23,
+    "free_cash_flow": 6536625152,
+    "shares_outstanding": 2035599013,
+    "growth_assumed": 0.1,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

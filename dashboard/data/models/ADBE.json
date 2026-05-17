@@ -1,0 +1,30 @@
+{
+  "ticker": "ADBE",
+  "timestamp": "2026-05-17T13:11:33.445983+00:00",
+  "current_price": 247.6,
+  "dcf_target": 522.78,
+  "comparable_target": 343.69,
+  "blended_target": 433.24,
+  "margin_of_safety_pct": 42.85,
+  "upside_pct": 74.98,
+  "verdict": "STRONG_BUY",
+  "valuation_inputs": {
+    "trailing_pe": 14.428905,
+    "forward_pe": 9.383757,
+    "price_to_sales": 4.0927463,
+    "price_to_book": 8.792614,
+    "ev_ebitda": 10.493,
+    "eps_ttm": 17.16,
+    "eps_forward": 26.38602,
+    "sector": "Technology",
+    "sector_median_pe": 28,
+    "implied_pe": 480.48,
+    "implied_ps": 466.1,
+    "implied_pb": 84.48,
+    "free_cash_flow": 9321374720,
+    "shares_outstanding": 404200000,
+    "growth_assumed": 0.111,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

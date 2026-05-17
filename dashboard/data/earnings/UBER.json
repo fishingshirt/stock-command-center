@@ -1,0 +1,56 @@
+{
+  "ticker": "UBER",
+  "analyzed_at": "2026-05-17T13:12:01.823126+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
+    {
+      "date": "2026-08-05",
+      "eps_estimate": 0.83,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
+    },
+    {
+      "date": "2026-05-06",
+      "eps_estimate": 0.69,
+      "reported_eps": 0.72,
+      "surprise_pct": 3.84
+    },
+    {
+      "date": "2026-02-04",
+      "eps_estimate": 0.79,
+      "reported_eps": 0.71,
+      "surprise_pct": -9.6
+    },
+    {
+      "date": "2025-11-04",
+      "eps_estimate": 0.87,
+      "reported_eps": 0.65,
+      "surprise_pct": -25.45
+    },
+    {
+      "date": "2025-08-06",
+      "eps_estimate": 0.62,
+      "reported_eps": 0.63,
+      "surprise_pct": 1.05
+    },
+    {
+      "date": "2025-05-07",
+      "eps_estimate": 0.69,
+      "reported_eps": 0.81,
+      "surprise_pct": 16.5
+    }
+  ],
+  "quarterly_history": [],
+  "pe_trailing": 18.632753,
+  "pe_forward": 17.325594,
+  "peg_ratio": 4.51,
+  "eps_ttm": 4.03,
+  "eps_forward": 4.33405,
+  "revenue_growth": 0.145,
+  "earnings_growth": -0.846,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 15,
+  "verdict": "Earnings weakness detected"
+}

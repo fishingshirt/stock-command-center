@@ -1,0 +1,30 @@
+{
+  "ticker": "NFLX",
+  "timestamp": "2026-05-17T13:11:42.004646+00:00",
+  "current_price": 87.02,
+  "dcf_target": 1625.17,
+  "comparable_target": 36.66,
+  "blended_target": 830.92,
+  "margin_of_safety_pct": 89.53,
+  "upside_pct": 854.86,
+  "verdict": "STRONG_BUY",
+  "valuation_inputs": {
+    "trailing_pe": 28.070967,
+    "forward_pe": 22.644533,
+    "price_to_sales": 7.814539,
+    "price_to_book": 11.776965,
+    "ev_ebitda": 25.969,
+    "eps_ttm": 3.1,
+    "eps_forward": 3.84287,
+    "sector": "Communication Services",
+    "sector_median_pe": 20,
+    "implied_pe": 62.0,
+    "implied_ps": 33.2,
+    "implied_pb": 14.78,
+    "free_cash_flow": 25993676800,
+    "shares_outstanding": 4210798528,
+    "growth_assumed": 0.864,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

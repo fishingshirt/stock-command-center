@@ -1,0 +1,30 @@
+{
+  "ticker": "COIN",
+  "timestamp": "2026-05-17T13:12:07.490179+00:00",
+  "current_price": 195.43,
+  "dcf_target": 297.99,
+  "comparable_target": 71.63,
+  "blended_target": 184.81,
+  "margin_of_safety_pct": 0,
+  "upside_pct": -5.43,
+  "verdict": "SLIGHTLY_OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 71.84926,
+    "forward_pe": 38.819,
+    "price_to_sales": 8.1909685,
+    "price_to_book": 3.8187077,
+    "ev_ebitda": 48.895,
+    "eps_ttm": 2.72,
+    "eps_forward": 5.03439,
+    "sector": "Financial Services",
+    "sector_median_pe": 15,
+    "implied_pe": 40.8,
+    "implied_ps": 71.75,
+    "implied_pb": 102.35,
+    "free_cash_flow": 2407562752,
+    "shares_outstanding": 222426875,
+    "growth_assumed": 0.15,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

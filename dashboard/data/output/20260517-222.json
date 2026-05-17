@@ -1,0 +1,146 @@
+{
+  "task_id": "20260517-222",
+  "subject": "ADBE analysis",
+  "ticker": "ADBE",
+  "timestamp": "2026-05-17T13:11:32.121000+00:00",
+  "recommendation": "BUY",
+  "confidence": 86,
+  "summary": "ADBE @ $247.6 \u2014 BUY (86% confidence) | Bullish: Trailing P/E 14.428905x \u2014 below market average | RSI: 56.9 | P/E: 14.428905 | Strategy: VALUE",
+  "signal_score": 0.667,
+  "strategy": "VALUE",
+  "key_metrics": {
+    "ticker": "ADBE",
+    "current_price": 247.6,
+    "previous_close": 237.01,
+    "day_change_pct": 4.47,
+    "sma_20": 246.8,
+    "sma_50": 247.53,
+    "sma_200": 308.17,
+    "rsi_14": 56.9,
+    "52_week_high": 422.95,
+    "52_week_low": 224.13,
+    "price_vs_52w_pct": 11.8,
+    "volume_surge": 0.78,
+    "avg_volume": 5574322,
+    "market_cap": 100079919104,
+    "pe_trailing": 14.428905,
+    "pe_forward": 9.383757,
+    "peg_ratio": 0.7,
+    "eps_ttm": 17.16,
+    "eps_forward": 26.38602,
+    "revenue_growth": 0.12,
+    "earnings_growth": 0.111,
+    "profit_margin": 0.29477,
+    "short_ratio": 3.35,
+    "beta": 1.417,
+    "return_5d_pct": 0.59,
+    "return_1mo_pct": -0.41,
+    "return_3mo_pct": -4.93,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "day_spike",
+      "score": 0.5,
+      "note": "Big daily move +4.47%"
+    },
+    {
+      "name": "sma200",
+      "score": -1.0,
+      "note": "Price below SMA200 (308.17) \u2014 confirmed downtrend"
+    },
+    {
+      "name": "pe",
+      "score": 1.5,
+      "note": "Low trailing P/E 14.428905x \u2014 value opportunity"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 9.383757x < trailing 14.428905x (expected growth)"
+    },
+    {
+      "name": "peg",
+      "score": 1.0,
+      "note": "PEG 0.7 < 1.0 \u2014 growth cheap vs price"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.0,
+      "note": "Revenue growing 12% YoY"
+    }
+  ],
+  "reasons": [
+    "Trailing P/E 14.428905x \u2014 below market average"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 0,
+    "label": "NEUTRAL",
+    "bullish": 0,
+    "bearish": 0
+  },
+  "news": [
+    {
+      "title": "Adobe\u2019s AI Agent And PDF Spaces Reframe Document Workflows And Investor Focus",
+      "published": "Sat, 16 May 2026 16:13:49 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-ai-agent-pdf-spaces-161349452.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Figma\u2019s Earnings Just Flipped the Narrative",
+      "published": "Fri, 15 May 2026 11:01:45 +0000",
+      "url": "https://www.trefis.com/articles/599525/figmas-earnings-just-flipped-the-narrative/2026-05-15?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Adobe (ADBE) Expands Its Agentic AI Push With New Acrobat Productivity Agent",
+      "published": "Thu, 14 May 2026 16:59:13 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/adobe-adbe-expands-agentic-ai-165913484.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is Generative AI Expanding Adobe's Digital Media Opportunity?",
+      "published": "Thu, 14 May 2026 16:48:00 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/generative-ai-expanding-adobes-digital-164800883.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "MongoDB (MDB) Announces New Capabilities to Provide Unified AI Data Platform for Production Agents",
+      "published": "Thu, 14 May 2026 16:16:17 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/mongodb-mdb-announces-capabilities-unified-161617248.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/ADBE"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 247.6,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 433.24,
+    "margin_of_safety_pct": 42.85,
+    "verdict": "STRONG_BUY",
+    "upside_pct": 74.98
+  },
+  "earnings": {
+    "catalyst_score": 20,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "ok",
+    "message": "Bought 15.6325 ADBE @ $247.6",
+    "cost": 3870.61
+  },
+  "advisor": {
+    "ticker": "ADBE",
+    "recommendation": "BUY",
+    "confidence": 86,
+    "strategy": "VALUE",
+    "reasoning": "## ADBE Investment Thesis\n\n**Recommendation:** BUY (86% confidence)\n**Strategy:** VALUE\n**Price:** $247.6\n**Daily Change:** \ud83d\udfe2 +4.47%\n\n**Valuation:** Target $433.24 | Upside 74.98% | MoS 42.85% | Verdict: STRONG_BUY\n\n**Earnings:** Earnings weakness detected (catalyst 20)\n\n### Technical Signals\n\u2705 **Day Spike:** Big daily move +4.47%\n\u26a0\ufe0f **Sma200:** Price below SMA200 (308.17) \u2014 confirmed downtrend\n\u2705 **Pe:** Low trailing P/E 14.428905x \u2014 value opportunity\n\u2705 **Pe Forward:** Forward P/E 9.383757x < trailing 14.428905x (expected growth)\n\u2705 **Peg:** PEG 0.7 < 1.0 \u2014 growth cheap vs price\n\u2705 **Revenue Growth:** Revenue growing 12% YoY\n\n### Positive Factors\n\u2705 Trailing P/E 14.428905x \u2014 below market average\n\n### News Sentiment: NEUTRAL (0)\n- Recent headlines:\n  - Adobe\u2019s AI Agent And PDF Spaces Reframe Document Workflows And Investor Focus\n  - Figma\u2019s Earnings Just Flipped the Narrative\n  - Adobe (ADBE) Expands Its Agentic AI Push With New Acrobat Productivity Agent\n\n### Key Metrics\n- **Ticker:** ADBE\n- **Price:** $247.6\n- **P/E (trailing):** 14.428905\n- **P/E (forward):** 9.383757\n- **PEG:** 0.7\n- **RSI(14):** 56.9\n- **SMA 20:** 246.8\n- **SMA 50:** 247.53\n- **52W Range:** $224.13 - $422.95\n- **1mo Return:** -0.41%\n- **3mo Return:** -4.93%\n- **Volume Surge:** 0.78\n- **Market Cap:** $100.1B\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T13:11:36.146936+00:00"
+  }
+}

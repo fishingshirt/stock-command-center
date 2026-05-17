@@ -247,6 +247,27 @@ def run_cycle():
         except Exception as e:
             logger.warning(f"Trade error for {ticker}: {e}")
 
+        # Add advisor reasoning
+        try:
+            output_path = OUTPUT_DIR / f"{task_id}.json"
+            model_path = REPO_ROOT / "dashboard" / "data" / "models" / f"{ticker}.json"
+            earn_path = REPO_ROOT / "dashboard" / "data" / "earnings" / f"{ticker}.json"
+            adv_path = REPO_ROOT / "dashboard" / "data" / "advisor_notes" / f"{ticker}.json"
+            adv_path.parent.mkdir(parents=True, exist_ok=True)
+            adv_cmd = [sys.executable, str(REPO_ROOT / "bots" / "advisor_reasoning.py"),
+                       "--research", str(output_path), "--output", str(adv_path)]
+            if model_path.exists():
+                adv_cmd += ["--model", str(model_path)]
+            if earn_path.exists():
+                adv_cmd += ["--earnings", str(earn_path)]
+            adv_proc = subprocess.run(adv_cmd, capture_output=True, text=True, timeout=30)
+            if adv_proc.returncode == 0 and adv_path.exists():
+                with open(adv_path, "r", encoding="utf-8") as f:
+                    result["advisor"] = json.load(f)
+                logger.info(f"[{task_id}] Advisor thesis for {ticker}: generated")
+        except Exception as e:
+            logger.warning(f"Advisor reasoning error for {ticker}: {e}")
+
         # Save enriched result
         output_path = OUTPUT_DIR / f"{task_id}.json"
         with open(output_path, "w", encoding="utf-8") as f:

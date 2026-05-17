@@ -1,0 +1,30 @@
+{
+  "ticker": "PYPL",
+  "timestamp": "2026-05-17T13:11:51.140859+00:00",
+  "current_price": 44.41,
+  "dcf_target": 97.56,
+  "comparable_target": 77.19,
+  "blended_target": 87.38,
+  "margin_of_safety_pct": 49.18,
+  "upside_pct": 96.76,
+  "verdict": "STRONG_BUY",
+  "valuation_inputs": {
+    "trailing_pe": 8.332083,
+    "forward_pe": 7.6816764,
+    "price_to_sales": 1.1612706,
+    "price_to_book": 2.0170777,
+    "ev_ebitda": 6.315,
+    "eps_ttm": 5.33,
+    "eps_forward": 5.78129,
+    "sector": "Financial Services",
+    "sector_median_pe": 15,
+    "implied_pe": 79.95,
+    "implied_ps": 107.58,
+    "implied_pb": 44.03,
+    "free_cash_flow": 4083500032,
+    "shares_outstanding": 882105493,
+    "growth_assumed": 0.1,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

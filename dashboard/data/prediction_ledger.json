@@ -9534,6 +9534,61 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "ADBE",
+      "recommendation": "BUY",
+      "confidence": 86,
+      "price_at_predict": 247.6,
+      "timestamp": "2026-05-17T13:11:32.233559+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "NFLX",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "price_at_predict": 87.02,
+      "timestamp": "2026-05-17T13:11:40.836361+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "PYPL",
+      "recommendation": "ACCUMULATE",
+      "confidence": 69,
+      "price_at_predict": 44.41,
+      "timestamp": "2026-05-17T13:11:49.835700+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "UBER",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "price_at_predict": 75.09,
+      "timestamp": "2026-05-17T13:11:58.439843+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "COIN",
+      "recommendation": "REDUCE",
+      "confidence": 58,
+      "price_at_predict": 195.43,
+      "timestamp": "2026-05-17T13:12:06.383983+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }
