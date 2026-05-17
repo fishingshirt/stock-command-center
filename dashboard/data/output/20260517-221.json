@@ -1,0 +1,143 @@
+{
+  "task_id": "20260517-221",
+  "subject": "INTC analysis",
+  "ticker": "INTC",
+  "timestamp": "2026-05-17T13:01:34.277207+00:00",
+  "recommendation": "BUY",
+  "confidence": 91,
+  "summary": "INTC @ $108.77 \u2014 BUY (91% confidence) | Bullish: Bullish news sentiment detected | RSI: 64.67 | Strategy: MOMENTUM",
+  "signal_score": 0.857,
+  "strategy": "MOMENTUM",
+  "key_metrics": {
+    "ticker": "INTC",
+    "current_price": 108.77,
+    "previous_close": 115.93,
+    "day_change_pct": -6.18,
+    "sma_20": 97.57,
+    "sma_50": 69.5,
+    "sma_200": 44.79,
+    "rsi_14": 64.67,
+    "52_week_high": 132.75,
+    "52_week_low": 18.97,
+    "price_vs_52w_pct": 78.9,
+    "volume_surge": 1.26,
+    "avg_volume": 114108598,
+    "market_cap": 546677981184,
+    "pe_trailing": null,
+    "pe_forward": 70.89088,
+    "peg_ratio": 1.36,
+    "eps_ttm": -0.6,
+    "eps_forward": 1.53433,
+    "revenue_growth": 0.072,
+    "earnings_growth": null,
+    "profit_margin": -0.05904,
+    "short_ratio": 1.04,
+    "beta": 2.19,
+    "return_5d_pct": -15.97,
+    "return_1mo_pct": 65.56,
+    "return_3mo_pct": 135.53,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.5,
+      "note": "Strong 1mo momentum +65.56%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +135.53%"
+    },
+    {
+      "name": "day_spike",
+      "score": -0.5,
+      "note": "Big daily drop -6.18%"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (97.57)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (44.79) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 0,
+    "total_mentions": 2
+  },
+  "news": [
+    {
+      "title": "Will SpaceX Spend Its IPO Billions on Real Estate?",
+      "published": "Sun, 17 May 2026 12:28:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/17/will-spacex-spend-its-ipo-billions-on-real-estate/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "My Top 2 Consumer Staples Stocks for May 2026",
+      "published": "Sun, 17 May 2026 12:25:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/17/my-top-2-consumer-staples-stocks-for-may-2026/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is a SpaceX-Tesla Merger Elon Musk's Endgame? Here Are 4 Factors Investors Need to Consider.",
+      "published": "Sun, 17 May 2026 11:50:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/17/is-a-spacex-tesla-merger-elon-musks-endgame-here-a/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Wingstop Shares Have Been Cut in Half This Year, but Franchisees Can't Open Stores Fast Enough",
+      "published": "Sun, 17 May 2026 11:35:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/17/wingstop-shares-have-been-cut-in-half-this-year-bu/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is It Too Late to Buy Micron?",
+      "published": "Sun, 17 May 2026 11:31:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/17/is-it-too-late-to-buy-micron/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/INTC"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 108.77,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 79.94,
+    "margin_of_safety_pct": 0,
+    "verdict": "OVERVALUED",
+    "upside_pct": -26.51
+  },
+  "earnings": {
+    "catalyst_score": 5,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "skipped",
+    "reason": "max_positions=10 reached"
+  }
+}

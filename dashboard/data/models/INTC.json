@@ -1,0 +1,30 @@
+{
+  "ticker": "INTC",
+  "timestamp": "2026-05-17T13:01:35.875555+00:00",
+  "current_price": 108.77,
+  "dcf_target": null,
+  "comparable_target": 79.94,
+  "blended_target": 79.94,
+  "margin_of_safety_pct": 0,
+  "upside_pct": -26.51,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": null,
+    "forward_pe": 70.89088,
+    "price_to_sales": 10.168294,
+    "price_to_book": 4.7531023,
+    "ev_ebitda": 40.392,
+    "eps_ttm": -0.6,
+    "eps_forward": 1.53433,
+    "sector": "Technology",
+    "sector_median_pe": 28,
+    "implied_pe": null,
+    "implied_ps": 91.22,
+    "implied_pb": 68.65,
+    "free_cash_flow": -8301250048,
+    "shares_outstanding": 5026000000,
+    "growth_assumed": 0.15,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ticker": "AVGO",
+  "timestamp": "2026-05-17T13:01:18.873584+00:00",
+  "current_price": 425.19,
+  "dcf_target": 256.05,
+  "comparable_target": 103.39,
+  "blended_target": 179.72,
+  "margin_of_safety_pct": 0,
+  "upside_pct": -57.73,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 82.721794,
+    "forward_pe": 23.247448,
+    "price_to_sales": 29.482641,
+    "price_to_book": 25.211386,
+    "ev_ebitda": 55.484,
+    "eps_ttm": 5.14,
+    "eps_forward": 18.28975,
+    "sector": "Technology",
+    "sector_median_pe": 28,
+    "implied_pe": 143.92,
+    "implied_ps": 115.65,
+    "implied_pb": 50.59,
+    "free_cash_flow": 25503750144,
+    "shares_outstanding": 4734668184,
+    "growth_assumed": 0.316,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

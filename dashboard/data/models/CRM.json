@@ -1,0 +1,30 @@
+{
+  "ticker": "CRM",
+  "timestamp": "2026-05-17T13:01:27.210781+00:00",
+  "current_price": 173.51,
+  "dcf_target": 584.55,
+  "comparable_target": 253.12,
+  "blended_target": 418.83,
+  "margin_of_safety_pct": 58.57,
+  "upside_pct": 141.39,
+  "verdict": "STRONG_BUY",
+  "valuation_inputs": {
+    "trailing_pe": 22.216389,
+    "forward_pe": 11.632467,
+    "price_to_sales": 3.418194,
+    "price_to_book": 2.7254877,
+    "ev_ebitda": 13.412,
+    "eps_ttm": 7.81,
+    "eps_forward": 14.91601,
+    "sector": "Technology",
+    "sector_median_pe": 28,
+    "implied_pe": 218.68,
+    "implied_ps": 349.69,
+    "implied_pb": 190.99,
+    "free_cash_flow": 16366999552,
+    "shares_outstanding": 818053744,
+    "growth_assumed": 0.179,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

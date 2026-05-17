@@ -1,0 +1,159 @@
+{
+  "task_id": "20260517-220",
+  "subject": "CRM analysis",
+  "ticker": "CRM",
+  "timestamp": "2026-05-17T13:01:25.845762+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 67,
+  "summary": "CRM @ $173.51 \u2014 ACCUMULATE (67% confidence) | Bullish: Price near 52-week low \u2014 potential value entry; Bullish news sentiment detected | RSI: 43.99 | P/E: 22.216389 | Strategy: QUALITY",
+  "signal_score": 0.294,
+  "strategy": "QUALITY",
+  "key_metrics": {
+    "ticker": "CRM",
+    "current_price": 173.51,
+    "previous_close": 167.58,
+    "day_change_pct": 3.54,
+    "sma_20": 179.76,
+    "sma_50": 183.6,
+    "sma_200": 223.43,
+    "rsi_14": 43.99,
+    "52_week_high": 289.9,
+    "52_week_low": 163.52,
+    "price_vs_52w_pct": 7.9,
+    "volume_surge": 0.85,
+    "avg_volume": 13403950,
+    "market_cap": 141940506624,
+    "pe_trailing": 22.216389,
+    "pe_forward": 11.632467,
+    "peg_ratio": 0.94,
+    "eps_ttm": 7.81,
+    "eps_forward": 14.91601,
+    "revenue_growth": 0.121,
+    "earnings_growth": 0.179,
+    "profit_margin": 0.17958,
+    "short_ratio": 5.16,
+    "beta": 1.139,
+    "return_5d_pct": -2.24,
+    "return_1mo_pct": -6.85,
+    "return_3mo_pct": -5.61,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": -0.5,
+      "note": "Negative 1mo momentum -6.85%"
+    },
+    {
+      "name": "day_spike",
+      "score": 0.5,
+      "note": "Big daily move +3.54%"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (179.76)"
+    },
+    {
+      "name": "death_cross",
+      "score": -1.0,
+      "note": "SMA20 < SMA50 (short-term downtrend)"
+    },
+    {
+      "name": "sma200",
+      "score": -1.0,
+      "note": "Price below SMA200 (223.43) \u2014 confirmed downtrend"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 11.632467x < trailing 22.216389x (expected growth)"
+    },
+    {
+      "name": "peg",
+      "score": 1.0,
+      "note": "PEG 0.94 < 1.0 \u2014 growth cheap vs price"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.0,
+      "note": "Revenue growing 12% YoY"
+    },
+    {
+      "name": "52w",
+      "score": 1.0,
+      "note": "Near 52-week low (7.9% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Price near 52-week low \u2014 potential value entry",
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 1,
+    "bearish": 0,
+    "total_mentions": 1
+  },
+  "news": [
+    {
+      "title": "Why Salesforce (CRM) Shares Are Falling Today",
+      "published": "Sun, 17 May 2026 11:00:55 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-salesforce-crm-shares-falling-110055372.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Up 231%, Is RTX Proving Why It Was a Mistake for Honeywell to Replace RTX in the Dow Jones Industrial Average?",
+      "published": "Sun, 17 May 2026 00:20:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/16/rtx-honeywell-stock-dow-jones-industrial-average/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "1 Chip Stock Making Bold Plans",
+      "published": "Sat, 16 May 2026 19:59:46 +0000",
+      "url": "https://www.fool.com/investing/2026/05/16/1-chip-stock-making-bold-plans/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "TTEC Stock Should Be on Your Radar as the Little-Known Company Quietly Builds Something Rivals Will Struggle to Copy",
+      "published": "Sat, 16 May 2026 19:00:02 +0000",
+      "url": "https://www.barchart.com/story/news/1977857/ttec-stock-should-be-on-your-radar-as-the-little-known-company-quietly-builds-something-rivals-will-struggle-to-copy?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "NANC Traders Beat the Crowd by 33 Points and the Difference Keeps Growing",
+      "published": "Sat, 16 May 2026 17:15:20 +0000",
+      "url": "https://247wallst.com/investing/2026/05/16/nanc-traders-beat-the-crowd-by-33-points-and-the-difference-keeps-growing/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/CRM"
+  ],
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 173.51,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 418.83,
+    "margin_of_safety_pct": 58.57,
+    "verdict": "STRONG_BUY",
+    "upside_pct": 141.39
+  },
+  "earnings": {
+    "catalyst_score": 30,
+    "verdict": "Mixed earnings signals",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "skipped",
+    "reason": "max_positions=10 reached"
+  }
+}

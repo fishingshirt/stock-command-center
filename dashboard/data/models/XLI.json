@@ -1,0 +1,30 @@
+{
+  "ticker": "XLI",
+  "timestamp": "2026-05-17T13:01:11.385677+00:00",
+  "current_price": 171.4,
+  "dcf_target": null,
+  "comparable_target": 196.76,
+  "blended_target": 196.76,
+  "margin_of_safety_pct": 12.89,
+  "upside_pct": 14.8,
+  "verdict": "FAIRLY_VALUED",
+  "valuation_inputs": {
+    "trailing_pe": 29.616436,
+    "forward_pe": null,
+    "price_to_sales": null,
+    "price_to_book": 1.7421885,
+    "ev_ebitda": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "sector": "",
+    "sector_median_pe": 22,
+    "implied_pe": null,
+    "implied_ps": null,
+    "implied_pb": 196.76,
+    "free_cash_flow": null,
+    "shares_outstanding": 136626000,
+    "growth_assumed": 0.15,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

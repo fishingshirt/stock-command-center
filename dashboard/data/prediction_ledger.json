@@ -9479,6 +9479,61 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "XLE",
+      "recommendation": "BUY",
+      "confidence": 95,
+      "price_at_predict": 59.44,
+      "timestamp": "2026-05-17T13:01:02.462626+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "XLI",
+      "recommendation": "BUY",
+      "confidence": 95,
+      "price_at_predict": 171.4,
+      "timestamp": "2026-05-17T13:01:10.228222+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "AVGO",
+      "recommendation": "BUY",
+      "confidence": 83,
+      "price_at_predict": 425.19,
+      "timestamp": "2026-05-17T13:01:17.688168+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "CRM",
+      "recommendation": "ACCUMULATE",
+      "confidence": 67,
+      "price_at_predict": 173.51,
+      "timestamp": "2026-05-17T13:01:25.964320+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "INTC",
+      "recommendation": "BUY",
+      "confidence": 91,
+      "price_at_predict": 108.77,
+      "timestamp": "2026-05-17T13:01:34.391329+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

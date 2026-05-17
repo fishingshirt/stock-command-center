@@ -1,5 +1,5 @@
 {
-  "cash": 48861.86987500001,
+  "cash": 35620.310350000014,
   "initial_capital": 100000.0,
   "positions": {
     "MTUM": {
@@ -71,6 +71,36 @@
       "reasoning": "XLF @ $51.1 \u2014 BUY (95% confidence) | RSI: 39.14 | P/E: 16.482962 | Strategy: VALUE",
       "task_id": "20260517-216",
       "opened_at": "2026-05-17T12:59:06.731806+00:00"
+    },
+    "XLE": {
+      "ticker": "XLE",
+      "shares": 82.2037,
+      "entry_price": 59.44,
+      "last_price": 59.44,
+      "confidence": 95,
+      "reasoning": "XLE @ $59.44 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 61.34 | P/E: 21.610918 | Strategy: GROWTH",
+      "task_id": "20260517-217",
+      "opened_at": "2026-05-17T13:01:05.705243+00:00"
+    },
+    "XLI": {
+      "ticker": "XLI",
+      "shares": 25.6568,
+      "entry_price": 171.4,
+      "last_price": 171.4,
+      "confidence": 95,
+      "reasoning": "XLI @ $171.4 \u2014 BUY (95% confidence) | RSI: 47.99 | P/E: 29.616436 | Strategy: GROWTH",
+      "task_id": "20260517-218",
+      "opened_at": "2026-05-17T13:01:13.392885+00:00"
+    },
+    "AVGO": {
+      "ticker": "AVGO",
+      "shares": 9.3083,
+      "entry_price": 425.19,
+      "last_price": 425.19,
+      "confidence": 83,
+      "reasoning": "AVGO @ $425.19 \u2014 BUY (83% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 82.721794x \u2014 growth expectations priced in; Price at 92.2% of 52-week range \u2014 limited upside | RSI: 52.52 | P/E: 82.721794 | Strategy: GROWTH",
+      "task_id": "20260517-219",
+      "opened_at": "2026-05-17T13:01:21.750445+00:00"
     }
   },
   "history": [
@@ -132,5 +162,5 @@
     }
   ],
   "created_at": "2026-05-15T06:50:00+00:00",
-  "updated_at": "2026-05-17T12:59:06.731816+00:00"
+  "updated_at": "2026-05-17T13:01:21.750456+00:00"
 }
