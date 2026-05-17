@@ -1,0 +1,30 @@
+{
+  "ticker": "WMT",
+  "timestamp": "2026-05-17T14:01:00.705340+00:00",
+  "current_price": 131.45,
+  "dcf_target": 21.42,
+  "comparable_target": 86.09,
+  "blended_target": 53.76,
+  "margin_of_safety_pct": 0,
+  "upside_pct": -59.1,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 48.15018,
+    "forward_pe": 39.918613,
+    "price_to_sales": 1.4692106,
+    "price_to_book": 10.515159,
+    "ev_ebitda": 25.262,
+    "eps_ttm": 2.73,
+    "eps_forward": 3.29295,
+    "sector": "Consumer Defensive",
+    "sector_median_pe": 20,
+    "implied_pe": 54.6,
+    "implied_ps": 178.67,
+    "implied_pb": 25.0,
+    "free_cash_flow": 10554250240,
+    "shares_outstanding": 7970990515,
+    "growth_assumed": 0.1,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

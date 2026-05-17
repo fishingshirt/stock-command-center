@@ -1,0 +1,168 @@
+{
+  "task_id": "20260517-245",
+  "subject": "HD analysis",
+  "ticker": "HD",
+  "timestamp": "2026-05-17T14:01:07.507492+00:00",
+  "recommendation": "SELL",
+  "confidence": 75,
+  "summary": "HD @ $297.51 \u2014 SELL (75% confidence) | Bullish: RSI 25.72 \u2014 approaching oversold; Price near 52-week low \u2014 potential value entry | RSI: 25.72 | P/E: 20.921942 | Strategy: GROWTH",
+  "signal_score": -0.429,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "HD",
+    "current_price": 297.51,
+    "previous_close": 304.35,
+    "day_change_pct": -2.25,
+    "sma_20": 323.23,
+    "sma_50": 330.65,
+    "sma_200": 364.51,
+    "rsi_14": 25.72,
+    "52_week_high": 426.75,
+    "52_week_low": 296.88,
+    "price_vs_52w_pct": 0.5,
+    "volume_surge": 1.23,
+    "avg_volume": 4197327,
+    "market_cap": 296328200192,
+    "pe_trailing": 20.921942,
+    "pe_forward": 18.244625,
+    "peg_ratio": 2.72,
+    "eps_ttm": 14.22,
+    "eps_forward": 16.30672,
+    "revenue_growth": -0.038,
+    "earnings_growth": -0.142,
+    "profit_margin": 0.08596,
+    "short_ratio": 3.03,
+    "beta": 0.999,
+    "return_5d_pct": -4.46,
+    "return_1mo_pct": -15.24,
+    "return_3mo_pct": -21.81,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": -1.5,
+      "note": "Weak 1mo momentum -15.24%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": -1.5,
+      "note": "Weak 3mo momentum -21.81%"
+    },
+    {
+      "name": "rsi",
+      "score": 1.0,
+      "note": "RSI oversold 25.72"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (323.23)"
+    },
+    {
+      "name": "death_cross",
+      "score": -1.0,
+      "note": "SMA20 < SMA50 (short-term downtrend)"
+    },
+    {
+      "name": "sma200",
+      "score": -1.0,
+      "note": "Price below SMA200 (364.51) \u2014 confirmed downtrend"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 2.72 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "earnings_growth",
+      "score": -1.0,
+      "note": "Earnings declining -14% YoY"
+    },
+    {
+      "name": "52w",
+      "score": 1.0,
+      "note": "Near 52-week low (0.5% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "RSI 25.72 \u2014 approaching oversold",
+    "Price near 52-week low \u2014 potential value entry",
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 1,
+    "bearish": 0,
+    "total_mentions": 1
+  },
+  "news": [
+    {
+      "title": "Tractor Supply and Home Depot Stocks Trade Down, What You Need To Know",
+      "published": "Sun, 17 May 2026 09:08:55 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tractor-supply-home-depot-stocks-090855751.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Home Depot's Next Earnings Report on May 19 Could Send the Stock Soaring. Here's Why.",
+      "published": "Sun, 17 May 2026 04:20:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/17/home-depots-next-earnings-report-on-may-19-could-s/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Here's How Much Traders See Home Depot Stock Moving After Earnings",
+      "published": "Sat, 16 May 2026 11:00:00 +0000",
+      "url": "https://www.investopedia.com/here-is-how-much-traders-see-home-depot-stock-moving-after-earnings-hd-q1-fy2026-11973656?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "How To Earn $500 A Month From Home Depot Stock Ahead Of Q1 Earnings",
+      "published": "Sat, 16 May 2026 10:46:08 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earn-500-month-home-depot-104608948.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Home Depot (HD) \u2013 Among the 11 Best Rising Dividend Stocks to Buy Right Now",
+      "published": "Sat, 16 May 2026 10:09:01 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-among-11-100901505.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/HD"
+  ],
+  "paper_trade_signal": "SELL",
+  "paper_trade_price": 297.51,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 159.19,
+    "margin_of_safety_pct": 0,
+    "verdict": "OVERVALUED",
+    "upside_pct": -46.49
+  },
+  "earnings": {
+    "catalyst_score": 0,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "skipped",
+    "reason": "rec=SELL"
+  },
+  "advisor": {
+    "ticker": "HD",
+    "recommendation": "SELL",
+    "confidence": 75,
+    "strategy": "GROWTH",
+    "reasoning": "## HD Investment Thesis\n\n**Recommendation:** SELL (75% confidence)\n**Strategy:** GROWTH\n**Price:** $297.51\n**Daily Change:** \ud83d\udd34 -2.25%\n\n**Valuation:** Target $159.19 | Upside -46.49% | MoS 0% | Verdict: OVERVALUED\n\n**Earnings:** Earnings weakness detected (catalyst 0)\n\n### Technical Signals\n\u26a0\ufe0f **1Mo Momentum:** Weak 1mo momentum -15.24%\n\u26a0\ufe0f **3Mo Momentum:** Weak 3mo momentum -21.81%\n\u2705 **Rsi:** RSI oversold 25.72\n\u26a0\ufe0f **Sma20:** Price below SMA20 (323.23)\n\u26a0\ufe0f **Death Cross:** SMA20 < SMA50 (short-term downtrend)\n\u26a0\ufe0f **Sma200:** Price below SMA200 (364.51) \u2014 confirmed downtrend\n\u26a0\ufe0f **Peg:** PEG 2.72 > 2.0 \u2014 expensive growth\n\u26a0\ufe0f **Earnings Growth:** Earnings declining -14% YoY\n\n### Positive Factors\n\u2705 RSI 25.72 \u2014 approaching oversold\n\u2705 Price near 52-week low \u2014 potential value entry\n\u2705 Bullish news sentiment detected\n\n### News Sentiment: BULLISH (100.0)\n- 1 bullish mentions, 0 bearish\n- Recent headlines:\n  - Tractor Supply and Home Depot Stocks Trade Down, What You Need To Know\n  - Home Depot's Next Earnings Report on May 19 Could Send the Stock Soaring. Here's Why.\n  - Here's How Much Traders See Home Depot Stock Moving After Earnings\n\n### Key Metrics\n- **Ticker:** HD\n- **Price:** $297.51\n- **P/E (trailing):** 20.921942\n- **P/E (forward):** 18.244625\n- **PEG:** 2.72\n- **RSI(14):** 25.72\n- **SMA 20:** 323.23\n- **SMA 50:** 330.65\n- **52W Range:** $296.88 - $426.75\n- **1mo Return:** -15.24%\n- **3mo Return:** -21.81%\n- **Volume Surge:** 1.23\n- **Market Cap:** $296.3B\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T14:01:11.211761+00:00"
+  }
+}

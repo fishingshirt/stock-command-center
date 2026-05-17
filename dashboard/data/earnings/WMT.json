@@ -1,0 +1,56 @@
+{
+  "ticker": "WMT",
+  "analyzed_at": "2026-05-17T14:01:02.825372+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
+    {
+      "date": "2026-05-21",
+      "eps_estimate": 0.66,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
+    },
+    {
+      "date": "2026-02-19",
+      "eps_estimate": 0.73,
+      "reported_eps": 0.74,
+      "surprise_pct": 1.79
+    },
+    {
+      "date": "2025-11-20",
+      "eps_estimate": 0.6,
+      "reported_eps": 0.77,
+      "surprise_pct": 28.79
+    },
+    {
+      "date": "2025-08-21",
+      "eps_estimate": 0.74,
+      "reported_eps": 0.68,
+      "surprise_pct": -7.97
+    },
+    {
+      "date": "2025-05-15",
+      "eps_estimate": 0.58,
+      "reported_eps": 0.61,
+      "surprise_pct": 5.64
+    },
+    {
+      "date": "2025-02-20",
+      "eps_estimate": 0.64,
+      "reported_eps": 0.65,
+      "surprise_pct": 1.12
+    }
+  ],
+  "quarterly_history": [],
+  "pe_trailing": 48.15018,
+  "pe_forward": 39.918613,
+  "peg_ratio": 4.9,
+  "eps_ttm": 2.73,
+  "eps_forward": 3.29295,
+  "revenue_growth": 0.056,
+  "earnings_growth": -0.19,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 5,
+  "verdict": "Earnings weakness detected"
+}

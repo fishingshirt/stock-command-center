@@ -1,0 +1,56 @@
+{
+  "ticker": "HD",
+  "analyzed_at": "2026-05-17T14:01:11.076770+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
+    {
+      "date": "2026-05-19",
+      "eps_estimate": 3.59,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
+    },
+    {
+      "date": "2026-02-24",
+      "eps_estimate": 2.52,
+      "reported_eps": 2.72,
+      "surprise_pct": 7.8
+    },
+    {
+      "date": "2025-11-18",
+      "eps_estimate": 3.83,
+      "reported_eps": 3.74,
+      "surprise_pct": -2.45
+    },
+    {
+      "date": "2025-08-19",
+      "eps_estimate": 4.6,
+      "reported_eps": 4.58,
+      "surprise_pct": -0.53
+    },
+    {
+      "date": "2025-05-20",
+      "eps_estimate": 3.52,
+      "reported_eps": 3.45,
+      "surprise_pct": -1.94
+    },
+    {
+      "date": "2025-02-25",
+      "eps_estimate": 2.99,
+      "reported_eps": 3.02,
+      "surprise_pct": 1.07
+    }
+  ],
+  "quarterly_history": [],
+  "pe_trailing": 20.921942,
+  "pe_forward": 18.244625,
+  "peg_ratio": 2.72,
+  "eps_ttm": 14.22,
+  "eps_forward": 16.30672,
+  "revenue_growth": -0.038,
+  "earnings_growth": -0.142,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 0,
+  "verdict": "Earnings weakness detected"
+}

@@ -1,0 +1,56 @@
+{
+  "ticker": "COST",
+  "analyzed_at": "2026-05-17T14:00:46.387557+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [
+    {
+      "date": "2026-05-28",
+      "eps_estimate": 4.98,
+      "reported_eps": NaN,
+      "surprise_pct": NaN
+    },
+    {
+      "date": "2026-03-05",
+      "eps_estimate": 4.55,
+      "reported_eps": 4.58,
+      "surprise_pct": 0.71
+    },
+    {
+      "date": "2025-12-11",
+      "eps_estimate": 4.28,
+      "reported_eps": 4.5,
+      "surprise_pct": 5.21
+    },
+    {
+      "date": "2025-09-25",
+      "eps_estimate": 5.8,
+      "reported_eps": 5.87,
+      "surprise_pct": 1.13
+    },
+    {
+      "date": "2025-05-29",
+      "eps_estimate": 4.24,
+      "reported_eps": 4.28,
+      "surprise_pct": 0.86
+    },
+    {
+      "date": "2025-03-06",
+      "eps_estimate": 4.1,
+      "reported_eps": 4.02,
+      "surprise_pct": -1.85
+    }
+  ],
+  "quarterly_history": [],
+  "pe_trailing": 54.63281,
+  "pe_forward": 46.586018,
+  "peg_ratio": 5.33,
+  "eps_ttm": 19.2,
+  "eps_forward": 22.51641,
+  "revenue_growth": 0.215,
+  "earnings_growth": 0.455,
+  "surprise_avg_pct": NaN,
+  "eps_trend": "STABLE",
+  "earnings_catalyst_score": 50,
+  "verdict": "Solid earnings trend"
+}

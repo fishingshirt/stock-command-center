@@ -1,0 +1,30 @@
+{
+  "ticker": "LOW",
+  "timestamp": "2026-05-17T14:01:17.063544+00:00",
+  "current_price": 218.42,
+  "dcf_target": 114.73,
+  "comparable_target": 246.23,
+  "blended_target": 180.48,
+  "margin_of_safety_pct": 0,
+  "upside_pct": -17.37,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 18.416527,
+    "forward_pe": 16.001524,
+    "price_to_sales": 1.4177148,
+    "price_to_book": -12.356169,
+    "ev_ebitda": 13.389,
+    "eps_ttm": 11.86,
+    "eps_forward": 13.64995,
+    "sector": "Consumer Cyclical",
+    "sector_median_pe": 22,
+    "implied_pe": 260.92,
+    "implied_ps": 231.54,
+    "implied_pb": null,
+    "free_cash_flow": 4987375104,
+    "shares_outstanding": 560062893,
+    "growth_assumed": 0.1,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

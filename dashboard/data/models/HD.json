@@ -1,0 +1,30 @@
+{
+  "ticker": "HD",
+  "timestamp": "2026-05-17T14:01:08.767583+00:00",
+  "current_price": 297.51,
+  "dcf_target": 122.61,
+  "comparable_target": 195.78,
+  "blended_target": 159.19,
+  "margin_of_safety_pct": 0,
+  "upside_pct": -46.49,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 20.921942,
+    "forward_pe": 18.244625,
+    "price_to_sales": 1.7993854,
+    "price_to_book": 23.127333,
+    "ev_ebitda": 14.427,
+    "eps_ttm": 14.22,
+    "eps_forward": 16.30672,
+    "sector": "Consumer Cyclical",
+    "sector_median_pe": 22,
+    "implied_pe": 312.84,
+    "implied_ps": 248.77,
+    "implied_pb": 25.73,
+    "free_cash_flow": 8622749696,
+    "shares_outstanding": 996027658,
+    "growth_assumed": 0.1,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

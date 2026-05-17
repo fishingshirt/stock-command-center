@@ -9754,6 +9754,61 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "COST",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "price_at_predict": 1048.95,
+      "timestamp": "2026-05-17T14:00:43.056378+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "F",
+      "recommendation": "BUY",
+      "confidence": 83,
+      "price_at_predict": 13.4,
+      "timestamp": "2026-05-17T14:00:50.790613+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "WMT",
+      "recommendation": "REDUCE",
+      "confidence": 62,
+      "price_at_predict": 131.45,
+      "timestamp": "2026-05-17T14:00:59.393356+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "HD",
+      "recommendation": "SELL",
+      "confidence": 75,
+      "price_at_predict": 297.51,
+      "timestamp": "2026-05-17T14:01:07.620798+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "LOW",
+      "recommendation": "HOLD",
+      "confidence": 56,
+      "price_at_predict": 218.42,
+      "timestamp": "2026-05-17T14:01:15.836860+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "ticker": "COST",
+  "timestamp": "2026-05-17T14:00:44.203176+00:00",
+  "current_price": 1048.95,
+  "dcf_target": 1204.55,
+  "comparable_target": 582.71,
+  "blended_target": 893.63,
+  "margin_of_safety_pct": 0,
+  "upside_pct": -14.81,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 54.63281,
+    "forward_pe": 46.586018,
+    "price_to_sales": 1.625659,
+    "price_to_book": 28.138578,
+    "ev_ebitda": 34.426,
+    "eps_ttm": 19.2,
+    "eps_forward": 22.51641,
+    "sector": "Consumer Defensive",
+    "sector_median_pe": 20,
+    "implied_pe": 384.0,
+    "implied_ps": 1289.57,
+    "implied_pb": 74.56,
+    "free_cash_flow": 6690375168,
+    "shares_outstanding": 443652540,
+    "growth_assumed": 0.455,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

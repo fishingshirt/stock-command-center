@@ -1,0 +1,173 @@
+{
+  "task_id": "20260517-242",
+  "subject": "COST analysis",
+  "ticker": "COST",
+  "timestamp": "2026-05-17T14:00:42.942653+00:00",
+  "recommendation": "HOLD",
+  "confidence": 50,
+  "summary": "COST @ $1048.95 \u2014 HOLD (50% confidence) | Warnings: High P/E 54.63281x \u2014 growth expectations priced in; Price at 91.9% of 52-week range \u2014 limited upside | RSI: 70.21 | P/E: 54.63281 | Strategy: GROWTH",
+  "signal_score": 0.043,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "COST",
+    "current_price": 1048.95,
+    "previous_close": 1041.25,
+    "day_change_pct": 0.74,
+    "sma_20": 1011.36,
+    "sma_50": 1000.32,
+    "sma_200": 951.96,
+    "rsi_14": 70.21,
+    "52_week_high": 1067.08,
+    "52_week_low": 844.06,
+    "price_vs_52w_pct": 91.9,
+    "volume_surge": 1.04,
+    "avg_volume": 1816262,
+    "market_cap": 465369300992,
+    "pe_trailing": 54.63281,
+    "pe_forward": 46.586018,
+    "peg_ratio": 5.33,
+    "eps_ttm": 19.2,
+    "eps_forward": 22.51641,
+    "revenue_growth": 0.215,
+    "earnings_growth": 0.455,
+    "profit_margin": 0.029860001,
+    "short_ratio": 3.69,
+    "beta": 0.908,
+    "return_5d_pct": 4.95,
+    "return_1mo_pct": 5.27,
+    "return_3mo_pct": 3.8,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +5.27%"
+    },
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 70.21"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (1011.36)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (951.96) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -1.5,
+      "note": "High trailing P/E 54.63281x \u2014 stretched valuation"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 5.33 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.5,
+      "note": "Revenue growing 22% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 46% YoY"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (91.9% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": -1.0,
+      "note": "Bearish news sentiment (-33.3)"
+    }
+  ],
+  "reasons": [],
+  "warnings": [
+    "High P/E 54.63281x \u2014 growth expectations priced in",
+    "Price at 91.9% of 52-week range \u2014 limited upside",
+    "Bearish news sentiment detected"
+  ],
+  "sentiment": {
+    "score": -33.3,
+    "label": "BEARISH",
+    "bullish": 1,
+    "bearish": 2,
+    "total_mentions": 3
+  },
+  "news": [
+    {
+      "title": "Costco \u2018Recession Signal\u2019 Goes Viral as Old CFO Remarks Resurface On Record Beef Prices",
+      "published": "Sun, 17 May 2026 11:44:24 +0000",
+      "url": "https://beincrypto.com/costco-recession-signal-2026/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Costco just got its dream economy",
+      "published": "Sat, 16 May 2026 14:37:00 +0000",
+      "url": "https://www.thestreet.com/retail/costco-just-got-its-dream-economy?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Trump\u2019s More Than 3,700 Trades Astonish Wall Street Insiders",
+      "published": "Sat, 16 May 2026 14:10:49 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-traded-nvidia-boeing-intel-030913697.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Costco Is Innovating Its Way to More Growth, Says Analyst. Plus, Valvoline and 3 More Stocks.",
+      "published": "Fri, 15 May 2026 22:32:00 +0000",
+      "url": "https://finance.yahoo.com/m/66828297-ffb1-33fa-9fd4-720bcf0591a7/costco-is-innovating-its-way.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Oracle, Google, Costco options trading: This expert explains all",
+      "published": "Fri, 15 May 2026 21:25:04 +0000",
+      "url": "https://finance.yahoo.com/video/oracle-google-costco-options-trading-this-expert-explains-all-212504735.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/COST"
+  ],
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 1048.95,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 893.63,
+    "margin_of_safety_pct": 0,
+    "verdict": "OVERVALUED",
+    "upside_pct": -14.81
+  },
+  "earnings": {
+    "catalyst_score": 50,
+    "verdict": "Solid earnings trend",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "skipped",
+    "reason": "rec=HOLD"
+  },
+  "advisor": {
+    "ticker": "COST",
+    "recommendation": "HOLD",
+    "confidence": 50,
+    "strategy": "GROWTH",
+    "reasoning": "## COST Investment Thesis\n\n**Recommendation:** HOLD (50% confidence)\n**Strategy:** GROWTH\n**Price:** $1048.95\n**Daily Change:** \ud83d\udfe2 +0.74%\n\n**Valuation:** Target $893.63 | Upside -14.81% | MoS 0% | Verdict: OVERVALUED\n\n**Earnings:** Solid earnings trend (catalyst 50)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Positive 1mo momentum +5.27%\n\u26a0\ufe0f **Rsi:** RSI overbought 70.21\n\u2705 **Sma20:** Price above SMA20 (1011.36)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (951.96) \u2014 confirmed uptrend\n\u26a0\ufe0f **Pe:** High trailing P/E 54.63281x \u2014 stretched valuation\n\u26a0\ufe0f **Peg:** PEG 5.33 > 2.0 \u2014 expensive growth\n\u2705 **Revenue Growth:** Revenue growing 22% YoY\n\n### Risk Factors\n\u26a0\ufe0f High P/E 54.63281x \u2014 growth expectations priced in\n\u26a0\ufe0f Price at 91.9% of 52-week range \u2014 limited upside\n\u26a0\ufe0f Bearish news sentiment detected\n\n### News Sentiment: BEARISH (-33.3)\n- 1 bullish mentions, 2 bearish\n- Recent headlines:\n  - Costco \u2018Recession Signal\u2019 Goes Viral as Old CFO Remarks Resurface On Record Beef Prices\n  - Costco just got its dream economy\n  - Trump\u2019s More Than 3,700 Trades Astonish Wall Street Insiders\n\n### Key Metrics\n- **Ticker:** COST\n- **Price:** $1048.95\n- **P/E (trailing):** 54.63281\n- **P/E (forward):** 46.586018\n- **PEG:** 5.33\n- **RSI(14):** 70.21\n- **SMA 20:** 1011.36\n- **SMA 50:** 1000.32\n- **52W Range:** $844.06 - $1067.08\n- **1mo Return:** 5.27%\n- **3mo Return:** 3.8%\n- **Volume Surge:** 1.04\n- **Market Cap:** $465.4B\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T14:00:46.524746+00:00"
+  }
+}
