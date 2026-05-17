@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T04:15:57.707898+00:00",
+  "generated_at": "2026-05-17T04:30:05.408469+00:00",
   "overall": {
     "closed_trades": 4,
     "open_positions": 3,
@@ -52,8 +52,8 @@
       "name": "researcher_bot",
       "expertise": "multi-domain_research",
       "accuracy": 31.5,
-      "predictions": 1137,
-      "correct": 358
+      "predictions": 1142,
+      "correct": 360
     }
   ],
   "strategy_stats": {
