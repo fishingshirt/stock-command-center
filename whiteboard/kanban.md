@@ -40,14 +40,7 @@ Real-time market analysis for JNJ. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-233
-**Subject:** BA analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T13:31:09.589767+00:00
-**Details:**
-Real-time market analysis for BA. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13415,3 +13408,15 @@ Real-time market analysis for WFC. Auto-generated watchlist task.
 **Summary:** CVX @ $191.1 — ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | RSI: 59.37 | P/E: 33.35079 | Strategy: GROWTH
 **Details:**
 Real-time market analysis for CVX. Auto-generated watchlist task.
+
+### Task ID: 20260517-233
+**Subject:** BA analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:31:09.589767+00:00
+**Completed At:** 2026-05-17T13:31:17.477008+00:00
+**Result:** dashboard/data/output/20260517-233.json
+**Summary:** BA @ $220.49 — HOLD (51% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 86.80709x — growth expectations priced in | RSI: 41.25 | P/
+**Details:**
+Real-time market analysis for BA. Auto-generated watchlist task.
