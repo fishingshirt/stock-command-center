@@ -43,14 +43,7 @@ Real-time market analysis for COIN. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-223
-**Subject:** NFLX analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T13:11:37.312646+00:00
-**Details:**
-Real-time market analysis for NFLX. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13295,3 +13288,15 @@ Real-time market analysis for INTC. Auto-generated watchlist task.
 **Summary:** ADBE @ $247.6 — BUY (86% confidence) | Bullish: Trailing P/E 14.428905x — below market average | RSI: 56.9 | P/E: 14.428905 | Strategy: VALUE
 **Details:**
 Real-time market analysis for ADBE. Auto-generated watchlist task.
+
+### Task ID: 20260517-223
+**Subject:** NFLX analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:11:37.312646+00:00
+**Completed At:** 2026-05-17T13:11:44.626261+00:00
+**Result:** dashboard/data/output/20260517-223.json
+**Summary:** NFLX @ $87.02 — HOLD (50% confidence) | Bullish: RSI 34.97 — approaching oversold | RSI: 34.97 | P/E: 28.070967 | Strategy: GROWTH
+**Details:**
+Real-time market analysis for NFLX. Auto-generated watchlist task.
