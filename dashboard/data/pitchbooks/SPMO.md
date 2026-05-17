@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-17T05:45:40.507392+00:00  
+**Generated:** 2026-05-17T06:00:30.537683+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.01, Price: $143.48.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$153.78**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$335.23**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **25/100** (Earnings weakness detected)
-- Recent EPS surprise: **-9.0%**
-- Next earnings date: **2026-06-26**
+- Earnings momentum score: **35/100** (Mixed earnings signals)
+- Recent EPS surprise: **-12.5%**
+- Next earnings date: **2026-06-11**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $493.2 |
-| DCF Intrinsic Value | $61.07 |
-| Comparable Implied | $246.49 |
-| Blended Target | $153.78 |
+| Current Price | $404.32 |
+| DCF Intrinsic Value | $193.11 |
+| Comparable Implied | $477.35 |
+| Blended Target | $335.23 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,19 +47,18 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (8.3/10)
-- ⚠️ 2 active controversies
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 38.5/100
-- **Sanctions Risk:** 8.3/10
-- **ESG Score:** 51.4/100
-- **Controversies:** 2
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 88.9/100
+- **Sanctions Risk:** 0.2/10
+- **ESG Score:** 83.8/100
+- **Controversies:** 1
 
 ---
 
