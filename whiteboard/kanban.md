@@ -32,14 +32,7 @@ Real-time market analysis for COST. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-239
-**Subject:** LLY analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T13:46:23.995587+00:00
-**Details:**
-Real-time market analysis for LLY. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13479,3 +13472,15 @@ Real-time market analysis for JNJ. Auto-generated watchlist task.
 **Summary:** F @ $13.4 — BUY (83% confidence) | RSI: 59.32 | Strategy: GROWTH
 **Details:**
 Real-time market analysis for F. Auto-generated watchlist task.
+
+### Task ID: 20260517-239
+**Subject:** LLY analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:46:23.995587+00:00
+**Completed At:** 2026-05-17T13:46:31.324484+00:00
+**Result:** dashboard/data/output/20260517-239.json
+**Summary:** LLY @ $1004.92 — BUY (85% confidence) | RSI: 74.45 | P/E: 35.711445 | Strategy: GROWTH
+**Details:**
+Real-time market analysis for LLY. Auto-generated watchlist task.
