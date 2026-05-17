@@ -32,14 +32,7 @@ Real-time market analysis for MSFT. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-290
-**Subject:** VOOG analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T15:15:59.989425+00:00
-**Details:**
-Real-time market analysis for VOOG. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -864,3 +857,15 @@ Real-time market analysis for SCHK. Auto-generated watchlist task.
 **Summary:** SPYM @ $86.99 — ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range — limited upside | RSI: 69.75
 **Details:**
 Real-time market analysis for SPYM. Auto-generated watchlist task.
+
+### Task ID: 20260517-290
+**Subject:** VOOG analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T15:15:59.989425+00:00
+**Completed At:** 2026-05-17T15:16:07.579880+00:00
+**Result:** dashboard/data/output/20260517-290.json
+**Summary:** VOOG @ $82.19 — ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 93.9% of 52-week range — limited upside | RSI: 70.52
+**Details:**
+Real-time market analysis for VOOG. Auto-generated watchlist task.
