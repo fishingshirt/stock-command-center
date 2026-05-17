@@ -29,14 +29,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260517-209
-**Subject:** MTUM iShares Momentum Factor ETF rotation
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T12:56:08.429590+00:00
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13106,5 +13099,17 @@ Auto-generated research task. Bot: researcher_bot.
 **Completed At:** 2026-05-17T12:56:07.251795+00:00
 **Result:** dashboard/data/output/20260517-208.json
 **Summary:** SPY @ $739.17 — ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range — limited upside | RSI: 69.61
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260517-209
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:56:08.429590+00:00
+**Completed At:** 2026-05-17T12:56:14.621436+00:00
+**Result:** dashboard/data/output/20260517-209.json
+**Summary:** MTUM @ $298.27 — BUY (91% confidence) | Bullish: Bullish news sentiment detected | RSI: 63.79 | P/E: 32.67441 | Strategy: GROWTH
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
