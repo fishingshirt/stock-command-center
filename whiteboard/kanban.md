@@ -56,14 +56,7 @@ Real-time market analysis for AMD. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-292
-**Subject:** AAPL analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T15:31:04.387469+00:00
-**Details:**
-Real-time market analysis for AAPL. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -912,3 +905,15 @@ Real-time market analysis for VOOG. Auto-generated watchlist task.
 **Summary:** NVDA @ $225.32 — BUY (87% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 46.077713x — growth expectations priced in | RSI: 56.24 |
 **Details:**
 Real-time market analysis for NVDA. Auto-generated watchlist task.
+
+### Task ID: 20260517-292
+**Subject:** AAPL analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T15:31:04.387469+00:00
+**Completed At:** 2026-05-17T15:31:14.850477+00:00
+**Result:** dashboard/data/output/20260517-292.json
+**Summary:** AAPL @ $300.23 — ACCUMULATE (65% confidence) | Bullish: Bullish news sentiment detected | Warnings: RSI 88.43 — possible reversal risk; Price at 97.3% of 52-wee
+**Details:**
+Real-time market analysis for AAPL. Auto-generated watchlist task.
