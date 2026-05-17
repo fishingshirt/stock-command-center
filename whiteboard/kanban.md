@@ -40,6 +40,18 @@ Auto-generated research task. Bot: researcher_bot.
 - Backend still not responding on port 8000
 - Manual investigation needed: check docker logs, port conflicts
 
+### Task ID: 20260517-182
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.4% over last 1277 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
 ## In Progress
 
 _(No tasks in this section.)_
