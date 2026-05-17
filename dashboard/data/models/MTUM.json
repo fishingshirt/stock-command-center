@@ -1,42 +1,30 @@
 {
   "ticker": "MTUM",
-  "timestamp": "2026-05-17T12:46:12.376049+00:00",
-  "current_price": 125.4,
-  "dcf_target": 114.65,
-  "comparable_target": 128.03,
-  "blended_target": 121.34,
+  "timestamp": "2026-05-17T12:56:12.621310+00:00",
+  "current_price": 298.27,
+  "dcf_target": null,
+  "comparable_target": 298.27,
+  "blended_target": 298.27,
   "margin_of_safety_pct": 0,
-  "dcf_model": {
-    "current_fcf_billions": 3.89,
-    "projected_fcf_5yr": [
-      4.71,
-      5.69,
-      6.88,
-      8.32,
-      10.06
-    ],
-    "growth_rate_assumed": 0.209,
-    "wacc": 0.093,
-    "terminal_growth": 0.03,
-    "terminal_value_billions": 164.75,
-    "enterprise_value_billions": 132.29,
-    "net_cash_billions": 18.28,
-    "equity_value_billions": 150.57,
-    "intrinsic_per_share": 114.65,
-    "method": "DCF_5yr"
-  },
-  "comparable_model": {
-    "current_price": 125.4,
-    "trailing_pe": 29.57,
-    "forward_pe": 23.51,
-    "ev_ebitda": 12.88,
-    "price_to_sales": 2.72,
-    "price_to_book": 5.04,
-    "eps": 4.24,
-    "peer_median_pe": 30.19,
-    "implied_price_pe": 128.03,
-    "upside_pct": 2.1,
-    "method": "peer_multiples"
-  },
-  "verdict": "Overvalued"
+  "upside_pct": 0.0,
+  "verdict": "SLIGHTLY_OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 32.67441,
+    "forward_pe": null,
+    "price_to_sales": null,
+    "price_to_book": null,
+    "ev_ebitda": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "sector": "",
+    "sector_median_pe": 22,
+    "implied_pe": null,
+    "implied_ps": null,
+    "implied_pb": null,
+    "free_cash_flow": null,
+    "shares_outstanding": null,
+    "growth_assumed": 0.15,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
 }

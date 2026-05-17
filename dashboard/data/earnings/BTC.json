@@ -1,36 +1,19 @@
 {
-  "next_earnings_date": "2026-05-28",
-  "earnings_history": [
-    {
-      "date": "2026-02-28",
-      "eps_estimate": 1.65,
-      "reported_eps": 1.85,
-      "surprise_pct": 6.8
-    },
-    {
-      "date": "2025-11-30",
-      "eps_estimate": 1.35,
-      "reported_eps": 1.55,
-      "surprise_pct": 9.2
-    },
-    {
-      "date": "2025-08-30",
-      "eps_estimate": 1.05,
-      "reported_eps": 1.25,
-      "surprise_pct": 9.2
-    }
-  ],
-  "eps_ttm": 7.4,
-  "eps_forward": 9.62,
-  "revenue_growth": 0.349,
-  "earnings_growth": -0.064,
-  "pe_trailing": 19.14,
-  "pe_forward": 14.01,
-  "peg_ratio": 0.84,
   "ticker": "BTC",
-  "analyzed_at": "2026-05-15T07:30:09.803232+00:00",
-  "source": "mock_fallback",
-  "surprise_avg_pct": 8.4,
-  "earnings_catalyst_score": 55,
-  "verdict": "Mixed earnings signals"
+  "analyzed_at": "2026-05-17T12:56:21.201773+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [],
+  "quarterly_history": [],
+  "pe_trailing": null,
+  "pe_forward": null,
+  "peg_ratio": null,
+  "eps_ttm": null,
+  "eps_forward": null,
+  "revenue_growth": null,
+  "earnings_growth": null,
+  "surprise_avg_pct": null,
+  "eps_trend": "FLAT",
+  "earnings_catalyst_score": 0,
+  "verdict": "Earnings weakness detected"
 }

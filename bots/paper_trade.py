@@ -1,11 +1,11 @@
 """
 bots/paper_trade.py
-Paper trading engine. Treats virtual positions as real money for learning.
-Trades ONLY during US market hours (9:30-16:00 ET, Mon-Fri).
+Paper trading engine. Virtual portfolio with real position tracking.
+No market-hours restriction for paper trading (data can flow anytime).
 """
 import json
 import os
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -17,33 +17,13 @@ LEDGER_PATH.parent.mkdir(parents=True, exist_ok=True)
 INITIAL_CAPITAL = 100000.0
 
 
-def _is_market_open() -> dict:
-    """Check if US stock market is currently open."""
-    now = datetime.now(timezone.utc)
-    et_offset = timedelta(hours=-4)  # DST
-    et_now = now + et_offset
-    weekday = et_now.weekday()
-    if weekday >= 5:
-        return {"open": False, "reason": f"Weekend ({et_now.strftime('%A')})", "et_time": et_now.strftime("%H:%M")}
-    hour = et_now.hour
-    minute = et_now.minute
-    current = hour * 60 + minute
-    market_open = 9 * 60 + 30
-    market_close = 16 * 60
-    if current < market_open:
-        return {"open": False, "reason": "Pre-market", "et_time": et_now.strftime("%H:%M")}
-    if current > market_close:
-        return {"open": False, "reason": "After-hours", "et_time": et_now.strftime("%H:%M")}
-    return {"open": True, "reason": "Regular hours", "et_time": et_now.strftime("%H:%M")}
-
-
 def _load_settings() -> dict:
     defaults = {
-        "auto_trade_enabled": False,
-        "paper_trade_confidence_threshold": 70,
-        "max_positions": 10,
-        "position_size_pct": 0.10,
-        "initial_capital": 100000.0,
+        "auto_trade_enabled": True,
+        "paper_trade_confidence_threshold": 65,
+        "max_positions": 15,
+        "position_size_pct": 0.08,
+        "initial_capital": INITIAL_CAPITAL,
     }
     if SETTINGS_PATH.exists():
         try:
@@ -84,14 +64,15 @@ def _save_ledger(ledger: dict):
 
 
 def get_stats() -> dict:
+    """Get paper portfolio stats with current prices."""
     ledger = _load_ledger()
     positions = ledger.get("positions", {})
     history = ledger.get("history", [])
-    
+
     # Update prices for open positions
     try:
         import yfinance as yf_local
-        for ticker in positions:
+        for ticker in list(positions.keys()):
             try:
                 t = yf_local.Ticker(ticker)
                 hist = t.history(period="1d")
@@ -116,11 +97,9 @@ def get_stats() -> dict:
     wins = [h for h in history if h.get("pnl", 0) > 0]
     losses = [h for h in history if h.get("pnl", 0) < 0]
 
-    win_rate = len(wins) / len(history) * 100 if history else 0
-    avg_return = sum(h.get("return_pct", 0) for h in history) / len(history) if history else 0
-    max_drawdown = min((h.get("return_pct", 0) for h in history), default=0)
-
-    market_status = _is_market_open()
+    win_rate = round(len(wins) / len(history) * 100, 2) if history else 0
+    avg_return = round(sum(h.get("return_pct", 0) for h in history) / len(history), 2) if history else 0
+    max_drawdown = round(min((h.get("return_pct", 0) for h in history), default=0), 2)
 
     return {
         "cash": round(ledger["cash"], 2),
@@ -130,44 +109,48 @@ def get_stats() -> dict:
         "unrealized_pnl": round(unrealized_pnl, 2),
         "open_positions_count": len(positions),
         "closed_trades_count": len(history),
-        "win_rate": round(win_rate, 2),
-        "avg_return_pct": round(avg_return, 2),
-        "max_drawdown_pct": round(max_drawdown, 2),
+        "win_rate": win_rate,
+        "avg_return_pct": avg_return,
+        "max_drawdown_pct": max_drawdown,
         "positions": positions,
         "history": history[-20:],
-        "market_status": market_status,
         "initial_capital": INITIAL_CAPITAL,
+        "settings": _load_settings(),
     }
 
 
 def buy(ticker: str, price: float, confidence: float, reasoning: str, shares: float = None, task_id: str = ""):
-    """Open a paper position — only if market is open."""
-    market = _is_market_open()
-    if not market["open"]:
-        return {"status": "market_closed", "message": f"Cannot buy — {market['reason']} ({market['et_time']} ET)", "market": market}
-    
+    """Open a paper position."""
     ledger = _load_ledger()
-    if ticker.upper() in ledger.get("positions", {}):
+    ticker = ticker.upper()
+    if ticker in ledger.get("positions", {}):
         return {"status": "already_open", "message": f"Position already open for {ticker}"}
 
     settings = _load_settings()
-    position_size_pct = settings.get("position_size_pct", 0.10)
-    max_positions = settings.get("max_positions", 10)
-    
+    position_size_pct = settings.get("position_size_pct", 0.08)
+    max_positions = settings.get("max_positions", 15)
+
     if len(ledger.get("positions", {})) >= max_positions:
         return {"status": "max_positions", "message": f"Max {max_positions} positions reached"}
 
     if shares is None:
         invest = ledger["cash"] * position_size_pct
-        shares = round(invest / price, 4)
+        shares = round(invest / price, 4) if price > 0 else 0
+
+    if shares <= 0:
+        return {"status": "invalid", "message": f"Cannot buy 0 shares at ${price}"}
 
     cost = shares * price
     if cost > ledger["cash"]:
-        return {"status": "insufficient_funds", "message": f"Need ${cost:.2f}, have ${ledger['cash']:.2f}"}
+        # Scale down to available cash
+        shares = round(ledger["cash"] / price, 4) if price > 0 else 0
+        cost = shares * price
+        if cost > ledger["cash"]:
+            return {"status": "insufficient_funds", "message": f"Need ${cost:.2f}, have ${ledger['cash']:.2f}"}
 
     ledger["cash"] -= cost
-    ledger["positions"][ticker.upper()] = {
-        "ticker": ticker.upper(),
+    ledger["positions"][ticker] = {
+        "ticker": ticker,
         "shares": shares,
         "entry_price": round(price, 4),
         "last_price": round(price, 4),
@@ -177,28 +160,30 @@ def buy(ticker: str, price: float, confidence: float, reasoning: str, shares: fl
         "opened_at": datetime.now(timezone.utc).isoformat(),
     }
     _save_ledger(ledger)
-    return {"status": "ok", "message": f"Bought {shares} {ticker} @ ${price}", "cost": round(cost, 2), "market": market}
+    return {"status": "ok", "message": f"Bought {shares} {ticker} @ ${price}", "cost": round(cost, 2)}
 
 
 def sell(ticker: str, price: float, reasoning: str = "", task_id: str = ""):
-    """Close a paper position — only if market is open."""
-    market = _is_market_open()
-    if not market["open"]:
-        return {"status": "market_closed", "message": f"Cannot sell — {market['reason']} ({market['et_time']} ET)", "market": market}
-    
+    """Close a paper position."""
     ledger = _load_ledger()
-    pos = ledger.get("positions", {}).pop(ticker.upper(), None)
+    ticker = ticker.upper()
+    pos = ledger.get("positions", {}).pop(ticker, None)
     if not pos:
         return {"status": "no_position", "message": f"No open position for {ticker}"}
 
     proceeds = pos["shares"] * price
     pnl = proceeds - (pos["shares"] * pos["entry_price"])
-    return_pct = (price - pos["entry_price"]) / pos["entry_price"] * 100
-    hold_seconds = (datetime.now(timezone.utc) - datetime.fromisoformat(pos["opened_at"])).total_seconds()
+    return_pct = (price - pos["entry_price"]) / pos["entry_price"] * 100 if pos["entry_price"] else 0
+    hold_seconds = 0
+    try:
+        opened = datetime.fromisoformat(pos["opened_at"])
+        hold_seconds = (datetime.now(timezone.utc) - opened).total_seconds()
+    except Exception:
+        pass
 
     ledger["cash"] += proceeds
     ledger["history"].append({
-        "ticker": ticker.upper(),
+        "ticker": ticker,
         "action": "SELL",
         "shares": pos["shares"],
         "entry_price": pos["entry_price"],
@@ -212,57 +197,11 @@ def sell(ticker: str, price: float, reasoning: str = "", task_id: str = ""):
         "task_id": task_id or pos.get("task_id", ""),
     })
     _save_ledger(ledger)
-    
-    # Also update strategy tracker for this trade
-    try:
-        from pathlib import Path as _Path
-        strat_file = _Path('/home/fishingshirt/stock-command-center/dashboard/data/strategies/ledger.json')
-        if strat_file.exists():
-            import json as _json
-            with open(strat_file, 'r') as f:
-                strat_data = _json.load(f)
-            matched = False
-            for t in strat_data.get('trades', []):
-                if (t.get('ticker') == ticker.upper() 
-                    and t.get('open', True) 
-                    and t.get('return_pct') is None):
-                    t['open'] = False
-                    t['exit_price'] = round(price, 4)
-                    t['return_pct'] = round(return_pct, 2)
-                    t['pnl'] = round(pnl, 2)
-                    t['closed_at'] = datetime.now(timezone.utc).isoformat()
-                    matched = True
-                    break
-            if matched:
-                strat_data['updated_at'] = datetime.now(timezone.utc).isoformat()
-                # Recalc stats
-                strategies = ["MOMENTUM", "VALUE", "GROWTH", "QUALITY", "INCOME"]
-                stats = {}
-                for s in strategies:
-                    st = [tr for tr in strat_data.get('trades', []) if tr.get('strategy') == s and tr.get('return_pct') is not None]
-                    if st:
-                        wins = sum(1 for tr in st if tr['return_pct'] > 0)
-                        total = len(st)
-                        avg_ret = sum(tr['return_pct'] for tr in st) / total
-                        stats[s] = {
-                            'trades': total,
-                            'win_rate': round(wins / total * 100, 1),
-                            'avg_return_pct': round(avg_ret, 2),
-                            'best_trade': round(max(tr['return_pct'] for tr in st), 2),
-                            'worst_trade': round(min(tr['return_pct'] for tr in st), 2),
-                        }
-                strat_data['strategy_stats'] = stats
-                with open(strat_file, 'w') as f:
-                    _json.dump(strat_data, f, indent=2)
-    except Exception:
-        pass
-    
     return {
         "status": "ok",
         "message": f"Sold {pos['shares']} {ticker} @ ${price}",
         "pnl": round(pnl, 2),
         "return_pct": round(return_pct, 2),
-        "market": market,
     }
 
 
@@ -275,43 +214,47 @@ def update_price(ticker: str, current_price: float):
 
 
 def auto_trade_from_result(result: dict):
-    """Auto-trade if confidence exceeds threshold and market is open."""
+    """Auto-trade based on research result."""
     settings = _load_settings()
-    if not settings.get("auto_trade_enabled", False):
+    if not settings.get("auto_trade_enabled", True):
         return {"status": "skipped", "reason": "auto_trade_enabled=false"}
 
     rec = result.get("recommendation", "WATCH")
     conf = result.get("confidence", 0)
-    ticker = result.get("key_metrics", {}).get("ticker") or _extract_ticker(result.get("subject", ""))
-    price = result.get("key_metrics", {}).get("current_price") or result.get("paper_trade_price", 0)
-    if price is None:
-        price = 0
+    ticker = result.get("ticker", "") or result.get("key_metrics", {}).get("ticker", "")
+    price_raw = result.get("key_metrics", {}).get("current_price") or result.get("paper_trade_price", 0)
+    price = float(price_raw) if price_raw is not None else 0.0
+    if price <= 0:
+        return {"status": "skipped", "reason": "missing price"}
+
     task_id = result.get("task_id", "")
     summary = result.get("summary", "")
 
-    threshold = settings.get("paper_trade_confidence_threshold", 70)
-    max_positions = settings.get("max_positions", 10)
-
-    if not ticker or not price:
-        return {"status": "skipped", "reason": "missing ticker or price"}
+    threshold = settings.get("paper_trade_confidence_threshold", 65)
+    max_positions = settings.get("max_positions", 15)
 
     if rec in ("BUY", "ACCUMULATE"):
         ledger = _load_ledger()
         if len(ledger.get("positions", {})) >= max_positions:
             return {"status": "skipped", "reason": f"max_positions={max_positions} reached"}
+        if conf >= threshold:
+            return buy(ticker, price, conf, summary, task_id=task_id)
+        return {"status": "skipped", "reason": f"conf={conf} < threshold={threshold}"}
 
-    if rec in ("BUY", "ACCUMULATE") and conf >= threshold:
-        return buy(ticker, price, conf, summary, task_id=task_id)
     elif rec == "SELL":
-        return sell(ticker, price, summary, task_id=task_id)
+        ledger = _load_ledger()
+        if ticker.upper() in ledger.get("positions", {}):
+            return sell(ticker, price, summary, task_id=task_id)
+        return {"status": "skipped", "reason": "no position to sell"}
+
+    elif rec == "REDUCE":
+        ledger = _load_ledger()
+        if ticker.upper() in ledger.get("positions", {}):
+            return sell(ticker, price, summary, task_id=task_id)
+        return {"status": "skipped", "reason": "no position to reduce"}
+
     else:
-        return {"status": "skipped", "reason": f"rec={rec} conf={conf} threshold={threshold}"}
-
-
-def _extract_ticker(subject: str) -> str:
-    import re
-    m = re.search(r'\b([A-Z]{2,5})\b', subject)
-    return m.group(1) if m else ""
+        return {"status": "skipped", "reason": f"rec={rec} conf={conf}"}
 
 
 if __name__ == "__main__":
@@ -321,7 +264,15 @@ if __name__ == "__main__":
         print(json.dumps(get_stats(), indent=2))
     elif cmd == "buy" and len(sys.argv) >= 4:
         print(json.dumps(buy(sys.argv[2], float(sys.argv[3]), 80.0, "manual buy"), indent=2))
-    elif cmd == "sell" and len(sys.argv) >= 4:
-        print(json.dumps(sell(sys.argv[2], float(sys.argv[3])), indent=2))
+    elif cmd == "sell" and len(sys.argv) >= 3:
+        # Try to get current price
+        try:
+            import yfinance as yf_s
+            t = yf_s.Ticker(sys.argv[2])
+            hist = t.history(period="1d")
+            price = float(hist.Close.iloc[-1]) if len(hist) > 0 else float(sys.argv[3])
+        except Exception:
+            price = float(sys.argv[3]) if len(sys.argv) > 3 else 0
+        print(json.dumps(sell(sys.argv[2], price), indent=2))
     else:
         print("Usage: python paper_trade.py [stats|buy TICKER PRICE|sell TICKER PRICE]")

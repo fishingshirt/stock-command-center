@@ -1,36 +1,19 @@
 {
-  "next_earnings_date": "2026-06-15",
-  "earnings_history": [
-    {
-      "date": "2026-02-28",
-      "eps_estimate": 7.31,
-      "reported_eps": 7.51,
-      "surprise_pct": -6.1
-    },
-    {
-      "date": "2025-11-30",
-      "eps_estimate": 7.01,
-      "reported_eps": 7.21,
-      "surprise_pct": -2.2
-    },
-    {
-      "date": "2025-08-30",
-      "eps_estimate": 6.71,
-      "reported_eps": 6.91,
-      "surprise_pct": -5.3
-    }
-  ],
-  "eps_ttm": 30.04,
-  "eps_forward": 39.05,
-  "revenue_growth": 0.073,
-  "earnings_growth": 0.115,
-  "pe_trailing": 48.6,
-  "pe_forward": 12.64,
-  "peg_ratio": 1.07,
   "ticker": "SPY",
-  "analyzed_at": "2026-05-17T12:46:06.113379+00:00",
-  "source": "mock_fallback",
-  "surprise_avg_pct": -4.53,
-  "earnings_catalyst_score": 20,
+  "analyzed_at": "2026-05-17T12:56:28.519831+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [],
+  "quarterly_history": [],
+  "pe_trailing": 27.768337,
+  "pe_forward": null,
+  "peg_ratio": null,
+  "eps_ttm": null,
+  "eps_forward": null,
+  "revenue_growth": null,
+  "earnings_growth": null,
+  "surprise_avg_pct": null,
+  "eps_trend": "FLAT",
+  "earnings_catalyst_score": 0,
   "verdict": "Earnings weakness detected"
 }

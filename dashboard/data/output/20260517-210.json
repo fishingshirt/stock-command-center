@@ -1,0 +1,93 @@
+{
+  "task_id": "20260517-210",
+  "subject": "Auto: Top crypto momentum scan (BTC, ETH, SOL)",
+  "ticker": "BTC",
+  "timestamp": "2026-05-17T12:56:17.810209+00:00",
+  "recommendation": "SELL",
+  "confidence": 90,
+  "summary": "BTC @ $78361 \u2014 SELL (90% confidence) | Warnings: Bearish news sentiment detected | Strategy: GROWTH",
+  "signal_score": -1.0,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "BTC",
+    "current_price": 78361,
+    "market_cap": 1569822240351,
+    "total_volume": 19719998575,
+    "day_change_pct": 0.48527,
+    "ath": 126080,
+    "ath_change_pct": -37.84837,
+    "_source": "coingecko"
+  },
+  "signals": [
+    {
+      "name": "sentiment",
+      "score": -1.0,
+      "note": "Bearish news sentiment (-50.0)"
+    }
+  ],
+  "reasons": [],
+  "warnings": [
+    "Bearish news sentiment detected"
+  ],
+  "sentiment": {
+    "score": -50.0,
+    "label": "BEARISH",
+    "bullish": 1,
+    "bearish": 3,
+    "total_mentions": 4
+  },
+  "news": [
+    {
+      "title": "Bitcoin, Ethereum, XRP, Dogecoin Jump After Crypto Act Passes Key Senate Vote: Analyst Says BTC 'Positioned' For A Rebound Toward $86,000",
+      "published": "Fri, 15 May 2026 01:50:48 +0000",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-dogecoin-jump-015048079.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Kraken Moves kBTC to Chainlink as LayerZero Fallout Spreads",
+      "published": "Thu, 14 May 2026 21:20:00 +0000",
+      "url": "https://www.cryptoprowl.com/releases/kraken-moves-kbtc-to-chainlink-as-layerzero-fallout-spreads-5487?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Bank Of England To Ease Stablecoin Restrictions",
+      "published": "Thu, 14 May 2026 13:14:00 +0000",
+      "url": "https://www.cryptoprowl.com/releases/bank-of-england-to-ease-stablecoin-restrictions-5478?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Bitcoin, Ethereum, XRP Fall, But Dogecoin Gains Ahead Of Crypto Act Markup In Senate: This Analyst Is Bracing For More BTC Pain Ahead",
+      "published": "Thu, 14 May 2026 01:48:34 +0000",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-ethereum-xrp-fall-dogecoin-014834273.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Bitcoin, Dogecoin Flat, While Ethereum, XRP Sink Amid Hotter-Than-Expected Consumer Inflation: Analyst Sees No BTC 'Exhaustion,' Targets This Range",
+      "published": "Wed, 13 May 2026 01:46:21 +0000",
+      "url": "https://finance.yahoo.com/news/bitcoin-dogecoin-flat-while-ethereum-014621610.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://www.coingecko.com/en/coins/btc"
+  ],
+  "paper_trade_signal": "SELL",
+  "paper_trade_price": 78361,
+  "asset_type": "crypto",
+  "model": {
+    "blended_target": 34.98,
+    "margin_of_safety_pct": 0,
+    "verdict": "SLIGHTLY_OVERVALUED",
+    "upside_pct": 0.0
+  },
+  "earnings": {
+    "catalyst_score": 0,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "FLAT",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "skipped",
+    "reason": "no position to sell"
+  }
+}

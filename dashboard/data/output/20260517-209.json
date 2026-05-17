@@ -1,0 +1,143 @@
+{
+  "task_id": "20260517-209",
+  "subject": "MTUM iShares Momentum Factor ETF rotation",
+  "ticker": "MTUM",
+  "timestamp": "2026-05-17T12:56:11.326395+00:00",
+  "recommendation": "BUY",
+  "confidence": 91,
+  "summary": "MTUM @ $298.27 \u2014 BUY (91% confidence) | Bullish: Bullish news sentiment detected | RSI: 63.79 | P/E: 32.67441 | Strategy: GROWTH",
+  "signal_score": 0.846,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "MTUM",
+    "current_price": 298.27,
+    "previous_close": 307.25,
+    "day_change_pct": -2.92,
+    "sma_20": 288.64,
+    "sma_50": 265.62,
+    "sma_200": 254.17,
+    "rsi_14": 63.79,
+    "52_week_high": 307.96,
+    "52_week_low": 223.47,
+    "price_vs_52w_pct": 88.5,
+    "volume_surge": 1.13,
+    "avg_volume": 840651,
+    "market_cap": null,
+    "pe_trailing": 32.67441,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -2.74,
+    "return_1mo_pct": 9.03,
+    "return_3mo_pct": 18.63,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +9.03%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +18.63%"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (288.64)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (254.17) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 32.67441x"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 3,
+    "bearish": 0,
+    "total_mentions": 3
+  },
+  "news": [
+    {
+      "title": "Mind the Momentum ETFs: SPMO, MTUM Having Strong Month",
+      "published": "Mon, 27 Apr 2026 18:27:35 +0000",
+      "url": "https://finance.yahoo.com/markets/options/articles/mind-momentum-etfs-spmo-mtum-182735912.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Straight Path Wealth Management Adds 53K Shares of Dimensional Global Core Plus Fixed Income ETF",
+      "published": "Thu, 23 Apr 2026 17:33:22 +0000",
+      "url": "https://www.fool.com/coverage/filings/2026/04/23/straight-path-adds-53k-dfgp-shares/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nasdaq scores longest winning streak since 1992 as historic stock-market comeback continues",
+      "published": "Fri, 17 Apr 2026 21:32:00 +0000",
+      "url": "https://www.marketwatch.com/story/nasdaq-heads-toward-its-longest-winning-streak-since-1992-as-historic-stock-market-comeback-continues-e84c2c59?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Will the Iran Truce Hold? Where to Invest\u2014Whether It Fizzles or Settles In",
+      "published": "Sun, 12 Apr 2026 10:55:00 +0000",
+      "url": "https://finance.yahoo.com/m/1adc408d-cd68-3167-966b-c0a70d610382/will-the-iran-truce-hold%3F.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Forefront Analytics Expands iShares ESG Aware MSCI EM ETF Stake to $16 Million",
+      "published": "Mon, 23 Mar 2026 20:49:24 +0000",
+      "url": "https://www.fool.com/coverage/filings/2026/03/23/forefront-analytics-expands-ishares-esg-aware-msci-em-etf-stake-to-usd16-million/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/MTUM"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 298.27,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 298.27,
+    "margin_of_safety_pct": 0,
+    "verdict": "SLIGHTLY_OVERVALUED",
+    "upside_pct": 0.0
+  },
+  "earnings": {
+    "catalyst_score": 0,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "FLAT",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "already_open",
+    "message": "Position already open for MTUM"
+  }
+}

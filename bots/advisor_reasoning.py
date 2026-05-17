@@ -1,98 +1,121 @@
 """
 bots/advisor_reasoning.py
-Generates narrative: why we made this call.
-Usage: called by orchestrator after all analyses complete.
+Generates real investment thesis from actual research data.
 """
 import argparse, json, sys
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Optional
 
 
-def generate_reasoning(research: dict, earnings: dict, model: dict, pitchbook_path: str) -> dict:
-    ticker = _extract_ticker(research.get("subject", ""))
+def generate_reasoning(research: dict, model: Optional[dict] = None, earnings: Optional[dict] = None) -> dict:
+    ticker = research.get("ticker", "") or research.get("key_metrics", {}).get("ticker", "UNKNOWN")
     rec = research.get("recommendation", "HOLD")
     conf = research.get("confidence", 0)
-    summary = research.get("summary", "")
+    strategy = research.get("strategy", "GROWTH")
     metrics = research.get("key_metrics", {})
-    
-    e_score = earnings.get("earnings_catalyst_score", 0)
-    e_verdict = earnings.get("verdict", "")
-    m_target = model.get("blended_target", "N/A")
-    m_mos = model.get("margin_of_safety_pct", 0)
-    m_verdict = model.get("verdict", "")
-    
-    reasons = []
-    if rec == "BUY":
-        reasons.append(f"We see a buying opportunity in {ticker}.")
-    elif rec == "ACCUMULATE":
-        reasons.append(f"{ticker} looks attractive on a scale-in basis.")
-    elif rec == "HOLD":
-        reasons.append(f"We maintain our HOLD on {ticker}.")
-    elif rec == "SELL":
-        reasons.append(f"We are downgrading {ticker} to SELL.")
-    else:
-        reasons.append(f"We are watching {ticker} closely.")
-    
-    reasons.append(f"")
-    reasons.append(f"**Research Findings:**")
-    reasons.append(f"- {summary}")
-    
-    reasons.append(f"")
-    reasons.append(f"**Earnings Analysis:**")
-    reasons.append(f"- {e_verdict} — catalyst score {e_score}/100")
-    
-    reasons.append(f"")
-    reasons.append(f"**Valuation Model:**")
-    reasons.append(f"- {m_verdict} with a blended target of ${m_target}")
-    if m_mos > 10:
-        reasons.append(f"- **Margin of safety:** {m_mos}% — favorable downside protection")
-    
-    reasons.append(f"")
-    reasons.append(f"**Confidence Drivers:**")
-    reasons.append(f"- Overall confidence: **{conf}%**")
-    
-    if metrics:
-        m_pe = metrics.get("pe_ratio", metrics.get("trailing_pe"))
-        if m_pe:
-            reasons.append(f"- P/E ratio of {m_pe} vs peers")
-        m_rsi = metrics.get("rsi_14")
-        if m_rsi:
-            reasons.append(f"- RSI(14) at {m_rsi} — {'oversold' if m_rsi < 30 else 'overbought' if m_rsi > 70 else 'neutral'}")
-    
-    reasons.append(f"")
-    reasons.append(f"**Risks to the Thesis:**")
-    if m_mos < 5:
-        reasons.append(f"- Limited margin of safety — downside risk elevated")
-    if conf < 60:
-        reasons.append(f"- Low confidence indicates significant uncertainty")
-    reasons.append(f"- Market-wide macro risks (rates, geopolitics)")
-    reasons.append(f"- Stock-specific execution risk")
-    
-    reasons.append(f"")
-    reasons.append(f"**Why This Strategy:**")
-    if conf > 75 and m_mos > 15:
-        reasons.append(f"This is a **QUALITY** play: high conviction, strong valuation, proven fundamentals.")
-    elif e_score > 60:
-        reasons.append(f"This is a **MOMENTUM** play: earnings acceleration driving the thesis.")
-    elif m_mos > 15:
-        reasons.append(f"This is a **VALUE** play: mispriced asset with significant upside.")
-    else:
-        reasons.append(f"This is a **GROWTH** play: positioned for forward-looking appreciation.")
-    
-    reasoning = "\n".join(reasons)
-    
+    reasons = research.get("reasons", [])
+    warnings = research.get("warnings", [])
+    signals = research.get("signals", [])
+    sentiment = research.get("sentiment", {})
+    news = research.get("news", [])
+
+    lines = []
+    lines.append(f"## {ticker} Investment Thesis")
+    lines.append("")
+    lines.append(f"**Recommendation:** {rec} ({conf}% confidence)")
+    lines.append(f"**Strategy:** {strategy}")
+    lines.append(f"**Price:** ${metrics.get('current_price', 'N/A')}")
+    if metrics.get('day_change_pct') is not None:
+        d = metrics['day_change_pct']
+        emoji = "🟢" if d > 0 else "🔴"
+        lines.append(f"**Daily Change:** {emoji} {d:+.2f}%")
+    lines.append("")
+
+    # Valuation context
+    if model:
+        lines.append(f"**Valuation:** Target ${model.get('blended_target', 'N/A')} | "
+                     f"Upside {model.get('upside_pct', 'N/A')}% | "
+                     f"MoS {model.get('margin_of_safety_pct', 'N/A')}% | "
+                     f"Verdict: {model.get('verdict', 'N/A')}")
+        lines.append("")
+
+    # Earnings context
+    if earnings:
+        lines.append(f"**Earnings:** {earnings.get('verdict', 'N/A')} (catalyst {earnings.get('earnings_catalyst_score', 0)})")
+        if earnings.get('next_earnings_date'):
+            days = earnings.get('days_to_earnings')
+            if days is not None:
+                lines.append(f"**Next Earnings:** {earnings['next_earnings_date']} ({days} days)")
+            else:
+                lines.append(f"**Next Earnings:** {earnings['next_earnings_date']}")
+        lines.append("")
+
+    # Key signals
+    lines.append("### Technical Signals")
+    for s in signals[:8]:
+        score = s.get("score", 0)
+        emoji = "✅" if score > 0 else "⚠️" if score < 0 else "➖"
+        lines.append(f"{emoji} **{s.get('name', '').replace('_', ' ').title()}:** {s.get('note', '')}")
+    lines.append("")
+
+    # Bullish reasons
+    if reasons:
+        lines.append("### Positive Factors")
+        for r in reasons[:5]:
+            lines.append(f"✅ {r}")
+        lines.append("")
+
+    # Warnings
+    if warnings:
+        lines.append("### Risk Factors")
+        for w in warnings[:5]:
+            lines.append(f"⚠️ {w}")
+        lines.append("")
+
+    # Sentiment
+    if sentiment:
+        lines.append(f"### News Sentiment: {sentiment.get('label', 'NEUTRAL')} ({sentiment.get('score', 0)})")
+        if sentiment.get('bullish'):
+            lines.append(f"- {sentiment['bullish']} bullish mentions, {sentiment.get('bearish', 0)} bearish")
+        if news[:3]:
+            lines.append("- Recent headlines:")
+            for n in news[:3]:
+                lines.append(f"  - {n.get('title', '')}")
+        lines.append("")
+
+    # Core metrics
+    lines.append("### Key Metrics")
+    for k, v in [
+        ("Ticker", ticker),
+        ("Price", f"${metrics.get('current_price')}"),
+        ("P/E (trailing)", metrics.get('pe_trailing')),
+        ("P/E (forward)", metrics.get('pe_forward')),
+        ("PEG", metrics.get('peg_ratio')),
+        ("RSI(14)", metrics.get('rsi_14')),
+        ("SMA 20", metrics.get('sma_20')),
+        ("SMA 50", metrics.get('sma_50')),
+        ("52W Range", f"${metrics.get('52_week_low')} - ${metrics.get('52_week_high')}" if metrics.get('52_week_low') else None),
+        ("1mo Return", f"{metrics.get('return_1mo_pct')}%"),
+        ("3mo Return", f"{metrics.get('return_3mo_pct')}%"),
+        ("Volume Surge", metrics.get('volume_surge')),
+        ("Market Cap", f"${metrics.get('market_cap', 0)/1e9:.1f}B" if metrics.get('market_cap') else None),
+    ]:
+        if v is not None:
+            lines.append(f"- **{k}:** {v}")
+    lines.append("")
+
+    lines.append("---")
+    lines.append("*Auto-generated by Stock Command Center. Not investment advice.*")
+
+    reasoning_text = "\n".join(lines)
     return {
         "ticker": ticker,
         "recommendation": rec,
         "confidence": conf,
-        "reasoning": reasoning,
-        "pitchbook_path": pitchbook_path,
+        "strategy": strategy,
+        "reasoning": reasoning_text,
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "confidence_factors": {
-            "earnings_score": e_score,
-            "valuation_margin": m_mos,
-            "research_confidence": conf,
-        }
     }
 
 
@@ -103,34 +126,27 @@ def run(args) -> bool:
             with open(p, "r", encoding="utf-8") as f:
                 return json.load(f)
         return {}
-    
+
     research = _load(args.research)
-    earnings = _load(args.earnings)
-    model = _load(args.model)
-    
-    data = generate_reasoning(research, earnings, model, args.pitchbook)
-    
+    model = _load(args.model) if args.model else {}
+    earnings = _load(args.earnings) if args.earnings else {}
+
+    data = generate_reasoning(research, model or None, earnings or None)
+
     output_path = Path(args.output)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
-    
+
     print(f"Advisor reasoning for {data['ticker']}: {data['recommendation']} ({data['confidence']}%)")
     return True
-
-
-def _extract_ticker(subject: str) -> str:
-    import re
-    m = re.search(r'\b([A-Z]{2,5})\b', subject)
-    return m.group(1) if m else ""
 
 
 if __name__ == "__main__":
     p = argparse.ArgumentParser()
     p.add_argument("--research", required=True)
-    p.add_argument("--earnings", required=True)
-    p.add_argument("--model", required=True)
-    p.add_argument("--pitchbook", required=True)
+    p.add_argument("--model", default="")
+    p.add_argument("--earnings", default="")
     p.add_argument("--output", required=True)
     args = p.parse_args()
     sys.exit(0 if run(args) else 1)
