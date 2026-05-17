@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** VALUE  
-**Generated:** 2026-05-17T12:01:07.856780+00:00  
+**Generated:** 2026-05-17T12:16:00.718684+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,25 +12,25 @@
 
 SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.01, Price: $143.48.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$161.44**, representing a **34.43% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$418.09**, representing a **36.17% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **35/100** (Mixed earnings signals)
-- Recent EPS surprise: **-10.3%**
-- Next earnings date: **2026-05-30**
+- Earnings momentum score: **80/100** (Strong earnings momentum)
+- Recent EPS surprise: **+16.8%**
+- Next earnings date: **2026-05-23**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $105.86 |
-| DCF Intrinsic Value | $205.27 |
-| Comparable Implied | $117.61 |
-| Blended Target | $161.44 |
-| Margin of Safety | 34.43% |
+| Current Price | $266.86 |
+| DCF Intrinsic Value | $154.79 |
+| Comparable Implied | $681.39 |
+| Blended Target | $418.09 |
+| Margin of Safety | 36.17% |
 | Verdict | Undervalued |
 
 ### 2.3 Key Metrics Snapshot
@@ -47,17 +47,18 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ## 3. Risks
 
-- ⚠️ 2 active controversies
+- ⚠️ Elevated sanctions exposure (9.0/10)
+- ⚠️ 3 active controversies
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 78.8/100
-- **Sanctions Risk:** 0.2/10
-- **ESG Score:** 57.3/100
-- **Controversies:** 2
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 24.9/100
+- **Sanctions Risk:** 9.0/10
+- **ESG Score:** 79.1/100
+- **Controversies:** 3
 
 ---
 
