@@ -1,14 +1,14 @@
 {
   "ticker": "SPMO",
-  "target_pct_of_portfolio": 3.25,
-  "target_dollars": 3251.37,
+  "target_pct_of_portfolio": 3.54,
+  "target_dollars": 3541.39,
   "kelly_fraction": 0.25,
   "confidence_multiplier": 0.65,
-  "margin_of_safety_multiplier": 1.0,
+  "margin_of_safety_multiplier": 1.09,
   "diversification_limit": "20% max single position",
   "sector_risk": "Within limits",
   "cash_available": 74473.19,
   "total_portfolio_value": 100042.23,
   "strategy": "GROWTH",
-  "timestamp": "2026-05-17T01:01:02.293785+00:00"
+  "timestamp": "2026-05-17T01:15:41.424269+00:00"
 }

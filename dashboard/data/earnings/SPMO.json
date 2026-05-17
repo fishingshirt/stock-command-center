@@ -1,36 +1,36 @@
 {
-  "next_earnings_date": "2026-06-28",
+  "next_earnings_date": "2026-06-09",
   "earnings_history": [
     {
       "date": "2026-02-28",
-      "eps_estimate": 2.7,
-      "reported_eps": 2.9,
-      "surprise_pct": 4.2
+      "eps_estimate": 0.73,
+      "reported_eps": 0.93,
+      "surprise_pct": -8.7
     },
     {
       "date": "2025-11-30",
-      "eps_estimate": 2.4,
-      "reported_eps": 2.6,
-      "surprise_pct": 7.7
+      "eps_estimate": 0.43,
+      "reported_eps": 0.63,
+      "surprise_pct": -9.6
     },
     {
       "date": "2025-08-30",
-      "eps_estimate": 2.1,
-      "reported_eps": 2.3,
-      "surprise_pct": 11.2
+      "eps_estimate": 0.13,
+      "reported_eps": 0.33,
+      "surprise_pct": -10.4
     }
   ],
-  "eps_ttm": 11.6,
-  "eps_forward": 15.08,
-  "revenue_growth": 0.171,
-  "earnings_growth": 0.106,
-  "pe_trailing": 17.37,
-  "pe_forward": 26.68,
-  "peg_ratio": 2.31,
+  "eps_ttm": 3.72,
+  "eps_forward": 4.84,
+  "revenue_growth": 0.305,
+  "earnings_growth": 0.464,
+  "pe_trailing": 33.04,
+  "pe_forward": 19.91,
+  "peg_ratio": 1.91,
   "ticker": "SPMO",
-  "analyzed_at": "2026-05-17T01:01:02.047464+00:00",
+  "analyzed_at": "2026-05-17T01:15:41.178292+00:00",
   "source": "mock_fallback",
-  "surprise_avg_pct": 7.7,
-  "earnings_catalyst_score": 65,
-  "verdict": "Strong earnings momentum"
+  "surprise_avg_pct": -9.57,
+  "earnings_catalyst_score": 50,
+  "verdict": "Mixed earnings signals"
 }
