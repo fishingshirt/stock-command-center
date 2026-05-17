@@ -48,14 +48,7 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-252
-**Subject:** BTC-USD crypto momentum
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T14:30:18.619409+00:00
-**Details:**
-Real-time market analysis for BTC-USD. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13651,3 +13644,15 @@ Real-time market analysis for PEP. Auto-generated watchlist task.
 **Summary:** ARKK @ $74.9 — REDUCE (59% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 44.874775x — growth expectations priced in | RSI: 46.12 |
 **Details:**
 Real-time market analysis for ARKK. Auto-generated watchlist task.
+
+### Task ID: 20260517-252
+**Subject:** BTC-USD crypto momentum
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T14:30:18.619409+00:00
+**Completed At:** 2026-05-17T14:30:24.767719+00:00
+**Result:** dashboard/data/output/20260517-252.json
+**Summary:** BTC-USD @ $78062 — BUY (95% confidence) | Bullish: Bullish news sentiment detected | Strategy: GROWTH
+**Details:**
+Real-time market analysis for BTC-USD. Auto-generated watchlist task.
