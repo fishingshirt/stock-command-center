@@ -32,14 +32,7 @@ Real-time market analysis for BTC-USD. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-249
-**Subject:** KO analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T14:16:08.546485+00:00
-**Details:**
-Real-time market analysis for KO. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13599,3 +13592,15 @@ Real-time market analysis for SBUX. Auto-generated watchlist task.
 **Summary:** F @ $13.4 — BUY (85% confidence) | Bullish: Bullish news sentiment detected | RSI: 59.32 | Strategy: GROWTH
 **Details:**
 Real-time market analysis for F. Auto-generated watchlist task.
+
+### Task ID: 20260517-249
+**Subject:** KO analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T14:16:08.546485+00:00
+**Completed At:** 2026-05-17T14:16:16.234559+00:00
+**Result:** dashboard/data/output/20260517-249.json
+**Summary:** KO @ $80.82 — ACCUMULATE (63% confidence) | Bullish: Bullish news sentiment detected | Warnings: RSI 82.18 — possible reversal risk; Price at 92.9% of 52-week r
+**Details:**
+Real-time market analysis for KO. Auto-generated watchlist task.
