@@ -48,14 +48,7 @@ Real-time market analysis for MSFT. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-288
-**Subject:** SCHK analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T15:15:42.073805+00:00
-**Details:**
-Real-time market analysis for SCHK. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -856,3 +849,15 @@ Real-time market analysis for MTUM. Auto-generated watchlist task.
 **Summary:** SPMO @ $143.48 — BUY (81% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 90.5% of 52-week range — limited upside | RSI: 68.01 | P/E
 **Details:**
 Real-time market analysis for SPMO. Auto-generated watchlist task.
+
+### Task ID: 20260517-288
+**Subject:** SCHK analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T15:15:42.073805+00:00
+**Completed At:** 2026-05-17T15:15:49.185739+00:00
+**Result:** dashboard/data/output/20260517-288.json
+**Summary:** SCHK @ $35.49 — ACCUMULATE (65% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 93.8% of 52-week range — limited upside | RSI: 66.77
+**Details:**
+Real-time market analysis for SCHK. Auto-generated watchlist task.
