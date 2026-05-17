@@ -36,14 +36,7 @@ Auto-generated research task. Bot: researcher_bot.
 
 ## In Progress
 
-### Task ID: 20260517-082
-**Subject:** SPMO S&P 500 Momentum ETF trend scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T05:16:03.873503+00:00
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -11465,3 +11458,15 @@ Auto-generated research task. Bot: researcher_bot.
 - Target: improve to >= 40.0%
 - Suggestion: review data sources and scoring weights
 - Created via feedback_loop auto-improve
+
+### Task ID: 20260517-082
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:16:03.873503+00:00
+**Completed At:** 2026-05-17T05:16:06.710579+00:00
+**Result:** dashboard/data/output/20260517-082.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
