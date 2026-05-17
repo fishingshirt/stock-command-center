@@ -40,14 +40,7 @@ Real-time market analysis for XLI. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-279
-**Subject:** VGT analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T14:45:32.611218+00:00
-**Details:**
-Real-time market analysis for VGT. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -740,3 +733,15 @@ Real-time market analysis for VTI. Auto-generated watchlist task.
 **Summary:** VOO @ $679.44 — ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range — limited upside | RSI: 69.67
 **Details:**
 Real-time market analysis for VOO. Auto-generated watchlist task.
+
+### Task ID: 20260517-279
+**Subject:** VGT analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T14:45:32.611218+00:00
+**Completed At:** 2026-05-17T14:45:41.092598+00:00
+**Result:** dashboard/data/output/20260517-279.json
+**Summary:** VGT @ $113.31 — ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 40.479847x — growth expectations priced in; Price at
+**Details:**
+Real-time market analysis for VGT. Auto-generated watchlist task.
