@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260517-226
-**Subject:** COIN analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Details:**
-Real-time market analysis for COIN. Auto-generated watchlist task.
-
 ### Task ID: 20260517-227
 **Subject:** Auto: S&P 500 top movers sentiment scan
 **Assigned Bot:** researcher_bot
@@ -27,7 +19,14 @@ Real-time market analysis for COIN. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260517-226
+**Subject:** COIN analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:12:03.145338+00:00
+**Details:**
+Real-time market analysis for COIN. Auto-generated watchlist task.
 
 ## Done
 
