@@ -19,16 +19,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260517-210
-**Subject:** Auto: Top crypto momentum scan (BTC, ETH, SOL)
-**Assigned Bot:** researcher_bot
-**Priority:** high
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T12:56:15.740912+00:00
-**Details:**
-- Pull Coingecko data
-- Volume and price change analysis
-- Momentum score and recommendation
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13112,3 +13103,17 @@ Auto-generated research task. Bot: researcher_bot.
 **Summary:** MTUM @ $298.27 — BUY (91% confidence) | Bullish: Bullish news sentiment detected | RSI: 63.79 | P/E: 32.67441 | Strategy: GROWTH
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260517-210
+**Subject:** Auto: Top crypto momentum scan (BTC, ETH, SOL)
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:56:15.740912+00:00
+**Completed At:** 2026-05-17T12:56:21.310752+00:00
+**Result:** dashboard/data/output/20260517-210.json
+**Summary:** BTC @ $78361 — SELL (90% confidence) | Warnings: Bearish news sentiment detected | Strategy: GROWTH
+**Details:**
+- Pull Coingecko data
+- Volume and price change analysis
+- Momentum score and recommendation
