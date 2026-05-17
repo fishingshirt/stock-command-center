@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-17T10:45:52.161065+00:00  
+**Generated:** 2026-05-17T11:00:30.956855+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.61, Price: $739.17.
 
-**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$195.88**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$86.82**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **40/100** (Mixed earnings signals)
-- Recent EPS surprise: **+14.6%**
-- Next earnings date: **2026-06-20**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **-3.8%**
+- Next earnings date: **2026-06-17**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $513.74 |
-| DCF Intrinsic Value | $95.86 |
-| Comparable Implied | $295.89 |
-| Blended Target | $195.88 |
+| Current Price | $162.05 |
+| DCF Intrinsic Value | $69.39 |
+| Comparable Implied | $104.25 |
+| Blended Target | $86.82 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,7 +47,8 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.6
 
 ## 3. Risks
 
-- ⚠️ 3 active controversies
+- ⚠️ 2 active controversies
+- ⚠️ Jurisdiction risk: medium
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
@@ -55,10 +56,10 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.6
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 63.0/100
-- **Sanctions Risk:** 1.4/10
-- **ESG Score:** 60.8/100
-- **Controversies:** 3
+- **Compliance Score:** 76.1/100
+- **Sanctions Risk:** 0.8/10
+- **ESG Score:** 81.7/100
+- **Controversies:** 2
 
 ---
 

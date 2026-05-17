@@ -1,15 +1,15 @@
 {
   "ticker": "MTUM",
-  "timestamp": "2026-05-17T10:45:58.117504+00:00",
-  "compliance_score": 78.7,
+  "timestamp": "2026-05-17T11:00:36.646071+00:00",
+  "compliance_score": 72.3,
   "risk_level": "MEDIUM",
-  "sanctions_risk": 2.3,
+  "sanctions_risk": 1.5,
   "pep_exposure": 0,
-  "esg_score": 74.8,
-  "controversy_count": 1,
+  "esg_score": 77.6,
+  "controversy_count": 2,
   "jurisdiction_risk": "low",
   "flags": [
-    "1 active controversies"
+    "2 active controversies"
   ],
   "pass": true
 }
