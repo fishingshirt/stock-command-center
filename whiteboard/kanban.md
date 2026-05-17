@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260517-294
-**Subject:** GOOGL analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Details:**
-Real-time market analysis for GOOGL. Auto-generated watchlist task.
-
 ### Task ID: 20260517-295
 **Subject:** META analysis
 **Assigned Bot:** researcher_bot
@@ -48,7 +40,14 @@ Real-time market analysis for AMD. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260517-294
+**Subject:** GOOGL analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T15:31:25.333241+00:00
+**Details:**
+Real-time market analysis for GOOGL. Auto-generated watchlist task.
 
 ## Done
 
