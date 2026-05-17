@@ -6,21 +6,22 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
+_(No tasks in this section.)_
+
+## In Progress
+
 ### Task ID: 20260517-182
 **Subject:** Auto: Improve researcher_bot model
 **Assigned Bot:** self_build
 **Priority:** high
 **Created:** 2026-05-17
+**Started At:** 2026-05-17T11:16:21.547240+00:00
 **Details:**
 - Bot: researcher_bot
 - Accuracy: 32.4% over last 1277 predictions
 - Target: improve to >= 40.0%
 - Suggestion: review data sources and scoring weights
 - Created via feedback_loop auto-improve
-
-## In Progress
-
-_(No tasks in this section.)_
 
 ## Done
 
@@ -12735,10 +12736,7 @@ Auto-generated research task. Bot: researcher_bot.
 **Started At:** 2026-05-17T11:16:19.023037+00:00
 **Completed At:** 2026-05-17T11:16:20.442918+00:00
 **Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
-**Summary:**  Container scc-frontend  Running
- Container scc-backend  Starting
- Container scc-backend  Started
-
+**Summary:** Container scc-frontend  Running
 **Details:**
 - Attempted docker compose up -d
 - Backend still not responding on port 8000
