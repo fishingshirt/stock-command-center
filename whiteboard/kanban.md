@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260517-245
-**Subject:** HD analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Details:**
-Real-time market analysis for HD. Auto-generated watchlist task.
-
 ### Task ID: 20260517-246
 **Subject:** LOW analysis
 **Assigned Bot:** researcher_bot
@@ -32,7 +24,14 @@ Real-time market analysis for SBUX. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260517-245
+**Subject:** HD analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T14:01:04.093249+00:00
+**Details:**
+Real-time market analysis for HD. Auto-generated watchlist task.
 
 ## Done
 
@@ -13541,6 +13540,6 @@ Real-time market analysis for F. Auto-generated watchlist task.
 **Started At:** 2026-05-17T14:00:55.942447+00:00
 **Completed At:** 2026-05-17T14:01:02.965814+00:00
 **Result:** dashboard/data/output/20260517-244.json
-**Summary:** WMT @ $131.45 — REDUCE (62% confidence) | Warnings: High P/E 48.15018x — growth expectations priced in; Price at 92.1% of 52-week range — limited upside | RSI: 
+**Summary:** WMT @ $131.45 — REDUCE (62% confidence) | Warnings: High P/E 48.15018x — growth expectations priced in; Price at 92.1% of 52-week range — limited upside | RSI:
 **Details:**
 Real-time market analysis for WMT. Auto-generated watchlist task.
