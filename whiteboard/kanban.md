@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260517-207
-**Subject:** SPMO S&P 500 Momentum ETF trend scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
-
 ### Task ID: 20260517-208
 **Subject:** V Visa payment network fundamentals
 **Assigned Bot:** researcher_bot
@@ -30,9 +22,37 @@ Auto-generated research task. Bot: researcher_bot.
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
 
+### Task ID: 20260517-210
+**Subject:** Auto: Top crypto momentum scan (BTC, ETH, SOL)
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-17
+**Details:**
+- Pull Coingecko data
+- Volume and price change analysis
+- Momentum score and recommendation
+
+### Task ID: 20260517-211
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Details:**
+- Identify top 5 daily movers
+- Fundamentals check
+- News sentiment
+- Investment recommendation
+
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260517-207
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:55:53.101831+00:00
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
 
 ## Done
 
