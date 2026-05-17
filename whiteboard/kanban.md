@@ -22,6 +22,14 @@ Real-time market analysis for XLE. Auto-generated watchlist task.
 **Details:**
 Real-time market analysis for XLI. Auto-generated watchlist task.
 
+### Task ID: 20260517-284
+**Subject:** SCHG analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Details:**
+Real-time market analysis for SCHG. Auto-generated watchlist task.
+
 ## In Progress
 
 _(No tasks in this section.)_
