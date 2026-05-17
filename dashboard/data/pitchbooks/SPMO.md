@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** VALUE  
-**Generated:** 2026-05-17T00:01:03.929409+00:00  
+**Generated:** 2026-05-17T00:17:48.674449+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,25 +12,25 @@
 
 SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.01, Price: $143.48.
 
-**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$290.16**, representing a **26.44% margin of safety** from current levels.
+**Key Takeaway:** SPMO is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$217.53**, representing a **27.22% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **55/100** (Mixed earnings signals)
-- Recent EPS surprise: **+15.9%**
-- Next earnings date: **2026-06-27**
+- Earnings momentum score: **0/100** (Earnings weakness detected)
+- Recent EPS surprise: **-12.7%**
+- Next earnings date: **2026-06-24**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $213.44 |
-| DCF Intrinsic Value | $379.47 |
-| Comparable Implied | $200.85 |
-| Blended Target | $290.16 |
-| Margin of Safety | 26.44% |
+| Current Price | $158.31 |
+| DCF Intrinsic Value | $83.76 |
+| Comparable Implied | $351.29 |
+| Blended Target | $217.53 |
+| Margin of Safety | 27.22% |
 | Verdict | Undervalued |
 
 ### 2.3 Key Metrics Snapshot
@@ -47,17 +47,18 @@ SPMO — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.23003, RSI: 68.0
 
 ## 3. Risks
 
-- ⚠️ 2 active controversies
+- ⚠️ Poor ESG score (45.9)
+- ⚠️ 3 active controversies
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 74.2/100
-- **Sanctions Risk:** 1.2/10
-- **ESG Score:** 74.6/100
-- **Controversies:** 2
+- **Compliance Score:** 63.4/100
+- **Sanctions Risk:** 1.3/10
+- **ESG Score:** 45.9/100
+- **Controversies:** 3
 
 ---
 
