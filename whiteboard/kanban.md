@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260517-220
-**Subject:** CRM analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Details:**
-Real-time market analysis for CRM. Auto-generated watchlist task.
-
 ### Task ID: 20260517-221
 **Subject:** INTC analysis
 **Assigned Bot:** researcher_bot
@@ -24,7 +16,14 @@ Real-time market analysis for INTC. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260517-220
+**Subject:** CRM analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:01:22.882773+00:00
+**Details:**
+Real-time market analysis for CRM. Auto-generated watchlist task.
 
 ## Done
 
