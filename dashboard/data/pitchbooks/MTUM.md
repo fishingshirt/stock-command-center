@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** VALUE  
-**Generated:** 2026-05-17T08:31:00.541130+00:00  
+**Generated:** 2026-05-17T08:46:04.124398+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,26 +12,26 @@
 
 MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$354.48**, representing a **18.04% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$253.19**, representing a **51.84% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **10/100** (Earnings weakness detected)
-- Recent EPS surprise: **-2.5%**
-- Next earnings date: **2026-06-25**
+- Earnings momentum score: **20/100** (Earnings weakness detected)
+- Recent EPS surprise: **-5.2%**
+- Next earnings date: **2026-06-18**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $290.54 |
-| DCF Intrinsic Value | $429.05 |
-| Comparable Implied | $279.91 |
-| Blended Target | $354.48 |
-| Margin of Safety | 18.04% |
-| Verdict | Fairly valued |
+| Current Price | $121.93 |
+| DCF Intrinsic Value | $429.45 |
+| Comparable Implied | $76.92 |
+| Blended Target | $253.19 |
+| Margin of Safety | 51.84% |
+| Verdict | Undervalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** MTUM
@@ -47,18 +47,19 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (3.6/10)
-- ⚠️ 3 active controversies
+- ⚠️ Elevated sanctions exposure (6.8/10)
+- ⚠️ Poor ESG score (47.6)
+- ⚠️ 2 active controversies
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 51.9/100
-- **Sanctions Risk:** 3.6/10
-- **ESG Score:** 73.9/100
-- **Controversies:** 3
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 45.9/100
+- **Sanctions Risk:** 6.8/10
+- **ESG Score:** 47.6/100
+- **Controversies:** 2
 
 ---
 
