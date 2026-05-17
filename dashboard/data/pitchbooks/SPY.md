@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** MOMENTUM  
-**Generated:** 2026-05-17T09:45:43.942511+00:00  
+**Generated:** 2026-05-17T10:00:26.908050+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.61, Price: $739.17.
 
-**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$529.69**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$203.56**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **65/100** (Strong earnings momentum)
-- Recent EPS surprise: **+0.3%**
-- Next earnings date: **2026-06-22**
+- Earnings momentum score: **80/100** (Strong earnings momentum)
+- Recent EPS surprise: **+7.5%**
+- Next earnings date: **2026-06-23**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $533.75 |
-| DCF Intrinsic Value | $254.98 |
-| Comparable Implied | $804.41 |
-| Blended Target | $529.69 |
+| Current Price | $500.08 |
+| DCF Intrinsic Value | $66.17 |
+| Comparable Implied | $340.95 |
+| Blended Target | $203.56 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,19 +47,19 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.6
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (7.6/10)
-- ⚠️ 1 active controversies
+- ⚠️ Elevated sanctions exposure (7.2/10)
+- ⚠️ 3 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 51.9/100
-- **Sanctions Risk:** 7.6/10
-- **ESG Score:** 61.8/100
-- **Controversies:** 1
+- **Overall Risk Level:** HIGH
+- **Compliance Score:** 34.1/100
+- **Sanctions Risk:** 7.2/10
+- **ESG Score:** 77.8/100
+- **Controversies:** 3
 
 ---
 
