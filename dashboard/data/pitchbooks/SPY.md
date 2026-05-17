@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-17T11:00:30.956855+00:00  
+**Generated:** 2026-05-17T11:16:11.762541+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.61, Price: $739.17.
 
-**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$86.82**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$171.14**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **50/100** (Mixed earnings signals)
-- Recent EPS surprise: **-3.8%**
-- Next earnings date: **2026-06-17**
+- Earnings momentum score: **55/100** (Mixed earnings signals)
+- Recent EPS surprise: **+6.2%**
+- Next earnings date: **2026-06-01**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $162.05 |
-| DCF Intrinsic Value | $69.39 |
-| Comparable Implied | $104.25 |
-| Blended Target | $86.82 |
+| Current Price | $397.75 |
+| DCF Intrinsic Value | $88.41 |
+| Comparable Implied | $253.87 |
+| Blended Target | $171.14 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,19 +47,18 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.6
 
 ## 3. Risks
 
-- ⚠️ 2 active controversies
-- ⚠️ Jurisdiction risk: medium
+- No material compliance flags detected.
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** MEDIUM
-- **Compliance Score:** 76.1/100
-- **Sanctions Risk:** 0.8/10
-- **ESG Score:** 81.7/100
-- **Controversies:** 2
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 95.6/100
+- **Sanctions Risk:** 0.9/10
+- **ESG Score:** 65.9/100
+- **Controversies:** 0
 
 ---
 

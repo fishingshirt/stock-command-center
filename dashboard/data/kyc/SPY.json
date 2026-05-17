@@ -1,16 +1,13 @@
 {
   "ticker": "SPY",
-  "timestamp": "2026-05-17T11:00:30.928850+00:00",
-  "compliance_score": 76.1,
-  "risk_level": "MEDIUM",
-  "sanctions_risk": 0.8,
+  "timestamp": "2026-05-17T11:16:11.734490+00:00",
+  "compliance_score": 95.6,
+  "risk_level": "LOW",
+  "sanctions_risk": 0.9,
   "pep_exposure": 0,
-  "esg_score": 81.7,
-  "controversy_count": 2,
-  "jurisdiction_risk": "medium",
-  "flags": [
-    "2 active controversies",
-    "Jurisdiction risk: medium"
-  ],
+  "esg_score": 65.9,
+  "controversy_count": 0,
+  "jurisdiction_risk": "low",
+  "flags": [],
   "pass": true
 }
