@@ -2,8 +2,8 @@
 
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
-**Strategy:** GROWTH  
-**Generated:** 2026-05-16T23:45:36.628095+00:00  
+**Strategy:** VALUE  
+**Generated:** 2026-05-17T00:01:15.855569+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,26 +12,26 @@
 
 MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$60.43**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$514.88**, representing a **41.75% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **0/100** (Earnings weakness detected)
-- Recent EPS surprise: **-3.0%**
-- Next earnings date: **2026-06-22**
+- Earnings momentum score: **50/100** (Mixed earnings signals)
+- Recent EPS surprise: **+1.1%**
+- Next earnings date: **2026-06-24**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $99.06 |
-| DCF Intrinsic Value | $58.05 |
-| Comparable Implied | $62.81 |
-| Blended Target | $60.43 |
-| Margin of Safety | 0% |
-| Verdict | Overvalued |
+| Current Price | $299.93 |
+| DCF Intrinsic Value | $421.56 |
+| Comparable Implied | $608.2 |
+| Blended Target | $514.88 |
+| Margin of Safety | 41.75% |
+| Verdict | Undervalued |
 
 ### 2.3 Key Metrics Snapshot
 - **Ticker:** MTUM
@@ -47,26 +47,25 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ## 3. Risks
 
-- ⚠️ 1 active controversies
-- ⚠️ Low margin of safety — limited downside protection
+- No material compliance flags detected.
 
 ---
 
 ## 4. Compliance Screening
 
 - **Overall Risk Level:** LOW
-- **Compliance Score:** 86.9/100
+- **Compliance Score:** 96.9/100
 - **Sanctions Risk:** 0.6/10
-- **ESG Score:** 74.9/100
-- **Controversies:** 1
+- **ESG Score:** 69.9/100
+- **Controversies:** 0
 
 ---
 
 ## 5. Strategy Classification
 
-**Primary Strategy:** GROWTH
+**Primary Strategy:** VALUE
 
-This position is classified under the **GROWTH** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
+This position is classified under the **VALUE** strategy bucket. Portfolio construction rules will apply sector limits and position sizing accordingly.
 
 ---
 
