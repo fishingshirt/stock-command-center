@@ -45,14 +45,7 @@ Auto-generated research task. Bot: researcher_bot.
 
 ## In Progress
 
-### Task ID: 20260517-207
-**Subject:** SPMO S&P 500 Momentum ETF trend scan
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T12:55:53.101831+00:00
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13100,3 +13093,15 @@ Auto-generated research task. Bot: researcher_bot.
 - Target: improve to >= 40.0%
 - Suggestion: review data sources and scoring weights
 - Created via feedback_loop auto-improve
+
+### Task ID: 20260517-207
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:55:53.101831+00:00
+**Completed At:** 2026-05-17T12:55:59.674537+00:00
+**Result:** dashboard/data/output/20260517-207.json
+**Summary:** SPMO @ $143.48 — BUY (81% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 90.5% of 52-week range — limited upside | RSI: 68.01 | P/E
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
