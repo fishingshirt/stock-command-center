@@ -51,14 +51,7 @@ Real-time market analysis for COIN. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-222
-**Subject:** ADBE analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T13:11:28.481473+00:00
-**Details:**
-Real-time market analysis for ADBE. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13291,3 +13284,15 @@ Real-time market analysis for CRM. Auto-generated watchlist task.
 **Summary:** INTC @ $108.77 — BUY (91% confidence) | Bullish: Bullish news sentiment detected | RSI: 64.67 | Strategy: MOMENTUM
 **Details:**
 Real-time market analysis for INTC. Auto-generated watchlist task.
+
+### Task ID: 20260517-222
+**Subject:** ADBE analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:11:28.481473+00:00
+**Completed At:** 2026-05-17T13:11:36.152372+00:00
+**Result:** dashboard/data/output/20260517-222.json
+**Summary:** ADBE @ $247.6 — BUY (86% confidence) | Bullish: Trailing P/E 14.428905x — below market average | RSI: 56.9 | P/E: 14.428905 | Strategy: VALUE
+**Details:**
+Real-time market analysis for ADBE. Auto-generated watchlist task.
