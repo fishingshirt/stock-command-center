@@ -6,7 +6,13 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-_(No tasks in this section.)_
+### Task ID: 20260517-222
+**Subject:** ADBE analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Details:**
+Real-time market analysis for ADBE. Auto-generated watchlist task.
 
 ## In Progress
 
