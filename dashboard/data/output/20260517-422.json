@@ -1,0 +1,142 @@
+{
+  "task_id": "20260517-422",
+  "subject": "VTI analysis",
+  "ticker": "VTI",
+  "timestamp": "2026-05-17T22:00:15.148558+00:00",
+  "recommendation": "REDUCE",
+  "confidence": 59,
+  "summary": "VTI @ $362.74 \u2014 REDUCE (59% confidence) | Warnings: Price at 93.5% of 52-week range \u2014 limited upside; Bearish news sentiment detected | RSI: 66.06 | P/E: 28.37391 | Strategy: GROWTH",
+  "signal_score": -0.2,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "VTI",
+    "current_price": 362.74,
+    "previous_close": 367.4,
+    "day_change_pct": -1.27,
+    "sma_20": 356.56,
+    "sma_50": 339.93,
+    "sma_200": 331.72,
+    "rsi_14": 66.06,
+    "52_week_high": 368.25,
+    "52_week_low": 283.0,
+    "price_vs_52w_pct": 93.5,
+    "volume_surge": 0.67,
+    "avg_volume": 4855950,
+    "market_cap": null,
+    "pe_trailing": 28.37391,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -0.24,
+    "return_1mo_pct": 3.58,
+    "return_3mo_pct": 7.95,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 66.06"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (331.72) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (93.5% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": -1.0,
+      "note": "Bearish news sentiment (-100.0)"
+    }
+  ],
+  "reasons": [],
+  "warnings": [
+    "Price at 93.5% of 52-week range \u2014 limited upside",
+    "Bearish news sentiment detected"
+  ],
+  "sentiment": {
+    "score": -100.0,
+    "label": "BEARISH",
+    "bullish": 0,
+    "bearish": 1,
+    "total_mentions": 1
+  },
+  "news": [
+    {
+      "title": "If Your Advisor Said to Add Bonds at 65, They Were Right \u2014 in 1995. Here\u2019s What That Advice Should Sound Like in 2026.",
+      "published": "Sun, 17 May 2026 14:30:22 +0000",
+      "url": "https://247wallst.com/investing/2026/05/17/if-your-advisor-said-to-add-bonds-at-65-they-were-right-in-1995-heres-what-that-advice-should-sound-like-in-2026/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
+      "published": "Sat, 16 May 2026 18:13:00 +0000",
+      "url": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Why 90% of Professional Fund Managers Lose to the S&P 500. Here\u2019s the One Strategy That Works",
+      "published": "Sat, 16 May 2026 09:13:04 +0000",
+      "url": "https://247wallst.com/investing/2026/05/16/why-90-of-professional-fund-managers-lose-to-the-sp-500-heres-the-one-strategy-that-works/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "I\u2019m 25 with $500k in index funds and 11 rental units generating $3,500 monthly. Am I actually financially independent?",
+      "published": "Fri, 15 May 2026 23:44:54 +0000",
+      "url": "https://247wallst.com/personal-finance/2026/05/15/im-25-with-500k-in-index-funds-and-11-rental-units-generating-3500-monthly-am-i-actually-financially-independent/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "VSMPX Tracks VTI Perfectly at Half the Cost, but There\u2019s a Catch for Individual Investors",
+      "published": "Tue, 12 May 2026 15:15:35 +0000",
+      "url": "https://247wallst.com/investing/2026/05/12/vsmpx-tracks-vti-perfectly-at-half-the-cost-but-theres-a-catch-for-individual-investors/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/VTI"
+  ],
+  "paper_trade_signal": "REDUCE",
+  "paper_trade_price": 362.74,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 279.01,
+    "margin_of_safety_pct": 0,
+    "verdict": "OVERVALUED",
+    "upside_pct": -23.08
+  },
+  "earnings": {
+    "catalyst_score": 0,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "FLAT",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "skipped",
+    "reason": "rec=REDUCE"
+  },
+  "advisor": {
+    "ticker": "VTI",
+    "recommendation": "REDUCE",
+    "confidence": 59,
+    "strategy": "GROWTH",
+    "reasoning": "## VTI Investment Thesis\n\n**Recommendation:** REDUCE (59% confidence)\n**Strategy:** GROWTH\n**Price:** $362.74\n**Daily Change:** \ud83d\udd34 -1.27%\n\n**Valuation:** Target $279.01 | Upside -23.08% | MoS 0% | Verdict: OVERVALUED\n\n**Earnings:** Earnings weakness detected (catalyst 0)\n\n### Technical Signals\n\u26a0\ufe0f **Rsi:** RSI overbought 66.06\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (331.72) \u2014 confirmed uptrend\n\u26a0\ufe0f **52W:** Near 52-week high (93.5% of range)\n\u26a0\ufe0f **Sentiment:** Bearish news sentiment (-100.0)\n\n### Risk Factors\n\u26a0\ufe0f Price at 93.5% of 52-week range \u2014 limited upside\n\u26a0\ufe0f Bearish news sentiment detected\n\n### News Sentiment: BEARISH (-100.0)\n- Recent headlines:\n  - If Your Advisor Said to Add Bonds at 65, They Were Right \u2014 in 1995. Here\u2019s What That Advice Should Sound Like in 2026.\n  - 5 money moves that made this 32-year-old dad a millionaire in just 9 years\n  - Why 90% of Professional Fund Managers Lose to the S&P 500. Here\u2019s the One Strategy That Works\n\n### Key Metrics\n- **Ticker:** VTI\n- **Price:** $362.74\n- **P/E (trailing):** 28.37391\n- **RSI(14):** 66.06\n- **SMA 20:** 356.56\n- **SMA 50:** 339.93\n- **52W Range:** $283.0 - $368.25\n- **1mo Return:** 3.58%\n- **3mo Return:** 7.95%\n- **Volume Surge:** 0.67\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T22:00:19.268969+00:00"
+  }
+}
