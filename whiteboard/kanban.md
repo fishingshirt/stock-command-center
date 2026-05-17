@@ -40,14 +40,7 @@ Real-time market analysis for INTC. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-217
-**Subject:** XLE analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T13:00:58.716564+00:00
-**Details:**
-Real-time market analysis for XLE. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13220,3 +13213,15 @@ Real-time market analysis for XLK. Auto-generated watchlist task.
 **Summary:** XLF @ $51.1 — BUY (95% confidence) | RSI: 39.14 | P/E: 16.482962 | Strategy: VALUE
 **Details:**
 Real-time market analysis for XLF. Auto-generated watchlist task.
+
+### Task ID: 20260517-217
+**Subject:** XLE analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:00:58.716564+00:00
+**Completed At:** 2026-05-17T13:01:05.705792+00:00
+**Result:** dashboard/data/output/20260517-217.json
+**Summary:** XLE @ $59.44 — BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 61.34 | P/E: 21.610918 | Strategy: GROWTH
+**Details:**
+Real-time market analysis for XLE. Auto-generated watchlist task.
