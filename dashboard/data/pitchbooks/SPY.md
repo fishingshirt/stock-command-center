@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** MOMENTUM  
-**Generated:** 2026-05-17T10:00:26.908050+00:00  
+**Generated:** 2026-05-17T10:16:10.290121+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.61, Price: $739.17.
 
-**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$203.56**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** SPY is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$299.02**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **80/100** (Strong earnings momentum)
-- Recent EPS surprise: **+7.5%**
-- Next earnings date: **2026-06-23**
+- Earnings momentum score: **65/100** (Strong earnings momentum)
+- Recent EPS surprise: **+6.1%**
+- Next earnings date: **2026-06-14**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $500.08 |
-| DCF Intrinsic Value | $66.17 |
-| Comparable Implied | $340.95 |
-| Blended Target | $203.56 |
+| Current Price | $435.58 |
+| DCF Intrinsic Value | $68.05 |
+| Comparable Implied | $530.0 |
+| Blended Target | $299.02 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,19 +47,19 @@ SPY — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 27.768337, RSI: 69.6
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (7.2/10)
-- ⚠️ 3 active controversies
+- ⚠️ Elevated sanctions exposure (6.6/10)
+- ⚠️ 1 active controversies
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 34.1/100
-- **Sanctions Risk:** 7.2/10
-- **ESG Score:** 77.8/100
-- **Controversies:** 3
+- **Overall Risk Level:** MEDIUM
+- **Compliance Score:** 56.9/100
+- **Sanctions Risk:** 6.6/10
+- **ESG Score:** 63.6/100
+- **Controversies:** 1
 
 ---
 
