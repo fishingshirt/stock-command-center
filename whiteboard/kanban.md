@@ -48,14 +48,7 @@ Real-time market analysis for SCHK. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260517-283
-**Subject:** XLI analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T15:00:30.284251+00:00
-**Details:**
-Real-time market analysis for XLI. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -796,3 +789,15 @@ Real-time market analysis for XLF. Auto-generated watchlist task.
 **Summary:** XLE @ $59.44 — BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 61.34 | P/E: 21.610918 | Strategy: GROWTH
 **Details:**
 Real-time market analysis for XLE. Auto-generated watchlist task.
+
+### Task ID: 20260517-283
+**Subject:** XLI analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T15:00:30.284251+00:00
+**Completed At:** 2026-05-17T15:00:37.536306+00:00
+**Result:** dashboard/data/output/20260517-283.json
+**Summary:** XLI @ $171.4 — BUY (95% confidence) | RSI: 47.99 | P/E: 29.616436 | Strategy: GROWTH
+**Details:**
+Real-time market analysis for XLI. Auto-generated watchlist task.
