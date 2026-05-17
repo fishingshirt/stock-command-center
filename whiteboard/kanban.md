@@ -20,16 +20,7 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## In Progress
 
-### Task ID: 20260517-181
-**Subject:** HEAD MANAGER ALERT: Docker heal failed — backend unreachable
-**Assigned Bot:** self_build
-**Priority:** critical
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T11:16:19.023037+00:00
-**Details:**
-- Attempted docker compose up -d
-- Backend still not responding on port 8000
-- Manual investigation needed: check docker logs, port conflicts
+_(No tasks in this section.)_
 
 ## Done
 
@@ -12735,3 +12726,20 @@ Auto-generated research task. Bot: researcher_bot.
 **Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260517-181
+**Subject:** HEAD MANAGER ALERT: Docker heal failed — backend unreachable
+**Assigned Bot:** self_build
+**Priority:** critical
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:16:19.023037+00:00
+**Completed At:** 2026-05-17T11:16:20.442918+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:**  Container scc-frontend  Running
+ Container scc-backend  Starting
+ Container scc-backend  Started
+
+**Details:**
+- Attempted docker compose up -d
+- Backend still not responding on port 8000
+- Manual investigation needed: check docker logs, port conflicts
