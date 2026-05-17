@@ -3,7 +3,7 @@
 **Recommendation:** ACCUMULATE  
 **Confidence:** 65%  
 **Strategy:** GROWTH  
-**Generated:** 2026-05-17T09:01:11.315266+00:00  
+**Generated:** 2026-05-17T09:15:54.127649+00:00  
 **Model:** Financial Advisor AI  
 
 ---
@@ -12,24 +12,24 @@
 
 MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.79, Price: $298.27.
 
-**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$184.44**, representing a **0% margin of safety** from current levels.
+**Key Takeaway:** MTUM is rated **ACCUMULATE** with 65% confidence. Valuation model suggests a blended target of **$91.73**, representing a **0% margin of safety** from current levels.
 
 ---
 
 ## 2. Investment Thesis
 
 ### 2.1 Catalysts
-- Earnings momentum score: **35/100** (Mixed earnings signals)
-- Recent EPS surprise: **-6.5%**
-- Next earnings date: **2026-05-29**
+- Earnings momentum score: **20/100** (Earnings weakness detected)
+- Recent EPS surprise: **-2.2%**
+- Next earnings date: **2026-05-31**
 
 ### 2.2 Valuation
 | Metric | Value |
 |--------|-------|
-| Current Price | $558.41 |
-| DCF Intrinsic Value | $182.16 |
-| Comparable Implied | $186.71 |
-| Blended Target | $184.44 |
+| Current Price | $153.53 |
+| DCF Intrinsic Value | $19.74 |
+| Comparable Implied | $163.73 |
+| Blended Target | $91.73 |
 | Margin of Safety | 0% |
 | Verdict | Overvalued |
 
@@ -47,19 +47,18 @@ MTUM — BULLISH sentiment, ACCUMULATE (65% confidence). PE: 32.67441, RSI: 63.7
 
 ## 3. Risks
 
-- ⚠️ Elevated sanctions exposure (8.4/10)
-- ⚠️ 2 active controversies
+- No material compliance flags detected.
 - ⚠️ Low margin of safety — limited downside protection
 
 ---
 
 ## 4. Compliance Screening
 
-- **Overall Risk Level:** HIGH
-- **Compliance Score:** 38.1/100
-- **Sanctions Risk:** 8.4/10
-- **ESG Score:** 62.2/100
-- **Controversies:** 2
+- **Overall Risk Level:** LOW
+- **Compliance Score:** 85.1/100
+- **Sanctions Risk:** 3.0/10
+- **ESG Score:** 67.2/100
+- **Controversies:** 0
 
 ---
 
