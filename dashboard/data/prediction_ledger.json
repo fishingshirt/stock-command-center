@@ -10249,6 +10249,61 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPMO",
+      "recommendation": "BUY",
+      "confidence": 81,
+      "price_at_predict": 143.48,
+      "timestamp": "2026-05-17T15:15:34.493639+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SCHK",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 35.49,
+      "timestamp": "2026-05-17T15:15:45.084300+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPYM",
+      "recommendation": "ACCUMULATE",
+      "confidence": 66,
+      "price_at_predict": 86.99,
+      "timestamp": "2026-05-17T15:15:53.467303+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "VOOG",
+      "recommendation": "ACCUMULATE",
+      "confidence": 67,
+      "price_at_predict": 82.19,
+      "timestamp": "2026-05-17T15:16:03.116528+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "NVDA",
+      "recommendation": "BUY",
+      "confidence": 87,
+      "price_at_predict": 225.32,
+      "timestamp": "2026-05-17T15:16:11.766627+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

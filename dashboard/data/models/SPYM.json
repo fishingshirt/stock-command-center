@@ -1,42 +1,30 @@
 {
   "ticker": "SPYM",
-  "timestamp": "2026-05-15T09:00:39.217904+00:00",
-  "current_price": 570.63,
-  "dcf_target": 271.28,
-  "comparable_target": 526.76,
-  "blended_target": 399.02,
+  "timestamp": "2026-05-17T15:15:54.823682+00:00",
+  "current_price": 86.99,
+  "dcf_target": null,
+  "comparable_target": 86.99,
+  "blended_target": 86.99,
   "margin_of_safety_pct": 0,
-  "dcf_model": {
-    "current_fcf_billions": 12.95,
-    "projected_fcf_5yr": [
-      15.1,
-      17.62,
-      20.55,
-      23.98,
-      27.97
-    ],
-    "growth_rate_assumed": 0.167,
-    "wacc": 0.081,
-    "terminal_growth": 0.03,
-    "terminal_value_billions": 564.77,
-    "enterprise_value_billions": 464.39,
-    "net_cash_billions": -3.53,
-    "equity_value_billions": 460.86,
-    "intrinsic_per_share": 271.28,
-    "method": "DCF_5yr"
-  },
-  "comparable_model": {
-    "current_price": 570.63,
-    "trailing_pe": 16.65,
-    "forward_pe": 13.36,
-    "ev_ebitda": 15.62,
-    "price_to_sales": 2.78,
-    "price_to_book": 9.45,
-    "eps": 34.27,
-    "peer_median_pe": 15.37,
-    "implied_price_pe": 526.76,
-    "upside_pct": -7.69,
-    "method": "peer_multiples"
-  },
-  "verdict": "Overvalued"
+  "upside_pct": 0.0,
+  "verdict": "SLIGHTLY_OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 27.773678,
+    "forward_pe": null,
+    "price_to_sales": null,
+    "price_to_book": null,
+    "ev_ebitda": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "sector": "",
+    "sector_median_pe": 22,
+    "implied_pe": null,
+    "implied_ps": null,
+    "implied_pb": null,
+    "free_cash_flow": null,
+    "shares_outstanding": null,
+    "growth_assumed": 0.15,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "cash": 58547.553177000016,
+  "cash": 56161.56222700002,
   "initial_capital": 100000.0,
   "positions": {
     "IWM": {
@@ -86,21 +86,11 @@
       "ticker": "BTC-USD",
       "shares": 0.0748,
       "entry_price": 78062.0,
-      "last_price": 77990.0078,
+      "last_price": 77980.6484,
       "confidence": 95,
       "reasoning": "BTC-USD @ $78062 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | Strategy: GROWTH",
       "task_id": "20260517-252",
       "opened_at": "2026-05-17T14:30:24.728055+00:00"
-    },
-    "VGT": {
-      "ticker": "VGT",
-      "shares": 35.0654,
-      "entry_price": 113.31,
-      "last_price": 113.31,
-      "confidence": 67,
-      "reasoning": "VGT @ $113.31 \u2014 ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 40.479847x \u2014 growth expectations priced in; Price at 94.5% of 52-week range \u2014 limited upside | RSI: 73.65 | P/E: 40.479847 | Strategy: MOMENTUM",
-      "task_id": "20260517-279",
-      "opened_at": "2026-05-17T14:45:41.061572+00:00"
     },
     "SCHG": {
       "ticker": "SCHG",
@@ -121,6 +111,16 @@
       "reasoning": "MTUM @ $298.27 \u2014 BUY (91% confidence) | Bullish: Bullish news sentiment detected | RSI: 63.79 | P/E: 32.67441 | Strategy: GROWTH",
       "task_id": "20260517-286",
       "opened_at": "2026-05-17T15:01:04.485228+00:00"
+    },
+    "NVDA": {
+      "ticker": "NVDA",
+      "shares": 28.2232,
+      "entry_price": 225.32,
+      "last_price": 225.32,
+      "confidence": 87,
+      "reasoning": "NVDA @ $225.32 \u2014 BUY (87% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 46.077713x \u2014 growth expectations priced in | RSI: 56.24 | P/E: 46.077713 | Strategy: MOMENTUM",
+      "task_id": "20260517-291",
+      "opened_at": "2026-05-17T15:16:17.931537+00:00"
     }
   },
   "history": [
@@ -389,8 +389,22 @@
       "opened_at": "2026-05-17T14:40:28.289189+00:00",
       "closed_at": "2026-05-17T15:01:04.476472+00:00",
       "task_id": "20260517-286"
+    },
+    {
+      "ticker": "VGT",
+      "action": "SELL",
+      "shares": 35.0654,
+      "entry_price": 113.31,
+      "exit_price": 113.31,
+      "pnl": 0.0,
+      "return_pct": 0.0,
+      "hold_seconds": 1836.9,
+      "reasoning": "Rotated out for NVDA (87% vs 67%)",
+      "opened_at": "2026-05-17T14:45:41.061572+00:00",
+      "closed_at": "2026-05-17T15:16:17.922666+00:00",
+      "task_id": "20260517-291"
     }
   ],
   "created_at": "2026-05-15T06:50:00+00:00",
-  "updated_at": "2026-05-17T15:01:04.485233+00:00"
+  "updated_at": "2026-05-17T15:16:17.931542+00:00"
 }

@@ -1,0 +1,180 @@
+{
+  "task_id": "20260517-291",
+  "subject": "NVDA analysis",
+  "ticker": "NVDA",
+  "timestamp": "2026-05-17T15:16:11.669813+00:00",
+  "recommendation": "BUY",
+  "confidence": 87,
+  "summary": "NVDA @ $225.32 \u2014 BUY (87% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 46.077713x \u2014 growth expectations priced in | RSI: 56.24 | P/E: 46.077713 | Strategy: MOMENTUM",
+  "signal_score": 0.692,
+  "strategy": "MOMENTUM",
+  "key_metrics": {
+    "ticker": "NVDA",
+    "current_price": 225.32,
+    "previous_close": 235.74,
+    "day_change_pct": -4.42,
+    "sma_20": 210.3,
+    "sma_50": 193.07,
+    "sma_200": 185.96,
+    "rsi_14": 56.24,
+    "52_week_high": 236.54,
+    "52_week_low": 129.16,
+    "price_vs_52w_pct": 89.6,
+    "volume_surge": 0.97,
+    "avg_volume": 170770533,
+    "market_cap": 5457368842240,
+    "pe_trailing": 46.077713,
+    "pe_forward": 19.713346,
+    "peg_ratio": 0.72,
+    "eps_ttm": 4.89,
+    "eps_forward": 11.42982,
+    "revenue_growth": 0.732,
+    "earnings_growth": 0.956,
+    "profit_margin": 0.55603004,
+    "short_ratio": 1.84,
+    "beta": 2.244,
+    "return_5d_pct": 2.68,
+    "return_1mo_pct": 11.51,
+    "return_3mo_pct": 21.82,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.5,
+      "note": "Strong 1mo momentum +11.51%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +21.82%"
+    },
+    {
+      "name": "day_spike",
+      "score": -0.5,
+      "note": "Big daily drop -4.42%"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (210.3)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (185.96) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -1.5,
+      "note": "High trailing P/E 46.077713x \u2014 stretched valuation"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 19.713346x < trailing 46.077713x (expected growth)"
+    },
+    {
+      "name": "peg",
+      "score": 1.0,
+      "note": "PEG 0.72 < 1.0 \u2014 growth cheap vs price"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.5,
+      "note": "Revenue growing 73% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 96% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [
+    "High P/E 46.077713x \u2014 growth expectations priced in"
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 3,
+    "bearish": 0,
+    "total_mentions": 3
+  },
+  "news": [
+    {
+      "title": "4 Dividend Energy Stocks to Buy Right Now",
+      "published": "Sun, 17 May 2026 14:50:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/17/4-dividend-energy-stocks-to-buy-right-now/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "If Your Advisor Said to Add Bonds at 65, They Were Right \u2014 in 1995. Here\u2019s What That Advice Should Sound Like in 2026.",
+      "published": "Sun, 17 May 2026 14:30:22 +0000",
+      "url": "https://247wallst.com/investing/2026/05/17/if-your-advisor-said-to-add-bonds-at-65-they-were-right-in-1995-heres-what-that-advice-should-sound-like-in-2026/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "3 Incredibly Attractive Nasdaq Stocks to Buy Before It's Too Late",
+      "published": "Sun, 17 May 2026 14:13:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/17/incredibly-attractive-nasdaq-stocks-to-buy-befor/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "SPYG Has Beaten SPYV by 390% Over a Decade and the Reason Matters More Than You Think",
+      "published": "Sun, 17 May 2026 14:05:18 +0000",
+      "url": "https://247wallst.com/investing/2026/05/17/spyg-has-beaten-spyv-by-390-over-a-decade-and-the-reason-matters-more-than-you-think/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Totem Point Dumps 155,000 Bill Holdings (BILL) Shares Worth $6.9 Million",
+      "published": "Sun, 17 May 2026 14:00:18 +0000",
+      "url": "https://www.fool.com/coverage/filings/2026/05/17/totem-point-dumps-155-000-bill-holdings-bill-shares-worth-usd6-9-million/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/NVDA"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 225.32,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 438.79,
+    "margin_of_safety_pct": 48.65,
+    "verdict": "STRONG_BUY",
+    "upside_pct": 94.74
+  },
+  "earnings": {
+    "catalyst_score": 50,
+    "verdict": "Solid earnings trend",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "ok",
+    "message": "Bought 28.2232 NVDA @ $225.32",
+    "cost": 6359.25,
+    "rotation": "Sold VGT to buy NVDA"
+  },
+  "advisor": {
+    "ticker": "NVDA",
+    "recommendation": "BUY",
+    "confidence": 87,
+    "strategy": "MOMENTUM",
+    "reasoning": "## NVDA Investment Thesis\n\n**Recommendation:** BUY (87% confidence)\n**Strategy:** MOMENTUM\n**Price:** $225.32\n**Daily Change:** \ud83d\udd34 -4.42%\n\n**Valuation:** Target $438.79 | Upside 94.74% | MoS 48.65% | Verdict: STRONG_BUY\n\n**Earnings:** Solid earnings trend (catalyst 50)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Strong 1mo momentum +11.51%\n\u2705 **3Mo Momentum:** Strong 3mo momentum +21.82%\n\u26a0\ufe0f **Day Spike:** Big daily drop -4.42%\n\u2705 **Sma20:** Price above SMA20 (210.3)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (185.96) \u2014 confirmed uptrend\n\u26a0\ufe0f **Pe:** High trailing P/E 46.077713x \u2014 stretched valuation\n\u2705 **Pe Forward:** Forward P/E 19.713346x < trailing 46.077713x (expected growth)\n\n### Positive Factors\n\u2705 Bullish news sentiment detected\n\n### Risk Factors\n\u26a0\ufe0f High P/E 46.077713x \u2014 growth expectations priced in\n\n### News Sentiment: BULLISH (100.0)\n- 3 bullish mentions, 0 bearish\n- Recent headlines:\n  - 4 Dividend Energy Stocks to Buy Right Now\n  - If Your Advisor Said to Add Bonds at 65, They Were Right \u2014 in 1995. Here\u2019s What That Advice Should Sound Like in 2026.\n  - 3 Incredibly Attractive Nasdaq Stocks to Buy Before It's Too Late\n\n### Key Metrics\n- **Ticker:** NVDA\n- **Price:** $225.32\n- **P/E (trailing):** 46.077713\n- **P/E (forward):** 19.713346\n- **PEG:** 0.72\n- **RSI(14):** 56.24\n- **SMA 20:** 210.3\n- **SMA 50:** 193.07\n- **52W Range:** $129.16 - $236.54\n- **1mo Return:** 11.51%\n- **3mo Return:** 21.82%\n- **Volume Surge:** 0.97\n- **Market Cap:** $5457.4B\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T15:16:17.957213+00:00"
+  }
+}

@@ -1,42 +1,30 @@
 {
   "ticker": "VOOG",
-  "timestamp": "2026-05-15T08:45:36.413739+00:00",
-  "current_price": 329.79,
-  "dcf_target": 94.87,
-  "comparable_target": 209.14,
-  "blended_target": 152.0,
+  "timestamp": "2026-05-17T15:16:04.423703+00:00",
+  "current_price": 82.19,
+  "dcf_target": null,
+  "comparable_target": 82.19,
+  "blended_target": 82.19,
   "margin_of_safety_pct": 0,
-  "dcf_model": {
-    "current_fcf_billions": 6.19,
-    "projected_fcf_5yr": [
-      7.31,
-      8.63,
-      10.19,
-      12.03,
-      14.2
-    ],
-    "growth_rate_assumed": 0.181,
-    "wacc": 0.104,
-    "terminal_growth": 0.03,
-    "terminal_value_billions": 197.67,
-    "enterprise_value_billions": 158.56,
-    "net_cash_billions": 11.75,
-    "equity_value_billions": 170.3,
-    "intrinsic_per_share": 94.87,
-    "method": "DCF_5yr"
-  },
-  "comparable_model": {
-    "current_price": 329.79,
-    "trailing_pe": 38.57,
-    "forward_pe": 31.58,
-    "ev_ebitda": 18.54,
-    "price_to_sales": 10.81,
-    "price_to_book": 2.64,
-    "eps": 8.55,
-    "peer_median_pe": 24.46,
-    "implied_price_pe": 209.14,
-    "upside_pct": -36.58,
-    "method": "peer_multiples"
-  },
-  "verdict": "Overvalued"
+  "upside_pct": 0.0,
+  "verdict": "SLIGHTLY_OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 35.38118,
+    "forward_pe": null,
+    "price_to_sales": null,
+    "price_to_book": null,
+    "ev_ebitda": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "sector": "",
+    "sector_median_pe": 22,
+    "implied_pe": null,
+    "implied_ps": null,
+    "implied_pb": null,
+    "free_cash_flow": null,
+    "shares_outstanding": 16850000,
+    "growth_assumed": 0.15,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
 }
