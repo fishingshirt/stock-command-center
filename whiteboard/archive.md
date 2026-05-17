@@ -1,0 +1,14264 @@
+# Archived Done Tasks
+
+Auto-archived on 2026-05-17. 1029 tasks moved from kanban.md.
+
+
+
+### Task ID: 20260515-084
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T06:36:42.839991+00:00
+**Completed At:** 2026-05-15T06:36:44.047118+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: VALUE
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 27 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-085
+**Subject:** Auto: Tune MOMENTUM strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T06:36:45.192346+00:00
+**Completed At:** 2026-05-15T06:36:46.298416+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: MOMENTUM
+**Details:**
+- Strategy: MOMENTUM
+- Win rate: 0.0% over 30 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-086
+**Subject:** Auto: Tune GROWTH strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T06:36:47.372691+00:00
+**Completed At:** 2026-05-15T06:36:48.489747+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: GROWTH
+**Details:**
+- Strategy: GROWTH
+- Win rate: 0.0% over 120 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-087
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T06:36:53.162868+00:00
+**Completed At:** 2026-05-15T06:36:54.315793+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: VALUE
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 27 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-088
+**Subject:** Auto: Tune MOMENTUM strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T06:36:55.432317+00:00
+**Completed At:** 2026-05-15T06:36:56.527135+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: MOMENTUM
+**Details:**
+- Strategy: MOMENTUM
+- Win rate: 0.0% over 30 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-089
+**Subject:** Auto: Tune GROWTH strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T06:36:57.568917+00:00
+**Completed At:** 2026-05-15T06:36:58.724368+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: GROWTH
+**Details:**
+- Strategy: GROWTH
+- Win rate: 0.0% over 122 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-090
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T06:45:05.594873+00:00
+**Completed At:** 2026-05-15T06:45:06.706888+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: VALUE
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 27 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-091
+**Subject:** Auto: Tune MOMENTUM strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T06:45:07.829352+00:00
+**Completed At:** 2026-05-15T06:45:08.992947+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: MOMENTUM
+**Details:**
+- Strategy: MOMENTUM
+- Win rate: 0.0% over 30 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-092
+**Subject:** Auto: Tune GROWTH strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T06:45:10.052985+00:00
+**Completed At:** 2026-05-15T06:45:11.180258+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: GROWTH
+**Details:**
+- Strategy: GROWTH
+- Win rate: 0.0% over 122 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-094
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T06:45:46.760021+00:00
+**Completed At:** 2026-05-15T06:45:47.900086+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: VALUE
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 27 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-095
+**Subject:** Auto: Tune MOMENTUM strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T06:45:48.966566+00:00
+**Completed At:** 2026-05-15T06:45:50.113896+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: MOMENTUM
+**Details:**
+- Strategy: MOMENTUM
+- Win rate: 0.0% over 30 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-096
+**Subject:** Auto: Tune GROWTH strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T06:45:51.267138+00:00
+**Completed At:** 2026-05-15T06:45:52.313993+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: GROWTH
+**Details:**
+- Strategy: GROWTH
+- Win rate: 0.0% over 122 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-093
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:00:06.634763+00:00
+**Completed At:** 2026-05-15T07:00:07.984969+00:00
+**Result:** dashboard/data/output/20260515-093.json
+**Summary:** NO_DATA (0%) — Strategy: VALUE. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+- Identify top 5 daily movers
+- Fundamentals check
+- News sentiment
+- Investment recommendation
+
+
+### Task ID: 20260515-097
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:00:09.424001+00:00
+**Completed At:** 2026-05-15T07:00:10.672519+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: VALUE
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 27 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-098
+**Subject:** Auto: Tune MOMENTUM strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:00:11.877726+00:00
+**Completed At:** 2026-05-15T07:00:13.062541+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: MOMENTUM
+**Details:**
+- Strategy: MOMENTUM
+- Win rate: 0.0% over 30 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-099
+**Subject:** Auto: Tune GROWTH strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:00:14.230597+00:00
+**Completed At:** 2026-05-15T07:00:15.385942+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: GROWTH
+**Details:**
+- Strategy: GROWTH
+- Win rate: 0.0% over 122 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-100
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:00:57.007936+00:00
+**Completed At:** 2026-05-15T07:01:00.678846+00:00
+**Result:** dashboard/data/output/20260515-100.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+- Identify top 5 daily movers
+- Fundamentals check
+- News sentiment
+- Investment recommendation
+
+
+### Task ID: 20260515-101
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:01:04.412042+00:00
+**Completed At:** 2026-05-15T07:01:05.461767+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: VALUE
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 28 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-102
+**Subject:** Auto: Tune MOMENTUM strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:01:06.572952+00:00
+**Completed At:** 2026-05-15T07:01:07.754775+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: MOMENTUM
+**Details:**
+- Strategy: MOMENTUM
+- Win rate: 0.0% over 30 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-103
+**Subject:** Auto: Tune GROWTH strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:01:08.821688+00:00
+**Completed At:** 2026-05-15T07:01:09.940219+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: GROWTH
+**Details:**
+- Strategy: GROWTH
+- Win rate: 0.0% over 122 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-104
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:02:25.214175+00:00
+**Completed At:** 2026-05-15T07:02:26.497586+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: VALUE
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 28 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-105
+**Subject:** Auto: Tune MOMENTUM strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:02:27.656056+00:00
+**Completed At:** 2026-05-15T07:02:28.802911+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: MOMENTUM
+**Details:**
+- Strategy: MOMENTUM
+- Win rate: 0.0% over 30 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-106
+**Subject:** Auto: Tune GROWTH strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:02:29.927311+00:00
+**Completed At:** 2026-05-15T07:02:31.088116+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: GROWTH
+**Details:**
+- Strategy: GROWTH
+- Win rate: 0.0% over 123 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-107
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:07:11.871096+00:00
+**Completed At:** 2026-05-15T07:07:13.080683+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: VALUE
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 28 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-108
+**Subject:** Auto: Tune MOMENTUM strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:07:14.265879+00:00
+**Completed At:** 2026-05-15T07:07:15.397542+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: MOMENTUM
+**Details:**
+- Strategy: MOMENTUM
+- Win rate: 0.0% over 30 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-109
+**Subject:** Auto: Tune GROWTH strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:07:16.593500+00:00
+**Completed At:** 2026-05-15T07:07:17.854061+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: GROWTH
+**Details:**
+- Strategy: GROWTH
+- Win rate: 0.0% over 123 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-110
+**Subject:** NVDA earnings momentum
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:07:40.125725+00:00
+**Completed At:** 2026-05-15T07:07:44.500084+00:00
+**Result:** dashboard/data/output/20260515-110.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-111
+**Subject:** AAPL valuation scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:07:47.287456+00:00
+**Completed At:** 2026-05-15T07:07:51.175049+00:00
+**Result:** dashboard/data/output/20260515-111.json
+**Summary:** NO_DATA (0%) — Strategy: VALUE. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-112
+**Subject:** TSLA sentiment check
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:07:54.222406+00:00
+**Completed At:** 2026-05-15T07:07:57.979942+00:00
+**Result:** dashboard/data/output/20260515-112.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-113
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:08:01.129852+00:00
+**Completed At:** 2026-05-15T07:08:02.436454+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: VALUE
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 28 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-114
+**Subject:** Auto: Tune MOMENTUM strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:08:03.711739+00:00
+**Completed At:** 2026-05-15T07:08:04.904973+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: MOMENTUM
+**Details:**
+- Strategy: MOMENTUM
+- Win rate: 0.0% over 30 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-115
+**Subject:** Auto: Tune GROWTH strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:08:06.100209+00:00
+**Completed At:** 2026-05-15T07:08:07.234773+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: GROWTH
+**Details:**
+- Strategy: GROWTH
+- Win rate: 0.0% over 123 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-116
+**Subject:** NVDA earnings momentum
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:15:05.668186+00:00
+**Completed At:** 2026-05-15T07:15:06.910398+00:00
+**Result:** dashboard/data/output/20260515-116.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-117
+**Subject:** AAPL valuation scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:15:08.335726+00:00
+**Completed At:** 2026-05-15T07:15:09.550818+00:00
+**Result:** dashboard/data/output/20260515-117.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-118
+**Subject:** TSLA sentiment check
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:15:10.953577+00:00
+**Completed At:** 2026-05-15T07:15:12.109135+00:00
+**Result:** dashboard/data/output/20260515-118.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-119
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:15:13.528327+00:00
+**Completed At:** 2026-05-15T07:15:14.721459+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: VALUE
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 29 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-120
+**Subject:** Auto: Tune MOMENTUM strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:15:15.840598+00:00
+**Completed At:** 2026-05-15T07:15:16.993608+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: MOMENTUM
+**Details:**
+- Strategy: MOMENTUM
+- Win rate: 0.0% over 30 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-121
+**Subject:** Auto: Tune GROWTH strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:15:18.191401+00:00
+**Completed At:** 2026-05-15T07:15:19.367714+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: GROWTH
+**Details:**
+- Strategy: GROWTH
+- Win rate: 0.0% over 125 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-122
+**Subject:** MSFT growth outlook
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:15:27.285179+00:00
+**Completed At:** 2026-05-15T07:15:32.865525+00:00
+**Result:** dashboard/data/output/20260515-122.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-123
+**Subject:** AMZN technical levels
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:15:36.272598+00:00
+**Completed At:** 2026-05-15T07:15:41.067430+00:00
+**Result:** dashboard/data/output/20260515-123.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-124
+**Subject:** BTC top crypto momentum scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:15:44.307264+00:00
+**Completed At:** 2026-05-15T07:15:46.415370+00:00
+**Result:** dashboard/data/output/20260515-124.json
+**Summary:** HOLD (50%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-125
+**Subject:** Auto: Tune VALUE strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:15:49.245709+00:00
+**Completed At:** 2026-05-15T07:15:50.412552+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: VALUE
+**Details:**
+- Strategy: VALUE
+- Win rate: 0.0% over 29 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-126
+**Subject:** Auto: Tune MOMENTUM strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:15:51.687402+00:00
+**Completed At:** 2026-05-15T07:15:52.983037+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: MOMENTUM
+**Details:**
+- Strategy: MOMENTUM
+- Win rate: 0.0% over 30 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-127
+**Subject:** Auto: Tune GROWTH strategy parameters
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:15:54.240353+00:00
+**Completed At:** 2026-05-15T07:15:55.470622+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Strategy: GROWTH
+**Details:**
+- Strategy: GROWTH
+- Win rate: 0.0% over 128 trades
+- Target: improve to >= 45.0%
+- Suggestion: adjust entry/exit thresholds or combine with another strategy
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-128
+**Subject:** MSFT growth outlook
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:30:01.980690+00:00
+**Completed At:** 2026-05-15T07:30:03.617387+00:00
+**Result:** dashboard/data/output/20260515-128.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-129
+**Subject:** AMZN technical levels
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:30:05.243831+00:00
+**Completed At:** 2026-05-15T07:30:06.497357+00:00
+**Result:** dashboard/data/output/20260515-129.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-130
+**Subject:** BTC top crypto momentum scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:30:07.975283+00:00
+**Completed At:** 2026-05-15T07:30:09.767857+00:00
+**Result:** dashboard/data/output/20260515-130.json
+**Summary:** HOLD (50%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-131
+**Subject:** ETH Ethereum ecosystem health
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:30:23.602638+00:00
+**Completed At:** 2026-05-15T07:30:25.612370+00:00
+**Result:** dashboard/data/output/20260515-131.json
+**Summary:** WATCH (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-132
+**Subject:** SOL Solana breakout potential
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:30:28.790018+00:00
+**Completed At:** 2026-05-15T07:30:30.957594+00:00
+**Result:** dashboard/data/output/20260515-132.json
+**Summary:** WATCH (55%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-133
+**Subject:** AMD semiconductor sector check
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:30:33.711922+00:00
+**Completed At:** 2026-05-15T07:30:38.400669+00:00
+**Result:** dashboard/data/output/20260515-133.json
+**Summary:** HOLD (40%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-134
+**Subject:** ETH Ethereum ecosystem health
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:38:24.136264+00:00
+**Completed At:** 2026-05-15T07:38:26.273196+00:00
+**Result:** dashboard/data/output/20260515-134.json
+**Summary:** WATCH (65%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-135
+**Subject:** SOL Solana breakout potential
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:38:29.359061+00:00
+**Completed At:** 2026-05-15T07:38:31.742480+00:00
+**Result:** dashboard/data/output/20260515-135.json
+**Summary:** WATCH (55%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-136
+**Subject:** AMD semiconductor sector check
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:38:34.730684+00:00
+**Completed At:** 2026-05-15T07:38:39.958546+00:00
+**Result:** dashboard/data/output/20260515-136.json
+**Summary:** HOLD (40%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-137
+**Subject:** SPY macro market overview
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:45:01.809824+00:00
+**Completed At:** 2026-05-15T07:45:03.102710+00:00
+**Result:** dashboard/data/output/20260515-137.json
+**Summary:** NO_DATA (0%) — Strategy: MOMENTUM. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-138
+**Subject:** JPM banking sector risk
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:45:04.416561+00:00
+**Completed At:** 2026-05-15T07:45:05.751884+00:00
+**Result:** dashboard/data/output/20260515-138.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-139
+**Subject:** XOM energy sector rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:45:07.098476+00:00
+**Completed At:** 2026-05-15T07:45:08.149185+00:00
+**Result:** dashboard/data/output/20260515-139.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-140
+**Subject:** SPY macro market overview
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:45:27.297709+00:00
+**Completed At:** 2026-05-15T07:45:32.627437+00:00
+**Result:** dashboard/data/output/20260515-140.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-141
+**Subject:** JPM banking sector risk
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:45:35.890076+00:00
+**Completed At:** 2026-05-15T07:45:40.663098+00:00
+**Result:** dashboard/data/output/20260515-141.json
+**Summary:** HOLD (55%) — Strategy: MOMENTUM. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-142
+**Subject:** XOM energy sector rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T07:45:43.455832+00:00
+**Completed At:** 2026-05-15T07:45:48.598009+00:00
+**Result:** dashboard/data/output/20260515-142.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-143
+**Subject:** META advertising recovery
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:03.009427+00:00
+**Completed At:** 2026-05-15T08:00:04.843251+00:00
+**Result:** dashboard/data/output/20260515-143.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-144
+**Subject:** GOOGL AI competition analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:06.169568+00:00
+**Completed At:** 2026-05-15T08:00:07.262939+00:00
+**Result:** dashboard/data/output/20260515-144.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-145
+**Subject:** DIS Disney streaming profit
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:07.869716+00:00
+**Completed At:** 2026-05-15T08:00:08.717396+00:00
+**Result:** dashboard/data/output/20260515-145.json
+**Summary:** NO_DATA (0%) — Strategy: VALUE. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-146
+**Subject:** Research SPMO — S&P 500 Momentum ETF trend and momentum score
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:10.026579+00:00
+**Completed At:** 2026-05-15T08:00:11.119932+00:00
+**Result:** dashboard/data/output/20260515-146.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+- Analyze SPMO momentum factor exposure
+- Compare against SPY and MTUM
+- Technical: RSI, SMA, volume
+- Recommendation: BUY/ACCUMULATE/HOLD
+
+
+### Task ID: 20260515-147
+**Subject:** Research V — Visa Inc. payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:12.393723+00:00
+**Completed At:** 2026-05-15T08:00:13.518700+00:00
+**Result:** dashboard/data/output/20260515-147.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+- Revenue growth, margin analysis
+- Competitive moat vs MA, PYPL
+- Technical levels
+- Valuation: P/E, P/S
+
+
+### Task ID: 20260515-148
+**Subject:** Research MTUM — iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:14.876668+00:00
+**Completed At:** 2026-05-15T08:00:16.114583+00:00
+**Result:** dashboard/data/output/20260515-148.json
+**Summary:** NO_DATA (0%) — Strategy: VALUE. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+- Factor performance vs growth/value
+- Top 10 holdings drift
+- Momentum signal strength
+- Compare to SPMO overlap
+
+
+### Task ID: 20260515-149
+**Subject:** Research SCHK & SCHG — Schwab large-cap pair analysis
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:17.461876+00:00
+**Completed At:** 2026-05-15T08:00:18.585147+00:00
+**Result:** dashboard/data/output/20260515-149.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+- SCHK (1000 index) vs SCHG (growth) correlation
+- Combined portfolio overlap
+- Expense ratio advantage
+- Rebalancing signal
+
+
+### Task ID: 20260515-150
+**Subject:** Research SPYG & SPYM — State Street growth + dividend combo
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:19.936824+00:00
+**Completed At:** 2026-05-15T08:00:21.157302+00:00
+**Result:** dashboard/data/output/20260515-150.json
+**Summary:** NO_DATA (0%) — Strategy: MOMENTUM. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+- SPYG growth exposure vs SPYM dividend yield
+- Combined efficiency vs VOO alone
+- Sector concentration risk
+- Merge or hold both?
+
+
+### Task ID: 20260515-151
+**Subject:** Research VGT & VOOG — Vanguard tech + growth overlap
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:22.523161+00:00
+**Completed At:** 2026-05-15T08:00:23.845969+00:00
+**Result:** dashboard/data/output/20260515-151.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+- VGT tech concentration (AAPL, MSFT, NVDA weight)
+- VOOG growth factor loading
+- Duplication with VOO
+- Trim or overweight?
+
+
+### Task ID: 20260515-152
+**Subject:** Research VOO — Core S&P 500 benchmark health check
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:00:25.157868+00:00
+**Completed At:** 2026-05-15T08:00:26.324358+00:00
+**Result:** dashboard/data/output/20260515-152.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+- VOO as portfolio anchor: keep or trim?
+- Valuation: forward P/E of S&P 500
+- Earnings growth outlook
+- Rebalance signal vs cash level
+
+
+### Task ID: 20260515-153
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:15:02.227679+00:00
+**Completed At:** 2026-05-15T08:15:03.658185+00:00
+**Result:** dashboard/data/output/20260515-153.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-154
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:15:05.073248+00:00
+**Completed At:** 2026-05-15T08:15:06.391169+00:00
+**Result:** dashboard/data/output/20260515-154.json
+**Summary:** NO_DATA (0%) — Strategy: MOMENTUM. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-155
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:15:07.896428+00:00
+**Completed At:** 2026-05-15T08:15:09.080140+00:00
+**Result:** dashboard/data/output/20260515-155.json
+**Summary:** NO_DATA (0%) — Strategy: MOMENTUM. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-156
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:15:10.485582+00:00
+**Completed At:** 2026-05-15T08:15:11.833677+00:00
+**Result:** dashboard/data/output/20260515-156.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-157
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:15:13.125604+00:00
+**Completed At:** 2026-05-15T08:15:14.492852+00:00
+**Result:** dashboard/data/output/20260515-157.json
+**Summary:** NO_DATA (0%) — Strategy: VALUE. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-158
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:15:15.860373+00:00
+**Completed At:** 2026-05-15T08:15:17.088657+00:00
+**Result:** dashboard/data/output/20260515-158.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-159
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:15:18.535407+00:00
+**Completed At:** 2026-05-15T08:15:23.220972+00:00
+**Result:** dashboard/data/output/20260515-159.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-160
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:30:02.161325+00:00
+**Completed At:** 2026-05-15T08:30:03.997731+00:00
+**Result:** dashboard/data/output/20260515-160.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-161
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:30:05.465342+00:00
+**Completed At:** 2026-05-15T08:30:06.639513+00:00
+**Result:** dashboard/data/output/20260515-161.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-162
+**Subject:** SCHK Schwab 1000 Index valuation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:30:08.078276+00:00
+**Completed At:** 2026-05-15T08:30:09.526907+00:00
+**Result:** dashboard/data/output/20260515-162.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-163
+**Subject:** SCHG Schwab US Large-Cap Growth outlook
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:30:10.803486+00:00
+**Completed At:** 2026-05-15T08:30:11.992267+00:00
+**Result:** dashboard/data/output/20260515-163.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-164
+**Subject:** SPYG State Street S&P 500 Growth momentum
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:30:13.323514+00:00
+**Completed At:** 2026-05-15T08:30:14.579127+00:00
+**Result:** dashboard/data/output/20260515-164.json
+**Summary:** NO_DATA (0%) — Strategy: VALUE. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-165
+**Subject:** SCHK Schwab 1000 Index valuation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:30:45.748223+00:00
+**Completed At:** 2026-05-15T08:30:50.831132+00:00
+**Result:** dashboard/data/output/20260515-165.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-166
+**Subject:** SCHG Schwab US Large-Cap Growth outlook
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:30:53.521197+00:00
+**Completed At:** 2026-05-15T08:30:57.927308+00:00
+**Result:** dashboard/data/output/20260515-166.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-167
+**Subject:** SPYG State Street S&P 500 Growth momentum
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:31:00.693135+00:00
+**Completed At:** 2026-05-15T08:31:05.244384+00:00
+**Result:** dashboard/data/output/20260515-167.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-168
+**Subject:** VGT Vanguard Info Tech sector heatmap
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:45:02.594574+00:00
+**Completed At:** 2026-05-15T08:45:03.901725+00:00
+**Result:** dashboard/data/output/20260515-168.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-169
+**Subject:** VOOG Vanguard S&P 500 Growth check
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:45:05.181328+00:00
+**Completed At:** 2026-05-15T08:45:06.325830+00:00
+**Result:** dashboard/data/output/20260515-169.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-170
+**Subject:** VOO Vanguard S&P 500 core anchor
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:45:07.658323+00:00
+**Completed At:** 2026-05-15T08:45:08.889621+00:00
+**Result:** dashboard/data/output/20260515-170.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-171
+**Subject:** VGT Vanguard Info Tech sector heatmap
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:45:22.997005+00:00
+**Completed At:** 2026-05-15T08:45:27.738593+00:00
+**Result:** dashboard/data/output/20260515-171.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-172
+**Subject:** VOOG Vanguard S&P 500 Growth check
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:45:30.417267+00:00
+**Completed At:** 2026-05-15T08:45:34.907129+00:00
+**Result:** dashboard/data/output/20260515-172.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-173
+**Subject:** VOO Vanguard S&P 500 core anchor
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T08:45:37.560734+00:00
+**Completed At:** 2026-05-15T08:45:41.835918+00:00
+**Result:** dashboard/data/output/20260515-173.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-174
+**Subject:** SPYM State Street High Dividend yield
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:00:03.097342+00:00
+**Completed At:** 2026-05-15T09:00:05.598148+00:00
+**Result:** dashboard/data/output/20260515-174.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-175
+**Subject:** SPYM State Street High Dividend yield
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:00:32.755227+00:00
+**Completed At:** 2026-05-15T09:00:37.690724+00:00
+**Result:** dashboard/data/output/20260515-175.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-176
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:15:01.701035+00:00
+**Completed At:** 2026-05-15T09:15:03.228944+00:00
+**Result:** dashboard/data/output/20260515-176.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-177
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:15:04.683930+00:00
+**Completed At:** 2026-05-15T09:15:06.000077+00:00
+**Result:** dashboard/data/output/20260515-177.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-178
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:15:07.511948+00:00
+**Completed At:** 2026-05-15T09:15:08.796012+00:00
+**Result:** dashboard/data/output/20260515-178.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-179
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:15:21.834635+00:00
+**Completed At:** 2026-05-15T09:15:26.832493+00:00
+**Result:** dashboard/data/output/20260515-179.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-180
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:15:29.749718+00:00
+**Completed At:** 2026-05-15T09:15:34.388111+00:00
+**Result:** dashboard/data/output/20260515-180.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-181
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:15:37.441138+00:00
+**Completed At:** 2026-05-15T09:15:42.658581+00:00
+**Result:** dashboard/data/output/20260515-181.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-182
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:27:23.409745+00:00
+**Completed At:** 2026-05-15T09:27:28.318512+00:00
+**Result:** dashboard/data/output/20260515-182.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-183
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:27:30.983776+00:00
+**Completed At:** 2026-05-15T09:27:35.623012+00:00
+**Result:** dashboard/data/output/20260515-183.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-184
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:27:38.438446+00:00
+**Completed At:** 2026-05-15T09:27:42.945748+00:00
+**Result:** dashboard/data/output/20260515-184.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-185
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:30:02.020173+00:00
+**Completed At:** 2026-05-15T09:30:03.946786+00:00
+**Result:** dashboard/data/output/20260515-185.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-186
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:30:05.576100+00:00
+**Completed At:** 2026-05-15T09:30:06.897658+00:00
+**Result:** dashboard/data/output/20260515-186.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-187
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:30:08.245410+00:00
+**Completed At:** 2026-05-15T09:30:09.453720+00:00
+**Result:** dashboard/data/output/20260515-187.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-188
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:30:14.278765+00:00
+**Completed At:** 2026-05-15T09:30:18.883658+00:00
+**Result:** dashboard/data/output/20260515-188.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-189
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:30:21.642217+00:00
+**Completed At:** 2026-05-15T09:30:26.324979+00:00
+**Result:** dashboard/data/output/20260515-189.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-190
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:30:29.019498+00:00
+**Completed At:** 2026-05-15T09:30:33.389660+00:00
+**Result:** dashboard/data/output/20260515-190.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-191
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:40:12.762521+00:00
+**Completed At:** 2026-05-15T09:40:17.120582+00:00
+**Result:** dashboard/data/output/20260515-191.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-192
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:40:20.159485+00:00
+**Completed At:** 2026-05-15T09:40:23.020523+00:00
+**Result:** dashboard/data/output/20260515-192.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-193
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:40:26.053425+00:00
+**Completed At:** 2026-05-15T09:40:28.986301+00:00
+**Result:** dashboard/data/output/20260515-193.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-194
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:41:24.862998+00:00
+**Completed At:** 2026-05-15T09:41:28.091075+00:00
+**Result:** dashboard/data/output/20260515-194.json
+**Summary:** SELL (75%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-195
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:41:30.961390+00:00
+**Completed At:** 2026-05-15T09:41:33.718089+00:00
+**Result:** dashboard/data/output/20260515-195.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-196
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:41:36.654000+00:00
+**Completed At:** 2026-05-15T09:41:39.526811+00:00
+**Result:** dashboard/data/output/20260515-196.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-197
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:45:02.674839+00:00
+**Completed At:** 2026-05-15T09:45:04.130798+00:00
+**Result:** dashboard/data/output/20260515-197.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-198
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:45:05.457506+00:00
+**Completed At:** 2026-05-15T09:45:06.642235+00:00
+**Result:** dashboard/data/output/20260515-198.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-199
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:45:07.970156+00:00
+**Completed At:** 2026-05-15T09:45:09.063878+00:00
+**Result:** dashboard/data/output/20260515-199.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-200
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:45:22.882637+00:00
+**Completed At:** 2026-05-15T09:45:27.730019+00:00
+**Result:** dashboard/data/output/20260515-200.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-201
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:45:30.856276+00:00
+**Completed At:** 2026-05-15T09:45:35.223930+00:00
+**Result:** dashboard/data/output/20260515-201.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-202
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:45:37.979277+00:00
+**Completed At:** 2026-05-15T09:45:42.305056+00:00
+**Result:** dashboard/data/output/20260515-202.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-203
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T09:45:45.887517+00:00
+**Completed At:** 2026-05-15T09:45:47.051295+00:00
+**Result:** dashboard/data/output/20260515-203.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-204
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:00:02.386755+00:00
+**Completed At:** 2026-05-15T10:00:04.566409+00:00
+**Result:** dashboard/data/output/20260515-204.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-205
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:00:06.693479+00:00
+**Completed At:** 2026-05-15T10:00:07.956564+00:00
+**Result:** dashboard/data/output/20260515-205.json
+**Summary:** NO_DATA (0%) — Strategy: VALUE. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-206
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:00:09.349134+00:00
+**Completed At:** 2026-05-15T10:00:10.575825+00:00
+**Result:** dashboard/data/output/20260515-206.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-207
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:00:11.979715+00:00
+**Completed At:** 2026-05-15T10:00:13.205367+00:00
+**Result:** dashboard/data/output/20260515-207.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-208
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:00:14.559497+00:00
+**Completed At:** 2026-05-15T10:00:15.896969+00:00
+**Result:** dashboard/data/output/20260515-208.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-209
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:00:21.824276+00:00
+**Completed At:** 2026-05-15T10:00:26.487171+00:00
+**Result:** dashboard/data/output/20260515-209.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-210
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:00:29.371810+00:00
+**Completed At:** 2026-05-15T10:00:34.141125+00:00
+**Result:** dashboard/data/output/20260515-210.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-211
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:00:36.923900+00:00
+**Completed At:** 2026-05-15T10:00:41.543092+00:00
+**Result:** dashboard/data/output/20260515-211.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-212
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:00:53.013870+00:00
+**Completed At:** 2026-05-15T10:00:54.296420+00:00
+**Result:** dashboard/data/output/20260515-212.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-213
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:00:55.686554+00:00
+**Completed At:** 2026-05-15T10:00:56.922900+00:00
+**Result:** dashboard/data/output/20260515-213.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-214
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:00:58.229032+00:00
+**Completed At:** 2026-05-15T10:00:59.405315+00:00
+**Result:** dashboard/data/output/20260515-214.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-215
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:15:02.160833+00:00
+**Completed At:** 2026-05-15T10:15:03.782370+00:00
+**Result:** dashboard/data/output/20260515-215.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-216
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:15:05.176167+00:00
+**Completed At:** 2026-05-15T10:15:06.421834+00:00
+**Result:** dashboard/data/output/20260515-216.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-217
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:15:07.933347+00:00
+**Completed At:** 2026-05-15T10:15:09.163827+00:00
+**Result:** dashboard/data/output/20260515-217.json
+**Summary:** NO_DATA (0%) — Strategy: VALUE. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-218
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:15:31.712938+00:00
+**Completed At:** 2026-05-15T10:15:36.655914+00:00
+**Result:** dashboard/data/output/20260515-218.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-219
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:15:39.630759+00:00
+**Completed At:** 2026-05-15T10:15:44.229924+00:00
+**Result:** dashboard/data/output/20260515-219.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-220
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:15:46.027346+00:00
+**Completed At:** 2026-05-15T10:15:47.278313+00:00
+**Result:** dashboard/data/output/20260515-220.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-221
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:30:02.197281+00:00
+**Completed At:** 2026-05-15T10:30:04.186924+00:00
+**Result:** dashboard/data/output/20260515-221.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-222
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:30:05.569291+00:00
+**Completed At:** 2026-05-15T10:30:06.761151+00:00
+**Result:** dashboard/data/output/20260515-222.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-223
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:30:08.053819+00:00
+**Completed At:** 2026-05-15T10:30:09.277501+00:00
+**Result:** dashboard/data/output/20260515-223.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-224
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:30:10.658097+00:00
+**Completed At:** 2026-05-15T10:30:11.951794+00:00
+**Result:** dashboard/data/output/20260515-224.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-225
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:30:13.300003+00:00
+**Completed At:** 2026-05-15T10:30:14.611990+00:00
+**Result:** dashboard/data/output/20260515-225.json
+**Summary:** NO_DATA (0%) — Strategy: VALUE. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-226
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:30:16.002854+00:00
+**Completed At:** 2026-05-15T10:30:17.264948+00:00
+**Result:** dashboard/data/output/20260515-226.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-227
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:30:34.478499+00:00
+**Completed At:** 2026-05-15T10:30:39.597637+00:00
+**Result:** dashboard/data/output/20260515-227.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-228
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:30:42.383569+00:00
+**Completed At:** 2026-05-15T10:30:47.264611+00:00
+**Result:** dashboard/data/output/20260515-228.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-229
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:30:49.948962+00:00
+**Completed At:** 2026-05-15T10:30:54.372862+00:00
+**Result:** dashboard/data/output/20260515-229.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-230
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:45:02.983232+00:00
+**Completed At:** 2026-05-15T10:45:04.356888+00:00
+**Result:** dashboard/data/output/20260515-230.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-231
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:45:06.014604+00:00
+**Completed At:** 2026-05-15T10:45:07.151082+00:00
+**Result:** dashboard/data/output/20260515-231.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-232
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:45:08.457379+00:00
+**Completed At:** 2026-05-15T10:45:09.657981+00:00
+**Result:** dashboard/data/output/20260515-232.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-233
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:45:10.930586+00:00
+**Completed At:** 2026-05-15T10:45:12.056823+00:00
+**Result:** dashboard/data/output/20260515-233.json
+**Summary:** NO_DATA (0%) — Strategy: VALUE. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-234
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:45:13.421378+00:00
+**Completed At:** 2026-05-15T10:45:14.579186+00:00
+**Result:** dashboard/data/output/20260515-234.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-235
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:45:15.859133+00:00
+**Completed At:** 2026-05-15T10:45:17.034081+00:00
+**Result:** dashboard/data/output/20260515-235.json
+**Summary:** NO_DATA (0%) — Strategy: VALUE. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-236
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:45:33.950209+00:00
+**Completed At:** 2026-05-15T10:45:38.866712+00:00
+**Result:** dashboard/data/output/20260515-236.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-237
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:45:41.655751+00:00
+**Completed At:** 2026-05-15T10:45:46.240481+00:00
+**Result:** dashboard/data/output/20260515-237.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-238
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T10:45:49.179198+00:00
+**Completed At:** 2026-05-15T10:45:53.848799+00:00
+**Result:** dashboard/data/output/20260515-238.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-239
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:00:03.267459+00:00
+**Completed At:** 2026-05-15T11:00:05.107872+00:00
+**Result:** dashboard/data/output/20260515-239.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-240
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:00:06.542786+00:00
+**Completed At:** 2026-05-15T11:00:07.837132+00:00
+**Result:** dashboard/data/output/20260515-240.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-241
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:00:09.337847+00:00
+**Completed At:** 2026-05-15T11:00:10.616925+00:00
+**Result:** dashboard/data/output/20260515-241.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-242
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:00:12.069059+00:00
+**Completed At:** 2026-05-15T11:00:13.261316+00:00
+**Result:** dashboard/data/output/20260515-242.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-243
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:00:14.762843+00:00
+**Completed At:** 2026-05-15T11:00:16.013981+00:00
+**Result:** dashboard/data/output/20260515-243.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-244
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:00:17.414074+00:00
+**Completed At:** 2026-05-15T11:00:18.725344+00:00
+**Result:** dashboard/data/output/20260515-244.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-245
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:00:35.500084+00:00
+**Completed At:** 2026-05-15T11:00:40.449195+00:00
+**Result:** dashboard/data/output/20260515-245.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-246
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:00:43.177216+00:00
+**Completed At:** 2026-05-15T11:00:47.820974+00:00
+**Result:** dashboard/data/output/20260515-246.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-247
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:00:50.570656+00:00
+**Completed At:** 2026-05-15T11:00:55.119010+00:00
+**Result:** dashboard/data/output/20260515-247.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-248
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:15:02.671028+00:00
+**Completed At:** 2026-05-15T11:15:04.117824+00:00
+**Result:** dashboard/data/output/20260515-248.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-249
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:15:05.533104+00:00
+**Completed At:** 2026-05-15T11:15:06.755749+00:00
+**Result:** dashboard/data/output/20260515-249.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-250
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:15:08.289471+00:00
+**Completed At:** 2026-05-15T11:15:09.519206+00:00
+**Result:** dashboard/data/output/20260515-250.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-251
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:15:10.905963+00:00
+**Completed At:** 2026-05-15T11:15:12.293434+00:00
+**Result:** dashboard/data/output/20260515-251.json
+**Summary:** NO_DATA (0%) — Strategy: VALUE. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-252
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:15:13.748097+00:00
+**Completed At:** 2026-05-15T11:15:15.154147+00:00
+**Result:** dashboard/data/output/20260515-252.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-253
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:15:16.589566+00:00
+**Completed At:** 2026-05-15T11:15:17.853601+00:00
+**Result:** dashboard/data/output/20260515-253.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-254
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:15:29.491714+00:00
+**Completed At:** 2026-05-15T11:15:34.190155+00:00
+**Result:** dashboard/data/output/20260515-254.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-255
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:15:36.956309+00:00
+**Completed At:** 2026-05-15T11:15:42.161704+00:00
+**Result:** dashboard/data/output/20260515-255.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-256
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:15:45.055787+00:00
+**Completed At:** 2026-05-15T11:15:49.886465+00:00
+**Result:** dashboard/data/output/20260515-256.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-257
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:15:55.072688+00:00
+**Completed At:** 2026-05-15T11:15:56.216845+00:00
+**Result:** dashboard/data/output/20260515-257.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-258
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:15:57.625475+00:00
+**Completed At:** 2026-05-15T11:15:58.797761+00:00
+**Result:** dashboard/data/output/20260515-258.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-259
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:18:10.668701+00:00
+**Completed At:** 2026-05-15T11:18:13.854472+00:00
+**Result:** dashboard/data/output/20260515-259.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-260
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:18:16.833447+00:00
+**Completed At:** 2026-05-15T11:18:19.672637+00:00
+**Result:** dashboard/data/output/20260515-260.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-261
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:18:22.662482+00:00
+**Completed At:** 2026-05-15T11:18:25.440766+00:00
+**Result:** dashboard/data/output/20260515-261.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-262
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:18:28.560767+00:00
+**Completed At:** 2026-05-15T11:18:31.373495+00:00
+**Result:** dashboard/data/output/20260515-262.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-263
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:20:10.414977+00:00
+**Completed At:** 2026-05-15T11:20:13.802716+00:00
+**Result:** dashboard/data/output/20260515-263.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-264
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:20:17.043492+00:00
+**Completed At:** 2026-05-15T11:20:19.941342+00:00
+**Result:** dashboard/data/output/20260515-264.json
+**Summary:** SELL (75%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-265
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:20:22.958981+00:00
+**Completed At:** 2026-05-15T11:20:25.830147+00:00
+**Result:** dashboard/data/output/20260515-265.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-266
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:21:44.896164+00:00
+**Completed At:** 2026-05-15T11:21:47.794321+00:00
+**Result:** dashboard/data/output/20260515-266.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-267
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:21:51.145840+00:00
+**Completed At:** 2026-05-15T11:21:54.264826+00:00
+**Result:** dashboard/data/output/20260515-267.json
+**Summary:** SELL (75%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-268
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:21:57.243278+00:00
+**Completed At:** 2026-05-15T11:22:00.270779+00:00
+**Result:** dashboard/data/output/20260515-268.json
+**Summary:** SELL (75%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-269
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:30:02.672438+00:00
+**Completed At:** 2026-05-15T11:30:04.289016+00:00
+**Result:** dashboard/data/output/20260515-269.json
+**Summary:** NO_DATA (0%) — Strategy: VALUE. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-270
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:30:05.594042+00:00
+**Completed At:** 2026-05-15T11:30:06.774655+00:00
+**Result:** dashboard/data/output/20260515-270.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-271
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:30:08.122227+00:00
+**Completed At:** 2026-05-15T11:30:09.429881+00:00
+**Result:** dashboard/data/output/20260515-271.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-272
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:30:46.196594+00:00
+**Completed At:** 2026-05-15T11:30:47.349172+00:00
+**Result:** dashboard/data/output/20260515-272.json
+**Summary:** NO_DATA (0%) — Strategy: MOMENTUM. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-273
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:30:48.674151+00:00
+**Completed At:** 2026-05-15T11:30:49.756920+00:00
+**Result:** dashboard/data/output/20260515-273.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-274
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:30:51.103084+00:00
+**Completed At:** 2026-05-15T11:30:52.266662+00:00
+**Result:** dashboard/data/output/20260515-274.json
+**Summary:** NO_DATA (0%) — Strategy: GROWTH. Council: HOLD (90.9% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-275
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:31:01.780762+00:00
+**Completed At:** 2026-05-15T11:31:04.660594+00:00
+**Result:** dashboard/data/output/20260515-275.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-276
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:31:07.931525+00:00
+**Completed At:** 2026-05-15T11:31:10.746287+00:00
+**Result:** dashboard/data/output/20260515-276.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-277
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:31:13.782941+00:00
+**Completed At:** 2026-05-15T11:31:16.734865+00:00
+**Result:** dashboard/data/output/20260515-277.json
+**Summary:** SELL (75%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-278
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:32:35.587236+00:00
+**Completed At:** 2026-05-15T11:32:38.675472+00:00
+**Result:** dashboard/data/output/20260515-278.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-279
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:32:41.523081+00:00
+**Completed At:** 2026-05-15T11:32:44.371845+00:00
+**Result:** dashboard/data/output/20260515-279.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-280
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:32:47.442107+00:00
+**Completed At:** 2026-05-15T11:32:50.183263+00:00
+**Result:** dashboard/data/output/20260515-280.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-281
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:33:04.042383+00:00
+**Completed At:** 2026-05-15T11:33:06.993519+00:00
+**Result:** dashboard/data/output/20260515-281.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-282
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:33:10.272581+00:00
+**Completed At:** 2026-05-15T11:33:13.221093+00:00
+**Result:** dashboard/data/output/20260515-282.json
+**Summary:** SELL (75%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-283
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:33:16.154416+00:00
+**Completed At:** 2026-05-15T11:33:19.156299+00:00
+**Result:** dashboard/data/output/20260515-283.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-284
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:34:32.796012+00:00
+**Completed At:** 2026-05-15T11:34:35.997196+00:00
+**Result:** dashboard/data/output/20260515-284.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-285
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:34:39.158714+00:00
+**Completed At:** 2026-05-15T11:34:41.923857+00:00
+**Result:** dashboard/data/output/20260515-285.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-286
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:34:44.939313+00:00
+**Completed At:** 2026-05-15T11:34:47.663468+00:00
+**Result:** dashboard/data/output/20260515-286.json
+**Summary:** SELL (75%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-287
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:37:01.034217+00:00
+**Completed At:** 2026-05-15T11:37:03.846292+00:00
+**Result:** dashboard/data/output/20260515-287.json
+**Summary:** SELL (75%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-288
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:37:07.043470+00:00
+**Completed At:** 2026-05-15T11:37:09.835987+00:00
+**Result:** dashboard/data/output/20260515-288.json
+**Summary:** SELL (75%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-289
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:37:12.816501+00:00
+**Completed At:** 2026-05-15T11:37:15.692512+00:00
+**Result:** dashboard/data/output/20260515-289.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-290
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:37:26.391530+00:00
+**Completed At:** 2026-05-15T11:37:29.175202+00:00
+**Result:** dashboard/data/output/20260515-290.json
+**Summary:** SELL (75%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-291
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:37:32.147364+00:00
+**Completed At:** 2026-05-15T11:37:34.989579+00:00
+**Result:** dashboard/data/output/20260515-291.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-292
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:37:37.840878+00:00
+**Completed At:** 2026-05-15T11:37:40.586950+00:00
+**Result:** dashboard/data/output/20260515-292.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-293
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:37:55.369020+00:00
+**Completed At:** 2026-05-15T11:37:58.133162+00:00
+**Result:** dashboard/data/output/20260515-293.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-294
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:38:01.267841+00:00
+**Completed At:** 2026-05-15T11:38:03.915129+00:00
+**Result:** dashboard/data/output/20260515-294.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-295
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:38:06.763314+00:00
+**Completed At:** 2026-05-15T11:38:09.347007+00:00
+**Result:** dashboard/data/output/20260515-295.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-296
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:38:18.998687+00:00
+**Completed At:** 2026-05-15T11:38:21.666780+00:00
+**Result:** dashboard/data/output/20260515-296.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-297
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:38:24.719827+00:00
+**Completed At:** 2026-05-15T11:38:27.557835+00:00
+**Result:** dashboard/data/output/20260515-297.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-298
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:38:30.471400+00:00
+**Completed At:** 2026-05-15T11:38:33.196717+00:00
+**Result:** dashboard/data/output/20260515-298.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-299
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:41:55.783566+00:00
+**Completed At:** 2026-05-15T11:41:58.807048+00:00
+**Result:** dashboard/data/output/20260515-299.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-300
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:42:01.747418+00:00
+**Completed At:** 2026-05-15T11:42:04.705309+00:00
+**Result:** dashboard/data/output/20260515-300.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-301
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:42:07.715147+00:00
+**Completed At:** 2026-05-15T11:42:10.691790+00:00
+**Result:** dashboard/data/output/20260515-301.json
+**Summary:** SELL (75%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-302
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:45:35.721140+00:00
+**Completed At:** 2026-05-15T11:45:38.645564+00:00
+**Result:** dashboard/data/output/20260515-302.json
+**Summary:** SELL (75%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-303
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:45:41.572526+00:00
+**Completed At:** 2026-05-15T11:45:44.295170+00:00
+**Result:** dashboard/data/output/20260515-303.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-304
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T11:45:47.179867+00:00
+**Completed At:** 2026-05-15T11:45:50.192630+00:00
+**Result:** dashboard/data/output/20260515-304.json
+**Summary:** SELL (75%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-305
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T12:00:13.611052+00:00
+**Completed At:** 2026-05-15T12:00:16.768677+00:00
+**Result:** dashboard/data/output/20260515-305.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-306
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T12:00:19.800831+00:00
+**Completed At:** 2026-05-15T12:00:22.654004+00:00
+**Result:** dashboard/data/output/20260515-306.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-307
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T12:00:26.148447+00:00
+**Completed At:** 2026-05-15T12:00:29.038066+00:00
+**Result:** dashboard/data/output/20260515-307.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-308
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T12:15:51.118834+00:00
+**Completed At:** 2026-05-15T12:15:54.177656+00:00
+**Result:** dashboard/data/output/20260515-308.json
+**Summary:** SELL (75%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-309
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T12:15:57.186517+00:00
+**Completed At:** 2026-05-15T12:16:00.297313+00:00
+**Result:** dashboard/data/output/20260515-309.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-310
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T12:16:03.645609+00:00
+**Completed At:** 2026-05-15T12:16:06.595716+00:00
+**Result:** dashboard/data/output/20260515-310.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-311
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T12:30:25.600275+00:00
+**Completed At:** 2026-05-15T12:30:28.737556+00:00
+**Result:** dashboard/data/output/20260515-311.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-312
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T12:30:32.053077+00:00
+**Completed At:** 2026-05-15T12:30:34.980617+00:00
+**Result:** dashboard/data/output/20260515-312.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-313
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T12:30:38.458900+00:00
+**Completed At:** 2026-05-15T12:30:41.215868+00:00
+**Result:** dashboard/data/output/20260515-313.json
+**Summary:** SELL (75%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-314
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T12:45:11.173755+00:00
+**Completed At:** 2026-05-15T12:45:14.272094+00:00
+**Result:** dashboard/data/output/20260515-314.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-315
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T12:45:17.212648+00:00
+**Completed At:** 2026-05-15T12:45:20.130257+00:00
+**Result:** dashboard/data/output/20260515-315.json
+**Summary:** SELL (75%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-316
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T12:45:23.334902+00:00
+**Completed At:** 2026-05-15T12:45:27.512875+00:00
+**Result:** dashboard/data/output/20260515-316.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-317
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T13:00:59.323328+00:00
+**Completed At:** 2026-05-15T13:01:02.568400+00:00
+**Result:** dashboard/data/output/20260515-317.json
+**Summary:** SELL (75%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-318
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T13:01:05.874782+00:00
+**Completed At:** 2026-05-15T13:01:08.924603+00:00
+**Result:** dashboard/data/output/20260515-318.json
+**Summary:** SELL (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-319
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T13:01:12.048570+00:00
+**Completed At:** 2026-05-15T13:01:15.115074+00:00
+**Result:** dashboard/data/output/20260515-319.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-320
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T13:15:47.669487+00:00
+**Completed At:** 2026-05-15T13:15:50.763861+00:00
+**Result:** dashboard/data/output/20260515-320.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-321
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T13:15:53.983822+00:00
+**Completed At:** 2026-05-15T13:15:56.971687+00:00
+**Result:** dashboard/data/output/20260515-321.json
+**Summary:** SELL (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-322
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T13:15:59.895683+00:00
+**Completed At:** 2026-05-15T13:16:02.739531+00:00
+**Result:** dashboard/data/output/20260515-322.json
+**Summary:** SELL (75%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-323
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T13:30:30.156130+00:00
+**Completed At:** 2026-05-15T13:30:33.341741+00:00
+**Result:** dashboard/data/output/20260515-323.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-324
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T13:30:36.622353+00:00
+**Completed At:** 2026-05-15T13:30:39.853597+00:00
+**Result:** dashboard/data/output/20260515-324.json
+**Summary:** SELL (75%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-325
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T13:30:43.149777+00:00
+**Completed At:** 2026-05-15T13:30:46.167072+00:00
+**Result:** dashboard/data/output/20260515-325.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-326
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T13:45:19.012982+00:00
+**Completed At:** 2026-05-15T13:45:22.107536+00:00
+**Result:** dashboard/data/output/20260515-326.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-327
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T13:45:25.354388+00:00
+**Completed At:** 2026-05-15T13:45:28.332275+00:00
+**Result:** dashboard/data/output/20260515-327.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-328
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T13:45:31.498646+00:00
+**Completed At:** 2026-05-15T13:45:34.545774+00:00
+**Result:** dashboard/data/output/20260515-328.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-329
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T14:01:00.022619+00:00
+**Completed At:** 2026-05-15T14:01:03.327857+00:00
+**Result:** dashboard/data/output/20260515-329.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-330
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T14:01:06.462102+00:00
+**Completed At:** 2026-05-15T14:01:09.603804+00:00
+**Result:** dashboard/data/output/20260515-330.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-331
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T14:01:12.833367+00:00
+**Completed At:** 2026-05-15T14:01:15.839870+00:00
+**Result:** dashboard/data/output/20260515-331.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-332
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T14:15:37.532532+00:00
+**Completed At:** 2026-05-15T14:15:40.556506+00:00
+**Result:** dashboard/data/output/20260515-332.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-333
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T14:15:43.767870+00:00
+**Completed At:** 2026-05-15T14:15:46.853850+00:00
+**Result:** dashboard/data/output/20260515-333.json
+**Summary:** SELL (75%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-334
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T14:15:50.318252+00:00
+**Completed At:** 2026-05-15T14:15:53.304225+00:00
+**Result:** dashboard/data/output/20260515-334.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-335
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T14:30:15.483839+00:00
+**Completed At:** 2026-05-15T14:30:18.529126+00:00
+**Result:** dashboard/data/output/20260515-335.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-336
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T14:30:21.922886+00:00
+**Completed At:** 2026-05-15T14:30:24.946252+00:00
+**Result:** dashboard/data/output/20260515-336.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-337
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T14:30:28.214536+00:00
+**Completed At:** 2026-05-15T14:30:31.382091+00:00
+**Result:** dashboard/data/output/20260515-337.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-338
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T14:45:55.187531+00:00
+**Completed At:** 2026-05-15T14:45:58.124428+00:00
+**Result:** dashboard/data/output/20260515-338.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-339
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T14:46:01.301390+00:00
+**Completed At:** 2026-05-15T14:46:04.498316+00:00
+**Result:** dashboard/data/output/20260515-339.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-340
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T14:46:07.446813+00:00
+**Completed At:** 2026-05-15T14:46:10.436742+00:00
+**Result:** dashboard/data/output/20260515-340.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-341
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:00:39.653172+00:00
+**Completed At:** 2026-05-15T15:00:42.739182+00:00
+**Result:** dashboard/data/output/20260515-341.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-342
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:00:46.022984+00:00
+**Completed At:** 2026-05-15T15:00:48.915218+00:00
+**Result:** dashboard/data/output/20260515-342.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-343
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:00:52.023921+00:00
+**Completed At:** 2026-05-15T15:00:55.240387+00:00
+**Result:** dashboard/data/output/20260515-343.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-344
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:15:31.361035+00:00
+**Completed At:** 2026-05-15T15:15:34.331039+00:00
+**Result:** dashboard/data/output/20260515-344.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-345
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:15:37.524874+00:00
+**Completed At:** 2026-05-15T15:15:40.383779+00:00
+**Result:** dashboard/data/output/20260515-345.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-346
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:15:43.549845+00:00
+**Completed At:** 2026-05-15T15:15:46.479247+00:00
+**Result:** dashboard/data/output/20260515-346.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-347
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:30:08.054168+00:00
+**Completed At:** 2026-05-15T15:30:11.048945+00:00
+**Result:** dashboard/data/output/20260515-347.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-348
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:30:14.025482+00:00
+**Completed At:** 2026-05-15T15:30:16.925039+00:00
+**Result:** dashboard/data/output/20260515-348.json
+**Summary:** SELL (75%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-349
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:30:20.067912+00:00
+**Completed At:** 2026-05-15T15:30:22.771046+00:00
+**Result:** dashboard/data/output/20260515-349.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-350
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:33:54.094333+00:00
+**Completed At:** 2026-05-15T15:33:56.932616+00:00
+**Result:** dashboard/data/output/20260515-350.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-351
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:33:59.964660+00:00
+**Completed At:** 2026-05-15T15:34:03.159846+00:00
+**Result:** dashboard/data/output/20260515-351.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-352
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:34:06.337645+00:00
+**Completed At:** 2026-05-15T15:34:09.211208+00:00
+**Result:** dashboard/data/output/20260515-352.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-353
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:37:33.366345+00:00
+**Completed At:** 2026-05-15T15:37:36.445847+00:00
+**Result:** dashboard/data/output/20260515-353.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-354
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:37:39.529532+00:00
+**Completed At:** 2026-05-15T15:37:42.673337+00:00
+**Result:** dashboard/data/output/20260515-354.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-355
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:37:45.864873+00:00
+**Completed At:** 2026-05-15T15:37:48.759444+00:00
+**Result:** dashboard/data/output/20260515-355.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-356
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:45:12.620711+00:00
+**Completed At:** 2026-05-15T15:45:15.724586+00:00
+**Result:** dashboard/data/output/20260515-356.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-357
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:45:18.853476+00:00
+**Completed At:** 2026-05-15T15:45:21.978744+00:00
+**Result:** dashboard/data/output/20260515-357.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-358
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:45:25.139082+00:00
+**Completed At:** 2026-05-15T15:45:28.148295+00:00
+**Result:** dashboard/data/output/20260515-358.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-359
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:47:06.731721+00:00
+**Completed At:** 2026-05-15T15:47:13.419698+00:00
+**Result:** dashboard/data/output/20260515-359.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-360
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:47:16.872437+00:00
+**Completed At:** 2026-05-15T15:47:22.244256+00:00
+**Result:** dashboard/data/output/20260515-360.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-361
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:47:25.689645+00:00
+**Completed At:** 2026-05-15T15:47:32.319533+00:00
+**Result:** dashboard/data/output/20260515-361.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-362
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:54:23.239841+00:00
+**Completed At:** 2026-05-15T15:54:28.899663+00:00
+**Result:** dashboard/data/output/20260515-362.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-363
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:54:31.873651+00:00
+**Completed At:** 2026-05-15T15:54:37.361198+00:00
+**Result:** dashboard/data/output/20260515-363.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-364
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T15:54:44.207774+00:00
+**Completed At:** 2026-05-15T15:54:52.286137+00:00
+**Result:** dashboard/data/output/20260515-364.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-365
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:00:56.191718+00:00
+**Completed At:** 2026-05-15T16:00:59.242681+00:00
+**Result:** dashboard/data/output/20260515-365.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-366
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:01:02.594118+00:00
+**Completed At:** 2026-05-15T16:01:05.534359+00:00
+**Result:** dashboard/data/output/20260515-366.json
+**Summary:** SELL (75%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-367
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:01:08.787602+00:00
+**Completed At:** 2026-05-15T16:01:11.693880+00:00
+**Result:** dashboard/data/output/20260515-367.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (83.3% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-368
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:15:41.806506+00:00
+**Completed At:** 2026-05-15T16:15:44.743922+00:00
+**Result:** dashboard/data/output/20260515-368.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-369
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:15:47.954966+00:00
+**Completed At:** 2026-05-15T16:15:50.844326+00:00
+**Result:** dashboard/data/output/20260515-369.json
+**Summary:** SELL (75%) — Strategy: MOMENTUM. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-370
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:15:54.289633+00:00
+**Completed At:** 2026-05-15T16:15:57.258442+00:00
+**Result:** dashboard/data/output/20260515-370.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-371
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:16:00.399367+00:00
+**Completed At:** 2026-05-15T16:16:01.525405+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 12.0% over last 333 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-372
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:30:38.153371+00:00
+**Completed At:** 2026-05-15T16:30:41.182719+00:00
+**Result:** dashboard/data/output/20260515-372.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-373
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:30:44.356778+00:00
+**Completed At:** 2026-05-15T16:30:47.331529+00:00
+**Result:** dashboard/data/output/20260515-373.json
+**Summary:** SELL (75%) — Strategy: VALUE. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-374
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:30:50.583738+00:00
+**Completed At:** 2026-05-15T16:30:53.766364+00:00
+**Result:** dashboard/data/output/20260515-374.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-375
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:30:56.879584+00:00
+**Completed At:** 2026-05-15T16:30:58.120806+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 11.9% over last 337 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-376
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:38:03.885163+00:00
+**Completed At:** 2026-05-15T16:38:09.159693+00:00
+**Result:** dashboard/data/output/20260515-376.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-377
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:38:12.071902+00:00
+**Completed At:** 2026-05-15T16:38:16.818259+00:00
+**Result:** dashboard/data/output/20260515-377.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-378
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:38:19.769653+00:00
+**Completed At:** 2026-05-15T16:38:27.663651+00:00
+**Result:** dashboard/data/output/20260515-378.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-379
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:38:30.822901+00:00
+**Completed At:** 2026-05-15T16:38:32.104189+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 11.7% over last 341 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-380
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:45:21.813931+00:00
+**Completed At:** 2026-05-15T16:45:25.119076+00:00
+**Result:** dashboard/data/output/20260515-380.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-381
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:45:28.187464+00:00
+**Completed At:** 2026-05-15T16:45:31.054343+00:00
+**Result:** dashboard/data/output/20260515-381.json
+**Summary:** SELL (75%) — Strategy: VALUE. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-382
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:45:34.255439+00:00
+**Completed At:** 2026-05-15T16:45:37.102040+00:00
+**Result:** dashboard/data/output/20260515-382.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-383
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:45:40.321098+00:00
+**Completed At:** 2026-05-15T16:45:42.652070+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 11.9% over last 345 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-384
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:53:00.979326+00:00
+**Completed At:** 2026-05-15T16:53:04.460762+00:00
+**Result:** dashboard/data/output/20260515-384.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-385
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:53:07.696019+00:00
+**Completed At:** 2026-05-15T16:53:10.669521+00:00
+**Result:** dashboard/data/output/20260515-385.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-386
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:53:14.011396+00:00
+**Completed At:** 2026-05-15T16:53:17.029259+00:00
+**Result:** dashboard/data/output/20260515-386.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-387
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T16:53:20.305296+00:00
+**Completed At:** 2026-05-15T16:53:21.565270+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 11.7% over last 349 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-388
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:01:16.803407+00:00
+**Completed At:** 2026-05-15T17:01:19.984439+00:00
+**Result:** dashboard/data/output/20260515-388.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-389
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:01:23.299879+00:00
+**Completed At:** 2026-05-15T17:01:26.414332+00:00
+**Result:** dashboard/data/output/20260515-389.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-390
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:01:30.000040+00:00
+**Completed At:** 2026-05-15T17:01:33.114684+00:00
+**Result:** dashboard/data/output/20260515-390.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-391
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:01:36.355495+00:00
+**Completed At:** 2026-05-15T17:01:37.666774+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 11.6% over last 353 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-392
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:15:06.372504+00:00
+**Completed At:** 2026-05-15T17:15:09.434042+00:00
+**Result:** dashboard/data/output/20260515-392.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-393
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:15:12.675073+00:00
+**Completed At:** 2026-05-15T17:15:16.090985+00:00
+**Result:** dashboard/data/output/20260515-393.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-394
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:15:19.475596+00:00
+**Completed At:** 2026-05-15T17:15:22.655653+00:00
+**Result:** dashboard/data/output/20260515-394.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-395
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:15:25.975856+00:00
+**Completed At:** 2026-05-15T17:15:27.241472+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 11.5% over last 357 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-396
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:30:53.073076+00:00
+**Completed At:** 2026-05-15T17:30:56.211497+00:00
+**Result:** dashboard/data/output/20260515-396.json
+**Summary:** SELL (75%) — Strategy: MOMENTUM. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-397
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:30:59.371817+00:00
+**Completed At:** 2026-05-15T17:31:02.505847+00:00
+**Result:** dashboard/data/output/20260515-397.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-398
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:31:05.578850+00:00
+**Completed At:** 2026-05-15T17:31:08.731234+00:00
+**Result:** dashboard/data/output/20260515-398.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (82.1% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-399
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:31:11.909241+00:00
+**Completed At:** 2026-05-15T17:31:13.053280+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 11.4% over last 361 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-400
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:35:05.378903+00:00
+**Completed At:** 2026-05-15T17:35:08.378076+00:00
+**Result:** dashboard/data/output/20260515-400.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-401
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:35:11.597408+00:00
+**Completed At:** 2026-05-15T17:35:14.946917+00:00
+**Result:** dashboard/data/output/20260515-401.json
+**Summary:** SELL (75%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-402
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:35:18.196949+00:00
+**Completed At:** 2026-05-15T17:35:21.257108+00:00
+**Result:** dashboard/data/output/20260515-402.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-403
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:35:24.498724+00:00
+**Completed At:** 2026-05-15T17:35:25.681645+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 21.5% over last 442 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-404
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:45:37.134958+00:00
+**Completed At:** 2026-05-15T17:45:40.119885+00:00
+**Result:** dashboard/data/output/20260515-404.json
+**Summary:** SELL (75%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-405
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:45:43.214084+00:00
+**Completed At:** 2026-05-15T17:45:46.118128+00:00
+**Result:** dashboard/data/output/20260515-405.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-406
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:45:49.321389+00:00
+**Completed At:** 2026-05-15T17:45:52.538408+00:00
+**Result:** dashboard/data/output/20260515-406.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-407
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T17:45:55.705992+00:00
+**Completed At:** 2026-05-15T17:45:56.809453+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 21.3% over last 447 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-408
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:00:21.542570+00:00
+**Completed At:** 2026-05-15T18:00:24.858116+00:00
+**Result:** dashboard/data/output/20260515-408.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-409
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:00:28.005300+00:00
+**Completed At:** 2026-05-15T18:00:30.998204+00:00
+**Result:** dashboard/data/output/20260515-409.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-410
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:00:34.039342+00:00
+**Completed At:** 2026-05-15T18:00:37.157621+00:00
+**Result:** dashboard/data/output/20260515-410.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-411
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:00:40.207753+00:00
+**Completed At:** 2026-05-15T18:00:41.345767+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 21.0% over last 452 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-412
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:15:08.642264+00:00
+**Completed At:** 2026-05-15T18:15:11.787219+00:00
+**Result:** dashboard/data/output/20260515-412.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-413
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:15:15.109380+00:00
+**Completed At:** 2026-05-15T18:15:18.238514+00:00
+**Result:** dashboard/data/output/20260515-413.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-414
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:15:21.334145+00:00
+**Completed At:** 2026-05-15T18:15:24.531177+00:00
+**Result:** dashboard/data/output/20260515-414.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-415
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:15:27.745080+00:00
+**Completed At:** 2026-05-15T18:15:29.026789+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 20.8% over last 457 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-416
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:31:01.522048+00:00
+**Completed At:** 2026-05-15T18:31:04.646388+00:00
+**Result:** dashboard/data/output/20260515-416.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-417
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:31:07.694279+00:00
+**Completed At:** 2026-05-15T18:31:10.728145+00:00
+**Result:** dashboard/data/output/20260515-417.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-418
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:31:13.867757+00:00
+**Completed At:** 2026-05-15T18:31:16.860589+00:00
+**Result:** dashboard/data/output/20260515-418.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-419
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:31:19.907160+00:00
+**Completed At:** 2026-05-15T18:31:20.996505+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 20.6% over last 462 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-420
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:45:54.296873+00:00
+**Completed At:** 2026-05-15T18:45:57.320609+00:00
+**Result:** dashboard/data/output/20260515-420.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-421
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:46:00.203697+00:00
+**Completed At:** 2026-05-15T18:46:03.173021+00:00
+**Result:** dashboard/data/output/20260515-421.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-422
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:46:06.302174+00:00
+**Completed At:** 2026-05-15T18:46:09.185102+00:00
+**Result:** dashboard/data/output/20260515-422.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-423
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T18:46:12.394231+00:00
+**Completed At:** 2026-05-15T18:46:13.475110+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 20.6% over last 467 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-424
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:00:41.343291+00:00
+**Completed At:** 2026-05-15T19:00:44.210287+00:00
+**Result:** dashboard/data/output/20260515-424.json
+**Summary:** SELL (75%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-425
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:00:47.219232+00:00
+**Completed At:** 2026-05-15T19:00:50.166391+00:00
+**Result:** dashboard/data/output/20260515-425.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-426
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:00:53.306449+00:00
+**Completed At:** 2026-05-15T19:00:56.193257+00:00
+**Result:** dashboard/data/output/20260515-426.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-427
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:00:59.273237+00:00
+**Completed At:** 2026-05-15T19:01:00.398988+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 20.6% over last 472 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-428
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:15:25.061652+00:00
+**Completed At:** 2026-05-15T19:15:28.458419+00:00
+**Result:** dashboard/data/output/20260515-428.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-429
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:15:31.557025+00:00
+**Completed At:** 2026-05-15T19:15:34.375710+00:00
+**Result:** dashboard/data/output/20260515-429.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-430
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:15:37.413878+00:00
+**Completed At:** 2026-05-15T19:15:40.420339+00:00
+**Result:** dashboard/data/output/20260515-430.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-431
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:15:43.550756+00:00
+**Completed At:** 2026-05-15T19:15:44.758062+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 20.3% over last 477 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-432
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:31:08.061594+00:00
+**Completed At:** 2026-05-15T19:31:11.166458+00:00
+**Result:** dashboard/data/output/20260515-432.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-433
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:31:14.170397+00:00
+**Completed At:** 2026-05-15T19:31:17.089008+00:00
+**Result:** dashboard/data/output/20260515-433.json
+**Summary:** SELL (75%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-434
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:31:20.150845+00:00
+**Completed At:** 2026-05-15T19:31:22.823618+00:00
+**Result:** dashboard/data/output/20260515-434.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-435
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:31:25.860469+00:00
+**Completed At:** 2026-05-15T19:31:26.932751+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 20.3% over last 482 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-436
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:45:05.975215+00:00
+**Completed At:** 2026-05-15T19:45:08.855617+00:00
+**Result:** dashboard/data/output/20260515-436.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-437
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:45:11.926436+00:00
+**Completed At:** 2026-05-15T19:45:14.942140+00:00
+**Result:** dashboard/data/output/20260515-437.json
+**Summary:** SELL (75%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-438
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:45:18.253117+00:00
+**Completed At:** 2026-05-15T19:45:21.206455+00:00
+**Result:** dashboard/data/output/20260515-438.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-439
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T19:45:24.284599+00:00
+**Completed At:** 2026-05-15T19:45:25.309461+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 20.3% over last 487 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-440
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:00:45.387029+00:00
+**Completed At:** 2026-05-15T20:00:48.317110+00:00
+**Result:** dashboard/data/output/20260515-440.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-441
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:00:51.617225+00:00
+**Completed At:** 2026-05-15T20:00:54.651437+00:00
+**Result:** dashboard/data/output/20260515-441.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-442
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:00:57.762839+00:00
+**Completed At:** 2026-05-15T20:01:00.809763+00:00
+**Result:** dashboard/data/output/20260515-442.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-443
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:01:04.021347+00:00
+**Completed At:** 2026-05-15T20:01:05.124317+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 20.3% over last 492 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-444
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:15:22.853376+00:00
+**Completed At:** 2026-05-15T20:15:25.844558+00:00
+**Result:** dashboard/data/output/20260515-444.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-445
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:15:28.882792+00:00
+**Completed At:** 2026-05-15T20:15:31.703586+00:00
+**Result:** dashboard/data/output/20260515-445.json
+**Summary:** HOLD (55%) — Strategy: MOMENTUM. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-446
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:15:34.719009+00:00
+**Completed At:** 2026-05-15T20:15:37.616442+00:00
+**Result:** dashboard/data/output/20260515-446.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-447
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:15:40.874275+00:00
+**Completed At:** 2026-05-15T20:15:41.957601+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 20.5% over last 497 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-448
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:30:59.948347+00:00
+**Completed At:** 2026-05-15T20:31:03.261079+00:00
+**Result:** dashboard/data/output/20260515-448.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-449
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:31:06.284061+00:00
+**Completed At:** 2026-05-15T20:31:09.061723+00:00
+**Result:** dashboard/data/output/20260515-449.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-450
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:31:11.914055+00:00
+**Completed At:** 2026-05-15T20:31:14.785061+00:00
+**Result:** dashboard/data/output/20260515-450.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-451
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:31:17.917715+00:00
+**Completed At:** 2026-05-15T20:31:19.034614+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 20.7% over last 502 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-452
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:45:51.072459+00:00
+**Completed At:** 2026-05-15T20:45:53.992740+00:00
+**Result:** dashboard/data/output/20260515-452.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-453
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:45:57.034353+00:00
+**Completed At:** 2026-05-15T20:45:59.834786+00:00
+**Result:** dashboard/data/output/20260515-453.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-454
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:46:03.016503+00:00
+**Completed At:** 2026-05-15T20:46:05.889479+00:00
+**Result:** dashboard/data/output/20260515-454.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-455
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T20:46:09.268756+00:00
+**Completed At:** 2026-05-15T20:46:10.416541+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 20.9% over last 507 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-456
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:00:29.462351+00:00
+**Completed At:** 2026-05-15T21:00:32.376511+00:00
+**Result:** dashboard/data/output/20260515-456.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-457
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:00:35.669374+00:00
+**Completed At:** 2026-05-15T21:00:38.607871+00:00
+**Result:** dashboard/data/output/20260515-457.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-458
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:00:41.963656+00:00
+**Completed At:** 2026-05-15T21:00:44.808807+00:00
+**Result:** dashboard/data/output/20260515-458.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-459
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:00:47.928053+00:00
+**Completed At:** 2026-05-15T21:00:49.077797+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 21.1% over last 512 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-460
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:15:08.992479+00:00
+**Completed At:** 2026-05-15T21:15:11.983739+00:00
+**Result:** dashboard/data/output/20260515-460.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-461
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:15:14.999487+00:00
+**Completed At:** 2026-05-15T21:15:18.144505+00:00
+**Result:** dashboard/data/output/20260515-461.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-462
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:15:21.203016+00:00
+**Completed At:** 2026-05-15T21:15:24.088222+00:00
+**Result:** dashboard/data/output/20260515-462.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-463
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:15:27.102289+00:00
+**Completed At:** 2026-05-15T21:15:28.274803+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 21.3% over last 517 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-464
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:30:46.490885+00:00
+**Completed At:** 2026-05-15T21:30:49.509830+00:00
+**Result:** dashboard/data/output/20260515-464.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-465
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:30:52.713091+00:00
+**Completed At:** 2026-05-15T21:30:55.552919+00:00
+**Result:** dashboard/data/output/20260515-465.json
+**Summary:** HOLD (55%) — Strategy: MOMENTUM. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-466
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:30:58.470977+00:00
+**Completed At:** 2026-05-15T21:31:01.362454+00:00
+**Result:** dashboard/data/output/20260515-466.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-467
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:31:04.413754+00:00
+**Completed At:** 2026-05-15T21:31:05.506464+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 21.5% over last 522 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-468
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:45:22.884782+00:00
+**Completed At:** 2026-05-15T21:45:26.248685+00:00
+**Result:** dashboard/data/output/20260515-468.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-469
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:45:29.259572+00:00
+**Completed At:** 2026-05-15T21:45:31.962915+00:00
+**Result:** dashboard/data/output/20260515-469.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-470
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:45:35.109446+00:00
+**Completed At:** 2026-05-15T21:45:37.925554+00:00
+**Result:** dashboard/data/output/20260515-470.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-471
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T21:45:40.983300+00:00
+**Completed At:** 2026-05-15T21:45:42.097874+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 21.6% over last 527 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-472
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:01:05.963450+00:00
+**Completed At:** 2026-05-15T22:01:09.357733+00:00
+**Result:** dashboard/data/output/20260515-472.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-473
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:01:12.377380+00:00
+**Completed At:** 2026-05-15T22:01:15.612910+00:00
+**Result:** dashboard/data/output/20260515-473.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-474
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:01:19.121005+00:00
+**Completed At:** 2026-05-15T22:01:21.939737+00:00
+**Result:** dashboard/data/output/20260515-474.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-475
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:01:24.950533+00:00
+**Completed At:** 2026-05-15T22:01:26.456729+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 21.8% over last 532 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-476
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:15:48.279788+00:00
+**Completed At:** 2026-05-15T22:15:51.289036+00:00
+**Result:** dashboard/data/output/20260515-476.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-477
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:15:54.881297+00:00
+**Completed At:** 2026-05-15T22:15:57.785474+00:00
+**Result:** dashboard/data/output/20260515-477.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-478
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:16:00.932031+00:00
+**Completed At:** 2026-05-15T22:16:03.824847+00:00
+**Result:** dashboard/data/output/20260515-478.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-479
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:16:06.954068+00:00
+**Completed At:** 2026-05-15T22:16:08.192385+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 22.0% over last 537 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-480
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:30:33.397133+00:00
+**Completed At:** 2026-05-15T22:30:36.193281+00:00
+**Result:** dashboard/data/output/20260515-480.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-481
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:30:39.069281+00:00
+**Completed At:** 2026-05-15T22:30:41.918460+00:00
+**Result:** dashboard/data/output/20260515-481.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-482
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:30:44.978366+00:00
+**Completed At:** 2026-05-15T22:30:48.334586+00:00
+**Result:** dashboard/data/output/20260515-482.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-483
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:30:51.247078+00:00
+**Completed At:** 2026-05-15T22:30:52.281651+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 22.1% over last 542 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-484
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:45:08.341554+00:00
+**Completed At:** 2026-05-15T22:45:11.824653+00:00
+**Result:** dashboard/data/output/20260515-484.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-485
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:45:15.706709+00:00
+**Completed At:** 2026-05-15T22:45:18.589426+00:00
+**Result:** dashboard/data/output/20260515-485.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-486
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:45:21.642454+00:00
+**Completed At:** 2026-05-15T22:45:24.336101+00:00
+**Result:** dashboard/data/output/20260515-486.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-487
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T22:45:27.276223+00:00
+**Completed At:** 2026-05-15T22:45:28.346083+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 22.3% over last 547 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-488
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:00:45.150028+00:00
+**Completed At:** 2026-05-15T23:00:47.950794+00:00
+**Result:** dashboard/data/output/20260515-488.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-489
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:00:51.009428+00:00
+**Completed At:** 2026-05-15T23:00:54.113030+00:00
+**Result:** dashboard/data/output/20260515-489.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-490
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:00:56.915983+00:00
+**Completed At:** 2026-05-15T23:00:59.662166+00:00
+**Result:** dashboard/data/output/20260515-490.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-491
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:01:02.712279+00:00
+**Completed At:** 2026-05-15T23:01:03.834163+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 22.5% over last 552 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-492
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:15:21.763196+00:00
+**Completed At:** 2026-05-15T23:15:24.994221+00:00
+**Result:** dashboard/data/output/20260515-492.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-493
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:15:27.920441+00:00
+**Completed At:** 2026-05-15T23:15:31.028005+00:00
+**Result:** dashboard/data/output/20260515-493.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-494
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:15:34.099570+00:00
+**Completed At:** 2026-05-15T23:15:37.211125+00:00
+**Result:** dashboard/data/output/20260515-494.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-495
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:15:40.830016+00:00
+**Completed At:** 2026-05-15T23:15:41.852236+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 22.6% over last 557 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-496
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:31:01.742607+00:00
+**Completed At:** 2026-05-15T23:31:04.816998+00:00
+**Result:** dashboard/data/output/20260515-496.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-497
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:31:07.879739+00:00
+**Completed At:** 2026-05-15T23:31:10.689297+00:00
+**Result:** dashboard/data/output/20260515-497.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-498
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:31:13.733693+00:00
+**Completed At:** 2026-05-15T23:31:16.556740+00:00
+**Result:** dashboard/data/output/20260515-498.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-499
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:31:19.643284+00:00
+**Completed At:** 2026-05-15T23:31:20.687774+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 22.8% over last 562 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-500
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:45:41.285908+00:00
+**Completed At:** 2026-05-15T23:45:44.462313+00:00
+**Result:** dashboard/data/output/20260515-500.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-501
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:45:47.563361+00:00
+**Completed At:** 2026-05-15T23:45:50.626845+00:00
+**Result:** dashboard/data/output/20260515-501.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-502
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:45:53.657429+00:00
+**Completed At:** 2026-05-15T23:45:56.385507+00:00
+**Result:** dashboard/data/output/20260515-502.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-503
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-15
+**Started At:** 2026-05-15T23:45:59.455431+00:00
+**Completed At:** 2026-05-15T23:46:00.504386+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 22.9% over last 567 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260515-504
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-16T00:00:17.719154+00:00
+**Completed At:** 2026-05-16T00:00:20.570600+00:00
+**Result:** dashboard/data/output/20260515-504.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-505
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-16T00:00:23.650721+00:00
+**Completed At:** 2026-05-16T00:00:26.594162+00:00
+**Result:** dashboard/data/output/20260515-505.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260515-506
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-15
+**Started At:** 2026-05-16T00:00:29.457104+00:00
+**Completed At:** 2026-05-16T00:00:32.248412+00:00
+**Result:** dashboard/data/output/20260515-506.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-001
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T00:00:36.065585+00:00
+**Completed At:** 2026-05-16T00:00:37.294857+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 23.1% over last 572 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-002
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T00:16:03.166215+00:00
+**Completed At:** 2026-05-16T00:16:06.123217+00:00
+**Result:** dashboard/data/output/20260516-002.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-003
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T00:16:09.202384+00:00
+**Completed At:** 2026-05-16T00:16:12.044021+00:00
+**Result:** dashboard/data/output/20260516-003.json
+**Summary:** HOLD (55%) — Strategy: MOMENTUM. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-004
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T00:16:15.190858+00:00
+**Completed At:** 2026-05-16T00:16:17.949660+00:00
+**Result:** dashboard/data/output/20260516-004.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-005
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T00:16:21.006218+00:00
+**Completed At:** 2026-05-16T00:16:22.115415+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 23.2% over last 577 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-006
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T00:30:37.845217+00:00
+**Completed At:** 2026-05-16T00:30:40.786149+00:00
+**Result:** dashboard/data/output/20260516-006.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-007
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T00:30:43.886412+00:00
+**Completed At:** 2026-05-16T00:30:46.889098+00:00
+**Result:** dashboard/data/output/20260516-007.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-008
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T00:30:49.909108+00:00
+**Completed At:** 2026-05-16T00:30:53.437967+00:00
+**Result:** dashboard/data/output/20260516-008.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-009
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T00:30:56.365180+00:00
+**Completed At:** 2026-05-16T00:30:57.400162+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 23.4% over last 582 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-010
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T00:45:14.679347+00:00
+**Completed At:** 2026-05-16T00:45:17.796879+00:00
+**Result:** dashboard/data/output/20260516-010.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-011
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T00:45:20.774289+00:00
+**Completed At:** 2026-05-16T00:45:24.255387+00:00
+**Result:** dashboard/data/output/20260516-011.json
+**Summary:** HOLD (55%) — Strategy: VALUE. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-012
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T00:45:27.271436+00:00
+**Completed At:** 2026-05-16T00:45:30.176773+00:00
+**Result:** dashboard/data/output/20260516-012.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-013
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T00:45:33.038073+00:00
+**Completed At:** 2026-05-16T00:45:34.165534+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 23.5% over last 587 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-014
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:00:57.303873+00:00
+**Completed At:** 2026-05-16T01:01:00.401577+00:00
+**Result:** dashboard/data/output/20260516-014.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-015
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:01:03.325843+00:00
+**Completed At:** 2026-05-16T01:01:06.190866+00:00
+**Result:** dashboard/data/output/20260516-015.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-016
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:01:09.270634+00:00
+**Completed At:** 2026-05-16T01:01:12.825155+00:00
+**Result:** dashboard/data/output/20260516-016.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-017
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:01:15.757613+00:00
+**Completed At:** 2026-05-16T01:01:16.830760+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 23.6% over last 592 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-018
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:15:36.056565+00:00
+**Completed At:** 2026-05-16T01:15:39.161570+00:00
+**Result:** dashboard/data/output/20260516-018.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-019
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:15:42.344823+00:00
+**Completed At:** 2026-05-16T01:15:45.241281+00:00
+**Result:** dashboard/data/output/20260516-019.json
+**Summary:** HOLD (55%) — Strategy: VALUE. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-020
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:15:48.284100+00:00
+**Completed At:** 2026-05-16T01:15:51.193460+00:00
+**Result:** dashboard/data/output/20260516-020.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-021
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:15:54.225053+00:00
+**Completed At:** 2026-05-16T01:15:55.283238+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 23.8% over last 597 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-022
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:30:20.766987+00:00
+**Completed At:** 2026-05-16T01:30:23.631103+00:00
+**Result:** dashboard/data/output/20260516-022.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-023
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:30:26.573183+00:00
+**Completed At:** 2026-05-16T01:30:29.412775+00:00
+**Result:** dashboard/data/output/20260516-023.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-024
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:30:32.865010+00:00
+**Completed At:** 2026-05-16T01:30:35.637842+00:00
+**Result:** dashboard/data/output/20260516-024.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-025
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:30:38.508770+00:00
+**Completed At:** 2026-05-16T01:30:39.528024+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 23.9% over last 602 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-026
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:45:55.164064+00:00
+**Completed At:** 2026-05-16T01:45:58.423991+00:00
+**Result:** dashboard/data/output/20260516-026.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-027
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:46:01.439961+00:00
+**Completed At:** 2026-05-16T01:46:04.310489+00:00
+**Result:** dashboard/data/output/20260516-027.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-028
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:46:07.314233+00:00
+**Completed At:** 2026-05-16T01:46:10.481453+00:00
+**Result:** dashboard/data/output/20260516-028.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-029
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T01:46:14.000670+00:00
+**Completed At:** 2026-05-16T01:46:15.162206+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 24.1% over last 607 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-030
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:00:33.860223+00:00
+**Completed At:** 2026-05-16T02:00:36.909272+00:00
+**Result:** dashboard/data/output/20260516-030.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-031
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:00:39.862148+00:00
+**Completed At:** 2026-05-16T02:00:42.613881+00:00
+**Result:** dashboard/data/output/20260516-031.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-032
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:00:45.678490+00:00
+**Completed At:** 2026-05-16T02:00:48.361686+00:00
+**Result:** dashboard/data/output/20260516-032.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-033
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:00:51.429608+00:00
+**Completed At:** 2026-05-16T02:00:52.516743+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 24.2% over last 612 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-034
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:15:15.912279+00:00
+**Completed At:** 2026-05-16T02:15:18.975265+00:00
+**Result:** dashboard/data/output/20260516-034.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-035
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:15:21.998844+00:00
+**Completed At:** 2026-05-16T02:15:24.741779+00:00
+**Result:** dashboard/data/output/20260516-035.json
+**Summary:** HOLD (55%) — Strategy: MOMENTUM. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-036
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:15:27.715012+00:00
+**Completed At:** 2026-05-16T02:15:30.335148+00:00
+**Result:** dashboard/data/output/20260516-036.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-037
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:15:33.173991+00:00
+**Completed At:** 2026-05-16T02:15:34.193593+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 24.3% over last 617 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-038
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:30:50.956187+00:00
+**Completed At:** 2026-05-16T02:30:53.692090+00:00
+**Result:** dashboard/data/output/20260516-038.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-039
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:30:56.739154+00:00
+**Completed At:** 2026-05-16T02:30:59.420496+00:00
+**Result:** dashboard/data/output/20260516-039.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-040
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:31:02.409496+00:00
+**Completed At:** 2026-05-16T02:31:06.078517+00:00
+**Result:** dashboard/data/output/20260516-040.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-041
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:31:09.041637+00:00
+**Completed At:** 2026-05-16T02:31:10.588307+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 24.4% over last 622 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-042
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:45:30.162185+00:00
+**Completed At:** 2026-05-16T02:45:33.169207+00:00
+**Result:** dashboard/data/output/20260516-042.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-043
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:45:36.142032+00:00
+**Completed At:** 2026-05-16T02:45:38.926923+00:00
+**Result:** dashboard/data/output/20260516-043.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-044
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:45:41.814111+00:00
+**Completed At:** 2026-05-16T02:45:44.571920+00:00
+**Result:** dashboard/data/output/20260516-044.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-045
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T02:45:48.048761+00:00
+**Completed At:** 2026-05-16T02:45:49.124227+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 24.6% over last 627 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-046
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:00:09.299760+00:00
+**Completed At:** 2026-05-16T03:00:12.251391+00:00
+**Result:** dashboard/data/output/20260516-046.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-047
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:00:15.372526+00:00
+**Completed At:** 2026-05-16T03:00:18.172720+00:00
+**Result:** dashboard/data/output/20260516-047.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-048
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:00:21.129091+00:00
+**Completed At:** 2026-05-16T03:00:24.545990+00:00
+**Result:** dashboard/data/output/20260516-048.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-049
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:00:27.576081+00:00
+**Completed At:** 2026-05-16T03:00:28.633989+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 24.7% over last 632 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-050
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:15:47.730386+00:00
+**Completed At:** 2026-05-16T03:15:51.259178+00:00
+**Result:** dashboard/data/output/20260516-050.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-051
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:15:54.286542+00:00
+**Completed At:** 2026-05-16T03:15:57.043523+00:00
+**Result:** dashboard/data/output/20260516-051.json
+**Summary:** HOLD (55%) — Strategy: MOMENTUM. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-052
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:16:00.114732+00:00
+**Completed At:** 2026-05-16T03:16:02.971936+00:00
+**Result:** dashboard/data/output/20260516-052.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-053
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:16:05.945526+00:00
+**Completed At:** 2026-05-16T03:16:07.082149+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 24.8% over last 637 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-054
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:30:24.241021+00:00
+**Completed At:** 2026-05-16T03:30:27.138130+00:00
+**Result:** dashboard/data/output/20260516-054.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-055
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:30:30.176545+00:00
+**Completed At:** 2026-05-16T03:30:33.793736+00:00
+**Result:** dashboard/data/output/20260516-055.json
+**Summary:** HOLD (55%) — Strategy: MOMENTUM. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-056
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:30:36.741851+00:00
+**Completed At:** 2026-05-16T03:30:39.570188+00:00
+**Result:** dashboard/data/output/20260516-056.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-057
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:30:42.495065+00:00
+**Completed At:** 2026-05-16T03:30:43.543039+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 24.9% over last 642 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-058
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:46:01.618320+00:00
+**Completed At:** 2026-05-16T03:46:04.441860+00:00
+**Result:** dashboard/data/output/20260516-058.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-059
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:46:07.401738+00:00
+**Completed At:** 2026-05-16T03:46:10.200010+00:00
+**Result:** dashboard/data/output/20260516-059.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-060
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:46:13.225240+00:00
+**Completed At:** 2026-05-16T03:46:16.313628+00:00
+**Result:** dashboard/data/output/20260516-060.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-061
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T03:46:19.274776+00:00
+**Completed At:** 2026-05-16T03:46:20.320924+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 25.0% over last 647 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-062
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:00:37.116031+00:00
+**Completed At:** 2026-05-16T04:00:40.220610+00:00
+**Result:** dashboard/data/output/20260516-062.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-063
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:00:43.246731+00:00
+**Completed At:** 2026-05-16T04:00:45.959013+00:00
+**Result:** dashboard/data/output/20260516-063.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-064
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:00:48.897210+00:00
+**Completed At:** 2026-05-16T04:00:51.703918+00:00
+**Result:** dashboard/data/output/20260516-064.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-065
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:00:54.661426+00:00
+**Completed At:** 2026-05-16T04:00:55.706399+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 25.2% over last 652 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-066
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:15:19.484070+00:00
+**Completed At:** 2026-05-16T04:15:22.239084+00:00
+**Result:** dashboard/data/output/20260516-066.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-067
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:15:25.178606+00:00
+**Completed At:** 2026-05-16T04:15:27.964666+00:00
+**Result:** dashboard/data/output/20260516-067.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-068
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:15:30.867722+00:00
+**Completed At:** 2026-05-16T04:15:33.718662+00:00
+**Result:** dashboard/data/output/20260516-068.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-069
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:15:36.731043+00:00
+**Completed At:** 2026-05-16T04:15:38.704785+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 25.3% over last 657 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-070
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:30:55.845812+00:00
+**Completed At:** 2026-05-16T04:30:58.904895+00:00
+**Result:** dashboard/data/output/20260516-070.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-071
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:31:01.797536+00:00
+**Completed At:** 2026-05-16T04:31:04.633489+00:00
+**Result:** dashboard/data/output/20260516-071.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-072
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:31:07.488177+00:00
+**Completed At:** 2026-05-16T04:31:10.446622+00:00
+**Result:** dashboard/data/output/20260516-072.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-073
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:31:13.421072+00:00
+**Completed At:** 2026-05-16T04:31:14.482559+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 25.4% over last 662 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-074
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:45:34.601439+00:00
+**Completed At:** 2026-05-16T04:45:37.537423+00:00
+**Result:** dashboard/data/output/20260516-074.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-075
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:45:40.560078+00:00
+**Completed At:** 2026-05-16T04:45:43.315084+00:00
+**Result:** dashboard/data/output/20260516-075.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-076
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:45:46.213644+00:00
+**Completed At:** 2026-05-16T04:45:48.982676+00:00
+**Result:** dashboard/data/output/20260516-076.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-077
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T04:45:51.932533+00:00
+**Completed At:** 2026-05-16T04:45:52.980390+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 25.5% over last 667 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-078
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:00:11.951510+00:00
+**Completed At:** 2026-05-16T05:00:14.682709+00:00
+**Result:** dashboard/data/output/20260516-078.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-079
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:00:17.533814+00:00
+**Completed At:** 2026-05-16T05:00:20.293518+00:00
+**Result:** dashboard/data/output/20260516-079.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-080
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:00:23.203398+00:00
+**Completed At:** 2026-05-16T05:00:25.889481+00:00
+**Result:** dashboard/data/output/20260516-080.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-081
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:00:28.904150+00:00
+**Completed At:** 2026-05-16T05:00:29.949417+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 25.6% over last 672 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-082
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:15:46.571498+00:00
+**Completed At:** 2026-05-16T05:15:49.451024+00:00
+**Result:** dashboard/data/output/20260516-082.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-083
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:15:52.353720+00:00
+**Completed At:** 2026-05-16T05:15:55.253022+00:00
+**Result:** dashboard/data/output/20260516-083.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-084
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:15:58.303572+00:00
+**Completed At:** 2026-05-16T05:16:01.000710+00:00
+**Result:** dashboard/data/output/20260516-084.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-085
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:16:03.978518+00:00
+**Completed At:** 2026-05-16T05:16:04.985726+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 25.7% over last 677 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-086
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:31:35.675400+00:00
+**Completed At:** 2026-05-16T05:31:38.395936+00:00
+**Result:** dashboard/data/output/20260516-086.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-087
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:31:41.358410+00:00
+**Completed At:** 2026-05-16T05:31:44.496062+00:00
+**Result:** dashboard/data/output/20260516-087.json
+**Summary:** HOLD (55%) — Strategy: MOMENTUM. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-088
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:31:47.471865+00:00
+**Completed At:** 2026-05-16T05:31:50.200903+00:00
+**Result:** dashboard/data/output/20260516-088.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-089
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:31:53.030650+00:00
+**Completed At:** 2026-05-16T05:31:54.049676+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 25.8% over last 682 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-090
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:45:09.863970+00:00
+**Completed At:** 2026-05-16T05:45:12.990866+00:00
+**Result:** dashboard/data/output/20260516-090.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-091
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:45:15.931489+00:00
+**Completed At:** 2026-05-16T05:45:18.696511+00:00
+**Result:** dashboard/data/output/20260516-091.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-092
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:45:21.587837+00:00
+**Completed At:** 2026-05-16T05:45:24.577497+00:00
+**Result:** dashboard/data/output/20260516-092.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-093
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T05:45:27.500134+00:00
+**Completed At:** 2026-05-16T05:45:28.537092+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 25.9% over last 687 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-094
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:00:57.928599+00:00
+**Completed At:** 2026-05-16T06:01:00.799530+00:00
+**Result:** dashboard/data/output/20260516-094.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-095
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:01:03.794851+00:00
+**Completed At:** 2026-05-16T06:01:06.903788+00:00
+**Result:** dashboard/data/output/20260516-095.json
+**Summary:** HOLD (55%) — Strategy: VALUE. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-096
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:01:09.868353+00:00
+**Completed At:** 2026-05-16T06:01:12.640862+00:00
+**Result:** dashboard/data/output/20260516-096.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-097
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:01:15.671095+00:00
+**Completed At:** 2026-05-16T06:01:16.707255+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 26.0% over last 692 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-098
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:16:02.877701+00:00
+**Completed At:** 2026-05-16T06:16:05.838922+00:00
+**Result:** dashboard/data/output/20260516-098.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-099
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:16:08.755345+00:00
+**Completed At:** 2026-05-16T06:16:11.561049+00:00
+**Result:** dashboard/data/output/20260516-099.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-100
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:16:14.468125+00:00
+**Completed At:** 2026-05-16T06:16:17.118587+00:00
+**Result:** dashboard/data/output/20260516-100.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-101
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:16:20.115841+00:00
+**Completed At:** 2026-05-16T06:16:21.198857+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 26.1% over last 697 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-102
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:30:37.866227+00:00
+**Completed At:** 2026-05-16T06:30:40.751751+00:00
+**Result:** dashboard/data/output/20260516-102.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-103
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:30:43.606176+00:00
+**Completed At:** 2026-05-16T06:30:46.343052+00:00
+**Result:** dashboard/data/output/20260516-103.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-104
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:30:49.243694+00:00
+**Completed At:** 2026-05-16T06:30:51.863375+00:00
+**Result:** dashboard/data/output/20260516-104.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-105
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:30:54.788127+00:00
+**Completed At:** 2026-05-16T06:30:55.825184+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 26.2% over last 702 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-106
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:45:13.065409+00:00
+**Completed At:** 2026-05-16T06:45:15.871734+00:00
+**Result:** dashboard/data/output/20260516-106.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-107
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:45:18.743721+00:00
+**Completed At:** 2026-05-16T06:45:21.575893+00:00
+**Result:** dashboard/data/output/20260516-107.json
+**Summary:** HOLD (55%) — Strategy: VALUE. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-108
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:45:24.338156+00:00
+**Completed At:** 2026-05-16T06:45:26.896830+00:00
+**Result:** dashboard/data/output/20260516-108.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-109
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T06:45:29.709597+00:00
+**Completed At:** 2026-05-16T06:45:30.728517+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 26.3% over last 707 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-110
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:00:46.998764+00:00
+**Completed At:** 2026-05-16T07:00:49.917126+00:00
+**Result:** dashboard/data/output/20260516-110.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-111
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:00:52.896716+00:00
+**Completed At:** 2026-05-16T07:00:55.730624+00:00
+**Result:** dashboard/data/output/20260516-111.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-112
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:00:58.604067+00:00
+**Completed At:** 2026-05-16T07:01:01.330571+00:00
+**Result:** dashboard/data/output/20260516-112.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-113
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:01:04.416384+00:00
+**Completed At:** 2026-05-16T07:01:05.415442+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 26.4% over last 712 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-114
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:15:24.494007+00:00
+**Completed At:** 2026-05-16T07:15:27.744876+00:00
+**Result:** dashboard/data/output/20260516-114.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-115
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:15:30.611599+00:00
+**Completed At:** 2026-05-16T07:15:33.358687+00:00
+**Result:** dashboard/data/output/20260516-115.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-116
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:15:36.273073+00:00
+**Completed At:** 2026-05-16T07:15:39.232754+00:00
+**Result:** dashboard/data/output/20260516-116.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-117
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:15:42.213906+00:00
+**Completed At:** 2026-05-16T07:15:43.257192+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 26.5% over last 717 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-118
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:31:00.624901+00:00
+**Completed At:** 2026-05-16T07:31:03.665716+00:00
+**Result:** dashboard/data/output/20260516-118.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-119
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:31:06.806409+00:00
+**Completed At:** 2026-05-16T07:31:09.773730+00:00
+**Result:** dashboard/data/output/20260516-119.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-120
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:31:12.694530+00:00
+**Completed At:** 2026-05-16T07:31:15.475756+00:00
+**Result:** dashboard/data/output/20260516-120.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-121
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:31:18.332939+00:00
+**Completed At:** 2026-05-16T07:31:19.363914+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 26.6% over last 722 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-122
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:45:37.898388+00:00
+**Completed At:** 2026-05-16T07:45:41.101225+00:00
+**Result:** dashboard/data/output/20260516-122.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-123
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:45:44.063795+00:00
+**Completed At:** 2026-05-16T07:45:46.838767+00:00
+**Result:** dashboard/data/output/20260516-123.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-124
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:45:49.751548+00:00
+**Completed At:** 2026-05-16T07:45:52.454861+00:00
+**Result:** dashboard/data/output/20260516-124.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-125
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T07:45:55.357879+00:00
+**Completed At:** 2026-05-16T07:45:56.368325+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 26.7% over last 727 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-126
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:00:19.231808+00:00
+**Completed At:** 2026-05-16T08:00:22.381927+00:00
+**Result:** dashboard/data/output/20260516-126.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-127
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:00:25.329627+00:00
+**Completed At:** 2026-05-16T08:00:28.148745+00:00
+**Result:** dashboard/data/output/20260516-127.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-128
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:00:30.983938+00:00
+**Completed At:** 2026-05-16T08:00:33.623637+00:00
+**Result:** dashboard/data/output/20260516-128.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-129
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:00:36.612267+00:00
+**Completed At:** 2026-05-16T08:00:37.669502+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 26.8% over last 732 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-130
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:15:57.132261+00:00
+**Completed At:** 2026-05-16T08:16:00.237609+00:00
+**Result:** dashboard/data/output/20260516-130.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-131
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:16:03.361203+00:00
+**Completed At:** 2026-05-16T08:16:06.257243+00:00
+**Result:** dashboard/data/output/20260516-131.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-132
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:16:09.223565+00:00
+**Completed At:** 2026-05-16T08:16:11.932384+00:00
+**Result:** dashboard/data/output/20260516-132.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-133
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:16:15.471591+00:00
+**Completed At:** 2026-05-16T08:16:16.534009+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 26.9% over last 737 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-134
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:30:35.149350+00:00
+**Completed At:** 2026-05-16T08:30:38.295322+00:00
+**Result:** dashboard/data/output/20260516-134.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-135
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:30:41.232146+00:00
+**Completed At:** 2026-05-16T08:30:44.062434+00:00
+**Result:** dashboard/data/output/20260516-135.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-136
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:30:46.962874+00:00
+**Completed At:** 2026-05-16T08:30:49.886052+00:00
+**Result:** dashboard/data/output/20260516-136.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-137
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:30:52.823461+00:00
+**Completed At:** 2026-05-16T08:30:53.840885+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 27.0% over last 742 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-138
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:45:12.875603+00:00
+**Completed At:** 2026-05-16T08:45:16.172107+00:00
+**Result:** dashboard/data/output/20260516-138.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-139
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:45:19.144144+00:00
+**Completed At:** 2026-05-16T08:45:21.885290+00:00
+**Result:** dashboard/data/output/20260516-139.json
+**Summary:** HOLD (55%) — Strategy: VALUE. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-140
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:45:24.815932+00:00
+**Completed At:** 2026-05-16T08:45:27.464458+00:00
+**Result:** dashboard/data/output/20260516-140.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-141
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T08:45:30.564624+00:00
+**Completed At:** 2026-05-16T08:45:31.619177+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 27.0% over last 747 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-142
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:00:48.115026+00:00
+**Completed At:** 2026-05-16T09:00:50.867604+00:00
+**Result:** dashboard/data/output/20260516-142.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-143
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:00:53.790416+00:00
+**Completed At:** 2026-05-16T09:00:56.551312+00:00
+**Result:** dashboard/data/output/20260516-143.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-144
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:00:59.565043+00:00
+**Completed At:** 2026-05-16T09:01:02.244817+00:00
+**Result:** dashboard/data/output/20260516-144.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-145
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:01:05.343814+00:00
+**Completed At:** 2026-05-16T09:01:06.384822+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 27.1% over last 752 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-146
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:15:27.016739+00:00
+**Completed At:** 2026-05-16T09:15:29.876414+00:00
+**Result:** dashboard/data/output/20260516-146.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-147
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:15:32.784403+00:00
+**Completed At:** 2026-05-16T09:15:35.661253+00:00
+**Result:** dashboard/data/output/20260516-147.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-148
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:15:38.644535+00:00
+**Completed At:** 2026-05-16T09:15:41.422920+00:00
+**Result:** dashboard/data/output/20260516-148.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-149
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:15:44.360064+00:00
+**Completed At:** 2026-05-16T09:15:45.365646+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 27.2% over last 757 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-150
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:30:05.108991+00:00
+**Completed At:** 2026-05-16T09:30:08.095183+00:00
+**Result:** dashboard/data/output/20260516-150.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-151
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:30:11.042203+00:00
+**Completed At:** 2026-05-16T09:30:13.919700+00:00
+**Result:** dashboard/data/output/20260516-151.json
+**Summary:** HOLD (55%) — Strategy: VALUE. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-152
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:30:16.902849+00:00
+**Completed At:** 2026-05-16T09:30:19.589814+00:00
+**Result:** dashboard/data/output/20260516-152.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-153
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:30:22.476714+00:00
+**Completed At:** 2026-05-16T09:30:23.492435+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 27.3% over last 762 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-154
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:45:44.943639+00:00
+**Completed At:** 2026-05-16T09:45:47.972450+00:00
+**Result:** dashboard/data/output/20260516-154.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-155
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:45:50.851912+00:00
+**Completed At:** 2026-05-16T09:45:53.560722+00:00
+**Result:** dashboard/data/output/20260516-155.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-156
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:45:56.638706+00:00
+**Completed At:** 2026-05-16T09:45:59.330366+00:00
+**Result:** dashboard/data/output/20260516-156.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-157
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T09:46:02.449026+00:00
+**Completed At:** 2026-05-16T09:46:03.481677+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 27.4% over last 767 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-158
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:00:33.767889+00:00
+**Completed At:** 2026-05-16T10:00:36.876030+00:00
+**Result:** dashboard/data/output/20260516-158.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-159
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:00:39.847630+00:00
+**Completed At:** 2026-05-16T10:00:42.753158+00:00
+**Result:** dashboard/data/output/20260516-159.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-160
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:00:45.788866+00:00
+**Completed At:** 2026-05-16T10:00:48.466229+00:00
+**Result:** dashboard/data/output/20260516-160.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-161
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:00:51.438203+00:00
+**Completed At:** 2026-05-16T10:00:52.543191+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 27.5% over last 772 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-162
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:15:22.171637+00:00
+**Completed At:** 2026-05-16T10:15:25.127996+00:00
+**Result:** dashboard/data/output/20260516-162.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-163
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:15:28.048731+00:00
+**Completed At:** 2026-05-16T10:15:30.730726+00:00
+**Result:** dashboard/data/output/20260516-163.json
+**Summary:** HOLD (55%) — Strategy: MOMENTUM. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-164
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:15:33.717748+00:00
+**Completed At:** 2026-05-16T10:15:36.396473+00:00
+**Result:** dashboard/data/output/20260516-164.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-165
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:15:39.393347+00:00
+**Completed At:** 2026-05-16T10:15:40.434933+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 27.5% over last 777 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-166
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:31:02.444834+00:00
+**Completed At:** 2026-05-16T10:31:05.610509+00:00
+**Result:** dashboard/data/output/20260516-166.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-167
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:31:08.460613+00:00
+**Completed At:** 2026-05-16T10:31:11.270145+00:00
+**Result:** dashboard/data/output/20260516-167.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-168
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:31:14.217619+00:00
+**Completed At:** 2026-05-16T10:31:17.072255+00:00
+**Result:** dashboard/data/output/20260516-168.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-169
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:31:20.468106+00:00
+**Completed At:** 2026-05-16T10:31:21.497283+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 27.6% over last 782 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-170
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:45:44.451052+00:00
+**Completed At:** 2026-05-16T10:45:47.344875+00:00
+**Result:** dashboard/data/output/20260516-170.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-171
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:45:50.370030+00:00
+**Completed At:** 2026-05-16T10:45:53.218357+00:00
+**Result:** dashboard/data/output/20260516-171.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-172
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:45:56.206170+00:00
+**Completed At:** 2026-05-16T10:45:58.811043+00:00
+**Result:** dashboard/data/output/20260516-172.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-173
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T10:46:01.938647+00:00
+**Completed At:** 2026-05-16T10:46:02.991547+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 27.7% over last 787 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-174
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:00:22.333226+00:00
+**Completed At:** 2026-05-16T11:00:25.392595+00:00
+**Result:** dashboard/data/output/20260516-174.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-175
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:00:28.466450+00:00
+**Completed At:** 2026-05-16T11:00:31.344382+00:00
+**Result:** dashboard/data/output/20260516-175.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-176
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:00:34.295573+00:00
+**Completed At:** 2026-05-16T11:00:37.152166+00:00
+**Result:** dashboard/data/output/20260516-176.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-177
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:00:40.122406+00:00
+**Completed At:** 2026-05-16T11:00:41.156568+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 27.8% over last 792 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-178
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:15:04.347213+00:00
+**Completed At:** 2026-05-16T11:15:07.820145+00:00
+**Result:** dashboard/data/output/20260516-178.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-179
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:15:10.789250+00:00
+**Completed At:** 2026-05-16T11:15:13.691876+00:00
+**Result:** dashboard/data/output/20260516-179.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-180
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:15:16.908910+00:00
+**Completed At:** 2026-05-16T11:15:19.674356+00:00
+**Result:** dashboard/data/output/20260516-180.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-181
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:15:22.658351+00:00
+**Completed At:** 2026-05-16T11:15:23.786495+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 27.9% over last 797 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-182
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:30:46.974369+00:00
+**Completed At:** 2026-05-16T11:30:50.298010+00:00
+**Result:** dashboard/data/output/20260516-182.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-183
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:30:53.076717+00:00
+**Completed At:** 2026-05-16T11:30:55.917127+00:00
+**Result:** dashboard/data/output/20260516-183.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-184
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:30:58.787298+00:00
+**Completed At:** 2026-05-16T11:31:01.525409+00:00
+**Result:** dashboard/data/output/20260516-184.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-185
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:31:04.432394+00:00
+**Completed At:** 2026-05-16T11:31:05.462244+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 27.9% over last 802 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-186
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:45:20.843121+00:00
+**Completed At:** 2026-05-16T11:45:23.601919+00:00
+**Result:** dashboard/data/output/20260516-186.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-187
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:45:26.737727+00:00
+**Completed At:** 2026-05-16T11:45:29.510835+00:00
+**Result:** dashboard/data/output/20260516-187.json
+**Summary:** HOLD (55%) — Strategy: VALUE. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-188
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:45:32.595819+00:00
+**Completed At:** 2026-05-16T11:45:35.463673+00:00
+**Result:** dashboard/data/output/20260516-188.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-189
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T11:45:38.460026+00:00
+**Completed At:** 2026-05-16T11:45:39.540207+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 28.0% over last 807 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-190
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:00:55.138751+00:00
+**Completed At:** 2026-05-16T12:00:58.380487+00:00
+**Result:** dashboard/data/output/20260516-190.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-191
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:01:01.324810+00:00
+**Completed At:** 2026-05-16T12:01:04.140610+00:00
+**Result:** dashboard/data/output/20260516-191.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-192
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:01:07.090339+00:00
+**Completed At:** 2026-05-16T12:01:10.103071+00:00
+**Result:** dashboard/data/output/20260516-192.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-193
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:01:13.191473+00:00
+**Completed At:** 2026-05-16T12:01:14.303641+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 28.1% over last 812 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-194
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:15:35.793181+00:00
+**Completed At:** 2026-05-16T12:15:38.785526+00:00
+**Result:** dashboard/data/output/20260516-194.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-195
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:15:41.865788+00:00
+**Completed At:** 2026-05-16T12:15:44.569830+00:00
+**Result:** dashboard/data/output/20260516-195.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-196
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:15:47.640133+00:00
+**Completed At:** 2026-05-16T12:15:50.640093+00:00
+**Result:** dashboard/data/output/20260516-196.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-197
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:15:53.547432+00:00
+**Completed At:** 2026-05-16T12:15:54.654553+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 28.2% over last 817 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-198
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:30:11.636178+00:00
+**Completed At:** 2026-05-16T12:30:14.471731+00:00
+**Result:** dashboard/data/output/20260516-198.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-199
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:30:17.725072+00:00
+**Completed At:** 2026-05-16T12:30:20.613450+00:00
+**Result:** dashboard/data/output/20260516-199.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-200
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:30:23.527777+00:00
+**Completed At:** 2026-05-16T12:30:26.525649+00:00
+**Result:** dashboard/data/output/20260516-200.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-201
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:30:29.643724+00:00
+**Completed At:** 2026-05-16T12:30:30.799746+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 28.2% over last 822 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-202
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:45:49.771353+00:00
+**Completed At:** 2026-05-16T12:45:52.859242+00:00
+**Result:** dashboard/data/output/20260516-202.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-203
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:45:55.736862+00:00
+**Completed At:** 2026-05-16T12:45:58.487621+00:00
+**Result:** dashboard/data/output/20260516-203.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-204
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:46:01.566804+00:00
+**Completed At:** 2026-05-16T12:46:04.547157+00:00
+**Result:** dashboard/data/output/20260516-204.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-205
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T12:46:07.511394+00:00
+**Completed At:** 2026-05-16T12:46:08.877527+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 28.3% over last 827 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-206
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:00:36.572105+00:00
+**Completed At:** 2026-05-16T13:00:39.737215+00:00
+**Result:** dashboard/data/output/20260516-206.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-207
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:00:42.619247+00:00
+**Completed At:** 2026-05-16T13:00:45.384929+00:00
+**Result:** dashboard/data/output/20260516-207.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-208
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:00:48.299688+00:00
+**Completed At:** 2026-05-16T13:00:51.311433+00:00
+**Result:** dashboard/data/output/20260516-208.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-209
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:00:54.261091+00:00
+**Completed At:** 2026-05-16T13:00:55.389503+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 28.4% over last 832 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-210
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:15:12.065643+00:00
+**Completed At:** 2026-05-16T13:15:15.015850+00:00
+**Result:** dashboard/data/output/20260516-210.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-211
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:15:18.129809+00:00
+**Completed At:** 2026-05-16T13:15:21.023093+00:00
+**Result:** dashboard/data/output/20260516-211.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-212
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:15:24.095568+00:00
+**Completed At:** 2026-05-16T13:15:27.058522+00:00
+**Result:** dashboard/data/output/20260516-212.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-213
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:15:30.164471+00:00
+**Completed At:** 2026-05-16T13:15:31.229787+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 28.4% over last 837 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-214
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:30:53.035928+00:00
+**Completed At:** 2026-05-16T13:30:56.344791+00:00
+**Result:** dashboard/data/output/20260516-214.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-215
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:30:59.304468+00:00
+**Completed At:** 2026-05-16T13:31:02.068178+00:00
+**Result:** dashboard/data/output/20260516-215.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-216
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:31:05.145341+00:00
+**Completed At:** 2026-05-16T13:31:08.089427+00:00
+**Result:** dashboard/data/output/20260516-216.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-217
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:31:11.091207+00:00
+**Completed At:** 2026-05-16T13:31:12.236044+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 28.5% over last 842 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-218
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:45:27.589988+00:00
+**Completed At:** 2026-05-16T13:45:30.541569+00:00
+**Result:** dashboard/data/output/20260516-218.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-219
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:45:33.882520+00:00
+**Completed At:** 2026-05-16T13:45:36.735825+00:00
+**Result:** dashboard/data/output/20260516-219.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-220
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:45:39.757723+00:00
+**Completed At:** 2026-05-16T13:45:42.494333+00:00
+**Result:** dashboard/data/output/20260516-220.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-221
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T13:45:45.503477+00:00
+**Completed At:** 2026-05-16T13:45:46.562593+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 28.6% over last 847 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-222
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:00:08.538970+00:00
+**Completed At:** 2026-05-16T14:00:11.881388+00:00
+**Result:** dashboard/data/output/20260516-222.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-223
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:00:14.986006+00:00
+**Completed At:** 2026-05-16T14:00:17.951610+00:00
+**Result:** dashboard/data/output/20260516-223.json
+**Summary:** HOLD (55%) — Strategy: MOMENTUM. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-224
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:00:20.946361+00:00
+**Completed At:** 2026-05-16T14:00:23.767493+00:00
+**Result:** dashboard/data/output/20260516-224.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-225
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:00:26.954365+00:00
+**Completed At:** 2026-05-16T14:00:28.121885+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 28.6% over last 852 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-226
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:16:14.098829+00:00
+**Completed At:** 2026-05-16T14:16:17.042641+00:00
+**Result:** dashboard/data/output/20260516-226.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-227
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:16:19.954119+00:00
+**Completed At:** 2026-05-16T14:16:22.779480+00:00
+**Result:** dashboard/data/output/20260516-227.json
+**Summary:** HOLD (55%) — Strategy: MOMENTUM. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-228
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:16:25.768061+00:00
+**Completed At:** 2026-05-16T14:16:28.508057+00:00
+**Result:** dashboard/data/output/20260516-228.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-229
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:16:31.599326+00:00
+**Completed At:** 2026-05-16T14:16:32.622365+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 28.7% over last 857 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-230
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:30:55.043375+00:00
+**Completed At:** 2026-05-16T14:30:57.898984+00:00
+**Result:** dashboard/data/output/20260516-230.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-231
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:31:00.783578+00:00
+**Completed At:** 2026-05-16T14:31:03.652333+00:00
+**Result:** dashboard/data/output/20260516-231.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-232
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:31:06.538731+00:00
+**Completed At:** 2026-05-16T14:31:09.323269+00:00
+**Result:** dashboard/data/output/20260516-232.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-233
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:31:12.217275+00:00
+**Completed At:** 2026-05-16T14:31:13.407893+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 28.8% over last 862 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-234
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:45:31.712701+00:00
+**Completed At:** 2026-05-16T14:45:34.655840+00:00
+**Result:** dashboard/data/output/20260516-234.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-235
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:45:37.718557+00:00
+**Completed At:** 2026-05-16T14:45:41.208264+00:00
+**Result:** dashboard/data/output/20260516-235.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-236
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:45:44.145999+00:00
+**Completed At:** 2026-05-16T14:45:47.051673+00:00
+**Result:** dashboard/data/output/20260516-236.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-237
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T14:45:49.995019+00:00
+**Completed At:** 2026-05-16T14:45:51.071948+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 28.8% over last 867 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-238
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:00:50.608440+00:00
+**Completed At:** 2026-05-16T15:00:53.799313+00:00
+**Result:** dashboard/data/output/20260516-238.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-239
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:00:56.915190+00:00
+**Completed At:** 2026-05-16T15:00:59.924790+00:00
+**Result:** dashboard/data/output/20260516-239.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-240
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:01:02.855153+00:00
+**Completed At:** 2026-05-16T15:01:05.644620+00:00
+**Result:** dashboard/data/output/20260516-240.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-241
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:01:08.825490+00:00
+**Completed At:** 2026-05-16T15:01:09.877459+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 28.9% over last 872 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-242
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:15:29.492283+00:00
+**Completed At:** 2026-05-16T15:15:32.785601+00:00
+**Result:** dashboard/data/output/20260516-242.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-243
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:15:35.647984+00:00
+**Completed At:** 2026-05-16T15:15:38.553428+00:00
+**Result:** dashboard/data/output/20260516-243.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-244
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:15:41.630617+00:00
+**Completed At:** 2026-05-16T15:15:44.493461+00:00
+**Result:** dashboard/data/output/20260516-244.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-245
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:15:47.469120+00:00
+**Completed At:** 2026-05-16T15:15:48.517434+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.0% over last 877 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-246
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:30:10.083055+00:00
+**Completed At:** 2026-05-16T15:30:12.982435+00:00
+**Result:** dashboard/data/output/20260516-246.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-247
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:30:15.952860+00:00
+**Completed At:** 2026-05-16T15:30:18.869112+00:00
+**Result:** dashboard/data/output/20260516-247.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-248
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:30:21.800236+00:00
+**Completed At:** 2026-05-16T15:30:24.728530+00:00
+**Result:** dashboard/data/output/20260516-248.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-249
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:30:28.003998+00:00
+**Completed At:** 2026-05-16T15:30:29.076325+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.0% over last 882 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-250
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:45:50.632005+00:00
+**Completed At:** 2026-05-16T15:45:53.842590+00:00
+**Result:** dashboard/data/output/20260516-250.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-251
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:45:56.894564+00:00
+**Completed At:** 2026-05-16T15:45:59.723135+00:00
+**Result:** dashboard/data/output/20260516-251.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-252
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:46:02.556667+00:00
+**Completed At:** 2026-05-16T15:46:05.376160+00:00
+**Result:** dashboard/data/output/20260516-252.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-253
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T15:46:08.411165+00:00
+**Completed At:** 2026-05-16T15:46:09.575123+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.1% over last 887 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-254
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:00:27.729193+00:00
+**Completed At:** 2026-05-16T16:00:30.670000+00:00
+**Result:** dashboard/data/output/20260516-254.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-255
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:00:33.893386+00:00
+**Completed At:** 2026-05-16T16:00:36.822597+00:00
+**Result:** dashboard/data/output/20260516-255.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-256
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:00:39.883025+00:00
+**Completed At:** 2026-05-16T16:00:42.691453+00:00
+**Result:** dashboard/data/output/20260516-256.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-257
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:00:45.701469+00:00
+**Completed At:** 2026-05-16T16:00:46.736416+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.1% over last 892 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-258
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:15:05.650293+00:00
+**Completed At:** 2026-05-16T16:15:08.522703+00:00
+**Result:** dashboard/data/output/20260516-258.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-259
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:15:11.406736+00:00
+**Completed At:** 2026-05-16T16:15:14.237800+00:00
+**Result:** dashboard/data/output/20260516-259.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-260
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:15:17.448147+00:00
+**Completed At:** 2026-05-16T16:15:20.249302+00:00
+**Result:** dashboard/data/output/20260516-260.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-261
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:15:23.444441+00:00
+**Completed At:** 2026-05-16T16:15:24.508927+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.2% over last 897 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-262
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:30:54.465934+00:00
+**Completed At:** 2026-05-16T16:30:57.551621+00:00
+**Result:** dashboard/data/output/20260516-262.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-263
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:31:00.498609+00:00
+**Completed At:** 2026-05-16T16:31:03.297500+00:00
+**Result:** dashboard/data/output/20260516-263.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-264
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:31:06.311009+00:00
+**Completed At:** 2026-05-16T16:31:09.187718+00:00
+**Result:** dashboard/data/output/20260516-264.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-265
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:31:12.076971+00:00
+**Completed At:** 2026-05-16T16:31:13.115256+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.3% over last 902 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-266
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:45:31.840393+00:00
+**Completed At:** 2026-05-16T16:45:34.719411+00:00
+**Result:** dashboard/data/output/20260516-266.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-267
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:45:37.751164+00:00
+**Completed At:** 2026-05-16T16:45:40.551521+00:00
+**Result:** dashboard/data/output/20260516-267.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-268
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:45:43.541880+00:00
+**Completed At:** 2026-05-16T16:45:46.467020+00:00
+**Result:** dashboard/data/output/20260516-268.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-269
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T16:45:49.420894+00:00
+**Completed At:** 2026-05-16T16:45:50.463366+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.3% over last 907 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-270
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:00:11.995496+00:00
+**Completed At:** 2026-05-16T17:00:15.048264+00:00
+**Result:** dashboard/data/output/20260516-270.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-271
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:00:18.103578+00:00
+**Completed At:** 2026-05-16T17:00:21.052922+00:00
+**Result:** dashboard/data/output/20260516-271.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-272
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:00:24.160244+00:00
+**Completed At:** 2026-05-16T17:00:27.131096+00:00
+**Result:** dashboard/data/output/20260516-272.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-273
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:00:30.147355+00:00
+**Completed At:** 2026-05-16T17:00:31.283102+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.4% over last 912 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-274
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:15:47.506001+00:00
+**Completed At:** 2026-05-16T17:15:50.338997+00:00
+**Result:** dashboard/data/output/20260516-274.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-275
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:15:53.220832+00:00
+**Completed At:** 2026-05-16T17:15:56.176432+00:00
+**Result:** dashboard/data/output/20260516-275.json
+**Summary:** HOLD (55%) — Strategy: VALUE. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-276
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:15:59.076662+00:00
+**Completed At:** 2026-05-16T17:16:01.851830+00:00
+**Result:** dashboard/data/output/20260516-276.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-277
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:16:04.892582+00:00
+**Completed At:** 2026-05-16T17:16:05.950545+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.4% over last 917 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-278
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:30:24.994246+00:00
+**Completed At:** 2026-05-16T17:30:27.796521+00:00
+**Result:** dashboard/data/output/20260516-278.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-279
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:30:30.730977+00:00
+**Completed At:** 2026-05-16T17:30:33.679426+00:00
+**Result:** dashboard/data/output/20260516-279.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-280
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:30:36.748311+00:00
+**Completed At:** 2026-05-16T17:30:39.458743+00:00
+**Result:** dashboard/data/output/20260516-280.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-281
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:30:42.521257+00:00
+**Completed At:** 2026-05-16T17:30:43.554580+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.5% over last 922 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-282
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:46:03.322104+00:00
+**Completed At:** 2026-05-16T17:46:06.541846+00:00
+**Result:** dashboard/data/output/20260516-282.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-283
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:46:09.603591+00:00
+**Completed At:** 2026-05-16T17:46:12.341064+00:00
+**Result:** dashboard/data/output/20260516-283.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-284
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:46:15.487580+00:00
+**Completed At:** 2026-05-16T17:46:18.285912+00:00
+**Result:** dashboard/data/output/20260516-284.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-285
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T17:46:21.523887+00:00
+**Completed At:** 2026-05-16T17:46:22.672460+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.6% over last 927 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-286
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:00:47.759876+00:00
+**Completed At:** 2026-05-16T18:00:50.927479+00:00
+**Result:** dashboard/data/output/20260516-286.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-287
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:00:53.962789+00:00
+**Completed At:** 2026-05-16T18:00:56.762055+00:00
+**Result:** dashboard/data/output/20260516-287.json
+**Summary:** HOLD (55%) — Strategy: MOMENTUM. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-288
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:00:59.878925+00:00
+**Completed At:** 2026-05-16T18:01:02.817157+00:00
+**Result:** dashboard/data/output/20260516-288.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-289
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:01:05.767576+00:00
+**Completed At:** 2026-05-16T18:01:06.842292+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.6% over last 932 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-290
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:15:31.156776+00:00
+**Completed At:** 2026-05-16T18:15:34.327892+00:00
+**Result:** dashboard/data/output/20260516-290.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-291
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:15:37.501933+00:00
+**Completed At:** 2026-05-16T18:15:40.356894+00:00
+**Result:** dashboard/data/output/20260516-291.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-292
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:15:43.632181+00:00
+**Completed At:** 2026-05-16T18:15:46.566997+00:00
+**Result:** dashboard/data/output/20260516-292.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-293
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:15:49.640313+00:00
+**Completed At:** 2026-05-16T18:15:50.686159+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.7% over last 937 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-294
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:30:11.575083+00:00
+**Completed At:** 2026-05-16T18:30:14.627193+00:00
+**Result:** dashboard/data/output/20260516-294.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-295
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:30:17.671517+00:00
+**Completed At:** 2026-05-16T18:30:20.517999+00:00
+**Result:** dashboard/data/output/20260516-295.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-296
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:30:23.503762+00:00
+**Completed At:** 2026-05-16T18:30:26.375564+00:00
+**Result:** dashboard/data/output/20260516-296.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-297
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:30:29.418583+00:00
+**Completed At:** 2026-05-16T18:30:30.487208+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.7% over last 942 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-298
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:45:49.052572+00:00
+**Completed At:** 2026-05-16T18:45:52.493877+00:00
+**Result:** dashboard/data/output/20260516-298.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-299
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:45:55.501560+00:00
+**Completed At:** 2026-05-16T18:45:58.284637+00:00
+**Result:** dashboard/data/output/20260516-299.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-300
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:46:01.402566+00:00
+**Completed At:** 2026-05-16T18:46:04.318816+00:00
+**Result:** dashboard/data/output/20260516-300.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-301
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T18:46:07.422816+00:00
+**Completed At:** 2026-05-16T18:46:08.545137+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.8% over last 947 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-302
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:00:34.991112+00:00
+**Completed At:** 2026-05-16T19:00:38.251439+00:00
+**Result:** dashboard/data/output/20260516-302.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-303
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:00:41.260936+00:00
+**Completed At:** 2026-05-16T19:00:44.125499+00:00
+**Result:** dashboard/data/output/20260516-303.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-304
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:00:47.094753+00:00
+**Completed At:** 2026-05-16T19:00:49.901014+00:00
+**Result:** dashboard/data/output/20260516-304.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-305
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:00:52.891976+00:00
+**Completed At:** 2026-05-16T19:00:53.998096+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.8% over last 952 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-306
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:15:15.352744+00:00
+**Completed At:** 2026-05-16T19:15:18.323253+00:00
+**Result:** dashboard/data/output/20260516-306.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-307
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:15:21.343043+00:00
+**Completed At:** 2026-05-16T19:15:24.312816+00:00
+**Result:** dashboard/data/output/20260516-307.json
+**Summary:** HOLD (55%) — Strategy: GROWTH. Council: HOLD (100.0% STRONG CONSENSUS) [+25% size]
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-308
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:15:27.398476+00:00
+**Completed At:** 2026-05-16T19:15:30.133769+00:00
+**Result:** dashboard/data/output/20260516-308.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-309
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:15:33.107835+00:00
+**Completed At:** 2026-05-16T19:15:34.124431+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.9% over last 957 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-310
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:30:51.780874+00:00
+**Completed At:** 2026-05-16T19:30:54.417280+00:00
+**Result:** dashboard/data/output/20260516-310.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-311
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:30:57.807230+00:00
+**Completed At:** 2026-05-16T19:31:00.809501+00:00
+**Result:** dashboard/data/output/20260516-311.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-312
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:31:03.948162+00:00
+**Completed At:** 2026-05-16T19:31:06.798920+00:00
+**Result:** dashboard/data/output/20260516-312.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-313
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:31:10.328847+00:00
+**Completed At:** 2026-05-16T19:31:11.440594+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 29.9% over last 962 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-314
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:46:02.340555+00:00
+**Completed At:** 2026-05-16T19:46:05.385807+00:00
+**Result:** dashboard/data/output/20260516-314.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-315
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:46:08.518678+00:00
+**Completed At:** 2026-05-16T19:46:11.350546+00:00
+**Result:** dashboard/data/output/20260516-315.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-316
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:46:14.317244+00:00
+**Completed At:** 2026-05-16T19:46:17.075245+00:00
+**Result:** dashboard/data/output/20260516-316.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-317
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T19:46:20.908582+00:00
+**Completed At:** 2026-05-16T19:46:21.957815+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.0% over last 967 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-318
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:00:57.456410+00:00
+**Completed At:** 2026-05-16T20:01:00.664935+00:00
+**Result:** dashboard/data/output/20260516-318.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-319
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:01:04.048784+00:00
+**Completed At:** 2026-05-16T20:01:06.867673+00:00
+**Result:** dashboard/data/output/20260516-319.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-320
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:01:10.055880+00:00
+**Completed At:** 2026-05-16T20:01:12.937743+00:00
+**Result:** dashboard/data/output/20260516-320.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-321
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:01:15.918428+00:00
+**Completed At:** 2026-05-16T20:01:16.989765+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.0% over last 972 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-322
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:15:35.174989+00:00
+**Completed At:** 2026-05-16T20:15:38.345284+00:00
+**Result:** dashboard/data/output/20260516-322.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-323
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:15:41.738992+00:00
+**Completed At:** 2026-05-16T20:15:44.727686+00:00
+**Result:** dashboard/data/output/20260516-323.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-324
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:15:47.866817+00:00
+**Completed At:** 2026-05-16T20:15:50.738745+00:00
+**Result:** dashboard/data/output/20260516-324.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-325
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:15:53.681828+00:00
+**Completed At:** 2026-05-16T20:15:54.762510+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.1% over last 977 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-326
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:30:12.314406+00:00
+**Completed At:** 2026-05-16T20:30:15.079835+00:00
+**Result:** dashboard/data/output/20260516-326.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-327
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:30:17.960514+00:00
+**Completed At:** 2026-05-16T20:30:20.871751+00:00
+**Result:** dashboard/data/output/20260516-327.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-328
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:30:23.866731+00:00
+**Completed At:** 2026-05-16T20:30:26.652262+00:00
+**Result:** dashboard/data/output/20260516-328.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-329
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:30:29.667069+00:00
+**Completed At:** 2026-05-16T20:30:30.787539+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.1% over last 982 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-330
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:45:48.583545+00:00
+**Completed At:** 2026-05-16T20:45:51.927255+00:00
+**Result:** dashboard/data/output/20260516-330.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-331
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:45:54.922672+00:00
+**Completed At:** 2026-05-16T20:45:57.827802+00:00
+**Result:** dashboard/data/output/20260516-331.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-332
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:46:00.889499+00:00
+**Completed At:** 2026-05-16T20:46:03.783559+00:00
+**Result:** dashboard/data/output/20260516-332.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-333
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T20:46:07.591980+00:00
+**Completed At:** 2026-05-16T20:46:08.681884+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.2% over last 987 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-334
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:00:35.762347+00:00
+**Completed At:** 2026-05-16T21:00:38.865099+00:00
+**Result:** dashboard/data/output/20260516-334.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-335
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:00:41.784187+00:00
+**Completed At:** 2026-05-16T21:00:44.597895+00:00
+**Result:** dashboard/data/output/20260516-335.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-336
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:00:47.715720+00:00
+**Completed At:** 2026-05-16T21:00:50.763498+00:00
+**Result:** dashboard/data/output/20260516-336.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-337
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:00:53.924056+00:00
+**Completed At:** 2026-05-16T21:00:55.076857+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.2% over last 992 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-338
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:15:14.786040+00:00
+**Completed At:** 2026-05-16T21:15:17.883188+00:00
+**Result:** dashboard/data/output/20260516-338.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-339
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:15:20.841573+00:00
+**Completed At:** 2026-05-16T21:15:23.608186+00:00
+**Result:** dashboard/data/output/20260516-339.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-340
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:15:26.805033+00:00
+**Completed At:** 2026-05-16T21:15:29.596674+00:00
+**Result:** dashboard/data/output/20260516-340.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-341
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:15:32.545521+00:00
+**Completed At:** 2026-05-16T21:15:33.692642+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.3% over last 997 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-342
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:30:50.116006+00:00
+**Completed At:** 2026-05-16T21:30:52.903727+00:00
+**Result:** dashboard/data/output/20260516-342.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-343
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:30:55.809752+00:00
+**Completed At:** 2026-05-16T21:30:58.688623+00:00
+**Result:** dashboard/data/output/20260516-343.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-344
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:31:01.759595+00:00
+**Completed At:** 2026-05-16T21:31:04.589498+00:00
+**Result:** dashboard/data/output/20260516-344.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-345
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:31:07.679595+00:00
+**Completed At:** 2026-05-16T21:31:08.721130+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.3% over last 1002 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-346
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:45:28.439855+00:00
+**Completed At:** 2026-05-16T21:45:31.525164+00:00
+**Result:** dashboard/data/output/20260516-346.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-347
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:45:34.503784+00:00
+**Completed At:** 2026-05-16T21:45:37.186578+00:00
+**Result:** dashboard/data/output/20260516-347.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-348
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:45:40.287035+00:00
+**Completed At:** 2026-05-16T21:45:43.360925+00:00
+**Result:** dashboard/data/output/20260516-348.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-349
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T21:45:46.439863+00:00
+**Completed At:** 2026-05-16T21:45:47.497737+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.4% over last 1007 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-350
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:01:03.267980+00:00
+**Completed At:** 2026-05-16T22:01:06.482514+00:00
+**Result:** dashboard/data/output/20260516-350.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-351
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:01:09.439886+00:00
+**Completed At:** 2026-05-16T22:01:12.337931+00:00
+**Result:** dashboard/data/output/20260516-351.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-352
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:01:15.345111+00:00
+**Completed At:** 2026-05-16T22:01:18.408835+00:00
+**Result:** dashboard/data/output/20260516-352.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-353
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:01:21.424084+00:00
+**Completed At:** 2026-05-16T22:01:22.520606+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.4% over last 1012 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-354
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:15:39.676779+00:00
+**Completed At:** 2026-05-16T22:15:42.937776+00:00
+**Result:** dashboard/data/output/20260516-354.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-355
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:15:46.550562+00:00
+**Completed At:** 2026-05-16T22:15:49.489460+00:00
+**Result:** dashboard/data/output/20260516-355.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-356
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:15:52.434100+00:00
+**Completed At:** 2026-05-16T22:15:55.281355+00:00
+**Result:** dashboard/data/output/20260516-356.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-357
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:15:58.286647+00:00
+**Completed At:** 2026-05-16T22:15:59.337051+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.5% over last 1017 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-358
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:30:14.406491+00:00
+**Completed At:** 2026-05-16T22:30:17.510159+00:00
+**Result:** dashboard/data/output/20260516-358.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-359
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:30:20.709935+00:00
+**Completed At:** 2026-05-16T22:30:23.426475+00:00
+**Result:** dashboard/data/output/20260516-359.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-360
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:30:26.391894+00:00
+**Completed At:** 2026-05-16T22:30:29.377518+00:00
+**Result:** dashboard/data/output/20260516-360.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.4% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-361
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:30:32.593903+00:00
+**Completed At:** 2026-05-16T22:30:33.648520+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.5% over last 1022 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-362
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:45:53.120965+00:00
+**Completed At:** 2026-05-16T22:45:56.042302+00:00
+**Result:** dashboard/data/output/20260516-362.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-363
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:45:59.088041+00:00
+**Completed At:** 2026-05-16T22:46:02.025367+00:00
+**Result:** dashboard/data/output/20260516-363.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-364
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:46:05.131286+00:00
+**Completed At:** 2026-05-16T22:46:07.817275+00:00
+**Result:** dashboard/data/output/20260516-364.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-365
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T22:46:10.890089+00:00
+**Completed At:** 2026-05-16T22:46:11.939468+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.6% over last 1027 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-366
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:00:29.991016+00:00
+**Completed At:** 2026-05-16T23:00:32.739231+00:00
+**Result:** dashboard/data/output/20260516-366.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-367
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:00:35.954898+00:00
+**Completed At:** 2026-05-16T23:00:39.002697+00:00
+**Result:** dashboard/data/output/20260516-367.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-368
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:00:42.153620+00:00
+**Completed At:** 2026-05-16T23:00:45.065901+00:00
+**Result:** dashboard/data/output/20260516-368.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-369
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:00:48.390648+00:00
+**Completed At:** 2026-05-16T23:00:49.504559+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.6% over last 1032 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-370
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:15:09.566005+00:00
+**Completed At:** 2026-05-16T23:15:12.456988+00:00
+**Result:** dashboard/data/output/20260516-370.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-371
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:15:15.550723+00:00
+**Completed At:** 2026-05-16T23:15:18.466356+00:00
+**Result:** dashboard/data/output/20260516-371.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-372
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:15:21.293490+00:00
+**Completed At:** 2026-05-16T23:15:24.123403+00:00
+**Result:** dashboard/data/output/20260516-372.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-373
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:15:27.127633+00:00
+**Completed At:** 2026-05-16T23:15:28.255794+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.7% over last 1037 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-374
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:30:43.761012+00:00
+**Completed At:** 2026-05-16T23:30:46.821354+00:00
+**Result:** dashboard/data/output/20260516-374.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-375
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:30:49.952920+00:00
+**Completed At:** 2026-05-16T23:30:52.970145+00:00
+**Result:** dashboard/data/output/20260516-375.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-376
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:30:56.100423+00:00
+**Completed At:** 2026-05-16T23:30:58.691855+00:00
+**Result:** dashboard/data/output/20260516-376.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-377
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:31:01.772918+00:00
+**Completed At:** 2026-05-16T23:31:02.881404+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.7% over last 1042 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-378
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:45:20.400484+00:00
+**Completed At:** 2026-05-16T23:45:23.170692+00:00
+**Result:** dashboard/data/output/20260516-378.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-379
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:45:26.116582+00:00
+**Completed At:** 2026-05-16T23:45:28.778727+00:00
+**Result:** dashboard/data/output/20260516-379.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-380
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:45:31.937882+00:00
+**Completed At:** 2026-05-16T23:45:34.702980+00:00
+**Result:** dashboard/data/output/20260516-380.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-381
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-16
+**Started At:** 2026-05-16T23:45:37.789939+00:00
+**Completed At:** 2026-05-16T23:45:38.785908+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.8% over last 1047 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260516-382
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-17T00:00:59.325415+00:00
+**Completed At:** 2026-05-17T00:01:02.184471+00:00
+**Result:** dashboard/data/output/20260516-382.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-383
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-17T00:01:05.066733+00:00
+**Completed At:** 2026-05-17T00:01:08.123384+00:00
+**Result:** dashboard/data/output/20260516-383.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260516-384
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-16
+**Started At:** 2026-05-17T00:01:11.151958+00:00
+**Completed At:** 2026-05-17T00:01:13.918709+00:00
+**Result:** dashboard/data/output/20260516-384.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-001
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T00:01:17.112975+00:00
+**Completed At:** 2026-05-17T00:01:18.238895+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.8% over last 1052 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-002
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T00:17:43.550766+00:00
+**Completed At:** 2026-05-17T00:17:46.904611+00:00
+**Result:** dashboard/data/output/20260517-002.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-003
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T00:17:49.898975+00:00
+**Completed At:** 2026-05-17T00:17:52.908714+00:00
+**Result:** dashboard/data/output/20260517-003.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-004
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T00:17:56.143199+00:00
+**Completed At:** 2026-05-17T00:17:58.837683+00:00
+**Result:** dashboard/data/output/20260517-004.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-005
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T00:18:01.883194+00:00
+**Completed At:** 2026-05-17T00:18:02.994608+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.8% over last 1057 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-006
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T00:30:46.511746+00:00
+**Completed At:** 2026-05-17T00:30:49.463767+00:00
+**Result:** dashboard/data/output/20260517-006.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-007
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T00:30:52.507913+00:00
+**Completed At:** 2026-05-17T00:30:55.266033+00:00
+**Result:** dashboard/data/output/20260517-007.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-008
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T00:30:58.290561+00:00
+**Completed At:** 2026-05-17T00:31:01.160763+00:00
+**Result:** dashboard/data/output/20260517-008.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-009
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T00:31:04.308375+00:00
+**Completed At:** 2026-05-17T00:31:05.386710+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.9% over last 1062 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-010
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T00:45:22.348708+00:00
+**Completed At:** 2026-05-17T00:45:25.153120+00:00
+**Result:** dashboard/data/output/20260517-010.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-011
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T00:45:28.099422+00:00
+**Completed At:** 2026-05-17T00:45:30.968081+00:00
+**Result:** dashboard/data/output/20260517-011.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-012
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T00:45:34.017683+00:00
+**Completed At:** 2026-05-17T00:45:36.941432+00:00
+**Result:** dashboard/data/output/20260517-012.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-013
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T00:45:40.082044+00:00
+**Completed At:** 2026-05-17T00:45:41.230208+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 30.9% over last 1067 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-014
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:00:57.453879+00:00
+**Completed At:** 2026-05-17T01:01:00.466500+00:00
+**Result:** dashboard/data/output/20260517-014.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-015
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:01:03.557310+00:00
+**Completed At:** 2026-05-17T01:01:06.377116+00:00
+**Result:** dashboard/data/output/20260517-015.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-016
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:01:09.448906+00:00
+**Completed At:** 2026-05-17T01:01:12.435852+00:00
+**Result:** dashboard/data/output/20260517-016.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-017
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:01:15.377730+00:00
+**Completed At:** 2026-05-17T01:01:16.470077+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.0% over last 1072 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-018
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:15:36.206679+00:00
+**Completed At:** 2026-05-17T01:15:39.546156+00:00
+**Result:** dashboard/data/output/20260517-018.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-019
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:15:42.522418+00:00
+**Completed At:** 2026-05-17T01:15:45.380055+00:00
+**Result:** dashboard/data/output/20260517-019.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-020
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:15:48.393096+00:00
+**Completed At:** 2026-05-17T01:15:51.236228+00:00
+**Result:** dashboard/data/output/20260517-020.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-021
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:15:54.491171+00:00
+**Completed At:** 2026-05-17T01:15:55.593464+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.0% over last 1077 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-022
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:30:18.431829+00:00
+**Completed At:** 2026-05-17T01:30:21.213044+00:00
+**Result:** dashboard/data/output/20260517-022.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-023
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:30:24.069118+00:00
+**Completed At:** 2026-05-17T01:30:26.813854+00:00
+**Result:** dashboard/data/output/20260517-023.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-024
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:30:30.036117+00:00
+**Completed At:** 2026-05-17T01:30:32.935882+00:00
+**Result:** dashboard/data/output/20260517-024.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-025
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:30:35.888169+00:00
+**Completed At:** 2026-05-17T01:30:36.930468+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.1% over last 1082 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-026
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:45:28.275438+00:00
+**Completed At:** 2026-05-17T01:45:31.424532+00:00
+**Result:** dashboard/data/output/20260517-026.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-027
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:45:34.422744+00:00
+**Completed At:** 2026-05-17T01:45:37.259380+00:00
+**Result:** dashboard/data/output/20260517-027.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-028
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:45:40.139795+00:00
+**Completed At:** 2026-05-17T01:45:43.144928+00:00
+**Result:** dashboard/data/output/20260517-028.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-029
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T01:45:46.224887+00:00
+**Completed At:** 2026-05-17T01:45:47.283903+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.1% over last 1087 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-030
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:00:44.766112+00:00
+**Completed At:** 2026-05-17T02:00:47.892621+00:00
+**Result:** dashboard/data/output/20260517-030.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-031
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:00:51.504547+00:00
+**Completed At:** 2026-05-17T02:00:54.465563+00:00
+**Result:** dashboard/data/output/20260517-031.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-032
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:00:57.472772+00:00
+**Completed At:** 2026-05-17T02:01:00.359883+00:00
+**Result:** dashboard/data/output/20260517-032.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-033
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:01:03.349485+00:00
+**Completed At:** 2026-05-17T02:01:04.428654+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.1% over last 1092 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-034
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:15:32.132700+00:00
+**Completed At:** 2026-05-17T02:15:34.962097+00:00
+**Result:** dashboard/data/output/20260517-034.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-035
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:15:37.995600+00:00
+**Completed At:** 2026-05-17T02:15:40.801468+00:00
+**Result:** dashboard/data/output/20260517-035.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-036
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:15:43.698668+00:00
+**Completed At:** 2026-05-17T02:15:46.513630+00:00
+**Result:** dashboard/data/output/20260517-036.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-037
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:15:49.557992+00:00
+**Completed At:** 2026-05-17T02:15:50.612228+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.2% over last 1097 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-038
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:30:17.557861+00:00
+**Completed At:** 2026-05-17T02:30:20.610581+00:00
+**Result:** dashboard/data/output/20260517-038.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-039
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:30:23.496625+00:00
+**Completed At:** 2026-05-17T02:30:26.416537+00:00
+**Result:** dashboard/data/output/20260517-039.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-040
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:30:29.255009+00:00
+**Completed At:** 2026-05-17T02:30:31.981375+00:00
+**Result:** dashboard/data/output/20260517-040.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-041
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:30:35.441619+00:00
+**Completed At:** 2026-05-17T02:30:36.505717+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.2% over last 1102 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-042
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:46:01.496966+00:00
+**Completed At:** 2026-05-17T02:46:04.438707+00:00
+**Result:** dashboard/data/output/20260517-042.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-043
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:46:07.508229+00:00
+**Completed At:** 2026-05-17T02:46:10.472330+00:00
+**Result:** dashboard/data/output/20260517-043.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-044
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:46:13.520418+00:00
+**Completed At:** 2026-05-17T02:46:16.356550+00:00
+**Result:** dashboard/data/output/20260517-044.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-045
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T02:46:19.587464+00:00
+**Completed At:** 2026-05-17T02:46:20.600278+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.3% over last 1107 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-046
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:00:43.894683+00:00
+**Completed At:** 2026-05-17T03:00:47.256453+00:00
+**Result:** dashboard/data/output/20260517-046.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-047
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:00:50.141639+00:00
+**Completed At:** 2026-05-17T03:00:53.019671+00:00
+**Result:** dashboard/data/output/20260517-047.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-048
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:00:56.140873+00:00
+**Completed At:** 2026-05-17T03:00:58.917975+00:00
+**Result:** dashboard/data/output/20260517-048.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-049
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:01:02.195910+00:00
+**Completed At:** 2026-05-17T03:01:03.882787+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.3% over last 1112 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-050
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:15:34.998895+00:00
+**Completed At:** 2026-05-17T03:15:37.955943+00:00
+**Result:** dashboard/data/output/20260517-050.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-051
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:15:41.110647+00:00
+**Completed At:** 2026-05-17T03:15:44.031724+00:00
+**Result:** dashboard/data/output/20260517-051.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-052
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:15:46.981372+00:00
+**Completed At:** 2026-05-17T03:15:49.728952+00:00
+**Result:** dashboard/data/output/20260517-052.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-053
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:15:52.887987+00:00
+**Completed At:** 2026-05-17T03:15:54.025794+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.3% over last 1117 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-054
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:30:21.327858+00:00
+**Completed At:** 2026-05-17T03:30:24.172826+00:00
+**Result:** dashboard/data/output/20260517-054.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-055
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:30:27.086625+00:00
+**Completed At:** 2026-05-17T03:30:29.818715+00:00
+**Result:** dashboard/data/output/20260517-055.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-056
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:30:32.827293+00:00
+**Completed At:** 2026-05-17T03:30:35.563546+00:00
+**Result:** dashboard/data/output/20260517-056.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-057
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:30:38.632571+00:00
+**Completed At:** 2026-05-17T03:30:39.652076+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.4% over last 1122 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-058
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:45:20.173278+00:00
+**Completed At:** 2026-05-17T03:45:23.108553+00:00
+**Result:** dashboard/data/output/20260517-058.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-059
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:45:26.491522+00:00
+**Completed At:** 2026-05-17T03:45:29.308081+00:00
+**Result:** dashboard/data/output/20260517-059.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-060
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:45:32.165466+00:00
+**Completed At:** 2026-05-17T03:45:35.201131+00:00
+**Result:** dashboard/data/output/20260517-060.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-061
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T03:45:38.099377+00:00
+**Completed At:** 2026-05-17T03:45:39.211089+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.4% over last 1127 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-062
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:00:17.606995+00:00
+**Completed At:** 2026-05-17T04:00:20.451350+00:00
+**Result:** dashboard/data/output/20260517-062.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-063
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:00:23.544278+00:00
+**Completed At:** 2026-05-17T04:00:26.447216+00:00
+**Result:** dashboard/data/output/20260517-063.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-064
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:00:29.278810+00:00
+**Completed At:** 2026-05-17T04:00:32.200448+00:00
+**Result:** dashboard/data/output/20260517-064.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (71.2% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-065
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:00:35.285795+00:00
+**Completed At:** 2026-05-17T04:00:36.344487+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.4% over last 1132 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-066
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:15:57.739479+00:00
+**Completed At:** 2026-05-17T04:16:00.687778+00:00
+**Result:** dashboard/data/output/20260517-066.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-067
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:16:03.696717+00:00
+**Completed At:** 2026-05-17T04:16:07.568811+00:00
+**Result:** dashboard/data/output/20260517-067.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-068
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:16:10.521875+00:00
+**Completed At:** 2026-05-17T04:16:13.861114+00:00
+**Result:** dashboard/data/output/20260517-068.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-069
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:16:17.046526+00:00
+**Completed At:** 2026-05-17T04:16:18.043378+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.5% over last 1137 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-070
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:30:05.439823+00:00
+**Completed At:** 2026-05-17T04:30:08.232389+00:00
+**Result:** dashboard/data/output/20260517-070.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-071
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:30:11.571209+00:00
+**Completed At:** 2026-05-17T04:30:14.721837+00:00
+**Result:** dashboard/data/output/20260517-071.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-072
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:30:17.665420+00:00
+**Completed At:** 2026-05-17T04:30:20.650561+00:00
+**Result:** dashboard/data/output/20260517-072.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-073
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:30:23.652038+00:00
+**Completed At:** 2026-05-17T04:30:24.705785+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.5% over last 1142 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-074
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:45:12.498315+00:00
+**Completed At:** 2026-05-17T04:45:15.447848+00:00
+**Result:** dashboard/data/output/20260517-074.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-075
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:45:18.422363+00:00
+**Completed At:** 2026-05-17T04:45:21.251352+00:00
+**Result:** dashboard/data/output/20260517-075.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-076
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:45:24.247328+00:00
+**Completed At:** 2026-05-17T04:45:27.053901+00:00
+**Result:** dashboard/data/output/20260517-076.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-077
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T04:45:29.859770+00:00
+**Completed At:** 2026-05-17T04:45:30.979832+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.6% over last 1147 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-078
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:00:27.083515+00:00
+**Completed At:** 2026-05-17T05:00:30.076162+00:00
+**Result:** dashboard/data/output/20260517-078.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-079
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:00:33.198818+00:00
+**Completed At:** 2026-05-17T05:00:36.190410+00:00
+**Result:** dashboard/data/output/20260517-079.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-080
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:00:39.157389+00:00
+**Completed At:** 2026-05-17T05:00:41.828782+00:00
+**Result:** dashboard/data/output/20260517-080.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-081
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:00:44.852637+00:00
+**Completed At:** 2026-05-17T05:00:45.938430+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.6% over last 1152 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-082
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:16:03.873503+00:00
+**Completed At:** 2026-05-17T05:16:06.710579+00:00
+**Result:** dashboard/data/output/20260517-082.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-083
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:16:10.191287+00:00
+**Completed At:** 2026-05-17T05:16:13.093851+00:00
+**Result:** dashboard/data/output/20260517-083.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-084
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:16:16.322787+00:00
+**Completed At:** 2026-05-17T05:16:19.258995+00:00
+**Result:** dashboard/data/output/20260517-084.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-085
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:16:22.413039+00:00
+**Completed At:** 2026-05-17T05:16:23.516788+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.6% over last 1157 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-086
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:30:52.701787+00:00
+**Completed At:** 2026-05-17T05:30:55.582255+00:00
+**Result:** dashboard/data/output/20260517-086.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-087
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:30:58.494410+00:00
+**Completed At:** 2026-05-17T05:31:01.449408+00:00
+**Result:** dashboard/data/output/20260517-087.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-088
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:31:04.361939+00:00
+**Completed At:** 2026-05-17T05:31:07.180326+00:00
+**Result:** dashboard/data/output/20260517-088.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-089
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:31:09.997183+00:00
+**Completed At:** 2026-05-17T05:31:11.056646+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.7% over last 1162 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-090
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:45:35.717752+00:00
+**Completed At:** 2026-05-17T05:45:38.724747+00:00
+**Result:** dashboard/data/output/20260517-090.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-091
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:45:41.663387+00:00
+**Completed At:** 2026-05-17T05:45:44.518105+00:00
+**Result:** dashboard/data/output/20260517-091.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-092
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:45:47.570668+00:00
+**Completed At:** 2026-05-17T05:45:50.343096+00:00
+**Result:** dashboard/data/output/20260517-092.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-093
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T05:45:53.254816+00:00
+**Completed At:** 2026-05-17T05:45:54.298737+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.7% over last 1167 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-094
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:00:24.635493+00:00
+**Completed At:** 2026-05-17T06:00:27.686942+00:00
+**Result:** dashboard/data/output/20260517-094.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-095
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:00:31.810213+00:00
+**Completed At:** 2026-05-17T06:00:34.685847+00:00
+**Result:** dashboard/data/output/20260517-095.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-096
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:00:37.874543+00:00
+**Completed At:** 2026-05-17T06:00:40.603420+00:00
+**Result:** dashboard/data/output/20260517-096.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-097
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:00:43.629658+00:00
+**Completed At:** 2026-05-17T06:00:44.804893+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.7% over last 1172 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-098
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:15:07.682218+00:00
+**Completed At:** 2026-05-17T06:15:10.617718+00:00
+**Result:** dashboard/data/output/20260517-098.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-099
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:15:13.769213+00:00
+**Completed At:** 2026-05-17T06:15:16.600312+00:00
+**Result:** dashboard/data/output/20260517-099.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-100
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:15:19.508976+00:00
+**Completed At:** 2026-05-17T06:15:22.383935+00:00
+**Result:** dashboard/data/output/20260517-100.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-101
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:15:25.488804+00:00
+**Completed At:** 2026-05-17T06:15:26.651223+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.8% over last 1177 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-102
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:31:15.658293+00:00
+**Completed At:** 2026-05-17T06:31:18.492092+00:00
+**Result:** dashboard/data/output/20260517-102.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-103
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:31:21.389461+00:00
+**Completed At:** 2026-05-17T06:31:24.287214+00:00
+**Result:** dashboard/data/output/20260517-103.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-104
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:31:27.266188+00:00
+**Completed At:** 2026-05-17T06:31:30.201322+00:00
+**Result:** dashboard/data/output/20260517-104.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-105
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:31:33.114079+00:00
+**Completed At:** 2026-05-17T06:31:34.200788+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.8% over last 1182 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-106
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:46:12.835649+00:00
+**Completed At:** 2026-05-17T06:46:16.073195+00:00
+**Result:** dashboard/data/output/20260517-106.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-107
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:46:19.036252+00:00
+**Completed At:** 2026-05-17T06:46:21.927373+00:00
+**Result:** dashboard/data/output/20260517-107.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-108
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:46:24.938895+00:00
+**Completed At:** 2026-05-17T06:46:27.745443+00:00
+**Result:** dashboard/data/output/20260517-108.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-109
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T06:46:30.676940+00:00
+**Completed At:** 2026-05-17T06:46:31.876151+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.8% over last 1187 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-110
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:00:23.784942+00:00
+**Completed At:** 2026-05-17T07:00:26.920780+00:00
+**Result:** dashboard/data/output/20260517-110.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-111
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:00:29.944345+00:00
+**Completed At:** 2026-05-17T07:00:32.854126+00:00
+**Result:** dashboard/data/output/20260517-111.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-112
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:00:35.740158+00:00
+**Completed At:** 2026-05-17T07:00:38.393507+00:00
+**Result:** dashboard/data/output/20260517-112.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-113
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:00:41.473937+00:00
+**Completed At:** 2026-05-17T07:00:42.626321+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.9% over last 1192 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-114
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:16:05.173489+00:00
+**Completed At:** 2026-05-17T07:16:07.941131+00:00
+**Result:** dashboard/data/output/20260517-114.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-115
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:16:10.951494+00:00
+**Completed At:** 2026-05-17T07:16:13.874086+00:00
+**Result:** dashboard/data/output/20260517-115.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-116
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:16:16.966218+00:00
+**Completed At:** 2026-05-17T07:16:19.749256+00:00
+**Result:** dashboard/data/output/20260517-116.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-117
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:16:22.756752+00:00
+**Completed At:** 2026-05-17T07:16:23.905992+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.9% over last 1197 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-118
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:30:56.992324+00:00
+**Completed At:** 2026-05-17T07:30:59.763572+00:00
+**Result:** dashboard/data/output/20260517-118.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-119
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:31:02.797354+00:00
+**Completed At:** 2026-05-17T07:31:05.662988+00:00
+**Result:** dashboard/data/output/20260517-119.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-120
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:31:08.675062+00:00
+**Completed At:** 2026-05-17T07:31:11.479370+00:00
+**Result:** dashboard/data/output/20260517-120.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-121
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:31:14.422662+00:00
+**Completed At:** 2026-05-17T07:31:15.452822+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 31.9% over last 1202 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-122
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:45:35.749313+00:00
+**Completed At:** 2026-05-17T07:45:38.580516+00:00
+**Result:** dashboard/data/output/20260517-122.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-123
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:45:41.485831+00:00
+**Completed At:** 2026-05-17T07:45:44.249490+00:00
+**Result:** dashboard/data/output/20260517-123.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-124
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:45:47.170533+00:00
+**Completed At:** 2026-05-17T07:45:50.038526+00:00
+**Result:** dashboard/data/output/20260517-124.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-125
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T07:45:52.983796+00:00
+**Completed At:** 2026-05-17T07:45:54.059241+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.0% over last 1207 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-126
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:00:26.116993+00:00
+**Completed At:** 2026-05-17T08:00:28.922670+00:00
+**Result:** dashboard/data/output/20260517-126.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-127
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:00:31.910816+00:00
+**Completed At:** 2026-05-17T08:00:34.835252+00:00
+**Result:** dashboard/data/output/20260517-127.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-128
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:00:37.742966+00:00
+**Completed At:** 2026-05-17T08:00:40.558838+00:00
+**Result:** dashboard/data/output/20260517-128.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-129
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:00:43.398028+00:00
+**Completed At:** 2026-05-17T08:00:44.485850+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.0% over last 1212 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-130
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:15:28.048751+00:00
+**Completed At:** 2026-05-17T08:15:31.325133+00:00
+**Result:** dashboard/data/output/20260517-130.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-131
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:15:34.336980+00:00
+**Completed At:** 2026-05-17T08:15:37.128580+00:00
+**Result:** dashboard/data/output/20260517-131.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-132
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:15:40.303886+00:00
+**Completed At:** 2026-05-17T08:15:43.045807+00:00
+**Result:** dashboard/data/output/20260517-132.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-133
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:15:45.979881+00:00
+**Completed At:** 2026-05-17T08:15:47.027373+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.0% over last 1217 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-134
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:30:43.932330+00:00
+**Completed At:** 2026-05-17T08:30:46.799433+00:00
+**Result:** dashboard/data/output/20260517-134.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-135
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:30:49.876473+00:00
+**Completed At:** 2026-05-17T08:30:52.634565+00:00
+**Result:** dashboard/data/output/20260517-135.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-136
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:30:55.587829+00:00
+**Completed At:** 2026-05-17T08:30:58.662795+00:00
+**Result:** dashboard/data/output/20260517-136.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-137
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:31:01.666521+00:00
+**Completed At:** 2026-05-17T08:31:02.867411+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.1% over last 1222 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-138
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:45:47.739820+00:00
+**Completed At:** 2026-05-17T08:45:50.709941+00:00
+**Result:** dashboard/data/output/20260517-138.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-139
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:45:53.645813+00:00
+**Completed At:** 2026-05-17T08:45:56.426796+00:00
+**Result:** dashboard/data/output/20260517-139.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-140
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:45:59.476023+00:00
+**Completed At:** 2026-05-17T08:46:02.270709+00:00
+**Result:** dashboard/data/output/20260517-140.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-141
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T08:46:05.285835+00:00
+**Completed At:** 2026-05-17T08:46:06.323373+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.1% over last 1227 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-142
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:00:54.504767+00:00
+**Completed At:** 2026-05-17T09:00:57.563048+00:00
+**Result:** dashboard/data/output/20260517-142.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-143
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:01:00.615621+00:00
+**Completed At:** 2026-05-17T09:01:03.585607+00:00
+**Result:** dashboard/data/output/20260517-143.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-144
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:01:06.569223+00:00
+**Completed At:** 2026-05-17T09:01:09.537916+00:00
+**Result:** dashboard/data/output/20260517-144.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-145
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:01:12.494953+00:00
+**Completed At:** 2026-05-17T09:01:13.570016+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.1% over last 1232 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-146
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:15:37.597359+00:00
+**Completed At:** 2026-05-17T09:15:40.634983+00:00
+**Result:** dashboard/data/output/20260517-146.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-147
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:15:43.721844+00:00
+**Completed At:** 2026-05-17T09:15:46.610609+00:00
+**Result:** dashboard/data/output/20260517-147.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-148
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:15:49.530097+00:00
+**Completed At:** 2026-05-17T09:15:52.345667+00:00
+**Result:** dashboard/data/output/20260517-148.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-149
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:15:55.289760+00:00
+**Completed At:** 2026-05-17T09:15:56.360992+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.2% over last 1237 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-150
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:30:54.530558+00:00
+**Completed At:** 2026-05-17T09:30:57.492867+00:00
+**Result:** dashboard/data/output/20260517-150.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-151
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:31:00.843430+00:00
+**Completed At:** 2026-05-17T09:31:03.771461+00:00
+**Result:** dashboard/data/output/20260517-151.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-152
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:31:06.889570+00:00
+**Completed At:** 2026-05-17T09:31:09.689503+00:00
+**Result:** dashboard/data/output/20260517-152.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-153
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:31:12.737012+00:00
+**Completed At:** 2026-05-17T09:31:13.874326+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.2% over last 1242 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-154
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:45:33.530583+00:00
+**Completed At:** 2026-05-17T09:45:36.252386+00:00
+**Result:** dashboard/data/output/20260517-154.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-155
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:45:39.197685+00:00
+**Completed At:** 2026-05-17T09:45:42.160858+00:00
+**Result:** dashboard/data/output/20260517-155.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-156
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:45:45.083837+00:00
+**Completed At:** 2026-05-17T09:45:48.021114+00:00
+**Result:** dashboard/data/output/20260517-156.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-157
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T09:45:50.955763+00:00
+**Completed At:** 2026-05-17T09:45:52.077337+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.2% over last 1247 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-158
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:00:14.923564+00:00
+**Completed At:** 2026-05-17T10:00:18.085580+00:00
+**Result:** dashboard/data/output/20260517-158.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-159
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:00:22.011536+00:00
+**Completed At:** 2026-05-17T10:00:25.037461+00:00
+**Result:** dashboard/data/output/20260517-159.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-160
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:00:28.100046+00:00
+**Completed At:** 2026-05-17T10:00:30.895286+00:00
+**Result:** dashboard/data/output/20260517-160.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-161
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:00:34.039755+00:00
+**Completed At:** 2026-05-17T10:00:35.121400+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.3% over last 1252 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-162
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:15:59.495326+00:00
+**Completed At:** 2026-05-17T10:16:02.460434+00:00
+**Result:** dashboard/data/output/20260517-162.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-163
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:16:05.623309+00:00
+**Completed At:** 2026-05-17T10:16:08.383322+00:00
+**Result:** dashboard/data/output/20260517-163.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-164
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:16:11.533772+00:00
+**Completed At:** 2026-05-17T10:16:14.799719+00:00
+**Result:** dashboard/data/output/20260517-164.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-165
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:16:17.839360+00:00
+**Completed At:** 2026-05-17T10:16:18.934415+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.3% over last 1257 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-166
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:30:53.232479+00:00
+**Completed At:** 2026-05-17T10:30:56.415355+00:00
+**Result:** dashboard/data/output/20260517-166.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-167
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:30:59.362480+00:00
+**Completed At:** 2026-05-17T10:31:02.576768+00:00
+**Result:** dashboard/data/output/20260517-167.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-168
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:31:05.603138+00:00
+**Completed At:** 2026-05-17T10:31:08.299416+00:00
+**Result:** dashboard/data/output/20260517-168.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-169
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:31:11.387410+00:00
+**Completed At:** 2026-05-17T10:31:12.492816+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.3% over last 1262 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-170
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:45:41.432707+00:00
+**Completed At:** 2026-05-17T10:45:44.426599+00:00
+**Result:** dashboard/data/output/20260517-170.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-171
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:45:47.498023+00:00
+**Completed At:** 2026-05-17T10:45:50.336144+00:00
+**Result:** dashboard/data/output/20260517-171.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-172
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:45:53.325122+00:00
+**Completed At:** 2026-05-17T10:45:56.370005+00:00
+**Result:** dashboard/data/output/20260517-172.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-173
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T10:45:59.333544+00:00
+**Completed At:** 2026-05-17T10:46:00.522073+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.4% over last 1267 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-174
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:00:20.086770+00:00
+**Completed At:** 2026-05-17T11:00:23.312508+00:00
+**Result:** dashboard/data/output/20260517-174.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-175
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:00:26.290313+00:00
+**Completed At:** 2026-05-17T11:00:29.125989+00:00
+**Result:** dashboard/data/output/20260517-175.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-176
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:00:32.053154+00:00
+**Completed At:** 2026-05-17T11:00:34.884090+00:00
+**Result:** dashboard/data/output/20260517-176.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-177
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:00:37.958052+00:00
+**Completed At:** 2026-05-17T11:00:39.033492+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.4% over last 1272 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-178
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:16:00.882233+00:00
+**Completed At:** 2026-05-17T11:16:03.763438+00:00
+**Result:** dashboard/data/output/20260517-178.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-179
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:16:07.070424+00:00
+**Completed At:** 2026-05-17T11:16:09.932565+00:00
+**Result:** dashboard/data/output/20260517-179.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-180
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:16:12.915067+00:00
+**Completed At:** 2026-05-17T11:16:15.747642+00:00
+**Result:** dashboard/data/output/20260517-180.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-181
+**Subject:** HEAD MANAGER ALERT: Docker heal failed — backend unreachable
+**Assigned Bot:** self_build
+**Priority:** critical
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:16:19.023037+00:00
+**Completed At:** 2026-05-17T11:16:20.442918+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** Container scc-frontend  Running
+**Details:**
+- Attempted docker compose up -d
+- Backend still not responding on port 8000
+- Manual investigation needed: check docker logs, port conflicts
+
+
+### Task ID: 20260517-182
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:16:21.547240+00:00
+**Completed At:** 2026-05-17T11:16:22.721062+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.4% over last 1277 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-183
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:30:48.661162+00:00
+**Completed At:** 2026-05-17T11:30:51.459541+00:00
+**Result:** dashboard/data/output/20260517-183.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-184
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:30:54.443467+00:00
+**Completed At:** 2026-05-17T11:30:57.512578+00:00
+**Result:** dashboard/data/output/20260517-184.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-185
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:31:00.450707+00:00
+**Completed At:** 2026-05-17T11:31:03.250389+00:00
+**Result:** dashboard/data/output/20260517-185.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.9% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-186
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:31:06.230990+00:00
+**Completed At:** 2026-05-17T11:31:07.281128+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.4% over last 1282 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-187
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:45:25.797301+00:00
+**Completed At:** 2026-05-17T11:45:28.760049+00:00
+**Result:** dashboard/data/output/20260517-187.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.7% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-188
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:45:31.714135+00:00
+**Completed At:** 2026-05-17T11:45:34.519711+00:00
+**Result:** dashboard/data/output/20260517-188.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.7% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-189
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:45:37.456014+00:00
+**Completed At:** 2026-05-17T11:45:40.191242+00:00
+**Result:** dashboard/data/output/20260517-189.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.7% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-190
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T11:45:43.192211+00:00
+**Completed At:** 2026-05-17T11:45:44.289109+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.5% over last 1287 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-191
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:01:02.548929+00:00
+**Completed At:** 2026-05-17T12:01:05.995056+00:00
+**Result:** dashboard/data/output/20260517-191.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.7% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-192
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:01:09.024689+00:00
+**Completed At:** 2026-05-17T12:01:11.751142+00:00
+**Result:** dashboard/data/output/20260517-192.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.7% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-193
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:01:14.804189+00:00
+**Completed At:** 2026-05-17T12:01:17.748654+00:00
+**Result:** dashboard/data/output/20260517-193.json
+**Summary:** ACCUMULATE (65%) — Strategy: MOMENTUM. Council: HOLD (70.7% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-194
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:01:20.682021+00:00
+**Completed At:** 2026-05-17T12:01:21.739681+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.5% over last 1292 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-195
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:15:55.777806+00:00
+**Completed At:** 2026-05-17T12:15:58.952666+00:00
+**Result:** dashboard/data/output/20260517-195.json
+**Summary:** ACCUMULATE (65%) — Strategy: VALUE. Council: HOLD (70.7% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-196
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:16:01.998394+00:00
+**Completed At:** 2026-05-17T12:16:04.870472+00:00
+**Result:** dashboard/data/output/20260517-196.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.7% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-197
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:16:07.985905+00:00
+**Completed At:** 2026-05-17T12:16:10.958074+00:00
+**Result:** dashboard/data/output/20260517-197.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.7% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-198
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:16:13.865587+00:00
+**Completed At:** 2026-05-17T12:16:15.028988+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.5% over last 1297 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-199
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:30:47.197913+00:00
+**Completed At:** 2026-05-17T12:30:50.001894+00:00
+**Result:** dashboard/data/output/20260517-199.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.7% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-200
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:30:52.952966+00:00
+**Completed At:** 2026-05-17T12:30:55.750560+00:00
+**Result:** dashboard/data/output/20260517-200.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.7% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-201
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:30:58.735626+00:00
+**Completed At:** 2026-05-17T12:31:01.540122+00:00
+**Result:** dashboard/data/output/20260517-201.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.7% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-202
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:31:04.521204+00:00
+**Completed At:** 2026-05-17T12:31:05.564743+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.6% over last 1302 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-203
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:45:54.635079+00:00
+**Completed At:** 2026-05-17T12:45:57.917539+00:00
+**Result:** dashboard/data/output/20260517-203.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.7% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-204
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:46:01.408630+00:00
+**Completed At:** 2026-05-17T12:46:04.365510+00:00
+**Result:** dashboard/data/output/20260517-204.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.7% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-205
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:46:07.485160+00:00
+**Completed At:** 2026-05-17T12:46:10.369719+00:00
+**Result:** dashboard/data/output/20260517-205.json
+**Summary:** ACCUMULATE (65%) — Strategy: GROWTH. Council: HOLD (70.7% MILD CONSENSUS)
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-206
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:46:13.593731+00:00
+**Completed At:** 2026-05-17T12:46:14.712548+00:00
+**Result:** /home/fishingshirt/stock-command-center/logs/self_build.log
+**Summary:** No actionable build steps for: - Bot: researcher_bot
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.6% over last 1307 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
+
+### Task ID: 20260517-207
+**Subject:** SPMO S&P 500 Momentum ETF trend scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:55:53.101831+00:00
+**Completed At:** 2026-05-17T12:55:59.674537+00:00
+**Result:** dashboard/data/output/20260517-207.json
+**Summary:** SPMO @ $143.48 — BUY (81% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 90.5% of 52-week range — limited upside | RSI: 68.01 | P/E
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-208
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:56:00.838512+00:00
+**Completed At:** 2026-05-17T12:56:07.251795+00:00
+**Result:** dashboard/data/output/20260517-208.json
+**Summary:** SPY @ $739.17 — ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range — limited upside | RSI: 69.61
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-209
+**Subject:** MTUM iShares Momentum Factor ETF rotation
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:56:08.429590+00:00
+**Completed At:** 2026-05-17T12:56:14.621436+00:00
+**Result:** dashboard/data/output/20260517-209.json
+**Summary:** MTUM @ $298.27 — BUY (91% confidence) | Bullish: Bullish news sentiment detected | RSI: 63.79 | P/E: 32.67441 | Strategy: GROWTH
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+
+### Task ID: 20260517-210
+**Subject:** Auto: Top crypto momentum scan (BTC, ETH, SOL)
+**Assigned Bot:** researcher_bot
+**Priority:** high
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:56:15.740912+00:00
+**Completed At:** 2026-05-17T12:56:21.310752+00:00
+**Result:** dashboard/data/output/20260517-210.json
+**Summary:** BTC @ $78361 — SELL (90% confidence) | Warnings: Bearish news sentiment detected | Strategy: GROWTH
+**Details:**
+- Pull Coingecko data
+- Volume and price change analysis
+- Momentum score and recommendation
+
+
+### Task ID: 20260517-211
+**Subject:** Auto: S&P 500 top movers sentiment scan
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:56:22.462588+00:00
+**Completed At:** 2026-05-17T12:56:28.629597+00:00
+**Result:** dashboard/data/output/20260517-211.json
+**Summary:** SPY @ $739.17 — ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range — limited upside | RSI: 69.61
+**Details:**
+- Identify top 5 daily movers
+- Fundamentals check
+- News sentiment
+- Investment recommendation
+
+
+### Task ID: 20260517-212
+**Subject:** QQQ analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:58:29.699419+00:00
+**Completed At:** 2026-05-17T12:58:36.565998+00:00
+**Result:** dashboard/data/output/20260517-212.json
+**Summary:** QQQ @ $708.93 — BUY (80% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 93.9% of 52-week range — limited upside | RSI: 73.26 | P/E:
+**Details:**
+Real-time market analysis for QQQ. Auto-generated watchlist task.
+
+
+### Task ID: 20260517-213
+**Subject:** IWM analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:58:37.673975+00:00
+**Completed At:** 2026-05-17T12:58:43.953071+00:00
+**Result:** dashboard/data/output/20260517-213.json
+**Summary:** IWM @ $277.6 — BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 50.55 | P/E: 19.102314 | Strategy: VALUE
+**Details:**
+Real-time market analysis for IWM. Auto-generated watchlist task.
+
+
+### Task ID: 20260517-214
+**Subject:** VTI analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:58:45.008112+00:00
+**Completed At:** 2026-05-17T12:58:51.387857+00:00
+**Result:** dashboard/data/output/20260517-214.json
+**Summary:** VTI @ $362.74 — REDUCE (59% confidence) | Warnings: Price at 93.5% of 52-week range — limited upside; Bearish news sentiment detected | RSI: 66.06 | P/E: 28.373
+**Details:**
+Real-time market analysis for VTI. Auto-generated watchlist task.
+
+
+### Task ID: 20260517-215
+**Subject:** XLK analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:58:52.500916+00:00
+**Completed At:** 2026-05-17T12:58:59.023618+00:00
+**Result:** dashboard/data/output/20260517-215.json
+**Summary:** XLK @ $176.26 — ACCUMULATE (65% confidence) | Warnings: Price at 94.1% of 52-week range — limited upside; Bearish news sentiment detected | RSI: 73.31 | P/E: 38
+**Details:**
+Real-time market analysis for XLK. Auto-generated watchlist task.
+
+
+### Task ID: 20260517-216
+**Subject:** XLF analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:59:00.128582+00:00
+**Completed At:** 2026-05-17T12:59:06.732363+00:00
+**Result:** dashboard/data/output/20260517-216.json
+**Summary:** XLF @ $51.1 — BUY (95% confidence) | RSI: 39.14 | P/E: 16.482962 | Strategy: VALUE
+**Details:**
+Real-time market analysis for XLF. Auto-generated watchlist task.
+
+
+### Task ID: 20260517-217
+**Subject:** XLE analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:00:58.716564+00:00
+**Completed At:** 2026-05-17T13:01:05.705792+00:00
+**Result:** dashboard/data/output/20260517-217.json
+**Summary:** XLE @ $59.44 — BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 61.34 | P/E: 21.610918 | Strategy: GROWTH
+**Details:**
+Real-time market analysis for XLE. Auto-generated watchlist task.
+
+
+### Task ID: 20260517-218
+**Subject:** XLI analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:01:06.924812+00:00
+**Completed At:** 2026-05-17T13:01:13.393466+00:00
+**Result:** dashboard/data/output/20260517-218.json
+**Summary:** XLI @ $171.4 — BUY (95% confidence) | RSI: 47.99 | P/E: 29.616436 | Strategy: GROWTH
+**Details:**
+Real-time market analysis for XLI. Auto-generated watchlist task.
+
+
+### Task ID: 20260517-219
+**Subject:** AVGO analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:01:14.495058+00:00
+**Completed At:** 2026-05-17T13:01:21.751079+00:00
+**Result:** dashboard/data/output/20260517-219.json
+**Summary:** AVGO @ $425.19 — BUY (83% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 82.721794x — growth expectations priced in; Price at 92.2%
+**Details:**
+Real-time market analysis for AVGO. Auto-generated watchlist task.
+
+
+### Task ID: 20260517-220
+**Subject:** CRM analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:01:22.882773+00:00
+**Completed At:** 2026-05-17T13:01:30.013686+00:00
+**Result:** dashboard/data/output/20260517-220.json
+**Summary:** CRM @ $173.51 — ACCUMULATE (67% confidence) | Bullish: Price near 52-week low — potential value entry; Bullish news sentiment detected | RSI: 43.99 | P/E: 22.21
+**Details:**
+Real-time market analysis for CRM. Auto-generated watchlist task.
+
+
+### Task ID: 20260517-221
+**Subject:** INTC analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T13:01:31.103308+00:00
+**Completed At:** 2026-05-17T13:01:38.880181+00:00
+**Result:** dashboard/data/output/20260517-221.json
+**Summary:** INTC @ $108.77 — BUY (91% confidence) | Bullish: Bullish news sentiment detected | RSI: 64.67 | Strategy: MOMENTUM
+**Details:**
+Real-time market analysis for INTC. Auto-generated watchlist task.
+
+

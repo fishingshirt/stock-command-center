@@ -270,7 +270,9 @@ def auto_trade_from_result(result: dict) -> dict:
 
     # ── SELL logic: if we hold this ticker and it got SELL/REDUCE ──
     if rec in ("SELL", "REDUCE") and ticker.upper() in ledger.get("positions", {}):
-        return sell(ticker, price, summary, task_id)
+        # Use live price from ledger for accurate P&L
+        live_price = ledger["positions"][ticker.upper()].get("last_price", price)
+        return sell(ticker, live_price, summary, task_id)
 
     # ── BUY logic ──
     if rec not in ("BUY", "ACCUMULATE"):
