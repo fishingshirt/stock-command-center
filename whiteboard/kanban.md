@@ -30,6 +30,18 @@ Auto-generated research task. Bot: researcher_bot.
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
 
+### Task ID: 20260517-194
+**Subject:** Auto: Improve researcher_bot model
+**Assigned Bot:** self_build
+**Priority:** high
+**Created:** 2026-05-17
+**Details:**
+- Bot: researcher_bot
+- Accuracy: 32.5% over last 1292 predictions
+- Target: improve to >= 40.0%
+- Suggestion: review data sources and scoring weights
+- Created via feedback_loop auto-improve
+
 ## In Progress
 
 _(No tasks in this section.)_
