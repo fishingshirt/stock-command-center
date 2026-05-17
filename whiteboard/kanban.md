@@ -37,14 +37,7 @@ Auto-generated research task. Bot: researcher_bot.
 
 ## In Progress
 
-### Task ID: 20260517-208
-**Subject:** V Visa payment network fundamentals
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-17
-**Started At:** 2026-05-17T12:56:00.838512+00:00
-**Details:**
-Auto-generated research task. Bot: researcher_bot.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13102,5 +13095,17 @@ Auto-generated research task. Bot: researcher_bot.
 **Completed At:** 2026-05-17T12:55:59.674537+00:00
 **Result:** dashboard/data/output/20260517-207.json
 **Summary:** SPMO @ $143.48 — BUY (81% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 90.5% of 52-week range — limited upside | RSI: 68.01 | P/E
+**Details:**
+Auto-generated research task. Bot: researcher_bot.
+
+### Task ID: 20260517-208
+**Subject:** V Visa payment network fundamentals
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-17
+**Started At:** 2026-05-17T12:56:00.838512+00:00
+**Completed At:** 2026-05-17T12:56:07.251795+00:00
+**Result:** dashboard/data/output/20260517-208.json
+**Summary:** SPY @ $739.17 — ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range — limited upside | RSI: 69.61
 **Details:**
 Auto-generated research task. Bot: researcher_bot.
