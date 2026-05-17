@@ -1,0 +1,165 @@
+{
+  "task_id": "20260517-279",
+  "subject": "VGT analysis",
+  "ticker": "VGT",
+  "timestamp": "2026-05-17T14:45:35.809455+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 67,
+  "summary": "VGT @ $113.31 \u2014 ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 40.479847x \u2014 growth expectations priced in; Price at 94.5% of 52-week range \u2014 limited upside | RSI: 73.65 | P/E: 40.479847 | Strategy: MOMENTUM",
+  "signal_score": 0.3,
+  "strategy": "MOMENTUM",
+  "key_metrics": {
+    "ticker": "VGT",
+    "current_price": 113.31,
+    "previous_close": 115.19,
+    "day_change_pct": -1.63,
+    "sma_20": 107.02,
+    "sma_50": 97.35,
+    "sma_200": 93.71,
+    "rsi_14": 73.65,
+    "52_week_high": 115.62,
+    "52_week_low": 73.76,
+    "price_vs_52w_pct": 94.5,
+    "volume_surge": 1.17,
+    "avg_volume": 4295443,
+    "market_cap": null,
+    "pe_trailing": 40.479847,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -0.36,
+    "return_1mo_pct": 12.03,
+    "return_3mo_pct": 24.12,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.5,
+      "note": "Strong 1mo momentum +12.03%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +24.12%"
+    },
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 73.65"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (107.02)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (93.71) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -1.5,
+      "note": "High trailing P/E 40.479847x \u2014 stretched valuation"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (94.5% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [
+    "High P/E 40.479847x \u2014 growth expectations priced in",
+    "Price at 94.5% of 52-week range \u2014 limited upside"
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 6,
+    "bearish": 0,
+    "total_mentions": 6
+  },
+  "news": [
+    {
+      "title": "Is the Vanguard Information Technology ETF the Right Fit for Your Portfolio Before Summer?",
+      "published": "Sat, 16 May 2026 20:06:02 +0000",
+      "url": "https://www.fool.com/investing/2026/05/16/is-etf-name-the-right-fit-for-your-portfolio-befor/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Best Growth ETF to Invest $1,000 in During Q2 2026",
+      "published": "Fri, 15 May 2026 16:38:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/15/best-growth-etf-to-invest-1000-in-q2-2026-vgt/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Cisco Surges on Strong AI Demand and Upbeat Outlook: ETFs to Win",
+      "published": "Fri, 15 May 2026 15:00:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-surges-strong-ai-demand-150000573.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "A Vanguard ETF Designed for Now and the Future",
+      "published": "Fri, 15 May 2026 13:50:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/15/a-vanguard-etf-designed-for-now-and-the-future/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Which Is the Better Tech ETF, Vanguard's VGT or State Street's XLK?",
+      "published": "Thu, 14 May 2026 13:47:03 +0000",
+      "url": "https://www.fool.com/coverage/etfs/2026/05/14/which-is-the-better-tech-etf-vanguard-s-vgt-or-state-street-s-xlk/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/VGT"
+  ],
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 113.31,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 113.31,
+    "margin_of_safety_pct": 0,
+    "verdict": "SLIGHTLY_OVERVALUED",
+    "upside_pct": 0.0
+  },
+  "earnings": {
+    "catalyst_score": 0,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "FLAT",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "ok",
+    "message": "Bought 35.0654 VGT @ $113.31",
+    "cost": 3973.26
+  },
+  "advisor": {
+    "ticker": "VGT",
+    "recommendation": "ACCUMULATE",
+    "confidence": 67,
+    "strategy": "MOMENTUM",
+    "reasoning": "## VGT Investment Thesis\n\n**Recommendation:** ACCUMULATE (67% confidence)\n**Strategy:** MOMENTUM\n**Price:** $113.31\n**Daily Change:** \ud83d\udd34 -1.63%\n\n**Valuation:** Target $113.31 | Upside 0.0% | MoS 0% | Verdict: SLIGHTLY_OVERVALUED\n\n**Earnings:** Earnings weakness detected (catalyst 0)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Strong 1mo momentum +12.03%\n\u2705 **3Mo Momentum:** Strong 3mo momentum +24.12%\n\u26a0\ufe0f **Rsi:** RSI overbought 73.65\n\u2705 **Sma20:** Price above SMA20 (107.02)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (93.71) \u2014 confirmed uptrend\n\u26a0\ufe0f **Pe:** High trailing P/E 40.479847x \u2014 stretched valuation\n\u26a0\ufe0f **52W:** Near 52-week high (94.5% of range)\n\n### Positive Factors\n\u2705 Bullish news sentiment detected\n\n### Risk Factors\n\u26a0\ufe0f High P/E 40.479847x \u2014 growth expectations priced in\n\u26a0\ufe0f Price at 94.5% of 52-week range \u2014 limited upside\n\n### News Sentiment: BULLISH (100.0)\n- 6 bullish mentions, 0 bearish\n- Recent headlines:\n  - Is the Vanguard Information Technology ETF the Right Fit for Your Portfolio Before Summer?\n  - The Best Growth ETF to Invest $1,000 in During Q2 2026\n  - Cisco Surges on Strong AI Demand and Upbeat Outlook: ETFs to Win\n\n### Key Metrics\n- **Ticker:** VGT\n- **Price:** $113.31\n- **P/E (trailing):** 40.479847\n- **RSI(14):** 73.65\n- **SMA 20:** 107.02\n- **SMA 50:** 97.35\n- **52W Range:** $73.76 - $115.62\n- **1mo Return:** 12.03%\n- **3mo Return:** 24.12%\n- **Volume Surge:** 1.17\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T14:45:41.087424+00:00"
+  }
+}

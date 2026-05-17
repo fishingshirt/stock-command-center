@@ -1,5 +1,5 @@
 {
-  "cash": 48779.981585,
+  "cash": 66977.73609100001,
   "initial_capital": 100000.0,
   "positions": {
     "IWM": {
@@ -52,16 +52,6 @@
       "task_id": "20260517-219",
       "opened_at": "2026-05-17T13:01:21.750445+00:00"
     },
-    "AMD": {
-      "ticker": "AMD",
-      "shares": 52.2778,
-      "entry_price": 95.0,
-      "last_price": 424.1,
-      "confidence": 92,
-      "reasoning": "Strong buy",
-      "task_id": "TEST2",
-      "opened_at": "2026-05-17T13:10:36.663303+00:00"
-    },
     "ADBE": {
       "ticker": "ADBE",
       "shares": 15.6325,
@@ -96,7 +86,7 @@
       "ticker": "BTC-USD",
       "shares": 0.0748,
       "entry_price": 78062.0,
-      "last_price": 77965.9219,
+      "last_price": 78008.1016,
       "confidence": 95,
       "reasoning": "BTC-USD @ $78062 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | Strategy: GROWTH",
       "task_id": "20260517-252",
@@ -111,6 +101,16 @@
       "reasoning": "VOO @ $679.44 \u2014 ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range \u2014 limited upside | RSI: 69.67 | P/E: 29.334908 | Strategy: GROWTH",
       "task_id": "20260517-273",
       "opened_at": "2026-05-17T14:40:28.289189+00:00"
+    },
+    "VGT": {
+      "ticker": "VGT",
+      "shares": 35.0654,
+      "entry_price": 113.31,
+      "last_price": 113.31,
+      "confidence": 67,
+      "reasoning": "VGT @ $113.31 \u2014 ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 40.479847x \u2014 growth expectations priced in; Price at 94.5% of 52-week range \u2014 limited upside | RSI: 73.65 | P/E: 40.479847 | Strategy: MOMENTUM",
+      "task_id": "20260517-279",
+      "opened_at": "2026-05-17T14:45:41.061572+00:00"
     }
   },
   "history": [
@@ -337,8 +337,36 @@
       "opened_at": "2026-05-17T14:38:33.232359+00:00",
       "closed_at": "2026-05-17T14:40:55.065733+00:00",
       "task_id": "20260517-276"
+    },
+    {
+      "ticker": "AMD",
+      "action": "SELL",
+      "shares": 52.2778,
+      "entry_price": 95.0,
+      "exit_price": 424.1,
+      "pnl": 17204.62,
+      "return_pct": 346.42,
+      "hold_seconds": 5434.8,
+      "reasoning": "Test SELL with live price",
+      "opened_at": "2026-05-17T13:10:36.663303+00:00",
+      "closed_at": "2026-05-17T14:41:11.499992+00:00",
+      "task_id": "TEST-SELL"
+    },
+    {
+      "ticker": "XLK",
+      "action": "SELL",
+      "shares": 19.5425,
+      "entry_price": 176.26,
+      "exit_price": 176.26,
+      "pnl": 0.0,
+      "return_pct": 0.0,
+      "hold_seconds": 9.6,
+      "reasoning": "Rotated out for XLF (95% vs 65%)",
+      "opened_at": "2026-05-17T14:45:49.169973+00:00",
+      "closed_at": "2026-05-17T14:45:58.736821+00:00",
+      "task_id": "20260517-281"
     }
   ],
   "created_at": "2026-05-15T06:50:00+00:00",
-  "updated_at": "2026-05-17T14:40:55.065737+00:00"
+  "updated_at": "2026-05-17T14:45:58.736825+00:00"
 }

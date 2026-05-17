@@ -1,36 +1,19 @@
 {
-  "next_earnings_date": "2026-06-12",
-  "earnings_history": [
-    {
-      "date": "2026-02-28",
-      "eps_estimate": 5.79,
-      "reported_eps": 5.99,
-      "surprise_pct": -0.1
-    },
-    {
-      "date": "2025-11-30",
-      "eps_estimate": 5.49,
-      "reported_eps": 5.69,
-      "surprise_pct": 2.6
-    },
-    {
-      "date": "2025-08-30",
-      "eps_estimate": 5.19,
-      "reported_eps": 5.39,
-      "surprise_pct": 3.9
-    }
-  ],
-  "eps_ttm": 23.96,
-  "eps_forward": 31.15,
-  "revenue_growth": -0.041,
-  "earnings_growth": -0.074,
-  "pe_trailing": 38.04,
-  "pe_forward": 34.59,
-  "peg_ratio": 1.29,
   "ticker": "VGT",
-  "analyzed_at": "2026-05-15T08:45:29.148595+00:00",
-  "source": "mock_fallback",
-  "surprise_avg_pct": 2.13,
-  "earnings_catalyst_score": 15,
+  "analyzed_at": "2026-05-17T14:45:39.080969+00:00",
+  "next_earnings_date": null,
+  "days_to_earnings": null,
+  "earnings_dates": [],
+  "quarterly_history": [],
+  "pe_trailing": 40.479847,
+  "pe_forward": null,
+  "peg_ratio": null,
+  "eps_ttm": null,
+  "eps_forward": null,
+  "revenue_growth": null,
+  "earnings_growth": null,
+  "surprise_avg_pct": null,
+  "eps_trend": "FLAT",
+  "earnings_catalyst_score": 0,
   "verdict": "Earnings weakness detected"
 }
