@@ -1,0 +1,166 @@
+{
+  "task_id": "20260517-236",
+  "subject": "UNH analysis",
+  "ticker": "UNH",
+  "timestamp": "2026-05-17T13:31:37.255077+00:00",
+  "recommendation": "BUY",
+  "confidence": 80,
+  "summary": "UNH @ $393.85 \u2014 BUY (80% confidence) | Bullish: Bullish news sentiment detected | Warnings: RSI 77.4 \u2014 possible reversal risk; Price at 93.9% of 52-week range \u2014 limited upside | RSI: 77.4 | P/E: 29.679728 | Strategy: MOMENTUM",
+  "signal_score": 0.429,
+  "strategy": "MOMENTUM",
+  "key_metrics": {
+    "ticker": "UNH",
+    "current_price": 393.85,
+    "previous_close": 399.09,
+    "day_change_pct": -1.31,
+    "sma_20": 369.53,
+    "sma_50": 320.23,
+    "sma_200": 317.37,
+    "rsi_14": 77.4,
+    "52_week_high": 404.15,
+    "52_week_low": 234.6,
+    "price_vs_52w_pct": 93.9,
+    "volume_surge": 0.94,
+    "avg_volume": 8461479,
+    "market_cap": 357672681472,
+    "pe_trailing": 29.679728,
+    "pe_forward": 18.977367,
+    "peg_ratio": 1.36,
+    "eps_ttm": 13.27,
+    "eps_forward": 20.75367,
+    "revenue_growth": 0.02,
+    "earnings_growth": 0.007,
+    "profit_margin": 0.02678,
+    "short_ratio": 2.15,
+    "beta": 0.646,
+    "return_5d_pct": 2.45,
+    "return_1mo_pct": 21.75,
+    "return_3mo_pct": 37.3,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.5,
+      "note": "Strong 1mo momentum +21.75%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +37.3%"
+    },
+    {
+      "name": "rsi",
+      "score": -2.0,
+      "note": "RSI extremely overbought 77.4"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (369.53)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (317.37) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 18.977367x < trailing 29.679728x (expected growth)"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (93.9% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [
+    "RSI 77.4 \u2014 possible reversal risk",
+    "Price at 93.9% of 52-week range \u2014 limited upside"
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 0,
+    "total_mentions": 2
+  },
+  "news": [
+    {
+      "title": "Berkshire Exit Puts UnitedHealth Valuation And Medicare Reset In Focus",
+      "published": "Sat, 16 May 2026 03:18:47 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-exit-puts-unitedhealth-valuation-031847300.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Berkshire Bought New Stocks, Shed Some Big Names in First Quarter Without Buffett as CEO",
+      "published": "Fri, 15 May 2026 23:22:53 +0000",
+      "url": "https://www.investopedia.com/berkshire-hathaway-13f-q1-2026-stocks-greg-abel-warren-buffett-11976563?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Berkshire Boosted Stake in Alphabet in First Quarter, Bought Delta Air, Sold Visa, Mastercard",
+      "published": "Fri, 15 May 2026 22:16:00 +0000",
+      "url": "https://finance.yahoo.com/m/fcc5e53e-7a2c-33b3-9582-bdaa5604f0cd/berkshire-boosted-stake-in.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Dow Closes Above 50,000 for First Time in Months",
+      "published": "Thu, 14 May 2026 20:02:27 +0000",
+      "url": "https://finance.yahoo.com/m/f2f70f24-b676-330d-9cb8-d4e55f084fba/dow-closes-above-50%2C000-for.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Forget UnitedHealth: Two Stocks To Buy Now",
+      "published": "Thu, 14 May 2026 17:13:00 +0000",
+      "url": "https://247wallst.com/investing/2026/05/14/forget-unitedhealth-two-stocks-to-buy-now/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/UNH"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 393.85,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 598.91,
+    "margin_of_safety_pct": 34.24,
+    "verdict": "STRONG_BUY",
+    "upside_pct": 52.07
+  },
+  "earnings": {
+    "catalyst_score": 10,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "ok",
+    "message": "Bought 10.3656 UNH @ $393.85",
+    "cost": 4082.49,
+    "rotation": "Sold XLK to buy UNH"
+  },
+  "advisor": {
+    "ticker": "UNH",
+    "recommendation": "BUY",
+    "confidence": 80,
+    "strategy": "MOMENTUM",
+    "reasoning": "## UNH Investment Thesis\n\n**Recommendation:** BUY (80% confidence)\n**Strategy:** MOMENTUM\n**Price:** $393.85\n**Daily Change:** \ud83d\udd34 -1.31%\n\n**Valuation:** Target $598.91 | Upside 52.07% | MoS 34.24% | Verdict: STRONG_BUY\n\n**Earnings:** Earnings weakness detected (catalyst 10)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Strong 1mo momentum +21.75%\n\u2705 **3Mo Momentum:** Strong 3mo momentum +37.3%\n\u26a0\ufe0f **Rsi:** RSI extremely overbought 77.4\n\u2705 **Sma20:** Price above SMA20 (369.53)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (317.37) \u2014 confirmed uptrend\n\u2705 **Pe Forward:** Forward P/E 18.977367x < trailing 29.679728x (expected growth)\n\u26a0\ufe0f **52W:** Near 52-week high (93.9% of range)\n\n### Positive Factors\n\u2705 Bullish news sentiment detected\n\n### Risk Factors\n\u26a0\ufe0f RSI 77.4 \u2014 possible reversal risk\n\u26a0\ufe0f Price at 93.9% of 52-week range \u2014 limited upside\n\n### News Sentiment: BULLISH (100.0)\n- 2 bullish mentions, 0 bearish\n- Recent headlines:\n  - Berkshire Exit Puts UnitedHealth Valuation And Medicare Reset In Focus\n  - Berkshire Bought New Stocks, Shed Some Big Names in First Quarter Without Buffett as CEO\n  - Berkshire Boosted Stake in Alphabet in First Quarter, Bought Delta Air, Sold Visa, Mastercard\n\n### Key Metrics\n- **Ticker:** UNH\n- **Price:** $393.85\n- **P/E (trailing):** 29.679728\n- **P/E (forward):** 18.977367\n- **PEG:** 1.36\n- **RSI(14):** 77.4\n- **SMA 20:** 369.53\n- **SMA 50:** 320.23\n- **52W Range:** $234.6 - $404.15\n- **1mo Return:** 21.75%\n- **3mo Return:** 37.3%\n- **Volume Surge:** 0.94\n- **Market Cap:** $357.7B\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T13:31:41.499794+00:00"
+  }
+}

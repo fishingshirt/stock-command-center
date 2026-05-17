@@ -1,0 +1,158 @@
+{
+  "task_id": "20260517-233",
+  "subject": "BA analysis",
+  "ticker": "BA",
+  "timestamp": "2026-05-17T13:31:13.020244+00:00",
+  "recommendation": "HOLD",
+  "confidence": 51,
+  "summary": "BA @ $220.49 \u2014 HOLD (51% confidence) | Bullish: Bullish news sentiment detected | Warnings: High P/E 86.80709x \u2014 growth expectations priced in | RSI: 41.25 | P/E: 86.80709 | Strategy: GROWTH",
+  "signal_score": 0.067,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "BA",
+    "current_price": 220.49,
+    "previous_close": 229.21,
+    "day_change_pct": -3.8,
+    "sma_20": 229.7,
+    "sma_50": 217.93,
+    "sma_200": 219.67,
+    "rsi_14": 41.25,
+    "52_week_high": 254.35,
+    "52_week_low": 176.77,
+    "price_vs_52w_pct": 56.4,
+    "volume_surge": 1.4,
+    "avg_volume": 6834703,
+    "market_cap": 173812793344,
+    "pe_trailing": 86.80709,
+    "pe_forward": 51.97564,
+    "peg_ratio": 23.89,
+    "eps_ttm": 2.54,
+    "eps_forward": 4.24218,
+    "revenue_growth": 0.14,
+    "earnings_growth": null,
+    "profit_margin": 0.024600001,
+    "short_ratio": 0.29,
+    "beta": 1.207,
+    "return_5d_pct": -7.44,
+    "return_1mo_pct": -2.04,
+    "return_3mo_pct": -9.65,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "day_spike",
+      "score": -0.5,
+      "note": "Big daily drop -3.8%"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (229.7)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "pe",
+      "score": -1.5,
+      "note": "High trailing P/E 86.80709x \u2014 stretched valuation"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 51.97564x < trailing 86.80709x (expected growth)"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 23.89 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.0,
+      "note": "Revenue growing 14% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [
+    "High P/E 86.80709x \u2014 growth expectations priced in"
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 0,
+    "total_mentions": 2
+  },
+  "news": [
+    {
+      "title": "Jim Cramer on GE Aerospace: \u201cBuy, GE Is Larry Culp\u201d",
+      "published": "Sun, 17 May 2026 13:12:33 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-ge-aerospace-buy-131233578.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Boeing\u2019s 200 Jet China Deal Reopens Market Yet Leaves Questions",
+      "published": "Sat, 16 May 2026 20:10:20 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-200-jet-china-deal-201020481.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Should Boeing really be in the Dow? A look at the struggling stock",
+      "published": "Sat, 16 May 2026 16:26:00 +0000",
+      "url": "https://www.thestreet.com/investing/stocks/should-boeing-be-in-the-dow?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Trump\u2019s More Than 3,700 Trades Astonish Wall Street Insiders",
+      "published": "Sat, 16 May 2026 14:10:49 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-traded-nvidia-boeing-intel-030913697.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "China Says to Cut Levies, Expand Farm Trade After Talks With US",
+      "published": "Sat, 16 May 2026 14:09:29 +0000",
+      "url": "https://finance.yahoo.com/economy/policy/articles/china-says-cut-levies-expand-140929656.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/BA"
+  ],
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 220.49,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 74.4,
+    "margin_of_safety_pct": 0,
+    "verdict": "OVERVALUED",
+    "upside_pct": -66.26
+  },
+  "earnings": {
+    "catalyst_score": 15,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "STABLE",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "skipped",
+    "reason": "rec=HOLD"
+  },
+  "advisor": {
+    "ticker": "BA",
+    "recommendation": "HOLD",
+    "confidence": 51,
+    "strategy": "GROWTH",
+    "reasoning": "## BA Investment Thesis\n\n**Recommendation:** HOLD (51% confidence)\n**Strategy:** GROWTH\n**Price:** $220.49\n**Daily Change:** \ud83d\udd34 -3.80%\n\n**Valuation:** Target $74.4 | Upside -66.26% | MoS 0% | Verdict: OVERVALUED\n\n**Earnings:** Earnings weakness detected (catalyst 15)\n\n### Technical Signals\n\u26a0\ufe0f **Day Spike:** Big daily drop -3.8%\n\u26a0\ufe0f **Sma20:** Price below SMA20 (229.7)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u26a0\ufe0f **Pe:** High trailing P/E 86.80709x \u2014 stretched valuation\n\u2705 **Pe Forward:** Forward P/E 51.97564x < trailing 86.80709x (expected growth)\n\u26a0\ufe0f **Peg:** PEG 23.89 > 2.0 \u2014 expensive growth\n\u2705 **Revenue Growth:** Revenue growing 14% YoY\n\u2705 **Sentiment:** Bullish news sentiment (100.0)\n\n### Positive Factors\n\u2705 Bullish news sentiment detected\n\n### Risk Factors\n\u26a0\ufe0f High P/E 86.80709x \u2014 growth expectations priced in\n\n### News Sentiment: BULLISH (100.0)\n- 2 bullish mentions, 0 bearish\n- Recent headlines:\n  - Jim Cramer on GE Aerospace: \u201cBuy, GE Is Larry Culp\u201d\n  - Boeing\u2019s 200 Jet China Deal Reopens Market Yet Leaves Questions\n  - Should Boeing really be in the Dow? A look at the struggling stock\n\n### Key Metrics\n- **Ticker:** BA\n- **Price:** $220.49\n- **P/E (trailing):** 86.80709\n- **P/E (forward):** 51.97564\n- **PEG:** 23.89\n- **RSI(14):** 41.25\n- **SMA 20:** 229.7\n- **SMA 50:** 217.93\n- **52W Range:** $176.77 - $254.35\n- **1mo Return:** -2.04%\n- **3mo Return:** -9.65%\n- **Volume Surge:** 1.4\n- **Market Cap:** $173.8B\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-17T13:31:17.471816+00:00"
+  }
+}

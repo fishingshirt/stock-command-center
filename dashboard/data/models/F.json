@@ -1,0 +1,30 @@
+{
+  "ticker": "F",
+  "timestamp": "2026-05-17T13:31:23.181755+00:00",
+  "current_price": 13.4,
+  "dcf_target": null,
+  "comparable_target": 45.13,
+  "blended_target": 45.13,
+  "margin_of_safety_pct": 70.31,
+  "upside_pct": 236.79,
+  "verdict": "STRONG_BUY",
+  "valuation_inputs": {
+    "trailing_pe": null,
+    "forward_pe": 7.237219,
+    "price_to_sales": 0.28123143,
+    "price_to_book": 1.4256835,
+    "ev_ebitda": 25.225,
+    "eps_ttm": -1.55,
+    "eps_forward": 1.85154,
+    "sector": "Consumer Cyclical",
+    "sector_median_pe": 22,
+    "implied_pe": null,
+    "implied_ps": 71.47,
+    "implied_pb": 18.8,
+    "free_cash_flow": -2247500032,
+    "shares_outstanding": 3913840554,
+    "growth_assumed": 4.308,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

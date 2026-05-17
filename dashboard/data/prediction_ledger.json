@@ -9644,6 +9644,61 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "CVX",
+      "recommendation": "ACCUMULATE",
+      "confidence": 67,
+      "price_at_predict": 191.1,
+      "timestamp": "2026-05-17T13:31:04.020871+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "BA",
+      "recommendation": "HOLD",
+      "confidence": 51,
+      "price_at_predict": 220.49,
+      "timestamp": "2026-05-17T13:31:13.133389+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "F",
+      "recommendation": "BUY",
+      "confidence": 85,
+      "price_at_predict": 13.4,
+      "timestamp": "2026-05-17T13:31:21.972588+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPY",
+      "recommendation": "ACCUMULATE",
+      "confidence": 66,
+      "price_at_predict": 739.17,
+      "timestamp": "2026-05-17T13:31:29.825624+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "UNH",
+      "recommendation": "BUY",
+      "confidence": 80,
+      "price_at_predict": 393.85,
+      "timestamp": "2026-05-17T13:31:37.368830+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

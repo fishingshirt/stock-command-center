@@ -1,17 +1,7 @@
 {
-  "cash": 36916.659683000005,
+  "cash": 43546.799867,
   "initial_capital": 100000.0,
   "positions": {
-    "SPMO": {
-      "ticker": "SPMO",
-      "shares": 63.8133,
-      "entry_price": 144.08,
-      "last_price": 143.48,
-      "confidence": 65,
-      "reasoning": "SPMO \u2014 BULLISH sentiment, ACCUMULATE (65% confidence). PE: 34.373173, RSI: 69.33, Price: $144.08.",
-      "task_id": "20260515-428",
-      "opened_at": "2026-05-15T19:15:30.386760+00:00"
-    },
     "QQQ": {
       "ticker": "QQQ",
       "shares": 10.505,
@@ -31,16 +21,6 @@
       "reasoning": "IWM @ $277.6 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 50.55 | P/E: 19.102314 | Strategy: VALUE",
       "task_id": "20260517-213",
       "opened_at": "2026-05-17T12:58:43.952523+00:00"
-    },
-    "XLK": {
-      "ticker": "XLK",
-      "shares": 34.224,
-      "entry_price": 176.26,
-      "last_price": 176.26,
-      "confidence": 65,
-      "reasoning": "XLK @ $176.26 \u2014 ACCUMULATE (65% confidence) | Warnings: Price at 94.1% of 52-week range \u2014 limited upside; Bearish news sentiment detected | RSI: 73.31 | P/E: 38.625595 | Strategy: MOMENTUM",
-      "task_id": "20260517-215",
-      "opened_at": "2026-05-17T12:58:59.023042+00:00"
     },
     "XLF": {
       "ticker": "XLF",
@@ -121,6 +101,26 @@
       "reasoning": "GS @ $948.47 \u2014 BUY (86% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 91.0% of 52-week range \u2014 limited upside | RSI: 52.96 | P/E: 17.329983 | Strategy: VALUE",
       "task_id": "20260517-230",
       "opened_at": "2026-05-17T13:16:28.472130+00:00"
+    },
+    "F": {
+      "ticker": "F",
+      "shares": 334.0017,
+      "entry_price": 13.4,
+      "last_price": 13.4,
+      "confidence": 85,
+      "reasoning": "F @ $13.4 \u2014 BUY (85% confidence) | Bullish: Bullish news sentiment detected | RSI: 59.32 | Strategy: GROWTH",
+      "task_id": "20260517-234",
+      "opened_at": "2026-05-17T13:31:25.789685+00:00"
+    },
+    "UNH": {
+      "ticker": "UNH",
+      "shares": 10.3656,
+      "entry_price": 393.85,
+      "last_price": 393.85,
+      "confidence": 80,
+      "reasoning": "UNH @ $393.85 \u2014 BUY (80% confidence) | Bullish: Bullish news sentiment detected | Warnings: RSI 77.4 \u2014 possible reversal risk; Price at 93.9% of 52-week range \u2014 limited upside | RSI: 77.4 | P/E: 29.679728 | Strategy: MOMENTUM",
+      "task_id": "20260517-236",
+      "opened_at": "2026-05-17T13:31:41.465356+00:00"
     }
   },
   "history": [
@@ -207,8 +207,36 @@
       "opened_at": "2026-05-15T15:47:34.631225+00:00",
       "closed_at": "2026-05-17T13:16:28.471695+00:00",
       "task_id": "20260517-230"
+    },
+    {
+      "ticker": "SPMO",
+      "action": "SELL",
+      "shares": 63.8133,
+      "entry_price": 144.08,
+      "exit_price": 143.48,
+      "pnl": -38.29,
+      "return_pct": -0.42,
+      "hold_seconds": 152155.4,
+      "reasoning": "Rotated out for F (85% vs 65%)",
+      "opened_at": "2026-05-15T19:15:30.386760+00:00",
+      "closed_at": "2026-05-17T13:31:25.789236+00:00",
+      "task_id": "20260517-234"
+    },
+    {
+      "ticker": "XLK",
+      "action": "SELL",
+      "shares": 34.224,
+      "entry_price": 176.26,
+      "exit_price": 176.26,
+      "pnl": 0.0,
+      "return_pct": 0.0,
+      "hold_seconds": 1962.4,
+      "reasoning": "Rotated out for UNH (80% vs 65%)",
+      "opened_at": "2026-05-17T12:58:59.023042+00:00",
+      "closed_at": "2026-05-17T13:31:41.464896+00:00",
+      "task_id": "20260517-236"
     }
   ],
   "created_at": "2026-05-15T06:50:00+00:00",
-  "updated_at": "2026-05-17T13:16:28.472135+00:00"
+  "updated_at": "2026-05-17T13:31:41.465360+00:00"
 }

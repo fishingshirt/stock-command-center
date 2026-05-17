@@ -1,0 +1,30 @@
+{
+  "ticker": "CVX",
+  "timestamp": "2026-05-17T13:31:05.316134+00:00",
+  "current_price": 191.1,
+  "dcf_target": 107.86,
+  "comparable_target": 133.53,
+  "blended_target": 120.69,
+  "margin_of_safety_pct": 0,
+  "upside_pct": -36.84,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 33.35079,
+    "forward_pe": 15.696228,
+    "price_to_sales": 2.0490704,
+    "price_to_book": 2.056918,
+    "ev_ebitda": 11.176,
+    "eps_ttm": 5.73,
+    "eps_forward": 12.1749,
+    "sector": "Energy",
+    "sector_median_pe": 12,
+    "implied_pe": 68.76,
+    "implied_ps": 146.03,
+    "implied_pb": 185.81,
+    "free_cash_flow": 11776499712,
+    "shares_outstanding": 1991597732,
+    "growth_assumed": 0.1,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}

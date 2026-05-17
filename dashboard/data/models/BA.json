@@ -1,0 +1,30 @@
+{
+  "ticker": "BA",
+  "timestamp": "2026-05-17T13:31:14.328267+00:00",
+  "current_price": 220.49,
+  "dcf_target": 48.53,
+  "comparable_target": 100.27,
+  "blended_target": 74.4,
+  "margin_of_safety_pct": 0,
+  "upside_pct": -66.26,
+  "verdict": "OVERVALUED",
+  "valuation_inputs": {
+    "trailing_pe": 86.80709,
+    "forward_pe": 51.97564,
+    "price_to_sales": 1.8854984,
+    "price_to_book": 29.04624,
+    "ev_ebitda": -62.367,
+    "eps_ttm": 2.54,
+    "eps_forward": 4.24218,
+    "sector": "Industrials",
+    "sector_median_pe": 18,
+    "implied_pe": 45.72,
+    "implied_ps": 239.92,
+    "implied_pb": 15.18,
+    "free_cash_flow": 2554249984,
+    "shares_outstanding": 788302331,
+    "growth_assumed": 0.15,
+    "wacc": 0.09,
+    "terminal_growth": 0.025
+  }
+}
