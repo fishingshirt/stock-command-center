@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260518-388
-**Subject:** IWM analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-18
-**Details:**
-Real-time market analysis for IWM. Auto-generated watchlist task.
-
 ### Task ID: 20260518-389
 **Subject:** VTI analysis
 **Assigned Bot:** researcher_bot
@@ -32,7 +24,14 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260518-388
+**Subject:** IWM analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-18
+**Started At:** 2026-05-18T19:31:25.991874+00:00
+**Details:**
+Real-time market analysis for IWM. Auto-generated watchlist task.
 
 ## Done
 
