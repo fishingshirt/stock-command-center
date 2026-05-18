@@ -1,0 +1,163 @@
+{
+  "task_id": "20260518-382",
+  "subject": "QQQ analysis",
+  "ticker": "QQQ",
+  "timestamp": "2026-05-18T19:16:02.792070+00:00",
+  "recommendation": "BUY",
+  "confidence": 80,
+  "summary": "QQQ @ $702.29 \u2014 BUY (80% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 90.9% of 52-week range \u2014 limited upside | RSI: 73.3 | P/E: 34.254787 | Strategy: GROWTH",
+  "signal_score": 0.412,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "QQQ",
+    "current_price": 702.29,
+    "previous_close": 708.93,
+    "day_change_pct": -0.94,
+    "sma_20": 683.13,
+    "sma_50": 633.36,
+    "sma_200": 610.53,
+    "rsi_14": 73.3,
+    "52_week_high": 722.03,
+    "52_week_low": 505.58,
+    "price_vs_52w_pct": 90.9,
+    "volume_surge": 0.75,
+    "avg_volume": 56833549,
+    "market_cap": null,
+    "pe_trailing": 34.254787,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -0.7,
+    "return_1mo_pct": 9.0,
+    "return_3mo_pct": 16.08,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +9.0%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +16.08%"
+    },
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 73.3"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (683.13)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (610.53) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 34.254787x"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (90.9% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [
+    "Price at 90.9% of 52-week range \u2014 limited upside"
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 3,
+    "bearish": 0,
+    "total_mentions": 3
+  },
+  "news": [
+    {
+      "title": "Exchange-Traded Funds Decline, US Equities Mixed After Midday",
+      "published": "Mon, 18 May 2026 17:08:01 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-decline-us-170801485.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Hedge Your AI Holdings With This Safe Haven ETF if the Bubble Bursts",
+      "published": "Mon, 18 May 2026 14:25:55 +0000",
+      "url": "https://247wallst.com/investing/2026/05/18/hedge-your-ai-holdings-with-this-safe-haven-etf-if-the-bubble-bursts/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "History Says VUG Is Not Worth Your Money. Hold This Instead",
+      "published": "Mon, 18 May 2026 13:56:46 +0000",
+      "url": "https://247wallst.com/investing/2026/05/18/history-says-vug-is-not-worth-your-money-hold-this-instead/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday Amid Stalled Iran Peace Efforts, Inflation Concerns",
+      "published": "Mon, 18 May 2026 13:12:22 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131222722.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Kiplinger Letter Says Almost None of the GDP Growth Washington Is Celebrating Actually Came From AI and for Investors the Implications Are Uncomfortable",
+      "published": "Mon, 18 May 2026 11:30:11 +0000",
+      "url": "https://247wallst.com/investing/2026/05/18/the-kiplinger-letter-says-almost-none-of-the-gdp-growth-washington-is-celebrating-actually-came-from-ai-and-for-investors-the-implications-are-uncomfortable/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/QQQ"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 702.29,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 715.55,
+    "margin_of_safety_pct": 1.85,
+    "verdict": "SLIGHTLY_OVERVALUED",
+    "upside_pct": 1.89
+  },
+  "earnings": {
+    "catalyst_score": 0,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "FLAT",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "already_open",
+    "message": "Position already open for QQQ"
+  },
+  "advisor": {
+    "ticker": "QQQ",
+    "recommendation": "BUY",
+    "confidence": 80,
+    "strategy": "GROWTH",
+    "reasoning": "## QQQ Investment Thesis\n\n**Recommendation:** BUY (80% confidence)\n**Strategy:** GROWTH\n**Price:** $702.29\n**Daily Change:** \ud83d\udd34 -0.94%\n\n**Valuation:** Target $715.55 | Upside 1.89% | MoS 1.85% | Verdict: SLIGHTLY_OVERVALUED\n\n**Earnings:** Earnings weakness detected (catalyst 0)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Positive 1mo momentum +9.0%\n\u2705 **3Mo Momentum:** Strong 3mo momentum +16.08%\n\u26a0\ufe0f **Rsi:** RSI overbought 73.3\n\u2705 **Sma20:** Price above SMA20 (683.13)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (610.53) \u2014 confirmed uptrend\n\u26a0\ufe0f **Pe:** Elevated P/E 34.254787x\n\u26a0\ufe0f **52W:** Near 52-week high (90.9% of range)\n\n### Positive Factors\n\u2705 Bullish news sentiment detected\n\n### Risk Factors\n\u26a0\ufe0f Price at 90.9% of 52-week range \u2014 limited upside\n\n### News Sentiment: BULLISH (100.0)\n- 3 bullish mentions, 0 bearish\n- Recent headlines:\n  - Exchange-Traded Funds Decline, US Equities Mixed After Midday\n  - Hedge Your AI Holdings With This Safe Haven ETF if the Bubble Bursts\n  - History Says VUG Is Not Worth Your Money. Hold This Instead\n\n### Key Metrics\n- **Ticker:** QQQ\n- **Price:** $702.29\n- **P/E (trailing):** 34.254787\n- **RSI(14):** 73.3\n- **SMA 20:** 683.13\n- **SMA 50:** 633.36\n- **52W Range:** $505.58 - $722.03\n- **1mo Return:** 9.0%\n- **3mo Return:** 16.08%\n- **Volume Surge:** 0.75\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-18T19:16:06.246562+00:00"
+  }
+}
