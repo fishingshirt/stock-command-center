@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260518-383
-**Subject:** IWM analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-18
-**Details:**
-Real-time market analysis for IWM. Auto-generated watchlist task.
-
 ### Task ID: 20260518-384
 **Subject:** VTI analysis
 **Assigned Bot:** researcher_bot
@@ -32,7 +24,14 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260518-383
+**Subject:** IWM analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-18
+**Started At:** 2026-05-18T19:16:07.547259+00:00
+**Details:**
+Real-time market analysis for IWM. Auto-generated watchlist task.
 
 ## Done
 
@@ -7586,6 +7585,6 @@ Real-time market analysis for SPY. Auto-generated watchlist task.
 **Started At:** 2026-05-18T19:15:59.868114+00:00
 **Completed At:** 2026-05-18T19:16:06.251735+00:00
 **Result:** dashboard/data/output/20260518-382.json
-**Summary:** QQQ @ $702.29 — BUY (80% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 90.9% of 52-week range — limited upside | RSI: 73.3 | P/E: 
+**Summary:** QQQ @ $702.29 — BUY (80% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 90.9% of 52-week range — limited upside | RSI: 73.3 | P/E:
 **Details:**
 Real-time market analysis for QQQ. Auto-generated watchlist task.
