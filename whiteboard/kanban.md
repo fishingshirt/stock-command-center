@@ -32,14 +32,7 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260518-297
-**Subject:** QQQ analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-18
-**Started At:** 2026-05-18T15:01:08.783194+00:00
-**Details:**
-Real-time market analysis for QQQ. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -6564,3 +6557,15 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 **Summary:** SPY @ $738.91 — ACCUMULATE (65% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 93.9% of 52-week range — limited upside | RSI: 73.47
 **Details:**
 Real-time market analysis for SPY. Auto-generated watchlist task.
+
+### Task ID: 20260518-297
+**Subject:** QQQ analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-18
+**Started At:** 2026-05-18T15:01:08.783194+00:00
+**Completed At:** 2026-05-18T15:01:15.575039+00:00
+**Result:** dashboard/data/output/20260518-297.json
+**Summary:** QQQ @ $705.44 — ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | Warnings: RSI 75.78 — possible reversal risk; Price at 92.3% of 52-week
+**Details:**
+Real-time market analysis for QQQ. Auto-generated watchlist task.
