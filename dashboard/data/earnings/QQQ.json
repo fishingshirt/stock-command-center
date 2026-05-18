@@ -1,11 +1,11 @@
 {
   "ticker": "QQQ",
-  "analyzed_at": "2026-05-18T17:31:34.158635+00:00",
+  "analyzed_at": "2026-05-18T17:46:43.179397+00:00",
   "next_earnings_date": null,
   "days_to_earnings": null,
   "earnings_dates": [],
   "quarterly_history": [],
-  "pe_trailing": 34.31332,
+  "pe_trailing": 34.289177,
   "pe_forward": null,
   "peg_ratio": null,
   "eps_ttm": null,
