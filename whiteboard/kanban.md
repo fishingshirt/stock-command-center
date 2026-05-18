@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260518-272
-**Subject:** QQQ analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-18
-**Details:**
-Real-time market analysis for QQQ. Auto-generated watchlist task.
-
 ### Task ID: 20260518-273
 **Subject:** IWM analysis
 **Assigned Bot:** researcher_bot
@@ -40,7 +32,14 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260518-272
+**Subject:** QQQ analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-18
+**Started At:** 2026-05-18T13:46:11.449887+00:00
+**Details:**
+Real-time market analysis for QQQ. Auto-generated watchlist task.
 
 ## Done
 
@@ -6262,6 +6261,6 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 **Started At:** 2026-05-18T13:46:03.092806+00:00
 **Completed At:** 2026-05-18T13:46:10.089214+00:00
 **Result:** dashboard/data/output/20260518-271.json
-**Summary:** SPY @ $738.45 — ACCUMULATE (65% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 93.6% of 52-week range — limited upside | RSI: 72.9 
+**Summary:** SPY @ $738.45 — ACCUMULATE (65% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 93.6% of 52-week range — limited upside | RSI: 72.9
 **Details:**
 Real-time market analysis for SPY. Auto-generated watchlist task.
