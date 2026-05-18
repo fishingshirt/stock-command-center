@@ -1,0 +1,131 @@
+{
+  "task_id": "20260518-143",
+  "subject": "IWM analysis",
+  "ticker": "IWM",
+  "timestamp": "2026-05-18T07:15:50.656901+00:00",
+  "recommendation": "BUY",
+  "confidence": 95,
+  "summary": "IWM @ $277.6 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 50.55 | P/E: 19.102314 | Strategy: VALUE",
+  "signal_score": 1.0,
+  "strategy": "VALUE",
+  "key_metrics": {
+    "ticker": "IWM",
+    "current_price": 277.6,
+    "previous_close": 284.45,
+    "day_change_pct": -2.41,
+    "sma_20": 279.36,
+    "sma_50": 263.77,
+    "sma_200": 250.22,
+    "rsi_14": 50.55,
+    "52_week_high": 287.58,
+    "52_week_low": 199.65,
+    "price_vs_52w_pct": 88.7,
+    "volume_surge": 0.62,
+    "avg_volume": 38793357,
+    "market_cap": null,
+    "pe_trailing": 19.102314,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -2.71,
+    "return_1mo_pct": 0.09,
+    "return_3mo_pct": 5.72,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (250.22) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 4,
+    "bearish": 0,
+    "total_mentions": 4
+  },
+  "news": [
+    {
+      "title": "Monster Stocks Are Eating Wall Street. Here\u2019s the Bull Case for Microcaps, Plus 3 Top Charts.",
+      "published": "Fri, 15 May 2026 15:36:21 +0000",
+      "url": "https://www.barchart.com/story/news/1960288/monster-stocks-are-eating-wall-street-heres-the-bull-case-for-microcaps-plus-3-top-charts?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Macro Indicators at a Crossroads. Charts of Dow Industrials, Small Caps, 10-Year Yield Tell the Story.",
+      "published": "Fri, 15 May 2026 14:30:00 +0000",
+      "url": "https://finance.yahoo.com/m/46f48d03-6ca6-330d-8d38-4d94bffdd344/macro-indicators-at-a.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday Amid Oil Surge, Higher Yields, Geopolitical Uncertainty",
+      "published": "Fri, 15 May 2026 13:14:14 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131414580.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "IWM and VTWO Track the Same 2000 Stocks Yet VTWO\u2019s Ten-Year Return Crushes IWM by Nearly 40 Percentage Points",
+      "published": "Fri, 15 May 2026 09:30:03 +0000",
+      "url": "https://247wallst.com/investing/2026/05/15/iwm-and-vtwo-track-the-same-2000-stocks-yet-vtwos-ten-year-return-crushes-iwm-by-nearly-40-percentage-points-2/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Battle of iShares ETFs: Should You Buy the S&P 500 ETF or Russell 2000?",
+      "published": "Thu, 14 May 2026 18:06:10 +0000",
+      "url": "https://www.fool.com/coverage/etfs/2026/05/14/ishares-sp-500-etf-tops-russell-2000-in-cost-and-5-year-returns/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/IWM"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 277.6,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 437.39,
+    "margin_of_safety_pct": 36.53,
+    "verdict": "STRONG_BUY",
+    "upside_pct": 57.56
+  },
+  "earnings": {
+    "catalyst_score": 0,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "FLAT",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "already_open",
+    "message": "Position already open for IWM"
+  },
+  "advisor": {
+    "ticker": "IWM",
+    "recommendation": "BUY",
+    "confidence": 95,
+    "strategy": "VALUE",
+    "reasoning": "## IWM Investment Thesis\n\n**Recommendation:** BUY (95% confidence)\n**Strategy:** VALUE\n**Price:** $277.6\n**Daily Change:** \ud83d\udd34 -2.41%\n\n**Valuation:** Target $437.39 | Upside 57.56% | MoS 36.53% | Verdict: STRONG_BUY\n\n**Earnings:** Earnings weakness detected (catalyst 0)\n\n### Technical Signals\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (250.22) \u2014 confirmed uptrend\n\u2705 **Sentiment:** Bullish news sentiment (100.0)\n\n### Positive Factors\n\u2705 Bullish news sentiment detected\n\n### News Sentiment: BULLISH (100.0)\n- 4 bullish mentions, 0 bearish\n- Recent headlines:\n  - Monster Stocks Are Eating Wall Street. Here\u2019s the Bull Case for Microcaps, Plus 3 Top Charts.\n  - Macro Indicators at a Crossroads. Charts of Dow Industrials, Small Caps, 10-Year Yield Tell the Story.\n  - Exchange-Traded Funds, Equity Futures Lower Pre-Bell Friday Amid Oil Surge, Higher Yields, Geopolitical Uncertainty\n\n### Key Metrics\n- **Ticker:** IWM\n- **Price:** $277.6\n- **P/E (trailing):** 19.102314\n- **RSI(14):** 50.55\n- **SMA 20:** 279.36\n- **SMA 50:** 263.77\n- **52W Range:** $199.65 - $287.58\n- **1mo Return:** 0.09%\n- **3mo Return:** 5.72%\n- **Volume Surge:** 0.62\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-18T07:15:53.882775+00:00"
+  }
+}
