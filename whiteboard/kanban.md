@@ -24,14 +24,7 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260518-338
-**Subject:** IWM analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-18
-**Started At:** 2026-05-18T17:01:16.252935+00:00
-**Details:**
-Real-time market analysis for IWM. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -7048,3 +7041,15 @@ Real-time market analysis for SPY. Auto-generated watchlist task.
 **Summary:** QQQ @ $702.77 — BUY (80% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 91.1% of 52-week range — limited upside | RSI: 73.66 | P/E:
 **Details:**
 Real-time market analysis for QQQ. Auto-generated watchlist task.
+
+### Task ID: 20260518-338
+**Subject:** IWM analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-18
+**Started At:** 2026-05-18T17:01:16.252935+00:00
+**Completed At:** 2026-05-18T17:01:22.836872+00:00
+**Result:** dashboard/data/output/20260518-338.json
+**Summary:** IWM @ $275.61 — BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 52.1 | P/E: 18.965376 | Strategy: VALUE
+**Details:**
+Real-time market analysis for IWM. Auto-generated watchlist task.
