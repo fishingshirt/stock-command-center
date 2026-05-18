@@ -56,14 +56,7 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260518-279
-**Subject:** VTI analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-18
-**Started At:** 2026-05-18T14:15:46.790496+00:00
-**Details:**
-Real-time market analysis for VTI. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -6372,3 +6365,15 @@ Real-time market analysis for QQQ. Auto-generated watchlist task.
 **Summary:** IWM @ $277.75 — BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 54.97 | P/E: 19.112635 | Strategy: VALUE
 **Details:**
 Real-time market analysis for IWM. Auto-generated watchlist task.
+
+### Task ID: 20260518-279
+**Subject:** VTI analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-18
+**Started At:** 2026-05-18T14:15:46.790496+00:00
+**Completed At:** 2026-05-18T14:15:54.445123+00:00
+**Result:** dashboard/data/output/20260518-279.json
+**Summary:** VTI @ $363.53 — REDUCE (59% confidence) | Warnings: Price at 94.5% of 52-week range — limited upside; Bearish news sentiment detected | RSI: 71.02 | P/E: 28.435
+**Details:**
+Real-time market analysis for VTI. Auto-generated watchlist task.
