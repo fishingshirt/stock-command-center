@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260518-281
-**Subject:** SPY analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-18
-**Details:**
-Real-time market analysis for SPY. Auto-generated watchlist task.
-
 ### Task ID: 20260518-282
 **Subject:** QQQ analysis
 **Assigned Bot:** researcher_bot
@@ -48,7 +40,14 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260518-281
+**Subject:** SPY analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-18
+**Started At:** 2026-05-18T14:16:03.690364+00:00
+**Details:**
+Real-time market analysis for SPY. Auto-generated watchlist task.
 
 ## Done
 
@@ -6378,6 +6377,6 @@ Real-time market analysis for VTI. Auto-generated watchlist task.
 **Started At:** 2026-05-18T14:15:55.854872+00:00
 **Completed At:** 2026-05-18T14:16:02.332168+00:00
 **Result:** dashboard/data/output/20260518-280.json
-**Summary:** VOO @ $680.77 — ACCUMULATE (69% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.8% of 52-week range — limited upside | RSI: 74.6 
+**Summary:** VOO @ $680.77 — ACCUMULATE (69% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.8% of 52-week range — limited upside | RSI: 74.6
 **Details:**
 Real-time market analysis for VOO. Auto-generated watchlist task.
