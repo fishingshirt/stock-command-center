@@ -1,0 +1,142 @@
+{
+  "task_id": "20260518-449",
+  "subject": "VTI analysis",
+  "ticker": "VTI",
+  "timestamp": "2026-05-18T22:45:20.936066+00:00",
+  "recommendation": "REDUCE",
+  "confidence": 59,
+  "summary": "VTI @ $362.36 \u2014 REDUCE (59% confidence) | Warnings: Price at 93.1% of 52-week range \u2014 limited upside; Bearish news sentiment detected | RSI: 69.38 | P/E: 26.918003 | Strategy: GROWTH",
+  "signal_score": -0.2,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "VTI",
+    "current_price": 362.36,
+    "previous_close": 362.74,
+    "day_change_pct": -0.1,
+    "sma_20": 357.16,
+    "sma_50": 340.57,
+    "sma_200": 331.99,
+    "rsi_14": 69.38,
+    "52_week_high": 368.25,
+    "52_week_low": 283.0,
+    "price_vs_52w_pct": 93.1,
+    "volume_surge": 0.67,
+    "avg_volume": 4841813,
+    "market_cap": null,
+    "pe_trailing": 26.918003,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -0.12,
+    "return_1mo_pct": 4.17,
+    "return_3mo_pct": 7.48,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 69.38"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (331.99) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (93.1% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": -1.0,
+      "note": "Bearish news sentiment (-100.0)"
+    }
+  ],
+  "reasons": [],
+  "warnings": [
+    "Price at 93.1% of 52-week range \u2014 limited upside",
+    "Bearish news sentiment detected"
+  ],
+  "sentiment": {
+    "score": -100.0,
+    "label": "BEARISH",
+    "bullish": 0,
+    "bearish": 1,
+    "total_mentions": 1
+  },
+  "news": [
+    {
+      "title": "The Tax-Loss Harvest That Cost a 66-Year-Old Retiree $2,400 in Wash-Sale Penalties She Never Saw Coming",
+      "published": "Mon, 18 May 2026 21:23:35 +0000",
+      "url": "https://247wallst.com/personal-finance/2026/05/18/the-tax-loss-harvest-that-cost-a-66-year-old-retiree-2400-in-wash-sale-penalties-she-never-saw-coming/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The SpaceX IPO Is Coming. This Is the Vanguard ETF It'll Probably Show Up In First.",
+      "published": "Mon, 18 May 2026 21:20:00 +0000",
+      "url": "https://www.fool.com/investing/2026/05/18/spacex-ipo-is-coming-this-is-vanguard-etf-first/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "What Is an ETF? Everything Beginners Need to Know in 2026",
+      "published": "Mon, 18 May 2026 19:15:50 +0000",
+      "url": "http://www.etf.com/sections/etf-basics/what-etf-everything-beginners-need-know-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "5 money moves that made this 32-year-old dad a millionaire in just 9 years",
+      "published": "Mon, 18 May 2026 16:13:00 +0000",
+      "url": "https://www.marketwatch.com/story/5-money-moves-that-made-this-32-year-old-dad-a-millionaire-in-just-9-years-3725c0ed?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "If Your Advisor Said to Add Bonds at 65, They Were Right \u2014 in 1995. Here\u2019s What That Advice Should Sound Like in 2026.",
+      "published": "Sun, 17 May 2026 14:30:22 +0000",
+      "url": "https://247wallst.com/investing/2026/05/17/if-your-advisor-said-to-add-bonds-at-65-they-were-right-in-1995-heres-what-that-advice-should-sound-like-in-2026/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/VTI"
+  ],
+  "paper_trade_signal": "REDUCE",
+  "paper_trade_price": 362.36,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 279.01,
+    "margin_of_safety_pct": 0,
+    "verdict": "OVERVALUED",
+    "upside_pct": -23.0
+  },
+  "earnings": {
+    "catalyst_score": 0,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "FLAT",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "skipped",
+    "reason": "rec=REDUCE"
+  },
+  "advisor": {
+    "ticker": "VTI",
+    "recommendation": "REDUCE",
+    "confidence": 59,
+    "strategy": "GROWTH",
+    "reasoning": "## VTI Investment Thesis\n\n**Recommendation:** REDUCE (59% confidence)\n**Strategy:** GROWTH\n**Price:** $362.36\n**Daily Change:** \ud83d\udd34 -0.10%\n\n**Valuation:** Target $279.01 | Upside -23.0% | MoS 0% | Verdict: OVERVALUED\n\n**Earnings:** Earnings weakness detected (catalyst 0)\n\n### Technical Signals\n\u26a0\ufe0f **Rsi:** RSI overbought 69.38\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (331.99) \u2014 confirmed uptrend\n\u26a0\ufe0f **52W:** Near 52-week high (93.1% of range)\n\u26a0\ufe0f **Sentiment:** Bearish news sentiment (-100.0)\n\n### Risk Factors\n\u26a0\ufe0f Price at 93.1% of 52-week range \u2014 limited upside\n\u26a0\ufe0f Bearish news sentiment detected\n\n### News Sentiment: BEARISH (-100.0)\n- Recent headlines:\n  - The Tax-Loss Harvest That Cost a 66-Year-Old Retiree $2,400 in Wash-Sale Penalties She Never Saw Coming\n  - The SpaceX IPO Is Coming. This Is the Vanguard ETF It'll Probably Show Up In First.\n  - What Is an ETF? Everything Beginners Need to Know in 2026\n\n### Key Metrics\n- **Ticker:** VTI\n- **Price:** $362.36\n- **P/E (trailing):** 26.918003\n- **RSI(14):** 69.38\n- **SMA 20:** 357.16\n- **SMA 50:** 340.57\n- **52W Range:** $283.0 - $368.25\n- **1mo Return:** 4.17%\n- **3mo Return:** 7.48%\n- **Volume Surge:** 0.67\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-18T22:45:25.165859+00:00"
+  }
+}
