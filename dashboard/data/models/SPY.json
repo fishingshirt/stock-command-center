@@ -1,7 +1,7 @@
 {
   "ticker": "SPY",
-  "timestamp": "2026-05-18T18:15:40.086187+00:00",
-  "current_price": 734.85,
+  "timestamp": "2026-05-18T18:31:12.357264+00:00",
+  "current_price": 734.84,
   "dcf_target": null,
   "comparable_target": 858.44,
   "blended_target": 858.44,
@@ -9,10 +9,10 @@
   "upside_pct": 16.82,
   "verdict": "FAIRLY_VALUED",
   "valuation_inputs": {
-    "trailing_pe": 27.606424,
+    "trailing_pe": 27.606613,
     "forward_pe": null,
     "price_to_sales": null,
-    "price_to_book": 1.7120824,
+    "price_to_book": 1.712094,
     "ev_ebitda": null,
     "eps_ttm": null,
     "eps_forward": null,
