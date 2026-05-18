@@ -40,14 +40,7 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260518-176
-**Subject:** SPY analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-18
-**Started At:** 2026-05-18T09:00:27.105856+00:00
-**Details:**
-Real-time market analysis for SPY. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -5120,3 +5113,15 @@ Real-time market analysis for VTI. Auto-generated watchlist task.
 **Summary:** VOO @ $679.44 — ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range — limited upside | RSI: 69.67
 **Details:**
 Real-time market analysis for VOO. Auto-generated watchlist task.
+
+### Task ID: 20260518-176
+**Subject:** SPY analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-18
+**Started At:** 2026-05-18T09:00:27.105856+00:00
+**Completed At:** 2026-05-18T09:00:33.716935+00:00
+**Result:** dashboard/data/output/20260518-176.json
+**Summary:** SPY @ $739.17 — ACCUMULATE (66% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range — limited upside | RSI: 69.61
+**Details:**
+Real-time market analysis for SPY. Auto-generated watchlist task.
