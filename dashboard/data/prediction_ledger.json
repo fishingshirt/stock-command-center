@@ -20644,6 +20644,61 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "VTI",
+      "recommendation": "HOLD",
+      "confidence": 50,
+      "price_at_predict": 359.93,
+      "timestamp": "2026-05-19T15:15:58.262546+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "VOO",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 674.52,
+      "timestamp": "2026-05-19T15:16:07.375140+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPY",
+      "recommendation": "ACCUMULATE",
+      "confidence": 65,
+      "price_at_predict": 733.68,
+      "timestamp": "2026-05-19T15:16:16.054219+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "QQQ",
+      "recommendation": "BUY",
+      "confidence": 82,
+      "price_at_predict": 699.77,
+      "timestamp": "2026-05-19T15:16:24.073437+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "IWM",
+      "recommendation": "BUY",
+      "confidence": 87,
+      "price_at_predict": 272.22,
+      "timestamp": "2026-05-19T15:16:32.319511+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }
