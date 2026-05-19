@@ -1,0 +1,136 @@
+{
+  "task_id": "20260519-318",
+  "subject": "IWM analysis",
+  "ticker": "IWM",
+  "timestamp": "2026-05-19T16:16:16.466313+00:00",
+  "recommendation": "BUY",
+  "confidence": 87,
+  "summary": "IWM @ $272.58 \u2014 BUY (87% confidence) | Bullish: Bullish news sentiment detected | RSI: 50.6 | P/E: 18.756874 | Strategy: VALUE",
+  "signal_score": 0.714,
+  "strategy": "VALUE",
+  "key_metrics": {
+    "ticker": "IWM",
+    "current_price": 272.58,
+    "previous_close": 275.97,
+    "day_change_pct": -1.23,
+    "sma_20": 279.19,
+    "sma_50": 264.67,
+    "sma_200": 250.81,
+    "rsi_14": 50.6,
+    "52_week_high": 287.58,
+    "52_week_low": 199.65,
+    "price_vs_52w_pct": 82.9,
+    "volume_surge": 0.59,
+    "avg_volume": 38731609,
+    "market_cap": null,
+    "pe_trailing": 18.756874,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -3.57,
+    "return_1mo_pct": -1.41,
+    "return_3mo_pct": 3.2,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (279.19)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (250.81) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 3,
+    "bearish": 0,
+    "total_mentions": 3
+  },
+  "news": [
+    {
+      "title": "The Russell 2000 Is Up 31% and These 2 Small Cap Stocks Under $30 Have the Fundamentals to Keep Running",
+      "published": "Tue, 19 May 2026 15:11:10 +0000",
+      "url": "https://247wallst.com/investing/2026/05/19/the-russell-2000-is-up-31-and-these-2-small-cap-stocks-under-30-have-the-fundamentals-to-keep-running/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Exchange-Traded Funds, Equity Futures Edge Lower Pre-Bell Tuesday Amid Uncertainty Surrounding US-Iran Talks",
+      "published": "Tue, 19 May 2026 13:14:14 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131414683.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The New Federal Reserve Chair Can Cause This Small-Cap Stock ETF to Surge",
+      "published": "Mon, 18 May 2026 16:11:55 +0000",
+      "url": "https://247wallst.com/investing/2026/05/18/the-new-federal-reserve-chair-can-cause-this-small-cap-stock-etf-to-surge/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Why DES Monthly Dividends Look Safer Than They Actually Are",
+      "published": "Mon, 18 May 2026 13:54:19 +0000",
+      "url": "https://247wallst.com/investing/2026/05/18/why-des-monthly-dividends-look-safer-than-they-actually-are/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday Amid Stalled Iran Peace Efforts, Inflation Concerns",
+      "published": "Mon, 18 May 2026 13:12:22 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131222722.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/IWM"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 272.58,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 437.39,
+    "margin_of_safety_pct": 37.68,
+    "verdict": "STRONG_BUY",
+    "upside_pct": 60.46
+  },
+  "earnings": {
+    "catalyst_score": 0,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "FLAT",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "already_open",
+    "message": "Position already open for IWM"
+  },
+  "advisor": {
+    "ticker": "IWM",
+    "recommendation": "BUY",
+    "confidence": 87,
+    "strategy": "VALUE",
+    "reasoning": "## IWM Investment Thesis\n\n**Recommendation:** BUY (87% confidence)\n**Strategy:** VALUE\n**Price:** $272.58\n**Daily Change:** \ud83d\udd34 -1.23%\n\n**Valuation:** Target $437.39 | Upside 60.46% | MoS 37.68% | Verdict: STRONG_BUY\n\n**Earnings:** Earnings weakness detected (catalyst 0)\n\n### Technical Signals\n\u26a0\ufe0f **Sma20:** Price below SMA20 (279.19)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (250.81) \u2014 confirmed uptrend\n\u2705 **Sentiment:** Bullish news sentiment (100.0)\n\n### Positive Factors\n\u2705 Bullish news sentiment detected\n\n### News Sentiment: BULLISH (100.0)\n- 3 bullish mentions, 0 bearish\n- Recent headlines:\n  - The Russell 2000 Is Up 31% and These 2 Small Cap Stocks Under $30 Have the Fundamentals to Keep Running\n  - Exchange-Traded Funds, Equity Futures Edge Lower Pre-Bell Tuesday Amid Uncertainty Surrounding US-Iran Talks\n  - The New Federal Reserve Chair Can Cause This Small-Cap Stock ETF to Surge\n\n### Key Metrics\n- **Ticker:** IWM\n- **Price:** $272.58\n- **P/E (trailing):** 18.756874\n- **RSI(14):** 50.6\n- **SMA 20:** 279.19\n- **SMA 50:** 264.67\n- **52W Range:** $199.65 - $287.58\n- **1mo Return:** -1.41%\n- **3mo Return:** 3.2%\n- **Volume Surge:** 0.59\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-19T16:16:20.051986+00:00"
+  }
+}
