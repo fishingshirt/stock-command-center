@@ -1,0 +1,163 @@
+{
+  "task_id": "20260519-027",
+  "subject": "QQQ analysis",
+  "ticker": "QQQ",
+  "timestamp": "2026-05-19T01:30:44.832679+00:00",
+  "recommendation": "HOLD",
+  "confidence": 51,
+  "summary": "QQQ @ $705.88 \u2014 HOLD (51% confidence) | Warnings: RSI 76.14 \u2014 possible reversal risk; Price at 92.5% of 52-week range \u2014 limited upside | RSI: 76.14 | P/E: 34.433815 | Strategy: GROWTH",
+  "signal_score": 0.053,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "QQQ",
+    "current_price": 705.88,
+    "previous_close": 708.93,
+    "day_change_pct": -0.43,
+    "sma_20": 683.31,
+    "sma_50": 633.43,
+    "sma_200": 610.55,
+    "rsi_14": 76.14,
+    "52_week_high": 722.03,
+    "52_week_low": 505.58,
+    "price_vs_52w_pct": 92.5,
+    "volume_surge": 0.77,
+    "avg_volume": 56833549,
+    "market_cap": null,
+    "pe_trailing": 34.433815,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -0.19,
+    "return_1mo_pct": 9.55,
+    "return_3mo_pct": 17.12,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +9.55%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +17.12%"
+    },
+    {
+      "name": "rsi",
+      "score": -2.0,
+      "note": "RSI extremely overbought 76.14"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (683.31)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (610.55) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 34.433815x"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (92.5% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": -1.0,
+      "note": "Bearish news sentiment (-100.0)"
+    }
+  ],
+  "reasons": [],
+  "warnings": [
+    "RSI 76.14 \u2014 possible reversal risk",
+    "Price at 92.5% of 52-week range \u2014 limited upside",
+    "Bearish news sentiment detected"
+  ],
+  "sentiment": {
+    "score": -100.0,
+    "label": "BEARISH",
+    "bullish": 0,
+    "bearish": 1,
+    "total_mentions": 1
+  },
+  "news": [
+    {
+      "title": "ETF Inflows Hit $725 Billion YTD as DRAM Stays Hot",
+      "published": "Mon, 18 May 2026 21:00:14 +0000",
+      "url": "http://www.etf.com/sections/weekly-etf-flows/etf-inflows-hit-725-billion-ytd-dram-stays-hot?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nvidia Earnings Wednesday: These ETFs Have the Most Riding on One Stock",
+      "published": "Mon, 18 May 2026 19:23:33 +0000",
+      "url": "http://www.etf.com/sections/news/nvidia-earnings-wednesday-these-etfs-have-most-riding-one-stock?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "What Is an ETF? Everything Beginners Need to Know in 2026",
+      "published": "Mon, 18 May 2026 19:15:50 +0000",
+      "url": "http://www.etf.com/sections/etf-basics/what-etf-everything-beginners-need-know-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Exchange-Traded Funds Decline, US Equities Mixed After Midday",
+      "published": "Mon, 18 May 2026 17:08:01 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-decline-us-170801485.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Stocks Pressured by a Rebound in Crude Prices and Bond Yields",
+      "published": "Mon, 18 May 2026 15:25:54 +0000",
+      "url": "https://www.barchart.com/story/news/1996657/stocks-pressured-by-a-rebound-in-crude-prices-and-bond-yields?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/QQQ"
+  ],
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 705.88,
+  "asset_type": "stock",
+  "model": {
+    "blended_target": 715.55,
+    "margin_of_safety_pct": 1.35,
+    "verdict": "SLIGHTLY_OVERVALUED",
+    "upside_pct": 1.37
+  },
+  "earnings": {
+    "catalyst_score": 0,
+    "verdict": "Earnings weakness detected",
+    "eps_trend": "FLAT",
+    "next_earnings_date": null
+  },
+  "trade_result": {
+    "status": "skipped",
+    "reason": "rec=HOLD"
+  },
+  "advisor": {
+    "ticker": "QQQ",
+    "recommendation": "HOLD",
+    "confidence": 51,
+    "strategy": "GROWTH",
+    "reasoning": "## QQQ Investment Thesis\n\n**Recommendation:** HOLD (51% confidence)\n**Strategy:** GROWTH\n**Price:** $705.88\n**Daily Change:** \ud83d\udd34 -0.43%\n\n**Valuation:** Target $715.55 | Upside 1.37% | MoS 1.35% | Verdict: SLIGHTLY_OVERVALUED\n\n**Earnings:** Earnings weakness detected (catalyst 0)\n\n### Technical Signals\n\u2705 **1Mo Momentum:** Positive 1mo momentum +9.55%\n\u2705 **3Mo Momentum:** Strong 3mo momentum +17.12%\n\u26a0\ufe0f **Rsi:** RSI extremely overbought 76.14\n\u2705 **Sma20:** Price above SMA20 (683.31)\n\u2705 **Golden Cross:** SMA20 > SMA50 (short-term uptrend)\n\u2705 **Sma200:** Price well above SMA200 (610.55) \u2014 confirmed uptrend\n\u26a0\ufe0f **Pe:** Elevated P/E 34.433815x\n\u26a0\ufe0f **52W:** Near 52-week high (92.5% of range)\n\n### Risk Factors\n\u26a0\ufe0f RSI 76.14 \u2014 possible reversal risk\n\u26a0\ufe0f Price at 92.5% of 52-week range \u2014 limited upside\n\u26a0\ufe0f Bearish news sentiment detected\n\n### News Sentiment: BEARISH (-100.0)\n- Recent headlines:\n  - ETF Inflows Hit $725 Billion YTD as DRAM Stays Hot\n  - Nvidia Earnings Wednesday: These ETFs Have the Most Riding on One Stock\n  - What Is an ETF? Everything Beginners Need to Know in 2026\n\n### Key Metrics\n- **Ticker:** QQQ\n- **Price:** $705.88\n- **P/E (trailing):** 34.433815\n- **RSI(14):** 76.14\n- **SMA 20:** 683.31\n- **SMA 50:** 633.43\n- **52W Range:** $505.58 - $722.03\n- **1mo Return:** 9.55%\n- **3mo Return:** 17.12%\n- **Volume Surge:** 0.77\n\n---\n*Auto-generated by Stock Command Center. Not investment advice.*",
+    "generated_at": "2026-05-19T01:30:48.801598+00:00"
+  }
+}
