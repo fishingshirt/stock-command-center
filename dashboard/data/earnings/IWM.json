@@ -1,11 +1,11 @@
 {
   "ticker": "IWM",
-  "analyzed_at": "2026-05-19T14:01:43.958826+00:00",
+  "analyzed_at": "2026-05-19T14:16:33.835231+00:00",
   "next_earnings_date": null,
   "days_to_earnings": null,
   "earnings_dates": [],
   "quarterly_history": [],
-  "pe_trailing": 18.702515,
+  "pe_trailing": 18.672922,
   "pe_forward": null,
   "peg_ratio": null,
   "eps_ttm": null,
