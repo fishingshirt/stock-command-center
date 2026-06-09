@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260609-004
-**Subject:** DIS analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-06-09
-**Details:**
-Real-time market analysis for DIS. Auto-generated watchlist task.
-
 ### Task ID: 20260609-005
 **Subject:** ETH-USD crypto momentum
 **Assigned Bot:** researcher_bot
@@ -64,7 +56,14 @@ Real-time market analysis for ETH-USD. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260609-004
+**Subject:** DIS analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-06-09
+**Started At:** 2026-06-09T16:43:49.825284+00:00
+**Details:**
+Real-time market analysis for DIS. Auto-generated watchlist task.
 
 ## Done
 
