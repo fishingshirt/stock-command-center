@@ -64,14 +64,7 @@ Real-time market analysis for ETH-USD. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260609-003
-**Subject:** F analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-06-09
-**Started At:** 2026-06-09T16:43:33.243943+00:00
-**Details:**
-Real-time market analysis for F. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13268,3 +13261,15 @@ Real-time market analysis for RACE. Auto-generated watchlist task.
 **Summary:** Data unavailable for SPY: Expecting value: line 1 column 1 (char 0)
 **Details:**
 Real-time market analysis for TTWO. Auto-generated watchlist task.
+
+### Task ID: 20260609-003
+**Subject:** F analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-06-09
+**Started At:** 2026-06-09T16:43:33.243943+00:00
+**Completed At:** 2026-06-09T16:43:48.624927+00:00
+**Result:** dashboard/data/output/20260609-003.json
+**Summary:** Data unavailable for F: Expecting value: line 1 column 1 (char 0)
+**Details:**
+Real-time market analysis for F. Auto-generated watchlist task.
