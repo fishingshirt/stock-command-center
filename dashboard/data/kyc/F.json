@@ -1,0 +1,23 @@
+{
+  "ticker": "F",
+  "timestamp": "2026-06-09T16:43:45.963424+00:00",
+  "compliance_score": "NO_DATA",
+  "risk_level": "NO_DATA",
+  "sanctions_risk": "NO_DATA \u2014 Premium API required (OFAC/dowJones Watchlist)",
+  "pep_exposure": "NO_DATA \u2014 Premium API required (DowJones/Refinitiv PEP)",
+  "esg_score": "NO_DATA \u2014 Premium API required (MSCI/Refinitiv/Sustainalytics)",
+  "controversy_count": 0,
+  "jurisdiction_risk": "NO_DATA",
+  "flags": [],
+  "pass": true,
+  "derived_from": {
+    "sector": null,
+    "country": null,
+    "employees": null,
+    "market_cap": null,
+    "beta": null,
+    "current_price": null,
+    "news_items_scanned": 8
+  },
+  "_note": "Real-time sanctions, PEP, ESG, and structured controversy databases require paid APIs. This screen only checks public news headlines for controversy keywords."
+}

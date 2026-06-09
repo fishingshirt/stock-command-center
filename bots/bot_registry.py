@@ -159,13 +159,13 @@ def get_leaderboard() -> list:
 def ensure_all_bots_registered():
     """Idempotently register all known specialist bots."""
     known = [
+        ("orchestrator", "cycle_coordinator"),
         ("researcher_bot", "multi-domain_research"),
-        ("earnings_analyzer", "earnings_surprise"),
         ("financial_model", "dcf_valuation"),
+        ("earnings_analyzer", "earnings_surprise"),
         ("kyc_screen", "compliance_risk"),
-        ("pitchbook_generator", "investment_memo"),
         ("advisor_reasoning", "strategy_rationale"),
-        ("portfolio_constructor", "position_sizing"),
+        ("paper_trader", "trade_execution"),
     ]
     for name, expertise in known:
         register_bot(name, expertise)

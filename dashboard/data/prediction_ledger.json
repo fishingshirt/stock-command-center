@@ -21634,6 +21634,226 @@
       "evaluated": false,
       "was_correct": null,
       "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "VOO",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-06-09T16:42:50.175656+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "financial_model",
+      "ticker": "VOO",
+      "recommendation": "UNKNOWN",
+      "confidence": 50,
+      "price_at_predict": 0.0,
+      "timestamp": "2026-06-09T16:42:52.547896+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "earnings_analyzer",
+      "ticker": "VOO",
+      "recommendation": "Earnings analysis",
+      "confidence": 50,
+      "price_at_predict": 0.0,
+      "timestamp": "2026-06-09T16:42:55.195563+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "paper_trader",
+      "ticker": "VOO",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-06-09T16:43:00.464822+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPY",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-06-09T16:43:05.621385+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "financial_model",
+      "ticker": "SPY",
+      "recommendation": "UNKNOWN",
+      "confidence": 50,
+      "price_at_predict": 0.0,
+      "timestamp": "2026-06-09T16:43:08.009435+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "earnings_analyzer",
+      "ticker": "SPY",
+      "recommendation": "Earnings analysis",
+      "confidence": 50,
+      "price_at_predict": 0.0,
+      "timestamp": "2026-06-09T16:43:10.385755+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "paper_trader",
+      "ticker": "SPY",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-06-09T16:43:14.588770+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "SPY",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-06-09T16:43:19.690019+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "financial_model",
+      "ticker": "SPY",
+      "recommendation": "UNKNOWN",
+      "confidence": 50,
+      "price_at_predict": 0.0,
+      "timestamp": "2026-06-09T16:43:22.583943+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "earnings_analyzer",
+      "ticker": "SPY",
+      "recommendation": "Earnings analysis",
+      "confidence": 50,
+      "price_at_predict": 0.0,
+      "timestamp": "2026-06-09T16:43:24.983750+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "paper_trader",
+      "ticker": "SPY",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-06-09T16:43:31.923580+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "F",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-06-09T16:43:38.225837+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "financial_model",
+      "ticker": "F",
+      "recommendation": "UNKNOWN",
+      "confidence": 50,
+      "price_at_predict": 0.0,
+      "timestamp": "2026-06-09T16:43:40.832099+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "earnings_analyzer",
+      "ticker": "F",
+      "recommendation": "Earnings analysis",
+      "confidence": 50,
+      "price_at_predict": 0.0,
+      "timestamp": "2026-06-09T16:43:43.201441+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "paper_trader",
+      "ticker": "F",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-06-09T16:43:48.546969+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "researcher_bot",
+      "ticker": "DIS",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-06-09T16:43:53.489629+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "financial_model",
+      "ticker": "DIS",
+      "recommendation": "UNKNOWN",
+      "confidence": 50,
+      "price_at_predict": 0.0,
+      "timestamp": "2026-06-09T16:43:56.044345+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "earnings_analyzer",
+      "ticker": "DIS",
+      "recommendation": "Earnings analysis",
+      "confidence": 50,
+      "price_at_predict": 0.0,
+      "timestamp": "2026-06-09T16:43:58.485536+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
+    },
+    {
+      "bot": "paper_trader",
+      "ticker": "DIS",
+      "recommendation": "NO_DATA",
+      "confidence": 0,
+      "price_at_predict": 0,
+      "timestamp": "2026-06-09T16:44:03.380565+00:00",
+      "evaluated": false,
+      "was_correct": null,
+      "roi_at_eval": null
     }
   ]
 }

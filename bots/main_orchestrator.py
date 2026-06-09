@@ -221,7 +221,7 @@ def run_cycle():
         except Exception as e:
             logger.warning(f"Registry error: {e}")
 
-        # Run valuation + earnings in parallel (background-ish, we just run sequentially)
+        # Run valuation + earnings + kyc + pitchbook (sequential)
         try:
             model = run_financial_model(ticker)
             if model:
@@ -229,6 +229,9 @@ def run_cycle():
                                    "margin_of_safety_pct": model.get("margin_of_safety_pct"),
                                    "verdict": model.get("verdict"),
                                    "upside_pct": model.get("upside_pct")}
+                record_prediction("financial_model", ticker,
+                                  model.get("verdict", "UNKNOWN"), 50,
+                                  float(model.get("blended_target", 0) or 0))
         except Exception as e:
             logger.warning(f"Model error for {ticker}: {e}")
 
@@ -239,14 +242,43 @@ def run_cycle():
                                       "verdict": earn.get("verdict"),
                                       "eps_trend": earn.get("eps_trend"),
                                       "next_earnings_date": earn.get("next_earnings_date")}
+                record_prediction("earnings_analyzer", ticker,
+                                  earn.get("verdict", "Earnings analysis"), 
+                                  earn.get("earnings_catalyst_score", 50))
         except Exception as e:
             logger.warning(f"Earnings error for {ticker}: {e}")
+
+        # KYC Compliance Screen
+        try:
+            kyc_path = REPO_ROOT / "dashboard" / "data" / "kyc" / f"{ticker}.json"
+            kyc_path.parent.mkdir(parents=True, exist_ok=True)
+            kyc_proc = subprocess.run(
+                [sys.executable, str(REPO_ROOT / "bots" / "kyc_screen.py"),
+                 "--ticker", ticker, "--output", str(kyc_path)],
+                capture_output=True, text=True, timeout=30)
+            if kyc_proc.returncode == 0 and kyc_path.exists():
+                with open(kyc_path, "r", encoding="utf-8") as f:
+                    kyc_data = json.load(f)
+                result["kyc"] = {"risk_level": kyc_data.get("risk_level"),
+                                 "compliance_score": kyc_data.get("compliance_score")}
+                record_prediction("kyc_screen", ticker,
+                                  kyc_data.get("risk_level", "SCREENED"),
+                                  kyc_data.get("compliance_score", 50))
+            elif kyc_proc.returncode != 0:
+                logger.warning(f"KYC error for {ticker}: {kyc_proc.stderr[:120]}")
+        except Exception as e:
+            logger.warning(f"KYC error for {ticker}: {e}")
 
         # Trade
         try:
             trade_res = execute_trade(result)
             logger.info(f"[{task_id}] Trade {ticker}: {trade_res.get('status')} — {trade_res.get('message', '')[:100]}")
             result["trade_result"] = trade_res
+            # Record paper trade activity
+            record_prediction("paper_trader", ticker,
+                              result.get("recommendation", "HOLD"),
+                              result.get("confidence", 0),
+                              result.get("paper_trade_price", 0))
         except Exception as e:
             logger.warning(f"Trade error for {ticker}: {e}")
 
