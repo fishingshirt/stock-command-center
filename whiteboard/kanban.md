@@ -54,6 +54,14 @@ Real-time market analysis for DIS. Auto-generated watchlist task.
 **Details:**
 Real-time market analysis for ETH-USD. Auto-generated watchlist task.
 
+### Task ID: 20260609-006
+**Subject:** RACE analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-06-09
+**Details:**
+Real-time market analysis for RACE. Auto-generated watchlist task.
+
 ## In Progress
 
 _(No tasks in this section.)_
