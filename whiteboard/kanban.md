@@ -80,14 +80,7 @@ Real-time market analysis for MTUM. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260609-006
-**Subject:** RACE analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-06-09
-**Started At:** 2026-06-09T16:45:57.499038+00:00
-**Details:**
-Real-time market analysis for RACE. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13320,3 +13313,15 @@ Real-time market analysis for DIS. Auto-generated watchlist task.
 **Summary:** ETH-USD @ $1625.1 — SELL (90% confidence) | Strategy: GROWTH
 **Details:**
 Real-time market analysis for ETH-USD. Auto-generated watchlist task.
+
+### Task ID: 20260609-006
+**Subject:** RACE analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-06-09
+**Started At:** 2026-06-09T16:45:57.499038+00:00
+**Completed At:** 2026-06-09T16:46:13.102921+00:00
+**Result:** dashboard/data/output/20260609-006.json
+**Summary:** Data unavailable for SPY: Expecting value: line 1 column 1 (char 0)
+**Details:**
+Real-time market analysis for RACE. Auto-generated watchlist task.
