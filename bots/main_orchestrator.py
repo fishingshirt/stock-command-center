@@ -264,9 +264,13 @@ def run_cycle():
                 record_prediction("kyc_screen", ticker,
                                   kyc_data.get("risk_level", "SCREENED"),
                                   kyc_data.get("compliance_score", 50))
-            elif kyc_proc.returncode != 0:
+                logger.info(f"[{task_id}] KYC screen for {ticker}: {kyc_data.get('risk_level', 'SCREENED')}")
+            else:
+                # Still record activity even on failure
+                record_prediction("kyc_screen", ticker, "RATE_LIMITED", 0)
                 logger.warning(f"KYC error for {ticker}: {kyc_proc.stderr[:120]}")
         except Exception as e:
+            record_prediction("kyc_screen", ticker, "ERROR", 0)
             logger.warning(f"KYC error for {ticker}: {e}")
 
         # Trade
@@ -299,8 +303,15 @@ def run_cycle():
             if adv_proc.returncode == 0 and adv_path.exists():
                 with open(adv_path, "r", encoding="utf-8") as f:
                     result["advisor"] = json.load(f)
-                logger.info(f"[{task_id}] Advisor thesis for {ticker}: generated")
+                rec = result.get("recommendation", "HOLD")
+                conf = result.get("confidence", 0)
+                record_prediction("advisor_reasoning", ticker, rec, conf, 
+                                  result.get("key_metrics", {}).get("current_price", 0))
+                logger.info(f"[{task_id}] Advisor thesis for {ticker}: generated ({rec}, {conf}%)")
+            else:
+                record_prediction("advisor_reasoning", ticker, "NO_DATA", 0)
         except Exception as e:
+            record_prediction("advisor_reasoning", ticker, "ERROR", 0)
             logger.warning(f"Advisor reasoning error for {ticker}: {e}")
 
         # Save enriched result
