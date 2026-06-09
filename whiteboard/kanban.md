@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260609-008
-**Subject:** F analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-06-09
-**Details:**
-Real-time market analysis for F. Auto-generated watchlist task.
-
 ### Task ID: 20260609-009
 **Subject:** DIS analysis
 **Assigned Bot:** researcher_bot
@@ -72,7 +64,14 @@ Real-time market analysis for MTUM. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260609-008
+**Subject:** F analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-06-09
+**Started At:** 2026-06-09T16:46:27.022274+00:00
+**Details:**
+Real-time market analysis for F. Auto-generated watchlist task.
 
 ## Done
 
