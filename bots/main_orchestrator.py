@@ -146,8 +146,6 @@ WATCHLIST = [
     "DIS", "NKE", "COST", "WMT", "HD", "LOW", "SBUX", "KO", "PEP",
     # Others
     "ARKK",
-    # Crypto
-    "BTC-USD", "ETH-USD", "SOL-USD",
 ]
 
 

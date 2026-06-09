@@ -47,8 +47,7 @@ WATCHLIST = [
     "SPY", "QQQ", "IWM", "VTI", "VOO", "VGT", "XLK", "XLF", "XLE", "XLI",
     "NVDA", "AAPL", "MSFT", "GOOGL", "META", "AMZN", "TSLA", "AMD", "AVGO", "CRM",
     "JPM", "BAC", "GS", "XOM", "CVX", "UNH", "JNJ", "LLY", "PFE",
-    "DIS", "NFLX", "PYPL", "UBER", "COIN", "PLTR", "ARKK",
-    "BTC-USD", "ETH-USD", "SOL-USD",
+    "DIS", "NFLX", "PYPL", "UBER", "COIN", "PLTR",    "ARKK",
 ]
 
 
