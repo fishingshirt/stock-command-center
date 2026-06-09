@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260519-375
-**Subject:** VOO analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-19
-**Details:**
-Real-time market analysis for VOO. Auto-generated watchlist task.
-
 ### Task ID: 20260519-376
 **Subject:** SPY analysis
 **Assigned Bot:** researcher_bot
@@ -64,6 +56,15 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 **Started At:** 2026-06-09T16:13:02.692012+00:00
 **Details:**
 Real-time market analysis for VTI. Auto-generated watchlist task.
+
+### Task ID: 20260519-375
+**Subject:** VOO analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-19
+**Started At:** 2026-06-09T16:13:12.464307+00:00
+**Details:**
+Real-time market analysis for VOO. Auto-generated watchlist task.
 
 ## Done
 
