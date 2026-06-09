@@ -1,12 +1,12 @@
 {
   "ticker": "META",
-  "analyzed_at": "2026-05-17T15:31:42.393077+00:00",
+  "analyzed_at": "2026-05-21T04:42:17.157062+00:00",
   "next_earnings_date": null,
   "days_to_earnings": null,
   "earnings_dates": [
     {
       "date": "2026-07-29",
-      "eps_estimate": 7.51,
+      "eps_estimate": 7.2,
       "reported_eps": NaN,
       "surprise_pct": NaN
     },
@@ -42,11 +42,11 @@
     }
   ],
   "quarterly_history": [],
-  "pe_trailing": 22.319403,
-  "pe_forward": 16.974262,
-  "peg_ratio": 0.89,
-  "eps_ttm": 27.52,
-  "eps_forward": 36.18596,
+  "pe_trailing": 21.978205,
+  "pe_forward": 16.731873,
+  "peg_ratio": 0.87,
+  "eps_ttm": 27.53,
+  "eps_forward": 36.16212,
   "revenue_growth": 0.331,
   "earnings_growth": 0.624,
   "surprise_avg_pct": NaN,

@@ -1,30 +1,4 @@
 {
-  "ticker": "IWM",
-  "timestamp": "2026-05-19T19:00:53.966623+00:00",
-  "current_price": 273.58,
-  "dcf_target": null,
-  "comparable_target": 437.39,
-  "blended_target": 437.39,
-  "margin_of_safety_pct": 37.45,
-  "upside_pct": 59.88,
-  "verdict": "STRONG_BUY",
-  "valuation_inputs": {
-    "trailing_pe": 18.826376,
-    "forward_pe": null,
-    "price_to_sales": null,
-    "price_to_book": 1.2510173,
-    "ev_ebitda": null,
-    "eps_ttm": null,
-    "eps_forward": null,
-    "sector": "",
-    "sector_median_pe": 22,
-    "implied_pe": null,
-    "implied_ps": null,
-    "implied_pb": 437.39,
-    "free_cash_flow": null,
-    "shares_outstanding": 281049984,
-    "growth_assumed": 0.15,
-    "wacc": 0.09,
-    "terminal_growth": 0.025
-  }
+  "_error": "Expecting value: line 1 column 1 (char 0)",
+  "ticker": "IWM"
 }

@@ -1,0 +1,118 @@
+{
+  "task_id": "t_b9890493",
+  "subject": "SPY analysis",
+  "ticker": "SPY",
+  "timestamp": "2026-05-21T04:35:26.553744+00:00",
+  "recommendation": "REDUCE",
+  "confidence": 59,
+  "summary": "SPY @ $741.25 \u2014 REDUCE (59% confidence) | Warnings: Price at 95.2% of 52-week range \u2014 limited upside; Bearish news sentiment detected | RSI: 67.79 | P/E: 27.846478 | Strategy: GROWTH",
+  "signal_score": -0.2,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "SPY",
+    "current_price": 741.25,
+    "previous_close": 733.73,
+    "day_change_pct": 1.02,
+    "sma_20": 728.29,
+    "sma_50": 693.5,
+    "sma_200": 675.06,
+    "rsi_14": 67.79,
+    "52_week_high": 749.53,
+    "52_week_low": 575.6,
+    "price_vs_52w_pct": 95.2,
+    "volume_surge": 0.7,
+    "avg_volume": 72418009,
+    "market_cap": null,
+    "pe_trailing": 27.846478,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -0.92,
+    "return_1mo_pct": 4.63,
+    "return_3mo_pct": 8.92,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 67.79"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (675.06) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (95.2% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": -1.0,
+      "note": "Bearish news sentiment (-100.0)"
+    }
+  ],
+  "reasons": [],
+  "warnings": [
+    "Price at 95.2% of 52-week range \u2014 limited upside",
+    "Bearish news sentiment detected"
+  ],
+  "sentiment": {
+    "score": -100.0,
+    "label": "BEARISH",
+    "bullish": 0,
+    "bearish": 1,
+    "total_mentions": 1
+  },
+  "news": [
+    {
+      "title": "ULTY\u2019s Weekly Distributions Look Generous Until You See What Happened to the Share Price",
+      "published": "Wed, 20 May 2026 20:16:01 +0000",
+      "url": "https://247wallst.com/investing/2026/05/20/ultys-weekly-distributions-look-generous-until-you-see-what-happened-to-the-share-price/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Vanguard\u2019s $94 Billion Mid Cap ETF Is Quietly Beating the S&P 500 With a Fifty Year Old Strategy",
+      "published": "Wed, 20 May 2026 19:53:57 +0000",
+      "url": "https://247wallst.com/investing/2026/05/20/vanguards-94-billion-mid-cap-etf-is-quietly-beating-the-sp-500-with-a-fifty-year-old-strategy/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "MSTY Holders Face a Risk That Has Nothing to Do With Bitcoin Falling",
+      "published": "Wed, 20 May 2026 18:23:26 +0000",
+      "url": "https://247wallst.com/investing/2026/05/20/msty-holders-face-a-risk-that-has-nothing-to-do-with-bitcoin-falling/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Don\u2019t Panic, Says Our Top Technical Strategist. The Charts Say an S&P Pullback from Here Could Be Constructive.",
+      "published": "Wed, 20 May 2026 18:21:14 +0000",
+      "url": "https://www.barchart.com/story/news/2045220/dont-panic-says-our-top-technical-strategist-the-charts-say-an-s-p-pullback-from-here-could-be-constructive?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "CWB\u2019s Convertible Bond Strategy Looks Like Bonds Until the Equity Markets Fall, And Then It Trades Like Stocks",
+      "published": "Wed, 20 May 2026 17:47:05 +0000",
+      "url": "https://247wallst.com/investing/2026/05/20/cwbs-convertible-bond-strategy-looks-like-bonds-until-the-equity-markets-fall-and-then-it-trades-like-stocks/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/SPY"
+  ],
+  "paper_trade_signal": "REDUCE",
+  "paper_trade_price": 741.25,
+  "asset_type": "stock"
+}

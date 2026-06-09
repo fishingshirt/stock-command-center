@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "generated_by": "hermes",
+  "updated_at": "2026-06-09T15:35:00Z",
+  "positions": {
+    "AAPL": {
+      "intent": "active",
+      "horizon": "medium",
+      "strategy": "CORE",
+      "notes": "Mega-cap tech anchor, no specific thesis given",
+      "suggested_action_filters": ["BUY", "ACCUMULATE", "HOLD"],
+      "trim_allowed": false
+    },
+    "NVDA": {
+      "intent": "active",
+      "horizon": "medium",
+      "strategy": "MOMENTUM",
+      "notes": "AI/GPU leader, no specific thesis given",
+      "suggested_action_filters": ["BUY", "ACCUMULATE", "HOLD", "REDUCE"],
+      "trim_allowed": true
+    },
+    "RACE": {
+      "intent": "hold_forever",
+      "horizon": "long",
+      "strategy": "DIVIDEND_LEGACY",
+      "notes": "Long-term hold — shares received as dividend payment. Never sell.",
+      "suggested_action_filters": ["BUY", "ACCUMULATE", "HOLD"],
+      "trim_allowed": false
+    },
+    "TTWO": {
+      "intent": "catalyst_wait",
+      "horizon": "medium",
+      "strategy": "CATALYST",
+      "notes": "Waiting on new product release (GTA VI). Hold until catalyst.",
+      "suggested_action_filters": ["BUY", "ACCUMULATE", "HOLD"],
+      "trim_allowed": false
+    },
+    "MTUM": {
+      "intent": "hold_forever",
+      "horizon": "long",
+      "strategy": "MOMENTUM_ETF",
+      "notes": "Long-term momentum factor ETF, core portfolio holding",
+      "suggested_action_filters": ["BUY", "ACCUMULATE", "HOLD"],
+      "trim_allowed": false
+    },
+    "VOO": {
+      "intent": "hold_forever",
+      "horizon": "long",
+      "strategy": "INDEX_CORE",
+      "notes": "Long-term S&P 500 core holding — buy & forget",
+      "suggested_action_filters": ["BUY", "ACCUMULATE", "HOLD"],
+      "trim_allowed": false
+    }
+  },
+  "defaults": {
+    "horizon": "medium",
+    "trim_allowed": true,
+    "suggested_action_filters": ["BUY", "ACCUMULATE", "HOLD", "REDUCE", "SELL"]
+  }
+}

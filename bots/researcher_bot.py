@@ -43,6 +43,7 @@ BEARISH_WORDS = {
 }
 
 WATCHLIST = [
+    "RACE", "TTWO", "MTUM",
     "SPY", "QQQ", "IWM", "VTI", "VOO", "VGT", "XLK", "XLF", "XLE", "XLI",
     "NVDA", "AAPL", "MSFT", "GOOGL", "META", "AMZN", "TSLA", "AMD", "AVGO", "CRM",
     "JPM", "BAC", "GS", "XOM", "CVX", "UNH", "JNJ", "LLY", "PFE",

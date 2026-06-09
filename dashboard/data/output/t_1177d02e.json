@@ -1,0 +1,132 @@
+{
+  "task_id": "t_1177d02e",
+  "subject": "META analysis",
+  "ticker": "META",
+  "timestamp": "2026-05-21T04:35:35.041689+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 65,
+  "summary": "META @ $605.06 \u2014 ACCUMULATE (65% confidence) | Warnings: Bearish news sentiment detected | RSI: 45.6 | P/E: 21.978205 | Strategy: QUALITY",
+  "signal_score": 0.2,
+  "strategy": "QUALITY",
+  "key_metrics": {
+    "ticker": "META",
+    "current_price": 605.06,
+    "previous_close": 602.61,
+    "day_change_pct": 0.41,
+    "sma_20": 624.93,
+    "sma_50": 619.29,
+    "sma_200": 670.22,
+    "rsi_14": 45.6,
+    "52_week_high": 796.25,
+    "52_week_low": 520.26,
+    "price_vs_52w_pct": 30.7,
+    "volume_surge": 0.79,
+    "avg_volume": 15345748,
+    "market_cap": 1535898419200,
+    "pe_trailing": 21.978205,
+    "pe_forward": 16.731873,
+    "peg_ratio": 0.87,
+    "eps_ttm": 27.53,
+    "eps_forward": 36.16212,
+    "revenue_growth": 0.331,
+    "earnings_growth": 0.624,
+    "profit_margin": 0.32837,
+    "short_ratio": 1.69,
+    "beta": 1.243,
+    "return_5d_pct": -2.16,
+    "return_1mo_pct": -8.21,
+    "return_3mo_pct": -4.97,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": -0.5,
+      "note": "Negative 1mo momentum -8.21%"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (624.93)"
+    },
+    {
+      "name": "sma200",
+      "score": -1.0,
+      "note": "Price below SMA200 (670.22) \u2014 confirmed downtrend"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 16.731873x < trailing 21.978205x (expected growth)"
+    },
+    {
+      "name": "peg",
+      "score": 1.0,
+      "note": "PEG 0.87 < 1.0 \u2014 growth cheap vs price"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.5,
+      "note": "Revenue growing 33% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 62% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": -1.0,
+      "note": "Bearish news sentiment (-33.3)"
+    }
+  ],
+  "reasons": [],
+  "warnings": [
+    "Bearish news sentiment detected"
+  ],
+  "sentiment": {
+    "score": -33.3,
+    "label": "BEARISH",
+    "bullish": 1,
+    "bearish": 2,
+    "total_mentions": 3
+  },
+  "news": [
+    {
+      "title": "US energy storage additions hit a first-quarter record, report shows",
+      "published": "Thu, 21 May 2026 04:04:10 +0000",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/us-energy-storage-additions-hit-040410278.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Zuckerberg warns 'success isn't a given' as 10% of Meta workforce laid off",
+      "published": "Thu, 21 May 2026 03:45:00 +0000",
+      "url": "https://uk.finance.yahoo.com/news/zuckerberg-warns-success-isnt-given-034500893.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Meta Doubles Down, Reassigns 7,000 Employees To AI Teams While Slashing 8,000 Jobs In Mark Zuckerberg's High-Stakes Push: Report",
+      "published": "Thu, 21 May 2026 00:31:17 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/meta-doubles-down-reassigns-7-003117606.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Real Winner of SpaceX\u2019s IPO: Mark Zuckerberg",
+      "published": "Wed, 20 May 2026 23:43:27 +0000",
+      "url": "https://247wallst.com/investing/2026/05/20/the-real-winner-of-spacexs-ipo-mark-zuckerberg/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Zuckerberg says he feels 'weight' of Meta layoffs",
+      "published": "Wed, 20 May 2026 22:00:38 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/zuckerberg-says-feels-weight-meta-220038606.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/META"
+  ],
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 605.06,
+  "asset_type": "stock"
+}

@@ -16,7 +16,7 @@ import './css/index.css'
 
 function App() {
   return (
-    <Router>
+    <Router basename="/stock">
       <div className="min-h-screen bg-slate-900 text-slate-50 font-sans">
         <nav className="bg-slate-800 border-b border-slate-700 px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-4">

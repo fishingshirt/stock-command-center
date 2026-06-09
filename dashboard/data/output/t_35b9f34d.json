@@ -1,0 +1,139 @@
+{
+  "task_id": "t_35b9f34d",
+  "subject": "QQQ analysis",
+  "ticker": "QQQ",
+  "timestamp": "2026-05-21T04:35:34.377601+00:00",
+  "recommendation": "BUY",
+  "confidence": 80,
+  "summary": "QQQ @ $713.15 \u2014 BUY (80% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 95.9% of 52-week range \u2014 limited upside | RSI: 73.11 | P/E: 34.788456 | Strategy: GROWTH",
+  "signal_score": 0.412,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "QQQ",
+    "current_price": 713.15,
+    "previous_close": 701.53,
+    "day_change_pct": 1.66,
+    "sma_20": 689.07,
+    "sma_50": 637.44,
+    "sma_200": 612.05,
+    "rsi_14": 73.11,
+    "52_week_high": 722.03,
+    "52_week_low": 505.58,
+    "price_vs_52w_pct": 95.9,
+    "volume_surge": 0.78,
+    "avg_volume": 55886711,
+    "market_cap": null,
+    "pe_trailing": 34.788456,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -0.92,
+    "return_1mo_pct": 9.48,
+    "return_3mo_pct": 18.73,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +9.48%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +18.73%"
+    },
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 73.11"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (689.07)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (612.05) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 34.788456x"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (95.9% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [
+    "Price at 95.9% of 52-week range \u2014 limited upside"
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 0,
+    "total_mentions": 2
+  },
+  "news": [
+    {
+      "title": "Emerging markets could soar this year, says CIO",
+      "published": "Wed, 20 May 2026 20:41:41 +0000",
+      "url": "https://finance.yahoo.com/video/emerging-markets-could-soar-says-204141643.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "JEPQ\u2019s 9.5% Yield Is Impressive, But the ELN Counterparty Risk Is the Hidden Cost",
+      "published": "Wed, 20 May 2026 18:53:28 +0000",
+      "url": "https://247wallst.com/investing/2026/05/20/jepqs-9-5-yield-is-impressive-but-the-eln-counterparty-risk-is-the-hidden-cost/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Exchange-Traded Funds Move Higher as US Equities Rise After Midday",
+      "published": "Wed, 20 May 2026 17:08:10 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-move-higher-170810609.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Why the Earnings Report Reaction in Nvidia Stock Matters So Much More This Time",
+      "published": "Wed, 20 May 2026 15:20:46 +0000",
+      "url": "https://www.barchart.com/story/news/2041818/why-the-earnings-report-reaction-in-nvidia-stock-matters-so-much-more-this-time?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Stocks Rally as Crude Oil and Bond Yields Slump",
+      "published": "Wed, 20 May 2026 15:17:22 +0000",
+      "url": "https://www.barchart.com/story/news/2041754/stocks-rally-as-crude-oil-and-bond-yields-slump?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/QQQ"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 713.15,
+  "asset_type": "stock"
+}

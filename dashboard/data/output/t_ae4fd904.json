@@ -1,0 +1,137 @@
+{
+  "task_id": "t_ae4fd904",
+  "subject": "NVDA analysis",
+  "ticker": "NVDA",
+  "timestamp": "2026-05-21T04:39:48.099460+00:00",
+  "recommendation": "BUY",
+  "confidence": 90,
+  "summary": "NVDA @ $223.47 \u2014 BUY (90% confidence) | Bullish: Bullish news sentiment detected | RSI: 69.8 | Strategy: MOMENTUM",
+  "signal_score": 0.818,
+  "strategy": "MOMENTUM",
+  "key_metrics": {
+    "ticker": "NVDA",
+    "current_price": 223.47,
+    "previous_close": 220.61,
+    "day_change_pct": 1.3,
+    "sma_20": 213.4,
+    "sma_50": 195.49,
+    "sma_200": 186.65,
+    "rsi_14": 69.8,
+    "52_week_high": 236.54,
+    "52_week_low": 129.16,
+    "price_vs_52w_pct": 87.8,
+    "volume_surge": 0.97,
+    "avg_volume": 170754173,
+    "market_cap": 5412560568320,
+    "pe_trailing": null,
+    "pe_forward": 18.83,
+    "peg_ratio": 0.71,
+    "eps_ttm": 6.53,
+    "eps_forward": 11.65,
+    "revenue_growth": 0.732,
+    "earnings_growth": 0.956,
+    "profit_margin": 0.556,
+    "short_ratio": 1.84,
+    "beta": 2.24,
+    "return_5d_pct": -5.2,
+    "return_1mo_pct": 11.94,
+    "return_3mo_pct": 16.66,
+    "_source": "yahoo_chart_api_fallback"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.5,
+      "note": "Strong 1mo momentum +11.94%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +16.66%"
+    },
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 69.8"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (213.4)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (186.65) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "peg",
+      "score": 1.0,
+      "note": "PEG 0.71 < 1.0 \u2014 growth cheap vs price"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.5,
+      "note": "Revenue growing 73% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 96% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 4,
+    "bearish": 0,
+    "total_mentions": 4
+  },
+  "news": [
+    {
+      "title": "Is Nvidia a Buy After Their Latest Earnings Report?",
+      "url": "",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nvidia posts record quarter as AI demand surges, but muted guidance caps investor excitement",
+      "url": "",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nvidia Warrant Deal Puts Corning At Center Of AI Data Centers",
+      "url": "",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Asian shares surge after oil prices slip and Wall Street resumes its AI rally",
+      "url": "",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Jensen Huang says he has found a brand new $200B market for Nvidia",
+      "url": "",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/NVDA"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 223.47,
+  "asset_type": "stock"
+}
