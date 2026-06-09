@@ -24,14 +24,7 @@ Real-time market analysis for VOO. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260519-378
-**Subject:** IWM analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-19
-**Started At:** 2026-06-09T16:13:44.339372+00:00
-**Details:**
-Real-time market analysis for IWM. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13168,3 +13161,15 @@ Real-time market analysis for SPY. Auto-generated watchlist task.
 **Summary:** Data unavailable for QQQ: Expecting value: line 1 column 1 (char 0)
 **Details:**
 Real-time market analysis for QQQ. Auto-generated watchlist task.
+
+### Task ID: 20260519-378
+**Subject:** IWM analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-19
+**Started At:** 2026-06-09T16:13:44.339372+00:00
+**Completed At:** 2026-06-09T16:13:56.736319+00:00
+**Result:** dashboard/data/output/20260519-378.json
+**Summary:** Data unavailable for IWM: Expecting value: line 1 column 1 (char 0)
+**Details:**
+Real-time market analysis for IWM. Auto-generated watchlist task.
