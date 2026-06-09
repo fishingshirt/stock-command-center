@@ -1,30 +1,4 @@
 {
-  "ticker": "NVDA",
-  "timestamp": "2026-05-21T04:42:14.813357+00:00",
-  "current_price": 223.47,
-  "dcf_target": 801.82,
-  "comparable_target": 91.06,
-  "blended_target": 446.44,
-  "margin_of_safety_pct": 49.94,
-  "upside_pct": 99.78,
-  "verdict": "STRONG_BUY",
-  "valuation_inputs": {
-    "trailing_pe": 34.22205,
-    "forward_pe": 19.18647,
-    "price_to_sales": 25.065344,
-    "price_to_book": 34.52874,
-    "ev_ebitda": 40.375,
-    "eps_ttm": 6.53,
-    "eps_forward": 11.64727,
-    "sector": "Technology",
-    "sector_median_pe": 28,
-    "implied_pe": 182.84,
-    "implied_ps": 70.92,
-    "implied_pb": 19.42,
-    "free_cash_flow": 58128998400,
-    "shares_outstanding": 24220525225,
-    "growth_assumed": 0.956,
-    "wacc": 0.09,
-    "terminal_growth": 0.025
-  }
+  "_error": "Expecting value: line 1 column 1 (char 0)",
+  "ticker": "NVDA"
 }

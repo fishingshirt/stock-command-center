@@ -1,30 +1,4 @@
 {
-  "ticker": "AAPL",
-  "timestamp": "2026-05-17T15:31:09.149416+00:00",
-  "current_price": 300.23,
-  "dcf_target": 236.6,
-  "comparable_target": 165.78,
-  "blended_target": 201.19,
-  "margin_of_safety_pct": 0,
-  "upside_pct": -32.99,
-  "verdict": "OVERVALUED",
-  "valuation_inputs": {
-    "trailing_pe": 36.347458,
-    "forward_pe": 31.31931,
-    "price_to_sales": 9.767777,
-    "price_to_book": 41.353996,
-    "ev_ebitda": 27.665,
-    "eps_ttm": 8.26,
-    "eps_forward": 9.5861,
-    "sector": "Technology",
-    "sector_median_pe": 28,
-    "implied_pe": 231.28,
-    "implied_ps": 244.27,
-    "implied_pb": 21.78,
-    "free_cash_flow": 101090746368,
-    "shares_outstanding": 14687356000,
-    "growth_assumed": 0.218,
-    "wacc": 0.09,
-    "terminal_growth": 0.025
-  }
+  "_error": "Expecting value: line 1 column 1 (char 0)",
+  "ticker": "AAPL"
 }
