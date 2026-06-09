@@ -14,6 +14,14 @@ This is the single source of truth for all research and build tasks. Do not edit
 **Details:**
 Real-time market analysis for VOO. Auto-generated watchlist task.
 
+### Task ID: 20260609-001
+**Subject:** RACE analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-06-09
+**Details:**
+Real-time market analysis for RACE. Auto-generated watchlist task.
+
 ## In Progress
 
 ### Task ID: 20260519-379
