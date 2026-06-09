@@ -56,14 +56,7 @@ Real-time market analysis for ETH-USD. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260519-379
-**Subject:** VTI analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-05-19
-**Started At:** 2026-06-09T16:13:57.622847+00:00
-**Details:**
-Real-time market analysis for VTI. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13212,3 +13205,15 @@ Real-time market analysis for QQQ. Auto-generated watchlist task.
 **Summary:** Data unavailable for IWM: Expecting value: line 1 column 1 (char 0)
 **Details:**
 Real-time market analysis for IWM. Auto-generated watchlist task.
+
+### Task ID: 20260519-379
+**Subject:** VTI analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-05-19
+**Started At:** 2026-06-09T16:13:57.622847+00:00
+**Completed At:** 2026-06-09T16:14:07.555698+00:00
+**Result:** dashboard/data/output/20260519-379.json
+**Summary:** Data unavailable for VTI: Expecting value: line 1 column 1 (char 0)
+**Details:**
+Real-time market analysis for VTI. Auto-generated watchlist task.
