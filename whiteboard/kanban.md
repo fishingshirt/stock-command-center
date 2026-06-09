@@ -56,14 +56,7 @@ Real-time market analysis for MTUM. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260609-009
-**Subject:** DIS analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-06-09
-**Started At:** 2026-06-09T16:46:43.562407+00:00
-**Details:**
-Real-time market analysis for DIS. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13332,3 +13325,15 @@ Real-time market analysis for TTWO. Auto-generated watchlist task.
 **Summary:** Data unavailable for F: Expecting value: line 1 column 1 (char 0)
 **Details:**
 Real-time market analysis for F. Auto-generated watchlist task.
+
+### Task ID: 20260609-009
+**Subject:** DIS analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-06-09
+**Started At:** 2026-06-09T16:46:43.562407+00:00
+**Completed At:** 2026-06-09T16:47:01.433994+00:00
+**Result:** dashboard/data/output/20260609-009.json
+**Summary:** Data unavailable for DIS: Expecting value: line 1 column 1 (char 0)
+**Details:**
+Real-time market analysis for DIS. Auto-generated watchlist task.
