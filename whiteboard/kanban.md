@@ -64,14 +64,7 @@ Real-time market analysis for MTUM. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260609-033
-**Subject:** AAPL analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-06-09
-**Started At:** 2026-06-10T02:01:07.670292+00:00
-**Details:**
-Real-time market analysis for AAPL. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13628,3 +13621,15 @@ Real-time market analysis for RACE. Auto-generated watchlist task.
 **Summary:** Data unavailable for SPY: Expecting value: line 1 column 1 (char 0)
 **Details:**
 Real-time market analysis for TTWO. Auto-generated watchlist task.
+
+### Task ID: 20260609-033
+**Subject:** AAPL analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-06-09
+**Started At:** 2026-06-10T02:01:07.670292+00:00
+**Completed At:** 2026-06-10T02:01:18.505587+00:00
+**Result:** dashboard/data/output/20260609-033.json
+**Summary:** Data unavailable for AAPL: Expecting value: line 1 column 1 (char 0)
+**Details:**
+Real-time market analysis for AAPL. Auto-generated watchlist task.
