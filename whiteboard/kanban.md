@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260610-003
-**Subject:** AAPL analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-06-10
-**Details:**
-Real-time market analysis for AAPL. Auto-generated watchlist task.
-
 ### Task ID: 20260610-004
 **Subject:** NVDA analysis
 **Assigned Bot:** researcher_bot
@@ -72,7 +64,14 @@ Real-time market analysis for MTUM. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260610-003
+**Subject:** AAPL analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-06-10
+**Started At:** 2026-06-10T04:01:16.732866+00:00
+**Details:**
+Real-time market analysis for AAPL. Auto-generated watchlist task.
 
 ## Done
 
