@@ -1,0 +1,117 @@
+{
+  "task_id": "",
+  "subject": "AAPL analysis",
+  "ticker": "AAPL",
+  "timestamp": "2026-06-10T12:33:45.161702+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 68,
+  "summary": "AAPL @ $nan \u2014 ACCUMULATE (68% confidence) | Bullish: Bullish news sentiment detected | RSI: 52.84 | P/E: 35.21818 | Strategy: GROWTH",
+  "signal_score": 0.333,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "AAPL",
+    "current_price": NaN,
+    "previous_close": 301.54,
+    "day_change_pct": NaN,
+    "sma_20": NaN,
+    "sma_50": NaN,
+    "sma_200": NaN,
+    "rsi_14": 52.84,
+    "52_week_high": 317.4,
+    "52_week_low": 195.07,
+    "price_vs_52w_pct": NaN,
+    "volume_surge": 1.35,
+    "avg_volume": 45829400,
+    "market_cap": 4267410980864,
+    "pe_trailing": 35.21818,
+    "pe_forward": 30.287014,
+    "peg_ratio": 2.42,
+    "eps_ttm": 8.25,
+    "eps_forward": 9.59322,
+    "revenue_growth": 0.166,
+    "earnings_growth": 0.218,
+    "profit_margin": 0.27152002,
+    "short_ratio": 3.12,
+    "beta": 1.086,
+    "return_5d_pct": NaN,
+    "return_1mo_pct": NaN,
+    "return_3mo_pct": NaN,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 35.21818x"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 2.42 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.0,
+      "note": "Revenue growing 17% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 22% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 0,
+    "total_mentions": 2
+  },
+  "news": [
+    {
+      "title": "Leading Public AI Company RLTR Supports No Data Center in Monterey Park and Calls for AI Progress Without Massive Data Center Expansion",
+      "published": "Wed, 10 Jun 2026 12:22:00 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/leading-public-ai-company-rltr-122200543.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple EU AI Delay Puts Spotlight On Valuation And Growth Expectations",
+      "published": "Wed, 10 Jun 2026 12:08:41 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-eu-ai-delay-puts-120841892.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "AI Infrastructure Short-Circuits But Now Sparks Not One, But Two Buy Points",
+      "published": "Wed, 10 Jun 2026 12:01:11 +0000",
+      "url": "https://finance.yahoo.com/m/0d6e6a08-2df0-3b11-994f-ebcdb789b54e/ai-infrastructure.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Forget VOO: Fidelity\u2019s Tech ETF Is Up 29% While the Broad Market Lags",
+      "published": "Wed, 10 Jun 2026 11:15:25 +0000",
+      "url": "https://247wallst.com/investing/2026/06/10/forget-voo-fidelitys-tech-etf-is-up-29-while-the-broad-market-lags/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "A glossary to help understand what happens in an initial public offering",
+      "published": "Wed, 10 Jun 2026 10:31:35 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/glossary-help-understand-happens-initial-103135366.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/AAPL"
+  ],
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": NaN,
+  "asset_type": "stock"
+}

@@ -1,0 +1,13 @@
+{
+  "task_id": "",
+  "subject": "VOO analysis",
+  "ticker": "VOO",
+  "timestamp": "2026-06-10T12:32:28.378690+00:00",
+  "recommendation": "NO_DATA",
+  "confidence": 0,
+  "summary": "Data unavailable for VOO: yfinance not installed",
+  "key_metrics": {
+    "_error": "yfinance not installed"
+  },
+  "asset_type": "stock"
+}

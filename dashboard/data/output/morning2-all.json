@@ -1,0 +1,749 @@
+{
+  "AAPL": {
+    "task_id": "",
+    "subject": "AAPL analysis",
+    "ticker": "AAPL",
+    "timestamp": "2026-06-10T12:33:45.161702+00:00",
+    "recommendation": "ACCUMULATE",
+    "confidence": 68,
+    "summary": "AAPL @ $nan \u2014 ACCUMULATE (68% confidence) | Bullish: Bullish news sentiment detected | RSI: 52.84 | P/E: 35.21818 | Strategy: GROWTH",
+    "signal_score": 0.333,
+    "strategy": "GROWTH",
+    "key_metrics": {
+      "ticker": "AAPL",
+      "current_price": NaN,
+      "previous_close": 301.54,
+      "day_change_pct": NaN,
+      "sma_20": NaN,
+      "sma_50": NaN,
+      "sma_200": NaN,
+      "rsi_14": 52.84,
+      "52_week_high": 317.4,
+      "52_week_low": 195.07,
+      "price_vs_52w_pct": NaN,
+      "volume_surge": 1.35,
+      "avg_volume": 45829400,
+      "market_cap": 4267410980864,
+      "pe_trailing": 35.21818,
+      "pe_forward": 30.287014,
+      "peg_ratio": 2.42,
+      "eps_ttm": 8.25,
+      "eps_forward": 9.59322,
+      "revenue_growth": 0.166,
+      "earnings_growth": 0.218,
+      "profit_margin": 0.27152002,
+      "short_ratio": 3.12,
+      "beta": 1.086,
+      "return_5d_pct": NaN,
+      "return_1mo_pct": NaN,
+      "return_3mo_pct": NaN,
+      "_source": "yfinance"
+    },
+    "signals": [
+      {
+        "name": "pe",
+        "score": -0.5,
+        "note": "Elevated P/E 35.21818x"
+      },
+      {
+        "name": "peg",
+        "score": -1.0,
+        "note": "PEG 2.42 > 2.0 \u2014 expensive growth"
+      },
+      {
+        "name": "revenue_growth",
+        "score": 1.0,
+        "note": "Revenue growing 17% YoY"
+      },
+      {
+        "name": "earnings_growth",
+        "score": 1.0,
+        "note": "Earnings growing 22% YoY"
+      },
+      {
+        "name": "sentiment",
+        "score": 1.0,
+        "note": "Bullish news sentiment (100.0)"
+      }
+    ],
+    "reasons": [
+      "Bullish news sentiment detected"
+    ],
+    "warnings": [],
+    "sentiment": {
+      "score": 100.0,
+      "label": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "total_mentions": 2
+    },
+    "news": [
+      {
+        "title": "Leading Public AI Company RLTR Supports No Data Center in Monterey Park and Calls for AI Progress Without Massive Data Center Expansion",
+        "published": "Wed, 10 Jun 2026 12:22:00 +0000",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/leading-public-ai-company-rltr-122200543.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Apple EU AI Delay Puts Spotlight On Valuation And Growth Expectations",
+        "published": "Wed, 10 Jun 2026 12:08:41 +0000",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-eu-ai-delay-puts-120841892.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "AI Infrastructure Short-Circuits But Now Sparks Not One, But Two Buy Points",
+        "published": "Wed, 10 Jun 2026 12:01:11 +0000",
+        "url": "https://finance.yahoo.com/m/0d6e6a08-2df0-3b11-994f-ebcdb789b54e/ai-infrastructure.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Forget VOO: Fidelity\u2019s Tech ETF Is Up 29% While the Broad Market Lags",
+        "published": "Wed, 10 Jun 2026 11:15:25 +0000",
+        "url": "https://247wallst.com/investing/2026/06/10/forget-voo-fidelitys-tech-etf-is-up-29-while-the-broad-market-lags/?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "A glossary to help understand what happens in an initial public offering",
+        "published": "Wed, 10 Jun 2026 10:31:35 +0000",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/glossary-help-understand-happens-initial-103135366.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      }
+    ],
+    "sources": [
+      "https://finance.yahoo.com/quote/AAPL"
+    ],
+    "paper_trade_signal": "ACCUMULATE",
+    "paper_trade_price": NaN,
+    "asset_type": "stock"
+  },
+  "NVDA": {
+    "task_id": "",
+    "subject": "NVDA analysis",
+    "ticker": "NVDA",
+    "timestamp": "2026-06-10T12:33:52.334723+00:00",
+    "recommendation": "BUY",
+    "confidence": 90,
+    "summary": "NVDA @ $nan \u2014 BUY (90% confidence) | Bullish: Bullish news sentiment detected | RSI: 40.63 | P/E: 31.833334 | Strategy: GROWTH",
+    "signal_score": 0.833,
+    "strategy": "GROWTH",
+    "key_metrics": {
+      "ticker": "NVDA",
+      "current_price": NaN,
+      "previous_close": 208.64,
+      "day_change_pct": NaN,
+      "sma_20": NaN,
+      "sma_50": NaN,
+      "sma_200": NaN,
+      "rsi_14": 40.63,
+      "52_week_high": 236.54,
+      "52_week_low": 140.85,
+      "price_vs_52w_pct": NaN,
+      "volume_surge": 1.05,
+      "avg_volume": 165591156,
+      "market_cap": 5042570002432,
+      "pe_trailing": 31.833334,
+      "pe_forward": 16.415857,
+      "peg_ratio": 0.64,
+      "eps_ttm": 6.54,
+      "eps_forward": 12.68225,
+      "revenue_growth": 0.852,
+      "earnings_growth": 2.145,
+      "profit_margin": 0.62966,
+      "short_ratio": 1.71,
+      "beta": 2.202,
+      "return_5d_pct": NaN,
+      "return_1mo_pct": NaN,
+      "return_3mo_pct": NaN,
+      "_source": "yfinance"
+    },
+    "signals": [
+      {
+        "name": "pe",
+        "score": -0.5,
+        "note": "Elevated P/E 31.833334x"
+      },
+      {
+        "name": "pe_forward",
+        "score": 1.0,
+        "note": "Forward P/E 16.415857x < trailing 31.833334x (expected growth)"
+      },
+      {
+        "name": "peg",
+        "score": 1.0,
+        "note": "PEG 0.64 < 1.0 \u2014 growth cheap vs price"
+      },
+      {
+        "name": "revenue_growth",
+        "score": 1.5,
+        "note": "Revenue growing 85% YoY"
+      },
+      {
+        "name": "earnings_growth",
+        "score": 1.0,
+        "note": "Earnings growing 214% YoY"
+      },
+      {
+        "name": "sentiment",
+        "score": 1.0,
+        "note": "Bullish news sentiment (50.0)"
+      }
+    ],
+    "reasons": [
+      "Bullish news sentiment detected"
+    ],
+    "warnings": [],
+    "sentiment": {
+      "score": 50.0,
+      "label": "BULLISH",
+      "bullish": 3,
+      "bearish": 1,
+      "total_mentions": 4
+    },
+    "news": [
+      {
+        "title": "Leading Public AI Company RLTR Supports No Data Center in Monterey Park and Calls for AI Progress Without Massive Data Center Expansion",
+        "published": "Wed, 10 Jun 2026 12:22:00 +0000",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/leading-public-ai-company-rltr-122200543.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Forget the Headlines. This Is Where Bezos Is Actually Putting His Money.",
+        "published": "Wed, 10 Jun 2026 12:17:50 +0000",
+        "url": "https://247wallst.com/investing/2026/06/10/forget-the-headlines-this-is-where-bezos-is-actually-putting-his-money/?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Unhappy With Redwire\u2019s Dilution? 5 Space and Defense Stocks to Buy Instead",
+        "published": "Wed, 10 Jun 2026 12:10:23 +0000",
+        "url": "https://247wallst.com/investing/2026/06/10/unhappy-with-redwires-dilution-5-space-and-defense-stocks-to-buy-instead/?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today: Dow Falls 500 Points On Trump Comments; CPI Inflation Data Next (Live Coverage)",
+        "published": "Wed, 10 Jun 2026 12:08:57 +0000",
+        "url": "https://finance.yahoo.com/m/10570e89-0a46-392e-a220-4dc8a69e55aa/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "The Defense Contractor Nobody Wanted Became an AI Darling That Turned $1,000 Into $14k and There\u2019s a Play Today",
+        "published": "Wed, 10 Jun 2026 12:08:26 +0000",
+        "url": "https://247wallst.com/investing/2026/06/10/the-defense-contractor-nobody-wanted-became-an-ai-darling-that-turned-1000-into-14k-and-theres-a-play-today/?.tsrc=rss",
+        "source": "Yahoo Finance"
+      }
+    ],
+    "sources": [
+      "https://finance.yahoo.com/quote/NVDA"
+    ],
+    "paper_trade_signal": "BUY",
+    "paper_trade_price": NaN,
+    "asset_type": "stock"
+  },
+  "RACE": {
+    "task_id": "",
+    "subject": "RACE analysis",
+    "ticker": "RACE",
+    "timestamp": "2026-06-10T12:33:59.546032+00:00",
+    "recommendation": "HOLD",
+    "confidence": 54,
+    "summary": "RACE @ $nan \u2014 HOLD (54% confidence) | Bullish: Bullish news sentiment detected | RSI: 61.2 | P/E: 34.47637 | Strategy: GROWTH",
+    "signal_score": -0.2,
+    "strategy": "GROWTH",
+    "key_metrics": {
+      "ticker": "RACE",
+      "current_price": NaN,
+      "previous_close": 351.57,
+      "day_change_pct": NaN,
+      "sma_20": NaN,
+      "sma_50": NaN,
+      "sma_200": NaN,
+      "rsi_14": 61.2,
+      "52_week_high": 519.1,
+      "52_week_low": 312.51,
+      "price_vs_52w_pct": NaN,
+      "volume_surge": 0.79,
+      "avg_volume": 667585,
+      "market_cap": 62952452096,
+      "pe_trailing": 34.47637,
+      "pe_forward": 28.909801,
+      "peg_ratio": 3.94,
+      "eps_ttm": 10.37,
+      "eps_forward": 12.366739,
+      "revenue_growth": 0.032,
+      "earnings_growth": 0.013,
+      "profit_margin": 0.22187,
+      "short_ratio": 4.79,
+      "beta": 0.595,
+      "return_5d_pct": NaN,
+      "return_1mo_pct": NaN,
+      "return_3mo_pct": NaN,
+      "_source": "yfinance"
+    },
+    "signals": [
+      {
+        "name": "pe",
+        "score": -0.5,
+        "note": "Elevated P/E 34.47637x"
+      },
+      {
+        "name": "peg",
+        "score": -1.0,
+        "note": "PEG 3.94 > 2.0 \u2014 expensive growth"
+      },
+      {
+        "name": "sentiment",
+        "score": 1.0,
+        "note": "Bullish news sentiment (100.0)"
+      }
+    ],
+    "reasons": [
+      "Bullish news sentiment detected"
+    ],
+    "warnings": [],
+    "sentiment": {
+      "score": 100.0,
+      "label": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "total_mentions": 2
+    },
+    "news": [
+      {
+        "title": "2 Cheap Stocks to Buy Now Before They Rocket Higher",
+        "published": "Tue, 09 Jun 2026 20:27:00 +0000",
+        "url": "https://www.fool.com/investing/2026/06/09/2-cheap-stocks-to-buy-before-they-rocket-higher/?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Ferrari Stock Is Down 33% Since July 2025: 1 Reason the Market Is Wrong.",
+        "published": "Mon, 08 Jun 2026 09:51:00 +0000",
+        "url": "https://www.fool.com/investing/2026/06/08/ferrari-stock-down-reason-market-wrong/?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Ferrari Is Still Under $400. Here's Whether Long-Term Investors Should Pounce.",
+        "published": "Sat, 06 Jun 2026 05:25:00 +0000",
+        "url": "https://www.fool.com/investing/2026/06/06/ferrari-stock-under-400-long-term-investors-pounce/?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "HP\u2019s Ferrari AI PC Signals Premium Push And Raises Investor Questions",
+        "published": "Fri, 05 Jun 2026 09:08:25 +0000",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/hp-ferrari-ai-pc-signals-090825259.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Ferrari Extends Leclerc Deal And Clarifies Formula 1 Stock Story",
+        "published": "Thu, 04 Jun 2026 15:25:01 +0000",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ferrari-extends-leclerc-deal-clarifies-152501781.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      }
+    ],
+    "sources": [
+      "https://finance.yahoo.com/quote/RACE"
+    ],
+    "paper_trade_signal": "HOLD",
+    "paper_trade_price": NaN,
+    "asset_type": "stock"
+  },
+  "TTWO": {
+    "task_id": "",
+    "subject": "TTWO analysis",
+    "ticker": "TTWO",
+    "timestamp": "2026-06-10T12:34:06.823181+00:00",
+    "recommendation": "BUY",
+    "confidence": 82,
+    "summary": "TTWO @ $nan \u2014 BUY (82% confidence) | Bullish: RSI 23.58 \u2014 oversold bounce potential; Bullish news sentiment detected | RSI: 23.58 | Strategy: GROWTH",
+    "signal_score": 0.5,
+    "strategy": "GROWTH",
+    "key_metrics": {
+      "ticker": "TTWO",
+      "current_price": NaN,
+      "previous_close": 212.55,
+      "day_change_pct": NaN,
+      "sma_20": NaN,
+      "sma_50": NaN,
+      "sma_200": NaN,
+      "rsi_14": 23.58,
+      "52_week_high": 264.79,
+      "52_week_low": 187.63,
+      "price_vs_52w_pct": NaN,
+      "volume_surge": 1.0,
+      "avg_volume": 2056329,
+      "market_cap": 39370616832,
+      "pe_trailing": null,
+      "pe_forward": 21.02038,
+      "peg_ratio": 2.97,
+      "eps_ttm": -1.61,
+      "eps_forward": 10.08783,
+      "revenue_growth": 0.061,
+      "earnings_growth": null,
+      "profit_margin": -0.0448,
+      "short_ratio": 3.05,
+      "beta": 0.982,
+      "return_5d_pct": NaN,
+      "return_1mo_pct": NaN,
+      "return_3mo_pct": NaN,
+      "_source": "yfinance"
+    },
+    "signals": [
+      {
+        "name": "rsi",
+        "score": 2.0,
+        "note": "RSI extremely oversold 23.58"
+      },
+      {
+        "name": "peg",
+        "score": -1.0,
+        "note": "PEG 2.97 > 2.0 \u2014 expensive growth"
+      },
+      {
+        "name": "sentiment",
+        "score": 1.0,
+        "note": "Bullish news sentiment (100.0)"
+      }
+    ],
+    "reasons": [
+      "RSI 23.58 \u2014 oversold bounce potential",
+      "Bullish news sentiment detected"
+    ],
+    "warnings": [],
+    "sentiment": {
+      "score": 100.0,
+      "label": "BULLISH",
+      "bullish": 3,
+      "bearish": 0,
+      "total_mentions": 3
+    },
+    "news": [
+      {
+        "title": "Take-Two Interactive Software (TTWO): Best Quality Growth Stocks to Buy",
+        "published": "Sun, 07 Jun 2026 04:39:24 +0000",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-ttwo-best-043924589.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Jim Cramer on Take-Two Interactive: \u201cI Wouldn\u2019t Buy It All at Once; It\u2019s an Erratic Trader\u201d",
+        "published": "Sat, 06 Jun 2026 15:06:02 +0000",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-two-interactive-wouldn-150602041.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Take-Two Interactive Software, Inc. (NASDAQ:TTWO) Could Be Less Than A Year Away From Profitability",
+        "published": "Fri, 05 Jun 2026 11:00:10 +0000",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-inc-nasdaq-110010370.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "How the Memory Shortage Is Crushing the Gaming Industry",
+        "published": "Thu, 04 Jun 2026 14:15:00 +0000",
+        "url": "https://www.marketbeat.com/originals/how-the-memory-shortage-is-crushing-the-gaming-industry/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Take-Two's Path to Profitability Is Coming in November",
+        "published": "Thu, 04 Jun 2026 11:45:00 +0000",
+        "url": "https://www.fool.com/investing/2026/06/04/take-twos-path-to-profitability-is-coming-in-novem/?.tsrc=rss",
+        "source": "Yahoo Finance"
+      }
+    ],
+    "sources": [
+      "https://finance.yahoo.com/quote/TTWO"
+    ],
+    "paper_trade_signal": "BUY",
+    "paper_trade_price": NaN,
+    "asset_type": "stock"
+  },
+  "MTUM": {
+    "task_id": "",
+    "subject": "MTUM analysis",
+    "ticker": "MTUM",
+    "timestamp": "2026-06-10T12:34:14.195786+00:00",
+    "recommendation": "HOLD",
+    "confidence": 54,
+    "summary": "MTUM @ $nan \u2014 HOLD (54% confidence) | Bullish: Bullish news sentiment detected | RSI: 66.07 | P/E: 33.1562 | Strategy: GROWTH",
+    "signal_score": -0.2,
+    "strategy": "GROWTH",
+    "key_metrics": {
+      "ticker": "MTUM",
+      "current_price": NaN,
+      "previous_close": 315.08,
+      "day_change_pct": NaN,
+      "sma_20": NaN,
+      "sma_50": NaN,
+      "sma_200": NaN,
+      "rsi_14": 66.07,
+      "52_week_high": 331.49,
+      "52_week_low": 229.42,
+      "price_vs_52w_pct": NaN,
+      "volume_surge": 1.41,
+      "avg_volume": 1083203,
+      "market_cap": null,
+      "pe_trailing": 33.1562,
+      "pe_forward": null,
+      "peg_ratio": null,
+      "eps_ttm": null,
+      "eps_forward": null,
+      "revenue_growth": null,
+      "earnings_growth": null,
+      "profit_margin": null,
+      "short_ratio": null,
+      "beta": null,
+      "return_5d_pct": NaN,
+      "return_1mo_pct": NaN,
+      "return_3mo_pct": NaN,
+      "_source": "yfinance"
+    },
+    "signals": [
+      {
+        "name": "rsi",
+        "score": -1.0,
+        "note": "RSI overbought 66.07"
+      },
+      {
+        "name": "pe",
+        "score": -0.5,
+        "note": "Elevated P/E 33.1562x"
+      },
+      {
+        "name": "sentiment",
+        "score": 1.0,
+        "note": "Bullish news sentiment (100.0)"
+      }
+    ],
+    "reasons": [
+      "Bullish news sentiment detected"
+    ],
+    "warnings": [],
+    "sentiment": {
+      "score": 100.0,
+      "label": "BULLISH",
+      "bullish": 4,
+      "bearish": 0,
+      "total_mentions": 4
+    },
+    "news": [
+      {
+        "title": "Apple Just Delivered Its $75 Per Share AI Moment at WWDC. Wall Street Says the Stock Could Hit $440 by Year-End.",
+        "published": "Tue, 09 Jun 2026 13:26:41 +0000",
+        "url": "https://247wallst.com/investing/2026/06/09/apple-just-delivered-its-75-per-share-ai-moment-at-wwdc-wall-street-says-the-stock-could-hit-440-by-year-end/?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "The Dow Wobbles as Wall Street Chases Chips, Other Momentum Stocks",
+        "published": "Mon, 08 Jun 2026 18:31:08 +0000",
+        "url": "https://finance.yahoo.com/m/17c7fe52-5972-346e-9b8c-6e0b5916f7bc/the-dow-wobbles-as-wall.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "How to play the ETF market without touching tech: Chart of the Day",
+        "published": "Thu, 28 May 2026 19:31:20 +0000",
+        "url": "https://finance.yahoo.com/video/how-to-play-the-etf-market-without-touching-tech-chart-of-the-day-193120838.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "The Dow Is Leading. Wall Street Is Selling Winners and Buying Losers.",
+        "published": "Wed, 27 May 2026 15:25:01 +0000",
+        "url": "https://finance.yahoo.com/m/4cea5982-41c5-3029-86ea-622cc16d03b6/the-dow-is-leading.-wall.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Dynamic Tactical ETF (DYTA) Touches a New 52-Week High",
+        "published": "Wed, 27 May 2026 14:58:00 +0000",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/dynamic-tactical-etf-dyta-touches-145800801.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      }
+    ],
+    "sources": [
+      "https://finance.yahoo.com/quote/MTUM"
+    ],
+    "paper_trade_signal": "HOLD",
+    "paper_trade_price": NaN,
+    "asset_type": "stock"
+  },
+  "VOO": {
+    "task_id": "",
+    "subject": "VOO analysis",
+    "ticker": "VOO",
+    "timestamp": "2026-06-10T12:34:21.213016+00:00",
+    "recommendation": "BUY",
+    "confidence": 95,
+    "summary": "VOO @ $nan \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 54.98 | P/E: 27.719986 | Strategy: GROWTH",
+    "signal_score": 1.0,
+    "strategy": "GROWTH",
+    "key_metrics": {
+      "ticker": "VOO",
+      "current_price": NaN,
+      "previous_close": 679.68,
+      "day_change_pct": NaN,
+      "sma_20": NaN,
+      "sma_50": NaN,
+      "sma_200": NaN,
+      "rsi_14": 54.98,
+      "52_week_high": 699.15,
+      "52_week_low": 545.75,
+      "price_vs_52w_pct": NaN,
+      "volume_surge": 1.09,
+      "avg_volume": 8457156,
+      "market_cap": null,
+      "pe_trailing": 27.719986,
+      "pe_forward": null,
+      "peg_ratio": null,
+      "eps_ttm": null,
+      "eps_forward": null,
+      "revenue_growth": null,
+      "earnings_growth": null,
+      "profit_margin": null,
+      "short_ratio": null,
+      "beta": null,
+      "return_5d_pct": NaN,
+      "return_1mo_pct": NaN,
+      "return_3mo_pct": NaN,
+      "_source": "yfinance"
+    },
+    "signals": [
+      {
+        "name": "sentiment",
+        "score": 1.0,
+        "note": "Bullish news sentiment (100.0)"
+      }
+    ],
+    "reasons": [
+      "Bullish news sentiment detected"
+    ],
+    "warnings": [],
+    "sentiment": {
+      "score": 100.0,
+      "label": "BULLISH",
+      "bullish": 2,
+      "bearish": 0,
+      "total_mentions": 2
+    },
+    "news": [
+      {
+        "title": "Forget VOO: Fidelity\u2019s Tech ETF Is Up 29% While the Broad Market Lags",
+        "published": "Wed, 10 Jun 2026 11:15:25 +0000",
+        "url": "https://247wallst.com/investing/2026/06/10/forget-voo-fidelitys-tech-etf-is-up-29-while-the-broad-market-lags/?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Fastest Growing ETFs of 2026",
+        "published": "Wed, 10 Jun 2026 00:48:48 +0000",
+        "url": "http://www.etf.com/sections/features/fastest-growing-etfs-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "The Best Vanguard ETFs to Buy",
+        "published": "Tue, 09 Jun 2026 21:32:00 +0000",
+        "url": "https://www.kiplinger.com/investing/etfs/best-vanguard-etfs?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "The Vanguard S&P 500 ETF Is Unstoppable -- But There's 1 ETF I Like Even More",
+        "published": "Tue, 09 Jun 2026 16:05:00 +0000",
+        "url": "https://www.fool.com/investing/2026/06/09/the-vanguard-sp-500-etf-is-unstoppable-but-theres/?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Guide to the S&P 500 ETF Investing",
+        "published": "Tue, 09 Jun 2026 16:00:00 +0000",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/guide-p-500-etf-investing-160000203.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      }
+    ],
+    "sources": [
+      "https://finance.yahoo.com/quote/VOO"
+    ],
+    "paper_trade_signal": "BUY",
+    "paper_trade_price": NaN,
+    "asset_type": "stock"
+  },
+  "SPY": {
+    "task_id": "",
+    "subject": "SPY analysis",
+    "ticker": "SPY",
+    "timestamp": "2026-06-10T12:34:28.353450+00:00",
+    "recommendation": "HOLD",
+    "confidence": 50,
+    "summary": "SPY @ $nan \u2014 HOLD (50% confidence) | RSI: 54.95 | P/E: 26.39705 | Strategy: GROWTH",
+    "signal_score": 0.0,
+    "strategy": "GROWTH",
+    "key_metrics": {
+      "ticker": "SPY",
+      "current_price": NaN,
+      "previous_close": 739.22,
+      "day_change_pct": NaN,
+      "sma_20": NaN,
+      "sma_50": NaN,
+      "sma_200": NaN,
+      "rsi_14": 54.95,
+      "52_week_high": 760.4,
+      "52_week_low": 591.89,
+      "price_vs_52w_pct": NaN,
+      "volume_surge": 1.02,
+      "avg_volume": 65097035,
+      "market_cap": null,
+      "pe_trailing": 26.39705,
+      "pe_forward": null,
+      "peg_ratio": null,
+      "eps_ttm": null,
+      "eps_forward": null,
+      "revenue_growth": null,
+      "earnings_growth": null,
+      "profit_margin": null,
+      "short_ratio": null,
+      "beta": null,
+      "return_5d_pct": NaN,
+      "return_1mo_pct": NaN,
+      "return_3mo_pct": NaN,
+      "_source": "yfinance"
+    },
+    "signals": [],
+    "reasons": [],
+    "warnings": [],
+    "sentiment": {
+      "score": 0.0,
+      "label": "NEUTRAL",
+      "bullish": 1,
+      "bearish": 1,
+      "total_mentions": 2
+    },
+    "news": [
+      {
+        "title": "Stock Market Today: Dow Falls 500 Points On Trump Comments; CPI Inflation Data Next (Live Coverage)",
+        "published": "Wed, 10 Jun 2026 12:08:57 +0000",
+        "url": "https://finance.yahoo.com/m/10570e89-0a46-392e-a220-4dc8a69e55aa/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Wall Street is Braced for Massive Inflation Numbers Wednesday Morning. Here\u2019s What Numbers Could Cause Stocks to Sink or Soar.",
+        "published": "Wed, 10 Jun 2026 11:31:38 +0000",
+        "url": "https://247wallst.com/investing/2026/06/10/wall-street-is-braced-for-massive-inflation-numbers-wednesday-morning-heres-what-numbers-could-cause-stocks-to-sink-or-soar/?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Forget VOO: Fidelity\u2019s Tech ETF Is Up 29% While the Broad Market Lags",
+        "published": "Wed, 10 Jun 2026 11:15:25 +0000",
+        "url": "https://247wallst.com/investing/2026/06/10/forget-voo-fidelitys-tech-etf-is-up-29-while-the-broad-market-lags/?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "S&P 500, Dow, Nasdaq Futures Decline As US Launches Fresh \u2018Self-Defense Strikes\u2019 On Iran: SMCI, TLRY, DKNG, CBRL In Focus",
+        "published": "Wed, 10 Jun 2026 02:14:56 +0000",
+        "url": "https://stocktwits.com/news-articles/markets/equity/sp500-dow-nasdaq-futures-decline-as-us-launches-fresh-self-defense-strikes-on-iran/cZ062FHR7Rx?.tsrc=rss",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Rob Arnott: Will SpaceX Create The Biggest Bubble Ever?",
+        "published": "Tue, 09 Jun 2026 23:37:43 +0000",
+        "url": "http://www.etf.com/sections/conferences/rob-arnott-will-spacex-create-biggest-bubble-ever?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+        "source": "Yahoo Finance"
+      }
+    ],
+    "sources": [
+      "https://finance.yahoo.com/quote/SPY"
+    ],
+    "paper_trade_signal": "HOLD",
+    "paper_trade_price": NaN,
+    "asset_type": "stock"
+  }
+}

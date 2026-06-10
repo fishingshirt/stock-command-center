@@ -1,0 +1,107 @@
+{
+  "task_id": "",
+  "subject": "MTUM analysis",
+  "ticker": "MTUM",
+  "timestamp": "2026-06-10T12:34:14.195786+00:00",
+  "recommendation": "HOLD",
+  "confidence": 54,
+  "summary": "MTUM @ $nan \u2014 HOLD (54% confidence) | Bullish: Bullish news sentiment detected | RSI: 66.07 | P/E: 33.1562 | Strategy: GROWTH",
+  "signal_score": -0.2,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "MTUM",
+    "current_price": NaN,
+    "previous_close": 315.08,
+    "day_change_pct": NaN,
+    "sma_20": NaN,
+    "sma_50": NaN,
+    "sma_200": NaN,
+    "rsi_14": 66.07,
+    "52_week_high": 331.49,
+    "52_week_low": 229.42,
+    "price_vs_52w_pct": NaN,
+    "volume_surge": 1.41,
+    "avg_volume": 1083203,
+    "market_cap": null,
+    "pe_trailing": 33.1562,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": NaN,
+    "return_1mo_pct": NaN,
+    "return_3mo_pct": NaN,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 66.07"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 33.1562x"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 4,
+    "bearish": 0,
+    "total_mentions": 4
+  },
+  "news": [
+    {
+      "title": "Apple Just Delivered Its $75 Per Share AI Moment at WWDC. Wall Street Says the Stock Could Hit $440 by Year-End.",
+      "published": "Tue, 09 Jun 2026 13:26:41 +0000",
+      "url": "https://247wallst.com/investing/2026/06/09/apple-just-delivered-its-75-per-share-ai-moment-at-wwdc-wall-street-says-the-stock-could-hit-440-by-year-end/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Dow Wobbles as Wall Street Chases Chips, Other Momentum Stocks",
+      "published": "Mon, 08 Jun 2026 18:31:08 +0000",
+      "url": "https://finance.yahoo.com/m/17c7fe52-5972-346e-9b8c-6e0b5916f7bc/the-dow-wobbles-as-wall.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "How to play the ETF market without touching tech: Chart of the Day",
+      "published": "Thu, 28 May 2026 19:31:20 +0000",
+      "url": "https://finance.yahoo.com/video/how-to-play-the-etf-market-without-touching-tech-chart-of-the-day-193120838.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Dow Is Leading. Wall Street Is Selling Winners and Buying Losers.",
+      "published": "Wed, 27 May 2026 15:25:01 +0000",
+      "url": "https://finance.yahoo.com/m/4cea5982-41c5-3029-86ea-622cc16d03b6/the-dow-is-leading.-wall.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Dynamic Tactical ETF (DYTA) Touches a New 52-Week High",
+      "published": "Wed, 27 May 2026 14:58:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dynamic-tactical-etf-dyta-touches-145800801.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/MTUM"
+  ],
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": NaN,
+  "asset_type": "stock"
+}

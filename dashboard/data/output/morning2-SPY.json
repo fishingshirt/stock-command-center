@@ -1,0 +1,89 @@
+{
+  "task_id": "",
+  "subject": "SPY analysis",
+  "ticker": "SPY",
+  "timestamp": "2026-06-10T12:34:28.353450+00:00",
+  "recommendation": "HOLD",
+  "confidence": 50,
+  "summary": "SPY @ $nan \u2014 HOLD (50% confidence) | RSI: 54.95 | P/E: 26.39705 | Strategy: GROWTH",
+  "signal_score": 0.0,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "SPY",
+    "current_price": NaN,
+    "previous_close": 739.22,
+    "day_change_pct": NaN,
+    "sma_20": NaN,
+    "sma_50": NaN,
+    "sma_200": NaN,
+    "rsi_14": 54.95,
+    "52_week_high": 760.4,
+    "52_week_low": 591.89,
+    "price_vs_52w_pct": NaN,
+    "volume_surge": 1.02,
+    "avg_volume": 65097035,
+    "market_cap": null,
+    "pe_trailing": 26.39705,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": NaN,
+    "return_1mo_pct": NaN,
+    "return_3mo_pct": NaN,
+    "_source": "yfinance"
+  },
+  "signals": [],
+  "reasons": [],
+  "warnings": [],
+  "sentiment": {
+    "score": 0.0,
+    "label": "NEUTRAL",
+    "bullish": 1,
+    "bearish": 1,
+    "total_mentions": 2
+  },
+  "news": [
+    {
+      "title": "Stock Market Today: Dow Falls 500 Points On Trump Comments; CPI Inflation Data Next (Live Coverage)",
+      "published": "Wed, 10 Jun 2026 12:08:57 +0000",
+      "url": "https://finance.yahoo.com/m/10570e89-0a46-392e-a220-4dc8a69e55aa/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Wall Street is Braced for Massive Inflation Numbers Wednesday Morning. Here\u2019s What Numbers Could Cause Stocks to Sink or Soar.",
+      "published": "Wed, 10 Jun 2026 11:31:38 +0000",
+      "url": "https://247wallst.com/investing/2026/06/10/wall-street-is-braced-for-massive-inflation-numbers-wednesday-morning-heres-what-numbers-could-cause-stocks-to-sink-or-soar/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Forget VOO: Fidelity\u2019s Tech ETF Is Up 29% While the Broad Market Lags",
+      "published": "Wed, 10 Jun 2026 11:15:25 +0000",
+      "url": "https://247wallst.com/investing/2026/06/10/forget-voo-fidelitys-tech-etf-is-up-29-while-the-broad-market-lags/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "S&P 500, Dow, Nasdaq Futures Decline As US Launches Fresh \u2018Self-Defense Strikes\u2019 On Iran: SMCI, TLRY, DKNG, CBRL In Focus",
+      "published": "Wed, 10 Jun 2026 02:14:56 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/sp500-dow-nasdaq-futures-decline-as-us-launches-fresh-self-defense-strikes-on-iran/cZ062FHR7Rx?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Rob Arnott: Will SpaceX Create The Biggest Bubble Ever?",
+      "published": "Tue, 09 Jun 2026 23:37:43 +0000",
+      "url": "http://www.etf.com/sections/conferences/rob-arnott-will-spacex-create-biggest-bubble-ever?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/SPY"
+  ],
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": NaN,
+  "asset_type": "stock"
+}

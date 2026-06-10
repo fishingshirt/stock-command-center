@@ -1,0 +1,122 @@
+{
+  "task_id": "",
+  "subject": "NVDA analysis",
+  "ticker": "NVDA",
+  "timestamp": "2026-06-10T12:33:52.334723+00:00",
+  "recommendation": "BUY",
+  "confidence": 90,
+  "summary": "NVDA @ $nan \u2014 BUY (90% confidence) | Bullish: Bullish news sentiment detected | RSI: 40.63 | P/E: 31.833334 | Strategy: GROWTH",
+  "signal_score": 0.833,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "NVDA",
+    "current_price": NaN,
+    "previous_close": 208.64,
+    "day_change_pct": NaN,
+    "sma_20": NaN,
+    "sma_50": NaN,
+    "sma_200": NaN,
+    "rsi_14": 40.63,
+    "52_week_high": 236.54,
+    "52_week_low": 140.85,
+    "price_vs_52w_pct": NaN,
+    "volume_surge": 1.05,
+    "avg_volume": 165591156,
+    "market_cap": 5042570002432,
+    "pe_trailing": 31.833334,
+    "pe_forward": 16.415857,
+    "peg_ratio": 0.64,
+    "eps_ttm": 6.54,
+    "eps_forward": 12.68225,
+    "revenue_growth": 0.852,
+    "earnings_growth": 2.145,
+    "profit_margin": 0.62966,
+    "short_ratio": 1.71,
+    "beta": 2.202,
+    "return_5d_pct": NaN,
+    "return_1mo_pct": NaN,
+    "return_3mo_pct": NaN,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 31.833334x"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 16.415857x < trailing 31.833334x (expected growth)"
+    },
+    {
+      "name": "peg",
+      "score": 1.0,
+      "note": "PEG 0.64 < 1.0 \u2014 growth cheap vs price"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.5,
+      "note": "Revenue growing 85% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 214% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (50.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 50.0,
+    "label": "BULLISH",
+    "bullish": 3,
+    "bearish": 1,
+    "total_mentions": 4
+  },
+  "news": [
+    {
+      "title": "Leading Public AI Company RLTR Supports No Data Center in Monterey Park and Calls for AI Progress Without Massive Data Center Expansion",
+      "published": "Wed, 10 Jun 2026 12:22:00 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/leading-public-ai-company-rltr-122200543.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Forget the Headlines. This Is Where Bezos Is Actually Putting His Money.",
+      "published": "Wed, 10 Jun 2026 12:17:50 +0000",
+      "url": "https://247wallst.com/investing/2026/06/10/forget-the-headlines-this-is-where-bezos-is-actually-putting-his-money/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Unhappy With Redwire\u2019s Dilution? 5 Space and Defense Stocks to Buy Instead",
+      "published": "Wed, 10 Jun 2026 12:10:23 +0000",
+      "url": "https://247wallst.com/investing/2026/06/10/unhappy-with-redwires-dilution-5-space-and-defense-stocks-to-buy-instead/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Stock Market Today: Dow Falls 500 Points On Trump Comments; CPI Inflation Data Next (Live Coverage)",
+      "published": "Wed, 10 Jun 2026 12:08:57 +0000",
+      "url": "https://finance.yahoo.com/m/10570e89-0a46-392e-a220-4dc8a69e55aa/stock-market-today%3A-dow-falls.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Defense Contractor Nobody Wanted Became an AI Darling That Turned $1,000 Into $14k and There\u2019s a Play Today",
+      "published": "Wed, 10 Jun 2026 12:08:26 +0000",
+      "url": "https://247wallst.com/investing/2026/06/10/the-defense-contractor-nobody-wanted-became-an-ai-darling-that-turned-1000-into-14k-and-theres-a-play-today/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/NVDA"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": NaN,
+  "asset_type": "stock"
+}

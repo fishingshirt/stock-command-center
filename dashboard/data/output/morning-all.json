@@ -1,0 +1,93 @@
+{
+  "AAPL": {
+    "task_id": "",
+    "subject": "AAPL analysis",
+    "ticker": "AAPL",
+    "timestamp": "2026-06-10T12:31:57.675380+00:00",
+    "recommendation": "NO_DATA",
+    "confidence": 0,
+    "summary": "Data unavailable for AAPL: yfinance not installed",
+    "key_metrics": {
+      "_error": "yfinance not installed"
+    },
+    "asset_type": "stock"
+  },
+  "NVDA": {
+    "task_id": "",
+    "subject": "NVDA analysis",
+    "ticker": "NVDA",
+    "timestamp": "2026-06-10T12:32:03.815364+00:00",
+    "recommendation": "NO_DATA",
+    "confidence": 0,
+    "summary": "Data unavailable for NVDA: yfinance not installed",
+    "key_metrics": {
+      "_error": "yfinance not installed"
+    },
+    "asset_type": "stock"
+  },
+  "RACE": {
+    "task_id": "",
+    "subject": "RACE analysis",
+    "ticker": "RACE",
+    "timestamp": "2026-06-10T12:32:09.956411+00:00",
+    "recommendation": "NO_DATA",
+    "confidence": 0,
+    "summary": "Data unavailable for RACE: yfinance not installed",
+    "key_metrics": {
+      "_error": "yfinance not installed"
+    },
+    "asset_type": "stock"
+  },
+  "TTWO": {
+    "task_id": "",
+    "subject": "TTWO analysis",
+    "ticker": "TTWO",
+    "timestamp": "2026-06-10T12:32:16.096008+00:00",
+    "recommendation": "NO_DATA",
+    "confidence": 0,
+    "summary": "Data unavailable for TTWO: yfinance not installed",
+    "key_metrics": {
+      "_error": "yfinance not installed"
+    },
+    "asset_type": "stock"
+  },
+  "MTUM": {
+    "task_id": "",
+    "subject": "MTUM analysis",
+    "ticker": "MTUM",
+    "timestamp": "2026-06-10T12:32:22.237224+00:00",
+    "recommendation": "NO_DATA",
+    "confidence": 0,
+    "summary": "Data unavailable for MTUM: yfinance not installed",
+    "key_metrics": {
+      "_error": "yfinance not installed"
+    },
+    "asset_type": "stock"
+  },
+  "VOO": {
+    "task_id": "",
+    "subject": "VOO analysis",
+    "ticker": "VOO",
+    "timestamp": "2026-06-10T12:32:28.378690+00:00",
+    "recommendation": "NO_DATA",
+    "confidence": 0,
+    "summary": "Data unavailable for VOO: yfinance not installed",
+    "key_metrics": {
+      "_error": "yfinance not installed"
+    },
+    "asset_type": "stock"
+  },
+  "SPY": {
+    "task_id": "",
+    "subject": "SPY analysis",
+    "ticker": "SPY",
+    "timestamp": "2026-06-10T12:32:34.517885+00:00",
+    "recommendation": "NO_DATA",
+    "confidence": 0,
+    "summary": "Data unavailable for SPY: yfinance not installed",
+    "key_metrics": {
+      "_error": "yfinance not installed"
+    },
+    "asset_type": "stock"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "task_id": "",
+  "subject": "MTUM analysis",
+  "ticker": "MTUM",
+  "timestamp": "2026-06-10T12:32:22.237224+00:00",
+  "recommendation": "NO_DATA",
+  "confidence": 0,
+  "summary": "Data unavailable for MTUM: yfinance not installed",
+  "key_metrics": {
+    "_error": "yfinance not installed"
+  },
+  "asset_type": "stock"
+}
