@@ -72,14 +72,7 @@ Real-time market analysis for MTUM. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260610-007
-**Subject:** TTWO analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-06-10
-**Started At:** 2026-06-10T06:01:12.581996+00:00
-**Details:**
-Real-time market analysis for TTWO. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -13744,3 +13737,15 @@ Real-time market analysis for MTUM. Auto-generated watchlist task.
 **Summary:** Data unavailable for SPY: Expecting value: line 1 column 1 (char 0)
 **Details:**
 Real-time market analysis for RACE. Auto-generated watchlist task.
+
+### Task ID: 20260610-007
+**Subject:** TTWO analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-06-10
+**Started At:** 2026-06-10T06:01:12.581996+00:00
+**Completed At:** 2026-06-10T06:01:23.262650+00:00
+**Result:** dashboard/data/output/20260610-007.json
+**Summary:** Data unavailable for SPY: Expecting value: line 1 column 1 (char 0)
+**Details:**
+Real-time market analysis for TTWO. Auto-generated watchlist task.
