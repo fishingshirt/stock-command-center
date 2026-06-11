@@ -1,0 +1,105 @@
+{
+  "task_id": "morning-briefing-SPY",
+  "subject": "SPY analysis",
+  "ticker": "SPY",
+  "timestamp": "2026-06-11T12:32:21.628548+00:00",
+  "recommendation": "BUY",
+  "confidence": 85,
+  "summary": "SPY @ $725.43 \u2014 BUY (85% confidence) | RSI: 37.19 | P/E: 25.980888 | Strategy: GROWTH",
+  "signal_score": 0.6,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "SPY",
+    "current_price": 725.43,
+    "previous_close": 737.05,
+    "day_change_pct": -1.58,
+    "sma_20": 745.62,
+    "sma_50": 719.32,
+    "sma_200": 683.06,
+    "rsi_14": 37.19,
+    "52_week_high": 760.4,
+    "52_week_low": 591.89,
+    "price_vs_52w_pct": 79.2,
+    "volume_surge": 1.04,
+    "avg_volume": 65318390,
+    "market_cap": null,
+    "pe_trailing": 25.980888,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -4.18,
+    "return_1mo_pct": -2.27,
+    "return_3mo_pct": 9.21,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (745.62)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (683.06) \u2014 confirmed uptrend"
+    }
+  ],
+  "reasons": [],
+  "warnings": [],
+  "sentiment": {
+    "score": 20.0,
+    "label": "NEUTRAL",
+    "bullish": 3,
+    "bearish": 2,
+    "total_mentions": 5
+  },
+  "news": [
+    {
+      "title": "Stock Market Today: Dow Rallies 400 Points Amid U.S. Strikes; Oracle Plunges On Earnings (Live Coverage)",
+      "published": "Thu, 11 Jun 2026 12:11:50 +0000",
+      "url": "https://finance.yahoo.com/m/e9c5167f-16a6-32fd-b276-bbc46132689a/stock-market-today%3A-dow.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The First Trillion-Dollar ETF Becomes The 'Elon Musk' Of Funds",
+      "published": "Thu, 11 Jun 2026 12:00:24 +0000",
+      "url": "https://finance.yahoo.com/m/be806379-b5a3-34da-bbc6-3f0984ad7ce5/the-first-trillion-dollar-etf.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Got Cap Gains? How Portfolios Can Move Into ETFs Tax-Free",
+      "published": "Wed, 10 Jun 2026 21:22:07 +0000",
+      "url": "http://www.etf.com/sections/etf-basics/got-cap-gains-how-portfolios-can-move-etfs-tax-free?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "When will SpaceX Show Up in Your Portfolio?",
+      "published": "Wed, 10 Jun 2026 21:18:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-show-portfolio-211800806.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Stocks Settle Sharply Lower on Escalating Middle East Tensions",
+      "published": "Wed, 10 Jun 2026 20:38:17 +0000",
+      "url": "https://www.barchart.com/story/news/2408795/stocks-settle-sharply-lower-on-escalating-middle-east-tensions?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/SPY"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 725.43,
+  "asset_type": "stock"
+}

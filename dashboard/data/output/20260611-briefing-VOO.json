@@ -1,0 +1,112 @@
+{
+  "task_id": "morning-briefing-VOO",
+  "subject": "VOO analysis",
+  "ticker": "VOO",
+  "timestamp": "2026-06-11T12:32:07.481717+00:00",
+  "recommendation": "BUY",
+  "confidence": 87,
+  "summary": "VOO @ $667.05 \u2014 BUY (87% confidence) | Bullish: Bullish news sentiment detected | RSI: 37.21 | P/E: 27.284369 | Strategy: GROWTH",
+  "signal_score": 0.714,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "VOO",
+    "current_price": 667.05,
+    "previous_close": 677.7,
+    "day_change_pct": -1.57,
+    "sma_20": 685.49,
+    "sma_50": 661.28,
+    "sma_200": 627.87,
+    "rsi_14": 37.21,
+    "52_week_high": 699.15,
+    "52_week_low": 545.75,
+    "price_vs_52w_pct": 79.1,
+    "volume_surge": 1.35,
+    "avg_volume": 8738098,
+    "market_cap": null,
+    "pe_trailing": 27.284369,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -4.17,
+    "return_1mo_pct": -2.25,
+    "return_3mo_pct": 9.25,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (685.49)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (627.87) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 0,
+    "total_mentions": 2
+  },
+  "news": [
+    {
+      "title": "The First Trillion-Dollar ETF Becomes The 'Elon Musk' Of Funds",
+      "published": "Thu, 11 Jun 2026 12:00:24 +0000",
+      "url": "https://finance.yahoo.com/m/be806379-b5a3-34da-bbc6-3f0984ad7ce5/the-first-trillion-dollar-etf.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Odds Of A Rate Hike Are Soaring \u2014 What To Do Now",
+      "published": "Thu, 11 Jun 2026 11:00:46 +0000",
+      "url": "https://finance.yahoo.com/m/ee00f09d-bbdd-3f7c-a439-fefc2e9c7c68/the-odds-of-a-rate-hike-are.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Dividend ETF I'd Buy Today Instead of VYM",
+      "published": "Thu, 11 Jun 2026 01:50:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/10/dividend-etf-to-buy-today-instead-of-vym-schd/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Got Cap Gains? How Portfolios Can Move Into ETFs Tax-Free",
+      "published": "Wed, 10 Jun 2026 21:22:07 +0000",
+      "url": "http://www.etf.com/sections/etf-basics/got-cap-gains-how-portfolios-can-move-etfs-tax-free?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "When will SpaceX Show Up in Your Portfolio?",
+      "published": "Wed, 10 Jun 2026 21:18:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-show-portfolio-211800806.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/VOO"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 667.05,
+  "asset_type": "stock"
+}

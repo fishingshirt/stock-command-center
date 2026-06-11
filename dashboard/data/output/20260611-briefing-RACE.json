@@ -1,0 +1,117 @@
+{
+  "task_id": "morning-briefing-RACE",
+  "subject": "RACE analysis",
+  "ticker": "RACE",
+  "timestamp": "2026-06-11T12:31:24.741576+00:00",
+  "recommendation": "SELL",
+  "confidence": 77,
+  "summary": "RACE @ $346.56 \u2014 SELL (77% confidence) | Bullish: Bullish news sentiment detected | RSI: 52.32 | P/E: 33.451736 | Strategy: GROWTH",
+  "signal_score": -0.5,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "RACE",
+    "current_price": 346.56,
+    "previous_close": 357.52,
+    "day_change_pct": -3.07,
+    "sma_20": 341.5,
+    "sma_50": 343.52,
+    "sma_200": 377.95,
+    "rsi_14": 52.32,
+    "52_week_high": 519.1,
+    "52_week_low": 312.51,
+    "price_vs_52w_pct": 16.5,
+    "volume_surge": 0.78,
+    "avg_volume": 667628,
+    "market_cap": 61022605312,
+    "pe_trailing": 33.451736,
+    "pe_forward": 28.007034,
+    "peg_ratio": 3.94,
+    "eps_ttm": 10.36,
+    "eps_forward": 12.374034,
+    "revenue_growth": 0.032,
+    "earnings_growth": 0.013,
+    "profit_margin": 0.22187,
+    "short_ratio": 4.79,
+    "beta": 0.595,
+    "return_5d_pct": -0.96,
+    "return_1mo_pct": 4.04,
+    "return_3mo_pct": 4.79,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "day_spike",
+      "score": -0.5,
+      "note": "Big daily drop -3.07%"
+    },
+    {
+      "name": "sma200",
+      "score": -1.0,
+      "note": "Price below SMA200 (377.95) \u2014 confirmed downtrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 33.451736x"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 3.94 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 5,
+    "bearish": 0,
+    "total_mentions": 5
+  },
+  "news": [
+    {
+      "title": "European Stocks Close Mixed in Wednesday Trading; Bank, Automotive Stocks Slump",
+      "published": "Wed, 10 Jun 2026 15:38:12 +0000",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mixed-wednesday-153812761.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Latest News In Electric Vehicles - Solid-State Battery Development Gains Momentum with New Partnership",
+      "published": "Wed, 10 Jun 2026 12:37:32 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/latest-news-electric-vehicles-solid-123732966.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "2 Cheap Stocks to Buy Now Before They Rocket Higher",
+      "published": "Tue, 09 Jun 2026 20:27:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/09/2-cheap-stocks-to-buy-before-they-rocket-higher/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Ferrari Stock Is Down 33% Since July 2025: 1 Reason the Market Is Wrong.",
+      "published": "Mon, 08 Jun 2026 09:51:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/08/ferrari-stock-down-reason-market-wrong/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Ferrari Is Still Under $400. Here's Whether Long-Term Investors Should Pounce.",
+      "published": "Sat, 06 Jun 2026 05:25:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/06/ferrari-stock-under-400-long-term-investors-pounce/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/RACE"
+  ],
+  "paper_trade_signal": "SELL",
+  "paper_trade_price": 346.56,
+  "asset_type": "stock"
+}

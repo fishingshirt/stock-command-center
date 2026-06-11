@@ -1,0 +1,132 @@
+{
+  "task_id": "morning-briefing-AAPL",
+  "subject": "AAPL analysis",
+  "ticker": "AAPL",
+  "timestamp": "2026-06-11T12:30:56.436593+00:00",
+  "recommendation": "BUY",
+  "confidence": 80,
+  "summary": "AAPL @ $291.58 \u2014 BUY (80% confidence) | Bullish: Bullish news sentiment detected | RSI: 40.11 | P/E: 35.34303 | Strategy: GROWTH",
+  "signal_score": 0.429,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "AAPL",
+    "current_price": 291.58,
+    "previous_close": 290.55,
+    "day_change_pct": 0.35,
+    "sma_20": 304.4,
+    "sma_50": 283.81,
+    "sma_200": 265.8,
+    "rsi_14": 40.11,
+    "52_week_high": 317.4,
+    "52_week_low": 195.07,
+    "price_vs_52w_pct": 78.9,
+    "volume_surge": 1.33,
+    "avg_volume": 46633663,
+    "market_cap": 4282539048960,
+    "pe_trailing": 35.34303,
+    "pe_forward": 30.394382,
+    "peg_ratio": 2.42,
+    "eps_ttm": 8.25,
+    "eps_forward": 9.59322,
+    "revenue_growth": 0.166,
+    "earnings_growth": 0.218,
+    "profit_margin": 0.27152002,
+    "short_ratio": 3.12,
+    "beta": 1.086,
+    "return_5d_pct": -6.31,
+    "return_1mo_pct": -2.44,
+    "return_3mo_pct": 14.11,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (304.4)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (265.8) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 35.34303x"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 2.42 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.0,
+      "note": "Revenue growing 17% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 22% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (33.3)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 33.3,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 1,
+    "total_mentions": 3
+  },
+  "news": [
+    {
+      "title": "'Magnificent 7' stocks have lost $2 trillion so far this month, driving the S&P 500 decline: Chart of the Day",
+      "published": "Thu, 11 Jun 2026 10:00:00 +0000",
+      "url": "https://finance.yahoo.com/markets/article/magnificent-7-stocks-have-lost-2-trillion-so-far-this-month-driving-the-sp-500-decline-chart-of-the-day-100000483.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Jim Cramer Just Called Bitcoin \u2018Bad Money\u2019 and History Says That\u2019s Bullish",
+      "published": "Thu, 11 Jun 2026 08:54:15 +0000",
+      "url": "https://99bitcoins.com/news/bitcoin-btc/jim-cramer-bitcoin-bad-money-inverse-cramer/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Will Make Billions From AI in These 2 Ways. Is It Time to Buy the Stock?",
+      "published": "Thu, 11 Jun 2026 07:45:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/11/apple-will-make-billions-from-ai-in-these-2-ways-i/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple AI Workloads Highlight Google Cloud Role And Alphabet Valuation Gap",
+      "published": "Thu, 11 Jun 2026 07:15:46 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ai-workloads-highlight-google-071546133.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Jim Cramer Describes Bitcoin, Gold As 'Bad Money' Getting Dumped For SpaceX \u2014 But 'Good Money' Apple And Nvidia Not Spared Either",
+      "published": "Thu, 11 Jun 2026 03:10:10 +0000",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/jim-cramer-describes-bitcoin-gold-031010567.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/AAPL"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 291.58,
+  "asset_type": "stock"
+}

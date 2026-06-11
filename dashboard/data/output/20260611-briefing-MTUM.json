@@ -1,0 +1,117 @@
+{
+  "task_id": "morning-briefing-MTUM",
+  "subject": "MTUM analysis",
+  "ticker": "MTUM",
+  "timestamp": "2026-06-11T12:31:53.374475+00:00",
+  "recommendation": "BUY",
+  "confidence": 90,
+  "summary": "MTUM @ $304.92 \u2014 BUY (90% confidence) | Bullish: Bullish news sentiment detected | RSI: 53.64 | P/E: 32.442284 | Strategy: GROWTH",
+  "signal_score": 0.8,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "MTUM",
+    "current_price": 304.92,
+    "previous_close": 311.63,
+    "day_change_pct": -2.15,
+    "sma_20": 309.87,
+    "sma_50": 288.49,
+    "sma_200": 260.01,
+    "rsi_14": 53.64,
+    "52_week_high": 331.49,
+    "52_week_low": 229.42,
+    "price_vs_52w_pct": 74.0,
+    "volume_surge": 1.52,
+    "avg_volume": 1119860,
+    "market_cap": null,
+    "pe_trailing": 32.442284,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -6.43,
+    "return_1mo_pct": -0.16,
+    "return_3mo_pct": 25.13,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +25.13%"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (260.01) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 32.442284x"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 4,
+    "bearish": 0,
+    "total_mentions": 4
+  },
+  "news": [
+    {
+      "title": "Apple Just Delivered Its $75 Per Share AI Moment at WWDC. Wall Street Says the Stock Could Hit $440 by Year-End.",
+      "published": "Tue, 09 Jun 2026 13:26:41 +0000",
+      "url": "https://247wallst.com/investing/2026/06/09/apple-just-delivered-its-75-per-share-ai-moment-at-wwdc-wall-street-says-the-stock-could-hit-440-by-year-end/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Dow Wobbles as Wall Street Chases Chips, Other Momentum Stocks",
+      "published": "Mon, 08 Jun 2026 18:31:08 +0000",
+      "url": "https://finance.yahoo.com/m/17c7fe52-5972-346e-9b8c-6e0b5916f7bc/the-dow-wobbles-as-wall.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "How to play the ETF market without touching tech: Chart of the Day",
+      "published": "Thu, 28 May 2026 19:31:20 +0000",
+      "url": "https://finance.yahoo.com/video/how-to-play-the-etf-market-without-touching-tech-chart-of-the-day-193120838.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Dow Is Leading. Wall Street Is Selling Winners and Buying Losers.",
+      "published": "Wed, 27 May 2026 15:25:01 +0000",
+      "url": "https://finance.yahoo.com/m/4cea5982-41c5-3029-86ea-622cc16d03b6/the-dow-is-leading.-wall.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Dynamic Tactical ETF (DYTA) Touches a New 52-Week High",
+      "published": "Wed, 27 May 2026 14:58:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dynamic-tactical-etf-dyta-touches-145800801.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/MTUM"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 304.92,
+  "asset_type": "stock"
+}

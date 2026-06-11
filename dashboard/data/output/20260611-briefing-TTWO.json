@@ -1,0 +1,128 @@
+{
+  "task_id": "morning-briefing-TTWO",
+  "subject": "TTWO analysis",
+  "ticker": "TTWO",
+  "timestamp": "2026-06-11T12:31:39.241306+00:00",
+  "recommendation": "HOLD",
+  "confidence": 52,
+  "summary": "TTWO @ $210.46 \u2014 HOLD (52% confidence) | Bullish: RSI 23.31 \u2014 oversold bounce potential; Bullish news sentiment detected | RSI: 23.31 | Strategy: GROWTH",
+  "signal_score": 0.143,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "TTWO",
+    "current_price": 210.46,
+    "previous_close": 212.05,
+    "day_change_pct": -0.75,
+    "sma_20": 225.34,
+    "sma_50": 216.96,
+    "sma_200": 231.21,
+    "rsi_14": 23.31,
+    "52_week_high": 264.79,
+    "52_week_low": 187.63,
+    "price_vs_52w_pct": 29.6,
+    "volume_surge": 0.99,
+    "avg_volume": 2053826,
+    "market_cap": 39075405824,
+    "pe_trailing": null,
+    "pe_forward": 20.862764,
+    "peg_ratio": 2.97,
+    "eps_ttm": -1.62,
+    "eps_forward": 10.08783,
+    "revenue_growth": 0.061,
+    "earnings_growth": null,
+    "profit_margin": -0.0448,
+    "short_ratio": 3.05,
+    "beta": 0.982,
+    "return_5d_pct": -2.86,
+    "return_1mo_pct": -7.28,
+    "return_3mo_pct": 0.6,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": -0.5,
+      "note": "Negative 1mo momentum -7.28%"
+    },
+    {
+      "name": "rsi",
+      "score": 2.0,
+      "note": "RSI extremely oversold 23.31"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (225.34)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": -1.0,
+      "note": "Price below SMA200 (231.21) \u2014 confirmed downtrend"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 2.97 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "RSI 23.31 \u2014 oversold bounce potential",
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 3,
+    "bearish": 0,
+    "total_mentions": 3
+  },
+  "news": [
+    {
+      "title": "Take-Two Interactive Software (TTWO): Best Quality Growth Stocks to Buy",
+      "published": "Sun, 07 Jun 2026 04:39:24 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-ttwo-best-043924589.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Jim Cramer on Take-Two Interactive: \u201cI Wouldn\u2019t Buy It All at Once; It\u2019s an Erratic Trader\u201d",
+      "published": "Sat, 06 Jun 2026 15:06:02 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-two-interactive-wouldn-150602041.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Take-Two Interactive Software, Inc. (NASDAQ:TTWO) Could Be Less Than A Year Away From Profitability",
+      "published": "Fri, 05 Jun 2026 11:00:10 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-inc-nasdaq-110010370.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "How the Memory Shortage Is Crushing the Gaming Industry",
+      "published": "Thu, 04 Jun 2026 14:15:00 +0000",
+      "url": "https://www.marketbeat.com/originals/how-the-memory-shortage-is-crushing-the-gaming-industry/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Take-Two's Path to Profitability Is Coming in November",
+      "published": "Thu, 04 Jun 2026 11:45:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/04/take-twos-path-to-profitability-is-coming-in-novem/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/TTWO"
+  ],
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 210.46,
+  "asset_type": "stock"
+}

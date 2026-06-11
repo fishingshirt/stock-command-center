@@ -1,0 +1,153 @@
+{
+  "task_id": "morning-briefing-NVDA",
+  "subject": "NVDA analysis",
+  "ticker": "NVDA",
+  "timestamp": "2026-06-11T12:31:10.565501+00:00",
+  "recommendation": "BUY",
+  "confidence": 81,
+  "summary": "NVDA @ $200.42 \u2014 BUY (81% confidence) | Bullish: RSI 33.22 \u2014 approaching oversold; Bullish news sentiment detected | RSI: 33.22 | P/E: 30.692188 | Strategy: GROWTH",
+  "signal_score": 0.478,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "NVDA",
+    "current_price": 200.42,
+    "previous_close": 208.19,
+    "day_change_pct": -3.73,
+    "sma_20": 217.0,
+    "sma_50": 205.5,
+    "sma_200": 188.79,
+    "rsi_14": 33.22,
+    "52_week_high": 236.54,
+    "52_week_low": 140.85,
+    "price_vs_52w_pct": 62.3,
+    "volume_surge": 1.05,
+    "avg_volume": 166076758,
+    "market_cap": 4854372630528,
+    "pe_trailing": 30.692188,
+    "pe_forward": 15.7474375,
+    "peg_ratio": 0.64,
+    "eps_ttm": 6.53,
+    "eps_forward": 12.72715,
+    "revenue_growth": 0.852,
+    "earnings_growth": 2.145,
+    "profit_margin": 0.62966,
+    "short_ratio": 1.71,
+    "beta": 2.202,
+    "return_5d_pct": -8.34,
+    "return_1mo_pct": -11.15,
+    "return_3mo_pct": 9.56,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": -1.5,
+      "note": "Weak 1mo momentum -11.15%"
+    },
+    {
+      "name": "day_spike",
+      "score": -0.5,
+      "note": "Big daily drop -3.73%"
+    },
+    {
+      "name": "rsi",
+      "score": 1.0,
+      "note": "RSI oversold 33.22"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (217.0)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (188.79) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 30.692188x"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 15.7474375x < trailing 30.692188x (expected growth)"
+    },
+    {
+      "name": "peg",
+      "score": 1.0,
+      "note": "PEG 0.64 < 1.0 \u2014 growth cheap vs price"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.5,
+      "note": "Revenue growing 85% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 214% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (33.3)"
+    }
+  ],
+  "reasons": [
+    "RSI 33.22 \u2014 approaching oversold",
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 33.3,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 1,
+    "total_mentions": 3
+  },
+  "news": [
+    {
+      "title": "Is SpaceX's New Deal With Google a Game Changer? Here's My Honest Take.",
+      "published": "Thu, 11 Jun 2026 12:22:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/11/is-spacexs-new-deal-with-google-a-game-changer-her/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Treasure Global Secures US$15 Million Enterprise AI Contract for Social Listening Platform",
+      "published": "Thu, 11 Jun 2026 12:13:00 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/treasure-global-secures-us-15-121300403.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "With Consumer Sentiment Near a Record Low, Investors Should Watch This in the Upcoming Reading",
+      "published": "Thu, 11 Jun 2026 12:10:50 +0000",
+      "url": "https://247wallst.com/investing/2026/06/11/with-consumer-sentiment-near-a-record-low-investors-should-watch-this-in-the-upcoming-reading/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Dow Jones Futures Signal Market Bounce, But Then What? Oracle Dives, SpaceX IPO On Launch Pad",
+      "published": "Thu, 11 Jun 2026 12:10:43 +0000",
+      "url": "https://finance.yahoo.com/m/f2b12cac-6dbd-3fc7-9e38-bed11bdf0d4a/dow-jones-futures-signal.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Here Are Thursday\u2019s Best Wall Street Analyst Research Calls: Callaway Golf, Chewy, CME Group, Danaher, General Dynamics, Intel, SpaceX, Rocket Lab, Toast, and More",
+      "published": "Thu, 11 Jun 2026 12:04:30 +0000",
+      "url": "https://247wallst.com/investing/2026/06/11/here-are-thursdays-best-wall-street-analyst-research-calls-callaway-golf-chewy-cme-group-danaher-general-dynamics-intel-spacex-rocket-lab-toast-and-more/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/NVDA"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 200.42,
+  "asset_type": "stock"
+}
