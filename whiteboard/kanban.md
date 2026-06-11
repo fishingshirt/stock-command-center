@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260611-037
-**Subject:** TTWO analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-06-11
-**Details:**
-Real-time market analysis for TTWO. Auto-generated watchlist task.
-
 ### Task ID: 20260611-038
 **Subject:** AAPL analysis
 **Assigned Bot:** researcher_bot
@@ -80,7 +72,14 @@ Real-time market analysis for MTUM. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260611-037
+**Subject:** TTWO analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-06-11
+**Started At:** 2026-06-11T18:00:39.244255+00:00
+**Details:**
+Real-time market analysis for TTWO. Auto-generated watchlist task.
 
 ## Done
 
