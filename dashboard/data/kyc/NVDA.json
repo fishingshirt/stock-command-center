@@ -1,17 +1,15 @@
 {
   "ticker": "NVDA",
-  "timestamp": "2026-06-12T20:02:02.422906+00:00",
+  "timestamp": "2026-06-12T22:01:23.068263+00:00",
   "compliance_score": "NO_DATA",
   "risk_level": "NO_DATA",
   "sanctions_risk": "NO_DATA \u2014 Premium API required (OFAC/dowJones Watchlist)",
   "pep_exposure": "NO_DATA \u2014 Premium API required (DowJones/Refinitiv PEP)",
   "esg_score": "NO_DATA \u2014 Premium API required (MSCI/Refinitiv/Sustainalytics)",
-  "controversy_count": 1,
+  "controversy_count": 0,
   "jurisdiction_risk": "NO_DATA",
-  "flags": [
-    "Headline flagged: Bestselling Author: SpaceX Holds Massive Monopoly Power in the Emerging Space Economy"
-  ],
-  "pass": false,
+  "flags": [],
+  "pass": true,
   "derived_from": {
     "sector": null,
     "country": null,
