@@ -1,0 +1,127 @@
+{
+  "task_id": "",
+  "subject": "MTUM morning analysis",
+  "ticker": "MTUM",
+  "timestamp": "2026-06-12T12:32:00.915230+00:00",
+  "recommendation": "BUY",
+  "confidence": 90,
+  "summary": "MTUM @ $319.01 \u2014 BUY (90% confidence) | Bullish: Bullish news sentiment detected | RSI: 59.95 | P/E: 33.941402 | Strategy: GROWTH",
+  "signal_score": 0.833,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "MTUM",
+    "current_price": 319.01,
+    "previous_close": 304.92,
+    "day_change_pct": 4.62,
+    "sma_20": 310.55,
+    "sma_50": 290.07,
+    "sma_200": 260.4,
+    "rsi_14": 59.95,
+    "52_week_high": 331.49,
+    "52_week_low": 229.42,
+    "price_vs_52w_pct": 87.8,
+    "volume_surge": 1.54,
+    "avg_volume": 1123869,
+    "market_cap": null,
+    "pe_trailing": 33.941402,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": 4.09,
+    "return_1mo_pct": 3.83,
+    "return_3mo_pct": 31.16,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +31.16%"
+    },
+    {
+      "name": "day_spike",
+      "score": 0.5,
+      "note": "Big daily move +4.62%"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (310.55)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (260.4) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 33.941402x"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 5,
+    "bearish": 0,
+    "total_mentions": 5
+  },
+  "news": [
+    {
+      "title": "Markets Are Rallying. Chip Stocks Are Leading the Day.",
+      "published": "Thu, 11 Jun 2026 16:45:14 +0000",
+      "url": "https://finance.yahoo.com/m/e2bfe15d-f774-334c-9f2d-2835f60874c8/markets-are-rallying.-chip.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Just Delivered Its $75 Per Share AI Moment at WWDC. Wall Street Says the Stock Could Hit $440 by Year-End.",
+      "published": "Tue, 09 Jun 2026 13:26:41 +0000",
+      "url": "https://247wallst.com/investing/2026/06/09/apple-just-delivered-its-75-per-share-ai-moment-at-wwdc-wall-street-says-the-stock-could-hit-440-by-year-end/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Dow Wobbles as Wall Street Chases Chips, Other Momentum Stocks",
+      "published": "Mon, 08 Jun 2026 18:31:08 +0000",
+      "url": "https://finance.yahoo.com/m/17c7fe52-5972-346e-9b8c-6e0b5916f7bc/the-dow-wobbles-as-wall.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "How to play the ETF market without touching tech: Chart of the Day",
+      "published": "Thu, 28 May 2026 19:31:20 +0000",
+      "url": "https://finance.yahoo.com/video/how-to-play-the-etf-market-without-touching-tech-chart-of-the-day-193120838.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Dow Is Leading. Wall Street Is Selling Winners and Buying Losers.",
+      "published": "Wed, 27 May 2026 15:25:01 +0000",
+      "url": "https://finance.yahoo.com/m/4cea5982-41c5-3029-86ea-622cc16d03b6/the-dow-is-leading.-wall.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/MTUM"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 319.01,
+  "asset_type": "stock"
+}

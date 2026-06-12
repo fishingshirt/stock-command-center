@@ -1,0 +1,128 @@
+{
+  "task_id": "",
+  "subject": "TTWO morning analysis",
+  "ticker": "TTWO",
+  "timestamp": "2026-06-12T12:31:48.759363+00:00",
+  "recommendation": "HOLD",
+  "confidence": 50,
+  "summary": "TTWO @ $212.08 \u2014 HOLD (50% confidence) | Bullish: RSI 23.56 \u2014 oversold bounce potential; Bullish news sentiment detected | RSI: 23.56 | Strategy: GROWTH",
+  "signal_score": 0.0,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "TTWO",
+    "current_price": 212.08,
+    "previous_close": 210.46,
+    "day_change_pct": 0.77,
+    "sma_20": 224.6,
+    "sma_50": 217.26,
+    "sma_200": 231.11,
+    "rsi_14": 23.56,
+    "52_week_high": 264.79,
+    "52_week_low": 187.63,
+    "price_vs_52w_pct": 31.7,
+    "volume_surge": 0.98,
+    "avg_volume": 2061998,
+    "market_cap": 39376183296,
+    "pe_trailing": null,
+    "pe_forward": 21.023354,
+    "peg_ratio": 2.94,
+    "eps_ttm": -1.61,
+    "eps_forward": 10.08783,
+    "revenue_growth": 0.061,
+    "earnings_growth": null,
+    "profit_margin": -0.0448,
+    "short_ratio": 3.05,
+    "beta": 0.982,
+    "return_5d_pct": -1.08,
+    "return_1mo_pct": -12.51,
+    "return_3mo_pct": 1.68,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": -1.5,
+      "note": "Weak 1mo momentum -12.51%"
+    },
+    {
+      "name": "rsi",
+      "score": 2.0,
+      "note": "RSI extremely oversold 23.56"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (224.6)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": -1.0,
+      "note": "Price below SMA200 (231.11) \u2014 confirmed downtrend"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 2.94 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (60.0)"
+    }
+  ],
+  "reasons": [
+    "RSI 23.56 \u2014 oversold bounce potential",
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 60.0,
+    "label": "BULLISH",
+    "bullish": 4,
+    "bearish": 1,
+    "total_mentions": 5
+  },
+  "news": [
+    {
+      "title": "Possible Bearish Signals With Take-Two Interactive Software Insiders Disposing Stock",
+      "published": "Fri, 12 Jun 2026 11:00:13 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/possible-bearish-signals-two-interactive-110013550.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Wall Street Bulls Look Optimistic About Take-Two (TTWO): Should You Buy?",
+      "published": "Thu, 11 Jun 2026 13:30:03 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bulls-look-optimistic-133003422.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Take-Two Interactive Software (TTWO): Best Quality Growth Stocks to Buy",
+      "published": "Sun, 07 Jun 2026 04:39:24 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-ttwo-best-043924589.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Jim Cramer on Take-Two Interactive: \u201cI Wouldn\u2019t Buy It All at Once; It\u2019s an Erratic Trader\u201d",
+      "published": "Sat, 06 Jun 2026 15:06:02 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-two-interactive-wouldn-150602041.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Take-Two Interactive Software, Inc. (NASDAQ:TTWO) Could Be Less Than A Year Away From Profitability",
+      "published": "Fri, 05 Jun 2026 11:00:10 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-inc-nasdaq-110010370.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/TTWO"
+  ],
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 212.08,
+  "asset_type": "stock"
+}

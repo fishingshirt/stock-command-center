@@ -1,0 +1,122 @@
+{
+  "task_id": "",
+  "subject": "RACE morning analysis",
+  "ticker": "RACE",
+  "timestamp": "2026-06-12T12:31:36.933760+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 70,
+  "summary": "RACE @ $365.62 \u2014 ACCUMULATE (70% confidence) | Bullish: Bullish news sentiment detected | RSI: 57.12 | P/E: 35.325603 | Strategy: MOMENTUM",
+  "signal_score": 0.4,
+  "strategy": "MOMENTUM",
+  "key_metrics": {
+    "ticker": "RACE",
+    "current_price": 365.62,
+    "previous_close": 346.56,
+    "day_change_pct": 5.5,
+    "sma_20": 343.13,
+    "sma_50": 344.14,
+    "sma_200": 377.47,
+    "rsi_14": 57.12,
+    "52_week_high": 519.1,
+    "52_week_low": 312.51,
+    "price_vs_52w_pct": 25.7,
+    "volume_surge": 0.86,
+    "avg_volume": 669911,
+    "market_cap": 64378707968,
+    "pe_trailing": 35.325603,
+    "pe_forward": 29.546331,
+    "peg_ratio": 4.03,
+    "eps_ttm": 10.35,
+    "eps_forward": 12.374463,
+    "revenue_growth": 0.032,
+    "earnings_growth": 0.013,
+    "profit_margin": 0.22187,
+    "short_ratio": 4.79,
+    "beta": 0.595,
+    "return_5d_pct": 5.37,
+    "return_1mo_pct": 10.06,
+    "return_3mo_pct": 11.44,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.5,
+      "note": "Strong 1mo momentum +10.06%"
+    },
+    {
+      "name": "day_spike",
+      "score": 0.5,
+      "note": "Big daily move +5.5%"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (343.13)"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 35.325603x"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 4.03 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 0,
+    "total_mentions": 2
+  },
+  "news": [
+    {
+      "title": "FERRARI N.V.: PERIODIC REPORT ON THE BUYBACK PROGRAM",
+      "published": "Thu, 11 Jun 2026 13:38:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ferrari-n-v-periodic-report-133800477.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "VISTA AF CORSE SHOWCASES ITS STRIKING FIA WORLD ENSURANCE CHAMPIONSHIP LIVERY, AS BATTLE GEARS UP FOR LE MANS",
+      "published": "Thu, 11 Jun 2026 13:00:00 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/vista-af-corse-showcases-striking-130000235.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "European Stocks Close Mixed in Wednesday Trading; Bank, Automotive Stocks Slump",
+      "published": "Wed, 10 Jun 2026 15:38:12 +0000",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mixed-wednesday-153812761.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "2 Cheap Stocks to Buy Now Before They Rocket Higher",
+      "published": "Tue, 09 Jun 2026 20:27:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/09/2-cheap-stocks-to-buy-before-they-rocket-higher/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Ferrari Stock Is Down 33% Since July 2025: 1 Reason the Market Is Wrong.",
+      "published": "Mon, 08 Jun 2026 09:51:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/08/ferrari-stock-down-reason-market-wrong/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/RACE"
+  ],
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 365.62,
+  "asset_type": "stock"
+}
