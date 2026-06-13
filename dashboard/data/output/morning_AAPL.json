@@ -1,53 +1,58 @@
 {
   "task_id": "",
-  "subject": "AAPL morning analysis",
+  "subject": "AAPL analysis",
   "ticker": "AAPL",
-  "timestamp": "2026-06-12T12:31:12.820661+00:00",
+  "timestamp": "2026-06-13T12:31:08.290333+00:00",
   "recommendation": "BUY",
-  "confidence": 83,
-  "summary": "AAPL @ $295.63 \u2014 BUY (83% confidence) | Bullish: Bullish news sentiment detected | RSI: 41.53 | P/E: 35.83394 | Strategy: GROWTH",
-  "signal_score": 0.529,
+  "confidence": 84,
+  "summary": "AAPL @ $291.13 \u2014 BUY (84% confidence) | Bullish: RSI 34.19 \u2014 approaching oversold; Bullish news sentiment detected | RSI: 34.19 | P/E: 35.203144 | Strategy: GROWTH",
+  "signal_score": 0.579,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "AAPL",
-    "current_price": 295.63,
-    "previous_close": 291.58,
-    "day_change_pct": 1.39,
-    "sma_20": 304.24,
-    "sma_50": 284.65,
-    "sma_200": 266.14,
-    "rsi_14": 41.53,
+    "current_price": 291.13,
+    "previous_close": 295.63,
+    "day_change_pct": -1.52,
+    "sma_20": 303.88,
+    "sma_50": 285.36,
+    "sma_200": 266.46,
+    "rsi_14": 34.19,
     "52_week_high": 317.4,
     "52_week_low": 195.07,
-    "price_vs_52w_pct": 82.2,
-    "volume_surge": 1.32,
-    "avg_volume": 46664052,
-    "market_cap": 4342023192576,
-    "pe_trailing": 35.83394,
-    "pe_forward": 30.810581,
-    "peg_ratio": 2.39,
-    "eps_ttm": 8.25,
-    "eps_forward": 9.59508,
+    "price_vs_52w_pct": 78.5,
+    "volume_surge": 1.21,
+    "avg_volume": 46693596,
+    "market_cap": 4275929874432,
+    "pe_trailing": 35.203144,
+    "pe_forward": 30.341877,
+    "peg_ratio": 2.35,
+    "eps_ttm": 8.27,
+    "eps_forward": 9.59499,
     "revenue_growth": 0.166,
     "earnings_growth": 0.218,
     "profit_margin": 0.27152002,
     "short_ratio": 3.12,
     "beta": 1.086,
-    "return_5d_pct": -3.81,
-    "return_1mo_pct": -0.87,
-    "return_3mo_pct": 18.3,
+    "return_5d_pct": -3.45,
+    "return_1mo_pct": -3.03,
+    "return_3mo_pct": 15.26,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "3mo_momentum",
       "score": 1.5,
-      "note": "Strong 3mo momentum +18.3%"
+      "note": "Strong 3mo momentum +15.26%"
+    },
+    {
+      "name": "rsi",
+      "score": 1.0,
+      "note": "RSI oversold 34.19"
     },
     {
       "name": "sma20",
       "score": -0.5,
-      "note": "Price below SMA20 (304.24)"
+      "note": "Price below SMA20 (303.88)"
     },
     {
       "name": "golden_cross",
@@ -57,17 +62,17 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (266.14) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (266.46) \u2014 confirmed uptrend"
     },
     {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 35.83394x"
+      "note": "Elevated P/E 35.203144x"
     },
     {
       "name": "peg",
       "score": -1.0,
-      "note": "PEG 2.39 > 2.0 \u2014 expensive growth"
+      "note": "PEG 2.35 > 2.0 \u2014 expensive growth"
     },
     {
       "name": "revenue_growth",
@@ -82,49 +87,50 @@
     {
       "name": "sentiment",
       "score": 1.0,
-      "note": "Bullish news sentiment (100.0)"
+      "note": "Bullish news sentiment (33.3)"
     }
   ],
   "reasons": [
+    "RSI 34.19 \u2014 approaching oversold",
     "Bullish news sentiment detected"
   ],
   "warnings": [],
   "sentiment": {
-    "score": 100.0,
+    "score": 33.3,
     "label": "BULLISH",
-    "bullish": 4,
-    "bearish": 0,
-    "total_mentions": 4
+    "bullish": 2,
+    "bearish": 1,
+    "total_mentions": 3
   },
   "news": [
     {
-      "title": "Hedge funds sold broader tech ahead of SpaceX IPO, JPMorgan data shows",
-      "published": "Fri, 12 Jun 2026 10:58:12 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hedge-funds-sold-broader-tech-105812649.html?.tsrc=rss",
+      "title": "Should I Update iOS 27 \"Tenorshare Launches An iOS 27 Upgrade-Downgrade Companion Tool\"",
+      "published": "Sat, 13 Jun 2026 11:25:00 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/ios-27-tenorshare-launches-ios-112500596.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "AI Integration and iPhone Growth Assert Apple Inc. (AAPL) as One of the Best Forever Stocks to Buy",
-      "published": "Fri, 12 Jun 2026 03:26:16 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-integration-iphone-growth-assert-032616166.html?.tsrc=rss",
+      "title": "Exclusive-Tata's iPhone parts factory contaminated farmland water, India pollution body alleges",
+      "published": "Sat, 13 Jun 2026 08:33:55 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-tatas-iphone-parts-factory-083355814.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Does Apple Stock Have More Upside?",
-      "published": "Thu, 11 Jun 2026 22:50:53 +0000",
-      "url": "https://www.trefis.com/articles/602477/does-apple-stock-have-more-upside/2026-06-11?.tsrc=rss",
+      "title": "The Index Says Euphoria. But Don\u2019t Panic.",
+      "published": "Sat, 13 Jun 2026 02:40:00 +0000",
+      "url": "https://finance.yahoo.com/m/f3575c70-9280-3535-ba58-0f66dd6cc4b1/the-index-says-euphoria.-but.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Here's Why Apple (AAPL) Gained But Lagged the Market Today",
-      "published": "Thu, 11 Jun 2026 21:45:02 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-apple-aapl-gained-214502493.html?.tsrc=rss",
+      "title": "Can Apple Stock Double to $600 in 5 Years?",
+      "published": "Sat, 13 Jun 2026 01:01:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/12/can-apple-stock-double-to-600-in-5-years/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Siri upgrades show promise, but questions remain",
-      "published": "Thu, 11 Jun 2026 19:52:25 +0000",
-      "url": "https://finance.yahoo.com/video/siri-upgrades-show-promise-but-questions-remain-195225562.html?.tsrc=rss",
+      "title": "Does Google Stock Have More Upside?",
+      "published": "Fri, 12 Jun 2026 23:08:41 +0000",
+      "url": "https://www.trefis.com/articles/602686/does-google-stock-have-more-upside/2026-06-12?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -132,6 +138,6 @@
     "https://finance.yahoo.com/quote/AAPL"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 295.63,
+  "paper_trade_price": 291.13,
   "asset_type": "stock"
 }

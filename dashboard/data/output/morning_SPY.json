@@ -1,29 +1,29 @@
 {
   "task_id": "",
-  "subject": "SPY morning analysis",
+  "subject": "SPY analysis",
   "ticker": "SPY",
-  "timestamp": "2026-06-12T12:32:25.067251+00:00",
+  "timestamp": "2026-06-13T12:32:31.900714+00:00",
   "recommendation": "BUY",
   "confidence": 95,
-  "summary": "SPY @ $737.76 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 46.58 | P/E: 26.422482 | Strategy: GROWTH",
+  "summary": "SPY @ $741.75 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 47.36 | P/E: 26.56538 | Strategy: GROWTH",
   "signal_score": 1.0,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "SPY",
-    "current_price": 737.76,
-    "previous_close": 725.43,
-    "day_change_pct": 1.7,
-    "sma_20": 745.4,
-    "sma_50": 721.07,
-    "sma_200": 683.56,
-    "rsi_14": 46.58,
+    "current_price": 741.75,
+    "previous_close": 737.76,
+    "day_change_pct": 0.54,
+    "sma_20": 745.07,
+    "sma_50": 722.8,
+    "sma_200": 684.07,
+    "rsi_14": 47.36,
     "52_week_high": 760.4,
     "52_week_low": 591.89,
-    "price_vs_52w_pct": 86.6,
-    "volume_surge": 1.16,
-    "avg_volume": 64966568,
+    "price_vs_52w_pct": 88.9,
+    "volume_surge": 1.06,
+    "avg_volume": 64329955,
     "market_cap": null,
-    "pe_trailing": 26.422482,
+    "pe_trailing": 26.56538,
     "pe_forward": null,
     "peg_ratio": null,
     "eps_ttm": null,
@@ -33,9 +33,9 @@
     "profit_margin": null,
     "short_ratio": null,
     "beta": null,
-    "return_5d_pct": 0.03,
-    "return_1mo_pct": -1.39,
-    "return_3mo_pct": 11.7,
+    "return_5d_pct": 0.34,
+    "return_1mo_pct": 0.35,
+    "return_3mo_pct": 11.17,
     "_source": "yfinance"
   },
   "signals": [
@@ -47,7 +47,7 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (683.56) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (684.07) \u2014 confirmed uptrend"
     },
     {
       "name": "sentiment",
@@ -62,39 +62,39 @@
   "sentiment": {
     "score": 100.0,
     "label": "BULLISH",
-    "bullish": 1,
+    "bullish": 3,
     "bearish": 0,
-    "total_mentions": 1
+    "total_mentions": 3
   },
   "news": [
     {
-      "title": "Stock Market Today: Dow Rises On Iran Peace Deal Hopes; SpaceX IPO To Start Trading (Live Coverage)",
-      "published": "Fri, 12 Jun 2026 12:25:38 +0000",
-      "url": "https://finance.yahoo.com/m/3ab863ee-d132-3549-8208-e6dd679a6a25/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+      "title": "S&P 500, Nasdaq, Dow End Higher On SpaceX Strong Debut And US-Iran Peace Signals \u2014 SPCX, SHEL, ROKU, XOM, HOOD In Focus",
+      "published": "Fri, 12 Jun 2026 21:45:19 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-higher-on-space-x-strong-debut-and-us-iran-peace-signals-spcx-shel-roku-xom-hood-in-focus/cZKdaEuR75L?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Elon Musk Only Owns 46% Of SpaceX \u2014 Who Has The Rest?",
-      "published": "Fri, 12 Jun 2026 12:00:18 +0000",
-      "url": "https://finance.yahoo.com/m/9b783e04-3d7a-3e4a-b617-2befdac40062/elon-musk-only-owns-46%25-of.html?.tsrc=rss",
+      "title": "Stocks Rally on Hopes for a Near-term US-Iran Interim Peace Agreement",
+      "published": "Fri, 12 Jun 2026 20:39:53 +0000",
+      "url": "https://www.barchart.com/story/news/2447851/stocks-rally-on-hopes-for-a-near-term-us-iran-interim-peace-agreement?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Dan Ives\u2019 Own ETF Is Up 27% YTD. The AI Revolution Trade Is Real.",
-      "published": "Fri, 12 Jun 2026 11:45:48 +0000",
-      "url": "https://247wallst.com/investing/2026/06/12/dan-ives-own-etf-is-up-27-ytd-the-ai-revolution-trade-is-real/?.tsrc=rss",
+      "title": "Elon Musk May Be a Trillionaire, but Tesla Is Still Down 11% in 2026. Is TSLA Stock Dead Weight Now?",
+      "published": "Fri, 12 Jun 2026 19:16:20 +0000",
+      "url": "https://247wallst.com/investing/2026/06/12/elon-musk-may-be-a-trillionaire-but-tesla-is-still-down-11-in-2026-is-tsla-stock-dead-weight-now/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Batteries Beat the S&P 500: BATT Is Up 25% While SPY Hugs 11%",
-      "published": "Fri, 12 Jun 2026 11:30:02 +0000",
-      "url": "https://247wallst.com/investing/2026/06/12/batteries-beat-the-sp-500-batt-is-up-25-while-spy-hugs-11/?.tsrc=rss",
+      "title": "VOO vs. SPY: Which S&P 500 ETF is The Better Bet?",
+      "published": "Fri, 12 Jun 2026 18:48:03 +0000",
+      "url": "https://www.fool.com/coverage/etfs/2026/06/12/voo-vs-spy-which-s-and-p-500-etf-is-the-better-bet/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Wall Street Strategist: Stock Market Just Became a \u201cBuyer\u2019s Dream\u201d After Recent Pull-Back",
-      "published": "Fri, 12 Jun 2026 00:38:58 +0000",
-      "url": "https://247wallst.com/investing/2026/06/11/wall-street-strategist-stock-market-just-became-a-buyers-dream-after-recent-pull-back/?.tsrc=rss",
+      "title": "Leaving Las Vegas: How to Beat the House as the Stock Market Turns Into a Casino",
+      "published": "Fri, 12 Jun 2026 16:58:17 +0000",
+      "url": "https://www.barchart.com/story/news/2444431/leaving-las-vegas-how-to-beat-the-house-as-the-stock-market-turns-into-a-casino?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -102,6 +102,6 @@
     "https://finance.yahoo.com/quote/SPY"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 737.76,
+  "paper_trade_price": 741.75,
   "asset_type": "stock"
 }

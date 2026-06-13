@@ -1,53 +1,53 @@
 {
   "task_id": "",
-  "subject": "NVDA morning analysis",
+  "subject": "NVDA analysis",
   "ticker": "NVDA",
-  "timestamp": "2026-06-12T12:31:24.821343+00:00",
+  "timestamp": "2026-06-13T12:31:22.259016+00:00",
   "recommendation": "BUY",
-  "confidence": 81,
-  "summary": "NVDA @ $204.87 \u2014 BUY (81% confidence) | RSI: 39.48 | P/E: 31.325687 | Strategy: GROWTH",
-  "signal_score": 0.444,
+  "confidence": 86,
+  "summary": "NVDA @ $205.19 \u2014 BUY (86% confidence) | Bullish: Bullish news sentiment detected | RSI: 42.34 | P/E: 31.422665 | Strategy: GROWTH",
+  "signal_score": 0.667,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "NVDA",
-    "current_price": 204.87,
-    "previous_close": 200.42,
-    "day_change_pct": 2.22,
-    "sma_20": 215.97,
-    "sma_50": 206.11,
-    "sma_200": 188.92,
-    "rsi_14": 39.48,
+    "current_price": 205.19,
+    "previous_close": 204.87,
+    "day_change_pct": 0.16,
+    "sma_20": 214.46,
+    "sma_50": 206.7,
+    "sma_200": 189.04,
+    "rsi_14": 42.34,
     "52_week_high": 236.54,
-    "52_week_low": 140.85,
-    "price_vs_52w_pct": 66.9,
-    "volume_surge": 1.03,
-    "avg_volume": 166129995,
-    "market_cap": 4962156281856,
-    "pe_trailing": 31.325687,
-    "pe_forward": 16.097084,
+    "52_week_low": 142.03,
+    "price_vs_52w_pct": 66.8,
+    "volume_surge": 0.91,
+    "avg_volume": 165364671,
+    "market_cap": 4969906831360,
+    "pe_trailing": 31.422665,
+    "pe_forward": 16.122227,
     "peg_ratio": 0.63,
-    "eps_ttm": 6.54,
+    "eps_ttm": 6.53,
     "eps_forward": 12.72715,
     "revenue_growth": 0.852,
     "earnings_growth": 2.145,
     "profit_margin": 0.62966,
     "short_ratio": 1.71,
     "beta": 2.202,
-    "return_5d_pct": -0.11,
-    "return_1mo_pct": -12.99,
-    "return_3mo_pct": 13.79,
+    "return_5d_pct": -1.65,
+    "return_1mo_pct": -8.83,
+    "return_3mo_pct": 12.12,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
-      "score": -1.5,
-      "note": "Weak 1mo momentum -12.99%"
+      "score": -0.5,
+      "note": "Negative 1mo momentum -8.83%"
     },
     {
       "name": "sma20",
       "score": -0.5,
-      "note": "Price below SMA20 (215.97)"
+      "note": "Price below SMA20 (214.46)"
     },
     {
       "name": "golden_cross",
@@ -57,17 +57,17 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (188.92) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (189.04) \u2014 confirmed uptrend"
     },
     {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 31.325687x"
+      "note": "Elevated P/E 31.422665x"
     },
     {
       "name": "pe_forward",
       "score": 1.0,
-      "note": "Forward P/E 16.097084x < trailing 31.325687x (expected growth)"
+      "note": "Forward P/E 16.122227x < trailing 31.422665x (expected growth)"
     },
     {
       "name": "peg",
@@ -83,45 +83,53 @@
       "name": "earnings_growth",
       "score": 1.0,
       "note": "Earnings growing 214% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (60.0)"
     }
   ],
-  "reasons": [],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
   "warnings": [],
   "sentiment": {
-    "score": 0,
-    "label": "NEUTRAL",
-    "bullish": 0,
-    "bearish": 0
+    "score": 60.0,
+    "label": "BULLISH",
+    "bullish": 4,
+    "bearish": 1,
+    "total_mentions": 5
   },
   "news": [
     {
-      "title": "Nvidia Opens Another AI Chip Door in China",
-      "published": "Fri, 12 Jun 2026 12:28:57 +0000",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-opens-another-ai-chip-122857325.html?.tsrc=rss",
+      "title": "Here's What the Estimated 2027 Social Security COLA Could Do to Average Benefits in Your State",
+      "published": "Sat, 13 Jun 2026 12:05:00 +0000",
+      "url": "https://www.fool.com/retirement/2026/06/13/heres-what-the-estimated-2027-social-security-cola/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "The IBIT Options Strategy That Pays You To Harvest Bitcoin Volatility",
-      "published": "Fri, 12 Jun 2026 12:20:31 +0000",
-      "url": "https://247wallst.com/investing/2026/06/12/the-ibit-options-strategy-that-pays-you-to-harvest-bitcoin-volatility/?.tsrc=rss",
+      "title": "Now Trading at Its Lowest Level Since December 2023, Is Solana a Buy, Sell, or Hold?",
+      "published": "Sat, 13 Jun 2026 11:47:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/13/now-trading-at-its-lowest-level-since-december-202/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "SpaceX's Thesis Sounds Far-Fetched. Is There Any Way This Company Could Ever Make Money?",
-      "published": "Fri, 12 Jun 2026 12:20:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/12/spacexs-thesis-sounds-far-fetched-is-there/?.tsrc=rss",
+      "title": "Prediction: SoFi Technologies Stock Will Double Within 1 Year",
+      "published": "Sat, 13 Jun 2026 11:46:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/13/prediction-sofi-technologies-stock-will-double-wit/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Want $2 Million in Retirement Savings? Here's What You'll Need to Save Monthly.",
-      "published": "Fri, 12 Jun 2026 12:09:00 +0000",
-      "url": "https://www.fool.com/retirement/2026/06/12/want-2-million-in-retirement-savings-heres-what-yo/?.tsrc=rss",
+      "title": "If You Hate (Or Love) The \u2018Mag 7\u2019 There Is An ETF To Profit",
+      "published": "Sat, 13 Jun 2026 11:45:38 +0000",
+      "url": "https://247wallst.com/investing/2026/06/13/if-you-hate-or-love-the-mag-7-there-is-an-etf-to-profit/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "SpaceX\u2019s IPO Frenzy Just Spawned a New Risk That Could Cost Investors a Fortune",
-      "published": "Fri, 12 Jun 2026 12:05:35 +0000",
-      "url": "https://247wallst.com/investing/2026/06/12/spacexs-ipo-frenzy-just-spawned-a-new-risk-that-could-cost-investors-a-fortune/?.tsrc=rss",
+      "title": "Nebius Just Grew Its Revenue 684%. There's More Growth Ahead, and the Stock Is a Genius Buy.",
+      "published": "Sat, 13 Jun 2026 11:45:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/13/nebius-just-grew-its-revenue-684-theres-more-growt/?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -129,6 +137,6 @@
     "https://finance.yahoo.com/quote/NVDA"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 204.87,
+  "paper_trade_price": 205.19,
   "asset_type": "stock"
 }

@@ -1,58 +1,58 @@
 {
   "task_id": "",
-  "subject": "TTWO morning analysis",
+  "subject": "TTWO analysis",
   "ticker": "TTWO",
-  "timestamp": "2026-06-12T12:31:48.759363+00:00",
+  "timestamp": "2026-06-13T12:31:50.683556+00:00",
   "recommendation": "HOLD",
-  "confidence": 50,
-  "summary": "TTWO @ $212.08 \u2014 HOLD (50% confidence) | Bullish: RSI 23.56 \u2014 oversold bounce potential; Bullish news sentiment detected | RSI: 23.56 | Strategy: GROWTH",
-  "signal_score": 0.0,
+  "confidence": 52,
+  "summary": "TTWO @ $211.75 \u2014 HOLD (52% confidence) | Bullish: RSI 29.72 \u2014 approaching oversold; Bullish news sentiment detected | RSI: 29.72 | Strategy: GROWTH",
+  "signal_score": -0.143,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "TTWO",
-    "current_price": 212.08,
-    "previous_close": 210.46,
-    "day_change_pct": 0.77,
-    "sma_20": 224.6,
-    "sma_50": 217.26,
-    "sma_200": 231.11,
-    "rsi_14": 23.56,
+    "current_price": 211.75,
+    "previous_close": 212.08,
+    "day_change_pct": -0.16,
+    "sma_20": 223.06,
+    "sma_50": 217.53,
+    "sma_200": 231.02,
+    "rsi_14": 29.72,
     "52_week_high": 264.79,
     "52_week_low": 187.63,
-    "price_vs_52w_pct": 31.7,
-    "volume_surge": 0.98,
-    "avg_volume": 2061998,
-    "market_cap": 39376183296,
+    "price_vs_52w_pct": 31.3,
+    "volume_surge": 0.93,
+    "avg_volume": 2059814,
+    "market_cap": 39314915328,
     "pe_trailing": null,
-    "pe_forward": 21.023354,
-    "peg_ratio": 2.94,
-    "eps_ttm": -1.61,
+    "pe_forward": 20.99064,
+    "peg_ratio": 2.96,
+    "eps_ttm": -1.63,
     "eps_forward": 10.08783,
     "revenue_growth": 0.061,
     "earnings_growth": null,
     "profit_margin": -0.0448,
     "short_ratio": 3.05,
     "beta": 0.982,
-    "return_5d_pct": -1.08,
-    "return_1mo_pct": -12.51,
-    "return_3mo_pct": 1.68,
+    "return_5d_pct": -0.38,
+    "return_1mo_pct": -12.66,
+    "return_3mo_pct": 1.95,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
       "score": -1.5,
-      "note": "Weak 1mo momentum -12.51%"
+      "note": "Weak 1mo momentum -12.66%"
     },
     {
       "name": "rsi",
-      "score": 2.0,
-      "note": "RSI extremely oversold 23.56"
+      "score": 1.0,
+      "note": "RSI oversold 29.72"
     },
     {
       "name": "sma20",
       "score": -0.5,
-      "note": "Price below SMA20 (224.6)"
+      "note": "Price below SMA20 (223.06)"
     },
     {
       "name": "golden_cross",
@@ -62,12 +62,12 @@
     {
       "name": "sma200",
       "score": -1.0,
-      "note": "Price below SMA200 (231.11) \u2014 confirmed downtrend"
+      "note": "Price below SMA200 (231.02) \u2014 confirmed downtrend"
     },
     {
       "name": "peg",
       "score": -1.0,
-      "note": "PEG 2.94 > 2.0 \u2014 expensive growth"
+      "note": "PEG 2.96 > 2.0 \u2014 expensive growth"
     },
     {
       "name": "sentiment",
@@ -76,7 +76,7 @@
     }
   ],
   "reasons": [
-    "RSI 23.56 \u2014 oversold bounce potential",
+    "RSI 29.72 \u2014 approaching oversold",
     "Bullish news sentiment detected"
   ],
   "warnings": [],
@@ -123,6 +123,6 @@
     "https://finance.yahoo.com/quote/TTWO"
   ],
   "paper_trade_signal": "HOLD",
-  "paper_trade_price": 212.08,
+  "paper_trade_price": 211.75,
   "asset_type": "stock"
 }
