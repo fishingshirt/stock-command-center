@@ -127,7 +127,7 @@ def execute_trade(result: dict) -> dict:
 
 WATCHLIST = [
     # == USER PORTFOLIO (always analyzed first) ==
-    "RACE", "TTWO", "AAPL", "NVDA", "MTUM", "VOO",
+    "RACE", "TTWO", "AAPL", "NVDA", "MTUM", "VOO", "SPCX",
     # == DEFAULT WATCHLIST ==
     # ETFs
     "SPY", "QQQ", "IWM", "VTI", "VGT", "XLK", "XLF", "XLE", "XLI",

@@ -50,6 +50,14 @@
       "notes": "Long-term S&P 500 core holding — buy & forget",
       "suggested_action_filters": ["BUY", "ACCUMULATE", "HOLD"],
       "trim_allowed": false
+    },
+    "SPCX": {
+      "intent": "active",
+      "horizon": "medium",
+      "strategy": "SPECIAL_SITUATIONS",
+      "notes": "SPAC & New Issue ETF — growth/special-situations. Monitor trust NAV floors, new SPAC IPOs, merger close catalysts, and de-SPAC pipeline activity.",
+      "suggested_action_filters": ["BUY", "ACCUMULATE", "HOLD", "REDUCE"],
+      "trim_allowed": true
     }
   },
   "defaults": {
