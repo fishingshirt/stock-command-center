@@ -1,0 +1,143 @@
+{
+  "task_id": "",
+  "subject": "AAPL analysis",
+  "ticker": "AAPL",
+  "timestamp": "2026-06-14T12:30:46.164563+00:00",
+  "recommendation": "BUY",
+  "confidence": 84,
+  "summary": "AAPL @ $291.13 \u2014 BUY (84% confidence) | Bullish: RSI 34.19 \u2014 approaching oversold; Bullish news sentiment detected | RSI: 34.19 | P/E: 35.203144 | Strategy: GROWTH",
+  "signal_score": 0.579,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "AAPL",
+    "current_price": 291.13,
+    "previous_close": 295.63,
+    "day_change_pct": -1.52,
+    "sma_20": 303.88,
+    "sma_50": 285.36,
+    "sma_200": 266.46,
+    "rsi_14": 34.19,
+    "52_week_high": 317.4,
+    "52_week_low": 195.07,
+    "price_vs_52w_pct": 78.5,
+    "volume_surge": 1.21,
+    "avg_volume": 46693596,
+    "market_cap": 4275929874432,
+    "pe_trailing": 35.203144,
+    "pe_forward": 30.341877,
+    "peg_ratio": 2.35,
+    "eps_ttm": 8.27,
+    "eps_forward": 9.59499,
+    "revenue_growth": 0.166,
+    "earnings_growth": 0.218,
+    "profit_margin": 0.27152002,
+    "short_ratio": 3.12,
+    "beta": 1.086,
+    "return_5d_pct": -3.45,
+    "return_1mo_pct": -3.03,
+    "return_3mo_pct": 15.26,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +15.26%"
+    },
+    {
+      "name": "rsi",
+      "score": 1.0,
+      "note": "RSI oversold 34.19"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (303.88)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (266.46) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 35.203144x"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 2.35 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.0,
+      "note": "Revenue growing 17% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 22% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "RSI 34.19 \u2014 approaching oversold",
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 0,
+    "total_mentions": 2
+  },
+  "news": [
+    {
+      "title": "Goldman Sachs resets Apple stock forecast after WWDC",
+      "published": "Sun, 14 Jun 2026 12:03:00 +0000",
+      "url": "https://www.thestreet.com/investing/goldman-sachs-resets-apple-stock-forecast-after-wwdc?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Meet the Spectacular Vanguard ETF That Could Buy SpaceX Stock as Soon as June 19",
+      "published": "Sun, 14 Jun 2026 10:05:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/14/meet-vanguard-etf-could-buy-spacex-stock-june-19/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Amazon Expands Satellite, Cloud And Robotics Investments As Valuation Gap Widens",
+      "published": "Sat, 13 Jun 2026 20:08:31 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-expands-satellite-cloud-robotics-200831338.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Wall Street\u2019s Top Billionaires Are Changing Their Mind About Apple (AAPL)",
+      "published": "Sat, 13 Jun 2026 15:42:40 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-top-billionaires-changing-154240546.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Taiwan Semiconductor (TSM) is This Famous Billionaire\u2019s Biggest AI Stock Holding",
+      "published": "Sat, 13 Jun 2026 15:42:37 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-tsm-famous-billionaire-154237082.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/AAPL"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 291.13,
+  "asset_type": "stock"
+}

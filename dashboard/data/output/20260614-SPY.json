@@ -1,0 +1,107 @@
+{
+  "task_id": "",
+  "subject": "SPY analysis",
+  "ticker": "SPY",
+  "timestamp": "2026-06-14T12:32:10.572794+00:00",
+  "recommendation": "BUY",
+  "confidence": 95,
+  "summary": "SPY @ $741.75 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 47.36 | P/E: 26.56538 | Strategy: GROWTH",
+  "signal_score": 1.0,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "SPY",
+    "current_price": 741.75,
+    "previous_close": 737.76,
+    "day_change_pct": 0.54,
+    "sma_20": 745.07,
+    "sma_50": 722.8,
+    "sma_200": 684.07,
+    "rsi_14": 47.36,
+    "52_week_high": 760.4,
+    "52_week_low": 591.89,
+    "price_vs_52w_pct": 88.9,
+    "volume_surge": 1.06,
+    "avg_volume": 64329955,
+    "market_cap": null,
+    "pe_trailing": 26.56538,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": 0.34,
+    "return_1mo_pct": 0.35,
+    "return_3mo_pct": 11.17,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (684.07) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 3,
+    "bearish": 0,
+    "total_mentions": 3
+  },
+  "news": [
+    {
+      "title": "Have S&P 500 Index Funds, Often Touted as the Best Stock Investments, Become Dangerous? There's a Worrisome Development -- and a Possibly Better Alternative.",
+      "published": "Sun, 14 Jun 2026 09:20:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/14/have-sp-500-index-funds-often-touted-as-best-voo/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Suze Orman to 54-Year-Old With $600,000: Skip the 1.5% Fee and Manage It Yourself",
+      "published": "Sat, 13 Jun 2026 16:02:52 +0000",
+      "url": "https://247wallst.com/personal-finance/2026/06/13/suze-orman-to-54-year-old-with-600000-skip-the-1-5-fee-and-manage-it-yourself/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "S&P 500, Nasdaq, Dow End Higher On SpaceX Strong Debut And US-Iran Peace Signals \u2014 SPCX, SHEL, ROKU, XOM, HOOD In Focus",
+      "published": "Fri, 12 Jun 2026 21:45:19 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-higher-on-space-x-strong-debut-and-us-iran-peace-signals-spcx-shel-roku-xom-hood-in-focus/cZKdaEuR75L?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Stocks Rally on Hopes for a Near-term US-Iran Interim Peace Agreement",
+      "published": "Fri, 12 Jun 2026 20:39:53 +0000",
+      "url": "https://www.barchart.com/story/news/2447851/stocks-rally-on-hopes-for-a-near-term-us-iran-interim-peace-agreement?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Elon Musk May Be a Trillionaire, but Tesla Is Still Down 11% in 2026. Is TSLA Stock Dead Weight Now?",
+      "published": "Fri, 12 Jun 2026 19:16:20 +0000",
+      "url": "https://247wallst.com/investing/2026/06/12/elon-musk-may-be-a-trillionaire-but-tesla-is-still-down-11-in-2026-is-tsla-stock-dead-weight-now/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/SPY"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 741.75,
+  "asset_type": "stock"
+}

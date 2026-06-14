@@ -1,0 +1,142 @@
+{
+  "task_id": "",
+  "subject": "NVDA analysis",
+  "ticker": "NVDA",
+  "timestamp": "2026-06-14T12:31:00.140330+00:00",
+  "recommendation": "BUY",
+  "confidence": 86,
+  "summary": "NVDA @ $205.19 \u2014 BUY (86% confidence) | Bullish: Bullish news sentiment detected | RSI: 42.34 | P/E: 31.422665 | Strategy: GROWTH",
+  "signal_score": 0.667,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "NVDA",
+    "current_price": 205.19,
+    "previous_close": 204.87,
+    "day_change_pct": 0.16,
+    "sma_20": 214.46,
+    "sma_50": 206.7,
+    "sma_200": 189.04,
+    "rsi_14": 42.34,
+    "52_week_high": 236.54,
+    "52_week_low": 142.03,
+    "price_vs_52w_pct": 66.8,
+    "volume_surge": 0.91,
+    "avg_volume": 165364671,
+    "market_cap": 4969906831360,
+    "pe_trailing": 31.422665,
+    "pe_forward": 16.122227,
+    "peg_ratio": 0.63,
+    "eps_ttm": 6.53,
+    "eps_forward": 12.72715,
+    "revenue_growth": 0.852,
+    "earnings_growth": 2.145,
+    "profit_margin": 0.62966,
+    "short_ratio": 1.71,
+    "beta": 2.202,
+    "return_5d_pct": -1.65,
+    "return_1mo_pct": -8.83,
+    "return_3mo_pct": 12.12,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": -0.5,
+      "note": "Negative 1mo momentum -8.83%"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (214.46)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (189.04) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 31.422665x"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 16.122227x < trailing 31.422665x (expected growth)"
+    },
+    {
+      "name": "peg",
+      "score": 1.0,
+      "note": "PEG 0.63 < 1.0 \u2014 growth cheap vs price"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.5,
+      "note": "Revenue growing 85% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 214% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 1,
+    "bearish": 0,
+    "total_mentions": 1
+  },
+  "news": [
+    {
+      "title": "OpenAI Just Launched a Robotics Division. Should Tesla Investors Be Worried?",
+      "published": "Sun, 14 Jun 2026 12:05:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/14/openai-launch-robotics-division-tesla-worry/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Better Stock to Buy Now: Amazon vs. Microsoft",
+      "published": "Sun, 14 Jun 2026 11:50:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/14/better-stock-to-buy-now-amazon-vs-microsoft/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "2 Energy Dividend Stocks With Cheap Valuations and Growing Payouts",
+      "published": "Sun, 14 Jun 2026 11:45:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/14/2-energy-dividend-stocks-with-cheap-valuations-and/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "These 4 Artificial Intelligence Stocks Have Room to Run Thanks to Anthropic's New Fable Model",
+      "published": "Sun, 14 Jun 2026 11:37:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/14/4-artificial-intelligence-ai-stocks-that-win-big-f/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Social Security Is Scheduled to Run Out of Money Sooner Than Previously Expected, and President Trump Is Partly to Blame",
+      "published": "Sun, 14 Jun 2026 11:20:00 +0000",
+      "url": "https://www.fool.com/retirement/2026/06/14/social-security-is-scheduled-to-run-out-of-money-s/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/NVDA"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 205.19,
+  "asset_type": "stock"
+}
