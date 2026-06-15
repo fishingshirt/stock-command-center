@@ -1,15 +1,17 @@
 {
   "ticker": "NVDA",
-  "timestamp": "2026-06-15T08:01:28.024102+00:00",
+  "timestamp": "2026-06-15T10:01:31.139126+00:00",
   "compliance_score": "NO_DATA",
   "risk_level": "NO_DATA",
   "sanctions_risk": "NO_DATA \u2014 Premium API required (OFAC/dowJones Watchlist)",
   "pep_exposure": "NO_DATA \u2014 Premium API required (DowJones/Refinitiv PEP)",
   "esg_score": "NO_DATA \u2014 Premium API required (MSCI/Refinitiv/Sustainalytics)",
-  "controversy_count": 0,
+  "controversy_count": 1,
   "jurisdiction_risk": "NO_DATA",
-  "flags": [],
-  "pass": true,
+  "flags": [
+    "Headline flagged: Warren Buffett's Successor, Greg Abel, Is Betting Big on a Virtual Monopoly That's About to Become B"
+  ],
+  "pass": false,
   "derived_from": {
     "sector": null,
     "country": null,
