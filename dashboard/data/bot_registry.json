@@ -4,9 +4,9 @@
       "name": "researcher_bot",
       "expertise": "multi-domain_research",
       "historical_accuracy": 32.6,
-      "total_predictions": 2750,
+      "total_predictions": 2755,
       "correct_predictions": 426,
-      "last_run": "2026-06-14T22:01:06.259287+00:00",
+      "last_run": "2026-06-15T00:01:12.907548+00:00",
       "avg_confidence": 0.0,
       "confidence_history": [
         0,
@@ -90,9 +90,9 @@
       "name": "financial_model",
       "expertise": "dcf_valuation",
       "historical_accuracy": 50.0,
-      "total_predictions": 325,
+      "total_predictions": 330,
       "correct_predictions": 0,
-      "last_run": "2026-06-14T22:01:09.255853+00:00",
+      "last_run": "2026-06-15T00:01:14.831502+00:00",
       "avg_confidence": 50.0,
       "confidence_history": [
         50,
@@ -132,9 +132,9 @@
       "name": "earnings_analyzer",
       "expertise": "earnings_surprise",
       "historical_accuracy": 50.0,
-      "total_predictions": 325,
+      "total_predictions": 330,
       "correct_predictions": 0,
-      "last_run": "2026-06-14T22:01:11.062558+00:00",
+      "last_run": "2026-06-15T00:01:16.685275+00:00",
       "avg_confidence": 50.0,
       "confidence_history": [
         50,
@@ -174,9 +174,9 @@
       "name": "kyc_screen",
       "expertise": "compliance_risk",
       "historical_accuracy": 50.0,
-      "total_predictions": 320,
+      "total_predictions": 325,
       "correct_predictions": 0,
-      "last_run": "2026-06-14T22:01:13.656084+00:00",
+      "last_run": "2026-06-15T00:01:19.035708+00:00",
       "avg_confidence": 0.0,
       "confidence_history": [
         0,
@@ -216,9 +216,9 @@
       "name": "advisor_reasoning",
       "expertise": "strategy_rationale",
       "historical_accuracy": 50.0,
-      "total_predictions": 320,
+      "total_predictions": 325,
       "correct_predictions": 0,
-      "last_run": "2026-06-14T22:01:14.700370+00:00",
+      "last_run": "2026-06-15T00:01:20.105859+00:00",
       "avg_confidence": 0.0,
       "confidence_history": [
         0,
@@ -258,9 +258,9 @@
       "name": "paper_trader",
       "expertise": "trade_execution",
       "historical_accuracy": 50.0,
-      "total_predictions": 325,
+      "total_predictions": 330,
       "correct_predictions": 0,
-      "last_run": "2026-06-14T22:01:14.592295+00:00",
+      "last_run": "2026-06-15T00:01:19.992619+00:00",
       "avg_confidence": 0.0,
       "confidence_history": [
         0,
@@ -297,5 +297,5 @@
       "created_at": "2026-06-09T16:42:40.059834+00:00"
     }
   },
-  "updated_at": "2026-06-14T22:01:14.745300+00:00"
+  "updated_at": "2026-06-15T00:01:20.155180+00:00"
 }
