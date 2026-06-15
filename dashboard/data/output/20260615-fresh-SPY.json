@@ -1,0 +1,107 @@
+{
+  "task_id": "fresh-SPY",
+  "subject": "SPY analysis",
+  "ticker": "SPY",
+  "timestamp": "2026-06-15T12:32:35.617060+00:00",
+  "recommendation": "BUY",
+  "confidence": 95,
+  "summary": "SPY @ $741.75 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 47.36 | P/E: 26.56538 | Strategy: GROWTH",
+  "signal_score": 1.0,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "SPY",
+    "current_price": 741.75,
+    "previous_close": 737.76,
+    "day_change_pct": 0.54,
+    "sma_20": 745.07,
+    "sma_50": 722.8,
+    "sma_200": 684.07,
+    "rsi_14": 47.36,
+    "52_week_high": 760.4,
+    "52_week_low": 591.89,
+    "price_vs_52w_pct": 88.9,
+    "volume_surge": 1.06,
+    "avg_volume": 64329955,
+    "market_cap": null,
+    "pe_trailing": 26.56538,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": 0.34,
+    "return_1mo_pct": 0.35,
+    "return_3mo_pct": 11.17,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (684.07) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (50.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 50.0,
+    "label": "BULLISH",
+    "bullish": 3,
+    "bearish": 1,
+    "total_mentions": 4
+  },
+  "news": [
+    {
+      "title": "Stock Market Today: Dow Rallies 500 Points On U.S.-Iran Deal; Oil Prices Tumble (Live Coverage)",
+      "published": "Mon, 15 Jun 2026 12:03:04 +0000",
+      "url": "https://finance.yahoo.com/m/c127c423-0673-3825-8ed0-8b4d7cf1454f/stock-market-today%3A-dow.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Today\u2019s AI market hits all 5 warning signs that preceded 2000 Nasdaq crash.",
+      "published": "Mon, 15 Jun 2026 11:04:00 +0000",
+      "url": "https://247wallst.com/investing/2026/06/15/todays-ai-market-hits-all-5-warning-signs-that-preceded-2000-nasdaq-crash/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nasdaq, S&P 500, Dow Futures Climb While Oil Slides As US-Iran Deal Signals End To Hormuz Disruption: DJT, NFLX, GLXY, SPCX In Focus",
+      "published": "Mon, 15 Jun 2026 01:17:38 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-climb-while-oil-slides-as-us-iran-deal-signals-end-to-hormuz-disruption/cZKfbvBR7dP?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Have S&P 500 Index Funds, Often Touted as the Best Stock Investments, Become Dangerous? There's a Worrisome Development -- and a Possibly Better Alternative.",
+      "published": "Sun, 14 Jun 2026 09:20:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/14/have-sp-500-index-funds-often-touted-as-best-voo/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Suze Orman to 54-Year-Old With $600,000: Skip the 1.5% Fee and Manage It Yourself",
+      "published": "Sat, 13 Jun 2026 16:02:52 +0000",
+      "url": "https://247wallst.com/personal-finance/2026/06/13/suze-orman-to-54-year-old-with-600000-skip-the-1-5-fee-and-manage-it-yourself/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/SPY"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 741.75,
+  "asset_type": "stock"
+}

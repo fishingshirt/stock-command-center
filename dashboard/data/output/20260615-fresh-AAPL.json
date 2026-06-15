@@ -1,0 +1,144 @@
+{
+  "task_id": "fresh-AAPL",
+  "subject": "AAPL analysis",
+  "ticker": "AAPL",
+  "timestamp": "2026-06-15T12:31:11.781638+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 69,
+  "summary": "AAPL @ $291.13 \u2014 ACCUMULATE (69% confidence) | Bullish: RSI 34.19 \u2014 approaching oversold | Warnings: Bearish news sentiment detected | RSI: 34.19 | P/E: 35.203144 | Strategy: GROWTH",
+  "signal_score": 0.368,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "AAPL",
+    "current_price": 291.13,
+    "previous_close": 295.63,
+    "day_change_pct": -1.52,
+    "sma_20": 303.88,
+    "sma_50": 285.36,
+    "sma_200": 266.46,
+    "rsi_14": 34.19,
+    "52_week_high": 317.4,
+    "52_week_low": 195.07,
+    "price_vs_52w_pct": 78.5,
+    "volume_surge": 1.21,
+    "avg_volume": 46693596,
+    "market_cap": 4275929874432,
+    "pe_trailing": 35.203144,
+    "pe_forward": 30.341877,
+    "peg_ratio": 2.35,
+    "eps_ttm": 8.27,
+    "eps_forward": 9.59499,
+    "revenue_growth": 0.166,
+    "earnings_growth": 0.218,
+    "profit_margin": 0.27152002,
+    "short_ratio": 3.12,
+    "beta": 1.086,
+    "return_5d_pct": -3.45,
+    "return_1mo_pct": -3.03,
+    "return_3mo_pct": 15.26,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +15.26%"
+    },
+    {
+      "name": "rsi",
+      "score": 1.0,
+      "note": "RSI oversold 34.19"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (303.88)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (266.46) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 35.203144x"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 2.35 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.0,
+      "note": "Revenue growing 17% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 22% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": -1.0,
+      "note": "Bearish news sentiment (-100.0)"
+    }
+  ],
+  "reasons": [
+    "RSI 34.19 \u2014 approaching oversold"
+  ],
+  "warnings": [
+    "Bearish news sentiment detected"
+  ],
+  "sentiment": {
+    "score": -100.0,
+    "label": "BEARISH",
+    "bullish": 0,
+    "bearish": 1,
+    "total_mentions": 1
+  },
+  "news": [
+    {
+      "title": "Two Weeks Left to Enter The Global Supply Chain Awards",
+      "published": "Mon, 15 Jun 2026 11:30:00 +0000",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/two-weeks-left-enter-global-113000941.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Jim Cramer Discusses the Sell-Off in Apple Stock Before SpaceX IPO",
+      "published": "Mon, 15 Jun 2026 08:28:56 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-sell-off-082856790.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "SpaceX Climbed Nearly 20% in Its First Day of Trading. Here's Where the Stock Price Will Be in 3 Months, According to History.",
+      "published": "Mon, 15 Jun 2026 08:22:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/15/spacex-climbed-nearly-20-in-its-first-day-of-tradi/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Apple, Netflix and Disney",
+      "published": "Mon, 15 Jun 2026 07:56:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-075600899.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Alphabet Ties Search AI And Mobility Closer To Revenue Potential",
+      "published": "Sun, 14 Jun 2026 23:16:57 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-ties-search-ai-mobility-231657033.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/AAPL"
+  ],
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 291.13,
+  "asset_type": "stock"
+}

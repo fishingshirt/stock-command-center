@@ -1,0 +1,13 @@
+{
+  "task_id": "fresh-SPCX",
+  "subject": "SPCX analysis",
+  "ticker": "SPCX",
+  "timestamp": "2026-06-15T12:32:23.549617+00:00",
+  "recommendation": "NO_DATA",
+  "confidence": 0,
+  "summary": "Data unavailable for SPCX: Insufficient price history for SPCX",
+  "key_metrics": {
+    "_error": "Insufficient price history for SPCX"
+  },
+  "asset_type": "stock"
+}

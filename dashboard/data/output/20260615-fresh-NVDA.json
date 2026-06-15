@@ -1,0 +1,142 @@
+{
+  "task_id": "fresh-NVDA",
+  "subject": "NVDA analysis",
+  "ticker": "NVDA",
+  "timestamp": "2026-06-15T12:31:23.680974+00:00",
+  "recommendation": "BUY",
+  "confidence": 86,
+  "summary": "NVDA @ $205.19 \u2014 BUY (86% confidence) | Bullish: Bullish news sentiment detected | RSI: 42.34 | P/E: 31.422665 | Strategy: GROWTH",
+  "signal_score": 0.667,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "NVDA",
+    "current_price": 205.19,
+    "previous_close": 204.87,
+    "day_change_pct": 0.16,
+    "sma_20": 214.46,
+    "sma_50": 206.7,
+    "sma_200": 189.04,
+    "rsi_14": 42.34,
+    "52_week_high": 236.54,
+    "52_week_low": 142.03,
+    "price_vs_52w_pct": 66.8,
+    "volume_surge": 0.91,
+    "avg_volume": 165364671,
+    "market_cap": 4969906831360,
+    "pe_trailing": 31.422665,
+    "pe_forward": 16.122227,
+    "peg_ratio": 0.63,
+    "eps_ttm": 6.53,
+    "eps_forward": 12.72715,
+    "revenue_growth": 0.852,
+    "earnings_growth": 2.145,
+    "profit_margin": 0.62966,
+    "short_ratio": 1.71,
+    "beta": 2.202,
+    "return_5d_pct": -1.65,
+    "return_1mo_pct": -8.83,
+    "return_3mo_pct": 12.12,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": -0.5,
+      "note": "Negative 1mo momentum -8.83%"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (214.46)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (189.04) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 31.422665x"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 16.122227x < trailing 31.422665x (expected growth)"
+    },
+    {
+      "name": "peg",
+      "score": 1.0,
+      "note": "PEG 0.63 < 1.0 \u2014 growth cheap vs price"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.5,
+      "note": "Revenue growing 85% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 214% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (50.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 50.0,
+    "label": "BULLISH",
+    "bullish": 3,
+    "bearish": 1,
+    "total_mentions": 4
+  },
+  "news": [
+    {
+      "title": "Meet the High-Yield Dividend King That Just Boosted Its Payout For the 55th Consecutive Year. Here's Why It's Still a Buy at a 52-Week High.",
+      "published": "Mon, 15 Jun 2026 12:07:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/15/meet-the-high-yield-dividend-king-that-just-booste/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "He Watched His $1M ETF Investment Crash to $200k. Then He Cashed Out at $7.5 Million",
+      "published": "Mon, 15 Jun 2026 12:05:22 +0000",
+      "url": "https://247wallst.com/investing/2026/06/15/he-watched-his-1m-etf-investment-crash-to-200k-then-he-cashed-out-at-7-5-million/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "One AI Cooling Stock Is 10% Off Highs. Why IBD Says the Setup \u2018Doesn\u2019t Get Much Better\u2019",
+      "published": "Mon, 15 Jun 2026 12:04:00 +0000",
+      "url": "https://247wallst.com/investing/2026/06/15/one-ai-cooling-stock-is-10-off-highs-why-ibd-calls-the-setup-doesnt-get-much-better/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Here Are Monday\u2019s Best Wall Street Analyst Research Calls: Accenture, Caesars Entertainment, Datadog, Dupont, Epam Systems, Ferrari, Paychex, Rocket Lab, TeraWulf, and More",
+      "published": "Mon, 15 Jun 2026 12:03:56 +0000",
+      "url": "https://247wallst.com/investing/2026/06/15/here-are-mondays-best-wall-street-analyst-research-calls-accenture-caesars-entertainment-datadog-dupont-epam-systems-ferrari-paychex-rocket-lab-terawulf-and-more/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "He Started With $50k, Then Bet His House to Buy TQQQ and Turned it Into $10 Million",
+      "published": "Mon, 15 Jun 2026 12:00:48 +0000",
+      "url": "https://247wallst.com/investing/2026/06/15/he-started-with-50k-then-bet-his-house-to-buy-tqqq-and-turned-it-into-10-million/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/NVDA"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 205.19,
+  "asset_type": "stock"
+}

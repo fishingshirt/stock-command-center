@@ -1,0 +1,134 @@
+{
+  "task_id": "fresh-MTUM",
+  "subject": "MTUM analysis",
+  "ticker": "MTUM",
+  "timestamp": "2026-06-15T12:31:59.850602+00:00",
+  "recommendation": "BUY",
+  "confidence": 85,
+  "summary": "MTUM @ $324.4 \u2014 BUY (85% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 93.1% of 52-week range \u2014 limited upside | RSI: 61.74 | P/E: 34.514877 | Strategy: GROWTH",
+  "signal_score": 0.6,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "MTUM",
+    "current_price": 324.4,
+    "previous_close": 319.01,
+    "day_change_pct": 1.69,
+    "sma_20": 311.41,
+    "sma_50": 291.65,
+    "sma_200": 260.81,
+    "rsi_14": 61.74,
+    "52_week_high": 331.49,
+    "52_week_low": 229.42,
+    "price_vs_52w_pct": 93.1,
+    "volume_surge": 1.36,
+    "avg_volume": 1126823,
+    "market_cap": null,
+    "pe_trailing": 34.514877,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": 2.96,
+    "return_1mo_pct": 8.76,
+    "return_3mo_pct": 31.57,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +8.76%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +31.57%"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (311.41)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (260.81) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 34.514877x"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (93.1% of range)"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [
+    "Price at 93.1% of 52-week range \u2014 limited upside"
+  ],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 4,
+    "bearish": 0,
+    "total_mentions": 4
+  },
+  "news": [
+    {
+      "title": "Momentum and Small-Caps Lead Market Amid Big IPO",
+      "published": "Fri, 12 Jun 2026 18:18:08 +0000",
+      "url": "https://finance.yahoo.com/m/9b1ceea5-3a9f-3b5a-8a38-11a6c8d7e8da/momentum-and-small-caps-lead.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Build On a Strong Earnings Season With These 3 ETFs",
+      "published": "Fri, 12 Jun 2026 11:20:00 +0000",
+      "url": "https://www.marketbeat.com/articles/build-on-a-strong-earnings-season-with-these-3-etfs/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Markets Are Rallying. Chip Stocks Are Leading the Day.",
+      "published": "Thu, 11 Jun 2026 16:45:14 +0000",
+      "url": "https://finance.yahoo.com/m/e2bfe15d-f774-334c-9f2d-2835f60874c8/markets-are-rallying.-chip.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple Just Delivered Its $75 Per Share AI Moment at WWDC. Wall Street Says the Stock Could Hit $440 by Year-End.",
+      "published": "Tue, 09 Jun 2026 13:26:41 +0000",
+      "url": "https://247wallst.com/investing/2026/06/09/apple-just-delivered-its-75-per-share-ai-moment-at-wwdc-wall-street-says-the-stock-could-hit-440-by-year-end/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Dow Wobbles as Wall Street Chases Chips, Other Momentum Stocks",
+      "published": "Mon, 08 Jun 2026 18:31:08 +0000",
+      "url": "https://finance.yahoo.com/m/17c7fe52-5972-346e-9b8c-6e0b5916f7bc/the-dow-wobbles-as-wall.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/MTUM"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 324.4,
+  "asset_type": "stock"
+}
