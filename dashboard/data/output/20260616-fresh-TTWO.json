@@ -1,0 +1,102 @@
+{
+  "task_id": "",
+  "subject": "TTWO analysis",
+  "ticker": "TTWO",
+  "timestamp": "2026-06-16T12:31:46.379515+00:00",
+  "recommendation": "HOLD",
+  "confidence": 50,
+  "summary": "TTWO @ $nan \u2014 HOLD (50% confidence) | Bullish: Bullish news sentiment detected | RSI: 36.1 | Strategy: GROWTH",
+  "signal_score": 0.0,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "TTWO",
+    "current_price": NaN,
+    "previous_close": 211.75,
+    "day_change_pct": NaN,
+    "sma_20": NaN,
+    "sma_50": NaN,
+    "sma_200": NaN,
+    "rsi_14": 36.1,
+    "52_week_high": 264.79,
+    "52_week_low": 187.63,
+    "price_vs_52w_pct": NaN,
+    "volume_surge": 0.85,
+    "avg_volume": 2051903,
+    "market_cap": 40146698240,
+    "pe_trailing": null,
+    "pe_forward": 21.43474,
+    "peg_ratio": 2.96,
+    "eps_ttm": -1.62,
+    "eps_forward": 10.08783,
+    "revenue_growth": 0.061,
+    "earnings_growth": null,
+    "profit_margin": -0.0448,
+    "short_ratio": 3.05,
+    "beta": 0.982,
+    "return_5d_pct": NaN,
+    "return_1mo_pct": NaN,
+    "return_3mo_pct": NaN,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 2.96 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (66.7)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 66.7,
+    "label": "BULLISH",
+    "bullish": 5,
+    "bearish": 1,
+    "total_mentions": 6
+  },
+  "news": [
+    {
+      "title": "Take-Two Interactive (TTWO) Rises Higher Than Market: Key Facts",
+      "published": "Mon, 15 Jun 2026 21:50:04 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-rises-higher-215004244.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is Take-Two Interactive Software, Inc. (TTWO) A Good Stock To Buy Now?",
+      "published": "Sat, 13 Jun 2026 20:44:02 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-inc-ttwo-204402513.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Possible Bearish Signals With Take-Two Interactive Software Insiders Disposing Stock",
+      "published": "Fri, 12 Jun 2026 11:00:13 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/possible-bearish-signals-two-interactive-110013550.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Wall Street Bulls Look Optimistic About Take-Two (TTWO): Should You Buy?",
+      "published": "Thu, 11 Jun 2026 13:30:03 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bulls-look-optimistic-133003422.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Take-Two Interactive Software (TTWO): Best Quality Growth Stocks to Buy",
+      "published": "Sun, 07 Jun 2026 04:39:24 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-ttwo-best-043924589.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/TTWO"
+  ],
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": NaN,
+  "asset_type": "stock"
+}

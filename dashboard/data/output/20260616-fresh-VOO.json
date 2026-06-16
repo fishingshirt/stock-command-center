@@ -1,0 +1,97 @@
+{
+  "task_id": "",
+  "subject": "VOO analysis",
+  "ticker": "VOO",
+  "timestamp": "2026-06-16T12:32:10.647579+00:00",
+  "recommendation": "BUY",
+  "confidence": 95,
+  "summary": "VOO @ $nan \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 43.63 | P/E: 28.379751 | Strategy: GROWTH",
+  "signal_score": 1.0,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "VOO",
+    "current_price": NaN,
+    "previous_close": 681.95,
+    "day_change_pct": NaN,
+    "sma_20": NaN,
+    "sma_50": NaN,
+    "sma_200": NaN,
+    "rsi_14": 43.63,
+    "52_week_high": 699.15,
+    "52_week_low": 545.75,
+    "price_vs_52w_pct": NaN,
+    "volume_surge": 1.5,
+    "avg_volume": 8597000,
+    "market_cap": null,
+    "pe_trailing": 28.379751,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": NaN,
+    "return_1mo_pct": NaN,
+    "return_3mo_pct": NaN,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 0,
+    "total_mentions": 2
+  },
+  "news": [
+    {
+      "title": "Could The Vanguard S&P 500 ETF Be Your Ticket to Becoming a Stock Market Millionaire? History Offers a Clear Answer.",
+      "published": "Tue, 16 Jun 2026 11:20:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/16/could-the-vanguard-sp-500-etf-be-your-ticket-to-be/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "If You Invest $1,000 in the Vanguard S&P 500 ETF Right Now, Here's What History Says It Could Be Worth in 20 Years",
+      "published": "Tue, 16 Jun 2026 09:50:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/16/if-invest-1000-in-vanguard-sp-500-etf-worth/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Case For Mutual Fund-To-ETF Conversion: Flow Picture",
+      "published": "Mon, 15 Jun 2026 20:01:53 +0000",
+      "url": "http://www.etf.com/sections/advisor-center/case-mutual-fund-etf-conversion-flow-picture?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Best Vanguard ETF for Your Next $1,000 Investment",
+      "published": "Mon, 15 Jun 2026 16:52:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/15/best-vanguard-etf-for-next-1000-investment-vig/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "1 Unstoppable Vanguard ETF to Buy and Hold for the Next Decade",
+      "published": "Mon, 15 Jun 2026 12:55:56 +0000",
+      "url": "https://247wallst.com/investing/2026/06/15/1-unstoppable-vanguard-etf-to-buy-and-hold-for-the-next-decade/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/VOO"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": NaN,
+  "asset_type": "stock"
+}

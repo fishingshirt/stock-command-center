@@ -1,0 +1,127 @@
+{
+  "task_id": "",
+  "subject": "RACE analysis",
+  "ticker": "RACE",
+  "timestamp": "2026-06-16T12:31:34.529775+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 64,
+  "summary": "RACE @ $369.06 \u2014 ACCUMULATE (64% confidence) | Bullish: Bullish news sentiment detected | RSI: 66.39 | P/E: 35.623554 | Strategy: MOMENTUM",
+  "signal_score": 0.167,
+  "strategy": "MOMENTUM",
+  "key_metrics": {
+    "ticker": "RACE",
+    "current_price": 369.06,
+    "previous_close": 354.91,
+    "day_change_pct": 3.99,
+    "sma_20": 346.66,
+    "sma_50": 345.13,
+    "sma_200": 376.46,
+    "rsi_14": 66.39,
+    "52_week_high": 519.1,
+    "52_week_low": 312.51,
+    "price_vs_52w_pct": 27.4,
+    "volume_surge": 0.85,
+    "avg_volume": 662306,
+    "market_cap": 64973025280,
+    "pe_trailing": 35.623554,
+    "pe_forward": 29.729414,
+    "peg_ratio": 3.92,
+    "eps_ttm": 10.36,
+    "eps_forward": 12.413968,
+    "revenue_growth": 0.032,
+    "earnings_growth": 0.013,
+    "profit_margin": 0.22187,
+    "short_ratio": 4.79,
+    "beta": 0.595,
+    "return_5d_pct": 3.23,
+    "return_1mo_pct": 13.64,
+    "return_3mo_pct": 10.95,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.5,
+      "note": "Strong 1mo momentum +13.64%"
+    },
+    {
+      "name": "day_spike",
+      "score": 0.5,
+      "note": "Big daily move +3.99%"
+    },
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 66.39"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (346.66)"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 35.623554x"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 3.92 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (71.4)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 71.4,
+    "label": "BULLISH",
+    "bullish": 6,
+    "bearish": 1,
+    "total_mentions": 7
+  },
+  "news": [
+    {
+      "title": "Ferrari: Why this bank says the Luce-fueled stock sell-off has gone too far",
+      "published": "Tue, 16 Jun 2026 12:06:49 +0000",
+      "url": "https://finance.yahoo.com/markets/article/ferrari-why-this-bank-says-the-luce-fueled-stock-sell-off-has-gone-too-far-120649750.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "/C O R R E C T I O N -- Turo Inc./",
+      "published": "Mon, 15 Jun 2026 19:16:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/turo-brings-italy-tournament-170000061.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Is Ferrari N.V. (RACE) A Good Stock To Buy Now?",
+      "published": "Mon, 15 Jun 2026 14:54:03 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ferrari-n-v-race-good-145403044.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Datadog upgraded, Accenture downgraded: Wall Street's top analyst calls",
+      "published": "Mon, 15 Jun 2026 13:42:48 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-upgraded-accenture-downgraded-wall-134248909.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Morgan Stanley Says Ferrari's Selloff Has Gone Too Far",
+      "published": "Mon, 15 Jun 2026 13:32:16 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-says-ferraris-selloff-133216396.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/RACE"
+  ],
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 369.06,
+  "asset_type": "stock"
+}

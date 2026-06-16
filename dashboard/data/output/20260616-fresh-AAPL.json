@@ -1,0 +1,123 @@
+{
+  "task_id": "",
+  "subject": "AAPL analysis",
+  "ticker": "AAPL",
+  "timestamp": "2026-06-16T12:31:10.375849+00:00",
+  "recommendation": "BUY",
+  "confidence": 81,
+  "summary": "AAPL @ $nan \u2014 BUY (81% confidence) | Bullish: RSI 34.49 \u2014 approaching oversold; Bullish news sentiment detected | RSI: 34.49 | P/E: 35.842804 | Strategy: GROWTH",
+  "signal_score": 0.455,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "AAPL",
+    "current_price": NaN,
+    "previous_close": 291.13,
+    "day_change_pct": NaN,
+    "sma_20": NaN,
+    "sma_50": NaN,
+    "sma_200": NaN,
+    "rsi_14": 34.49,
+    "52_week_high": 317.4,
+    "52_week_low": 195.07,
+    "price_vs_52w_pct": NaN,
+    "volume_surge": 1.06,
+    "avg_volume": 46909392,
+    "market_cap": 4353626210304,
+    "pe_trailing": 35.842804,
+    "pe_forward": 30.893208,
+    "peg_ratio": 2.35,
+    "eps_ttm": 8.27,
+    "eps_forward": 9.59499,
+    "revenue_growth": 0.166,
+    "earnings_growth": 0.218,
+    "profit_margin": 0.27152002,
+    "short_ratio": 3.12,
+    "beta": 1.086,
+    "return_5d_pct": NaN,
+    "return_1mo_pct": NaN,
+    "return_3mo_pct": NaN,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "rsi",
+      "score": 1.0,
+      "note": "RSI oversold 34.49"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 35.842804x"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 2.35 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.0,
+      "note": "Revenue growing 17% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 22% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (33.3)"
+    }
+  ],
+  "reasons": [
+    "RSI 34.49 \u2014 approaching oversold",
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 33.3,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 1,
+    "total_mentions": 3
+  },
+  "news": [
+    {
+      "title": "Apple Faces Italy Cloud Probe",
+      "published": "Tue, 16 Jun 2026 12:26:10 +0000",
+      "url": "https://finance.yahoo.com/technology/articles/apple-faces-italy-cloud-probe-122610703.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Apple (AAPL) Stock Could Be Pricing In Too Much Growth After A 50% Run",
+      "published": "Tue, 16 Jun 2026 12:08:36 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-could-pricing-120836143.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Investors look beyond the 'Magnificent 7' as Wall Street embraces the 'FAB 10'",
+      "published": "Tue, 16 Jun 2026 11:52:21 +0000",
+      "url": "https://www.euronews.com/2026/06/16/investors-look-beyond-the-magnificent-7-as-wall-street-embraces-the-fab-10?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Elon Musk's SpaceX is already closing in on Microsoft's market cap and a big Apple milestone",
+      "published": "Tue, 16 Jun 2026 11:27:01 +0000",
+      "url": "https://finance.yahoo.com/markets/article/elon-musks-spacex-is-already-closing-in-on-microsofts-market-cap-and-a-big-apple-milestone-112701154.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "SpaceX Valuation Set to Surpass Amazon. Microsoft Is Next.",
+      "published": "Tue, 16 Jun 2026 11:23:00 +0000",
+      "url": "https://finance.yahoo.com/m/e0d3798e-8bc2-397e-b774-c8fae92c466b/spacex-valuation-set-to.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/AAPL"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": NaN,
+  "asset_type": "stock"
+}

@@ -1,0 +1,122 @@
+{
+  "task_id": "",
+  "subject": "NVDA analysis",
+  "ticker": "NVDA",
+  "timestamp": "2026-06-16T12:31:22.333278+00:00",
+  "recommendation": "BUY",
+  "confidence": 90,
+  "summary": "NVDA @ $nan \u2014 BUY (90% confidence) | Bullish: Bullish news sentiment detected | RSI: 42.65 | P/E: 32.584354 | Strategy: GROWTH",
+  "signal_score": 0.833,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "NVDA",
+    "current_price": NaN,
+    "previous_close": 205.19,
+    "day_change_pct": NaN,
+    "sma_20": NaN,
+    "sma_50": NaN,
+    "sma_200": NaN,
+    "rsi_14": 42.65,
+    "52_week_high": 236.54,
+    "52_week_low": 142.03,
+    "price_vs_52w_pct": NaN,
+    "volume_surge": 0.9,
+    "avg_volume": 164287125,
+    "market_cap": 5145751453696,
+    "pe_trailing": 32.584354,
+    "pe_forward": 16.692661,
+    "peg_ratio": 0.63,
+    "eps_ttm": 6.52,
+    "eps_forward": 12.72715,
+    "revenue_growth": 0.852,
+    "earnings_growth": 2.145,
+    "profit_margin": 0.62966,
+    "short_ratio": 1.71,
+    "beta": 2.202,
+    "return_5d_pct": NaN,
+    "return_1mo_pct": NaN,
+    "return_3mo_pct": NaN,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 32.584354x"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 16.692661x < trailing 32.584354x (expected growth)"
+    },
+    {
+      "name": "peg",
+      "score": 1.0,
+      "note": "PEG 0.63 < 1.0 \u2014 growth cheap vs price"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.5,
+      "note": "Revenue growing 85% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 214% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 1,
+    "bearish": 0,
+    "total_mentions": 1
+  },
+  "news": [
+    {
+      "title": "Nvidia Raises $25B in Bond Sale",
+      "published": "Tue, 16 Jun 2026 12:24:36 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-raises-25b-bond-sale-122436397.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Sandisk Rally Isn't Over Yet",
+      "published": "Tue, 16 Jun 2026 12:15:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/16/the-sandisk-rally-isnt-over-yet/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nvidia (NVDA) Just Raised $25 Billion To Fund Its AI Buildout",
+      "published": "Tue, 16 Jun 2026 12:08:03 +0000",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-just-raised-25-120803921.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Forget the Chips. Half of Every AI Datacenter Dollar Goes Somewhere Else",
+      "published": "Tue, 16 Jun 2026 12:04:00 +0000",
+      "url": "https://247wallst.com/investing/2026/06/16/forget-the-chips-half-of-every-ai-datacenter-dollar-goes-somewhere-else/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Equinix Collaborates with Cisco and NVIDIA to Deploy Secure AI Factories Across Global Data Center Footprint",
+      "published": "Tue, 16 Jun 2026 12:02:00 +0000",
+      "url": "https://finance.yahoo.com/technology/ai/articles/equinix-collaborates-cisco-nvidia-deploy-120200520.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/NVDA"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": NaN,
+  "asset_type": "stock"
+}
