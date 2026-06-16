@@ -1,14 +1,15 @@
 {
   "ticker": "AAPL",
-  "timestamp": "2026-06-16T10:01:16.913878+00:00",
+  "timestamp": "2026-06-16T12:01:26.667191+00:00",
   "compliance_score": "NO_DATA",
   "risk_level": "NO_DATA",
   "sanctions_risk": "NO_DATA \u2014 Premium API required (OFAC/dowJones Watchlist)",
   "pep_exposure": "NO_DATA \u2014 Premium API required (DowJones/Refinitiv PEP)",
   "esg_score": "NO_DATA \u2014 Premium API required (MSCI/Refinitiv/Sustainalytics)",
-  "controversy_count": 1,
+  "controversy_count": 2,
   "jurisdiction_risk": "NO_DATA",
   "flags": [
+    "Headline flagged: Italian Competition Watchdog Launches Investigation Into Apple\u2019s Cloud Service Practices (AAPL)",
     "Headline flagged: Italy's antitrust regulator probes Apple over cloud services under Digital Market rules"
   ],
   "pass": false,
