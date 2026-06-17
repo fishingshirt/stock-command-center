@@ -1,15 +1,17 @@
 {
   "ticker": "AAPL",
-  "timestamp": "2026-06-17T14:01:21.022570+00:00",
+  "timestamp": "2026-06-17T16:02:23.771937+00:00",
   "compliance_score": "NO_DATA",
   "risk_level": "NO_DATA",
   "sanctions_risk": "NO_DATA \u2014 Premium API required (OFAC/dowJones Watchlist)",
   "pep_exposure": "NO_DATA \u2014 Premium API required (DowJones/Refinitiv PEP)",
   "esg_score": "NO_DATA \u2014 Premium API required (MSCI/Refinitiv/Sustainalytics)",
-  "controversy_count": 0,
+  "controversy_count": 1,
   "jurisdiction_risk": "NO_DATA",
-  "flags": [],
-  "pass": true,
+  "flags": [
+    "Headline flagged: Apple may owe you up to $95 from a $250 million settlement over its AI rollout \u2014 here's who qualifie"
+  ],
+  "pass": false,
   "derived_from": {
     "sector": null,
     "country": null,
