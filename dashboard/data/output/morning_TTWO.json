@@ -2,57 +2,52 @@
   "task_id": "",
   "subject": "TTWO analysis",
   "ticker": "TTWO",
-  "timestamp": "2026-06-13T12:31:50.683556+00:00",
-  "recommendation": "HOLD",
-  "confidence": 52,
-  "summary": "TTWO @ $211.75 \u2014 HOLD (52% confidence) | Bullish: RSI 29.72 \u2014 approaching oversold; Bullish news sentiment detected | RSI: 29.72 | Strategy: GROWTH",
-  "signal_score": -0.143,
+  "timestamp": "2026-06-17T12:31:51.605347+00:00",
+  "recommendation": "BUY",
+  "confidence": 82,
+  "summary": "TTWO @ $229.97 \u2014 BUY (82% confidence) | Bullish: Bullish news sentiment detected | RSI: 61.97 | Strategy: GROWTH",
+  "signal_score": 0.5,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "TTWO",
-    "current_price": 211.75,
-    "previous_close": 212.08,
-    "day_change_pct": -0.16,
-    "sma_20": 223.06,
-    "sma_50": 217.53,
-    "sma_200": 231.02,
-    "rsi_14": 29.72,
+    "current_price": 229.97,
+    "previous_close": 216.23,
+    "day_change_pct": 6.35,
+    "sma_20": 221.14,
+    "sma_50": 218.52,
+    "sma_200": 230.91,
+    "rsi_14": 61.97,
     "52_week_high": 264.79,
     "52_week_low": 187.63,
-    "price_vs_52w_pct": 31.3,
-    "volume_surge": 0.93,
-    "avg_volume": 2059814,
-    "market_cap": 39314915328,
+    "price_vs_52w_pct": 54.9,
+    "volume_surge": 1.01,
+    "avg_volume": 2082071,
+    "market_cap": 42697760768,
     "pe_trailing": null,
-    "pe_forward": 20.99064,
-    "peg_ratio": 2.96,
-    "eps_ttm": -1.63,
+    "pe_forward": 22.796778,
+    "peg_ratio": 3.21,
+    "eps_ttm": -1.61,
     "eps_forward": 10.08783,
     "revenue_growth": 0.061,
     "earnings_growth": null,
     "profit_margin": -0.0448,
     "short_ratio": 3.05,
     "beta": 0.982,
-    "return_5d_pct": -0.38,
-    "return_1mo_pct": -12.66,
-    "return_3mo_pct": 1.95,
+    "return_5d_pct": 9.27,
+    "return_1mo_pct": -3.43,
+    "return_3mo_pct": 12.61,
     "_source": "yfinance"
   },
   "signals": [
     {
-      "name": "1mo_momentum",
-      "score": -1.5,
-      "note": "Weak 1mo momentum -12.66%"
-    },
-    {
-      "name": "rsi",
-      "score": 1.0,
-      "note": "RSI oversold 29.72"
+      "name": "day_spike",
+      "score": 0.5,
+      "note": "Big daily move +6.35%"
     },
     {
       "name": "sma20",
-      "score": -0.5,
-      "note": "Price below SMA20 (223.06)"
+      "score": 0.5,
+      "note": "Price above SMA20 (221.14)"
     },
     {
       "name": "golden_cross",
@@ -60,69 +55,63 @@
       "note": "SMA20 > SMA50 (short-term uptrend)"
     },
     {
-      "name": "sma200",
-      "score": -1.0,
-      "note": "Price below SMA200 (231.02) \u2014 confirmed downtrend"
-    },
-    {
       "name": "peg",
       "score": -1.0,
-      "note": "PEG 2.96 > 2.0 \u2014 expensive growth"
+      "note": "PEG 3.21 > 2.0 \u2014 expensive growth"
     },
     {
       "name": "sentiment",
       "score": 1.0,
-      "note": "Bullish news sentiment (60.0)"
+      "note": "Bullish news sentiment (50.0)"
     }
   ],
   "reasons": [
-    "RSI 29.72 \u2014 approaching oversold",
     "Bullish news sentiment detected"
   ],
   "warnings": [],
   "sentiment": {
-    "score": 60.0,
+    "score": 50.0,
     "label": "BULLISH",
-    "bullish": 4,
+    "bullish": 3,
     "bearish": 1,
-    "total_mentions": 5
+    "total_mentions": 4
   },
   "news": [
     {
-      "title": "Possible Bearish Signals With Take-Two Interactive Software Insiders Disposing Stock",
-      "published": "Fri, 12 Jun 2026 11:00:13 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/possible-bearish-signals-two-interactive-110013550.html?.tsrc=rss",
+      "title": "TTWO Stock Pops 6.35% As Analyst Flags Massive \u2018GTA VI\u2019 Launch Potential",
+      "published": "Tue, 16 Jun 2026 21:18:45 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/ttwo-stock-jumps-6-35-percent-analyst-gta-vi-launch-potential/cZKhcTuR748?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Wall Street Bulls Look Optimistic About Take-Two (TTWO): Should You Buy?",
-      "published": "Thu, 11 Jun 2026 13:30:03 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bulls-look-optimistic-133003422.html?.tsrc=rss",
+      "title": "Analysts' Top S&P 500 Stocks to Buy Now",
+      "published": "Tue, 16 Jun 2026 20:57:59 +0000",
+      "url": "https://www.kiplinger.com/investing/analysts-top-sandp-500-stocks-to-buy-now?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Take-Two Interactive Software (TTWO): Best Quality Growth Stocks to Buy",
-      "published": "Sun, 07 Jun 2026 04:39:24 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-ttwo-best-043924589.html?.tsrc=rss",
+      "title": "Stocks Indexes Finish Mostly Lower as Chipmakers Retreat",
+      "published": "Tue, 16 Jun 2026 20:33:56 +0000",
+      "url": "https://www.barchart.com/story/news/2502375/stocks-indexes-finish-mostly-lower-as-chipmakers-retreat?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Jim Cramer on Take-Two Interactive: \u201cI Wouldn\u2019t Buy It All at Once; It\u2019s an Erratic Trader\u201d",
-      "published": "Sat, 06 Jun 2026 15:06:02 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-two-interactive-wouldn-150602041.html?.tsrc=rss",
+      "title": "Take-Two sees AI driving efficiencies, mobile ad growth opportunities ahead of GTA VI launch",
+      "published": "Tue, 16 Jun 2026 19:10:00 +0000",
+      "url": "https://www.proactiveinvestors.com/companies/news/1093994/take-two-sees-ai-driving-efficiencies-mobile-ad-growth-opportunities-ahead-of-gta-vi-launch-1093994.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Take-Two Interactive Software, Inc. (NASDAQ:TTWO) Could Be Less Than A Year Away From Profitability",
-      "published": "Fri, 05 Jun 2026 11:00:10 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-software-inc-nasdaq-110010370.html?.tsrc=rss",
+      "title": "Take-Two Interactive (TTWO) Shows Why GTA VI Is an Accelerant, Not the Whole Investment Case",
+      "published": "Tue, 16 Jun 2026 15:29:52 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-shows-why-152952941.html?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/TTWO"
   ],
-  "paper_trade_signal": "HOLD",
-  "paper_trade_price": 211.75,
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 229.97,
   "asset_type": "stock"
 }

@@ -2,57 +2,47 @@
   "task_id": "",
   "subject": "AAPL analysis",
   "ticker": "AAPL",
-  "timestamp": "2026-06-13T12:31:08.290333+00:00",
+  "timestamp": "2026-06-17T12:31:15.875441+00:00",
   "recommendation": "BUY",
-  "confidence": 84,
-  "summary": "AAPL @ $291.13 \u2014 BUY (84% confidence) | Bullish: RSI 34.19 \u2014 approaching oversold; Bullish news sentiment detected | RSI: 34.19 | P/E: 35.203144 | Strategy: GROWTH",
-  "signal_score": 0.579,
+  "confidence": 85,
+  "summary": "AAPL @ $299.24 \u2014 BUY (85% confidence) | Bullish: Bullish news sentiment detected | RSI: 40.49 | P/E: 36.2276 | Strategy: GROWTH",
+  "signal_score": 0.625,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "AAPL",
-    "current_price": 291.13,
-    "previous_close": 295.63,
-    "day_change_pct": -1.52,
-    "sma_20": 303.88,
-    "sma_50": 285.36,
-    "sma_200": 266.46,
-    "rsi_14": 34.19,
+    "current_price": 299.24,
+    "previous_close": 296.42,
+    "day_change_pct": 0.95,
+    "sma_20": 303.76,
+    "sma_50": 286.99,
+    "sma_200": 267.13,
+    "rsi_14": 40.49,
     "52_week_high": 317.4,
     "52_week_low": 195.07,
-    "price_vs_52w_pct": 78.5,
-    "volume_surge": 1.21,
-    "avg_volume": 46693596,
-    "market_cap": 4275929874432,
-    "pe_trailing": 35.203144,
-    "pe_forward": 30.341877,
-    "peg_ratio": 2.35,
-    "eps_ttm": 8.27,
+    "price_vs_52w_pct": 85.2,
+    "volume_surge": 0.93,
+    "avg_volume": 47028949,
+    "market_cap": 4395044175872,
+    "pe_trailing": 36.2276,
+    "pe_forward": 31.187109,
+    "peg_ratio": 2.42,
+    "eps_ttm": 8.26,
     "eps_forward": 9.59499,
     "revenue_growth": 0.166,
     "earnings_growth": 0.218,
     "profit_margin": 0.27152002,
     "short_ratio": 3.12,
     "beta": 1.086,
-    "return_5d_pct": -3.45,
-    "return_1mo_pct": -3.03,
-    "return_3mo_pct": 15.26,
+    "return_5d_pct": 2.63,
+    "return_1mo_pct": 0.09,
+    "return_3mo_pct": 19.84,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "3mo_momentum",
       "score": 1.5,
-      "note": "Strong 3mo momentum +15.26%"
-    },
-    {
-      "name": "rsi",
-      "score": 1.0,
-      "note": "RSI oversold 34.19"
-    },
-    {
-      "name": "sma20",
-      "score": -0.5,
-      "note": "Price below SMA20 (303.88)"
+      "note": "Strong 3mo momentum +19.84%"
     },
     {
       "name": "golden_cross",
@@ -62,17 +52,17 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (266.46) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (267.13) \u2014 confirmed uptrend"
     },
     {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 35.203144x"
+      "note": "Elevated P/E 36.2276x"
     },
     {
       "name": "peg",
       "score": -1.0,
-      "note": "PEG 2.35 > 2.0 \u2014 expensive growth"
+      "note": "PEG 2.42 > 2.0 \u2014 expensive growth"
     },
     {
       "name": "revenue_growth",
@@ -87,50 +77,49 @@
     {
       "name": "sentiment",
       "score": 1.0,
-      "note": "Bullish news sentiment (33.3)"
+      "note": "Bullish news sentiment (100.0)"
     }
   ],
   "reasons": [
-    "RSI 34.19 \u2014 approaching oversold",
     "Bullish news sentiment detected"
   ],
   "warnings": [],
   "sentiment": {
-    "score": 33.3,
+    "score": 100.0,
     "label": "BULLISH",
-    "bullish": 2,
-    "bearish": 1,
+    "bullish": 3,
+    "bearish": 0,
     "total_mentions": 3
   },
   "news": [
     {
-      "title": "Should I Update iOS 27 \"Tenorshare Launches An iOS 27 Upgrade-Downgrade Companion Tool\"",
-      "published": "Sat, 13 Jun 2026 11:25:00 +0000",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/ios-27-tenorshare-launches-ios-112500596.html?.tsrc=rss",
+      "title": "SpaceX's near $3 trillion rally comes with one big catch: Chart of the Day",
+      "published": "Wed, 17 Jun 2026 12:21:14 +0000",
+      "url": "https://finance.yahoo.com/markets/article/spacexs-near-3-trillion-rally-comes-with-one-big-catch-chart-of-the-day-122114608.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Exclusive-Tata's iPhone parts factory contaminated farmland water, India pollution body alleges",
-      "published": "Sat, 13 Jun 2026 08:33:55 +0000",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-tatas-iphone-parts-factory-083355814.html?.tsrc=rss",
+      "title": "Jabil raises annual profit forecast amid strong data center demand",
+      "published": "Wed, 17 Jun 2026 12:14:22 +0000",
+      "url": "https://finance.yahoo.com/technology/articles/jabil-raises-annual-profit-forecast-121422742.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "The Index Says Euphoria. But Don\u2019t Panic.",
-      "published": "Sat, 13 Jun 2026 02:40:00 +0000",
-      "url": "https://finance.yahoo.com/m/f3575c70-9280-3535-ba58-0f66dd6cc4b1/the-index-says-euphoria.-but.html?.tsrc=rss",
+      "title": "Intel Stock Jumps and It\u2019s More Than Just the Chip Rebound",
+      "published": "Wed, 17 Jun 2026 11:38:00 +0000",
+      "url": "https://finance.yahoo.com/m/0b64b2ac-8d9c-35f6-8021-0e545f6fb76e/intel-stock-jumps-and-it%E2%80%99s.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Can Apple Stock Double to $600 in 5 Years?",
-      "published": "Sat, 13 Jun 2026 01:01:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/12/can-apple-stock-double-to-600-in-5-years/?.tsrc=rss",
+      "title": "Apple Investors Are Tired of AI Promises, Want Tangible Progress",
+      "published": "Wed, 17 Jun 2026 11:21:59 +0000",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-investors-tired-ai-promises-112159204.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Does Google Stock Have More Upside?",
-      "published": "Fri, 12 Jun 2026 23:08:41 +0000",
-      "url": "https://www.trefis.com/articles/602686/does-google-stock-have-more-upside/2026-06-12?.tsrc=rss",
+      "title": "Italy opens first DMA probe into Apple over iCloud access",
+      "published": "Wed, 17 Jun 2026 11:06:20 +0000",
+      "url": "https://www.verdict.co.uk/italy-opens-dma-probe-apple/?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -138,6 +127,6 @@
     "https://finance.yahoo.com/quote/AAPL"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 291.13,
+  "paper_trade_price": 299.24,
   "asset_type": "stock"
 }

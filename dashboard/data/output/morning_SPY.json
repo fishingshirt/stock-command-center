@@ -2,28 +2,28 @@
   "task_id": "",
   "subject": "SPY analysis",
   "ticker": "SPY",
-  "timestamp": "2026-06-13T12:32:31.900714+00:00",
+  "timestamp": "2026-06-17T12:32:39.957622+00:00",
   "recommendation": "BUY",
-  "confidence": 95,
-  "summary": "SPY @ $741.75 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 47.36 | P/E: 26.56538 | Strategy: GROWTH",
-  "signal_score": 1.0,
+  "confidence": 82,
+  "summary": "SPY @ $750.33 \u2014 BUY (82% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range \u2014 limited upside | RSI: 49.92 | P/E: 26.87267 | Strategy: GROWTH",
+  "signal_score": 0.5,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "SPY",
-    "current_price": 741.75,
-    "previous_close": 737.76,
-    "day_change_pct": 0.54,
-    "sma_20": 745.07,
-    "sma_50": 722.8,
-    "sma_200": 684.07,
-    "rsi_14": 47.36,
+    "current_price": 750.33,
+    "previous_close": 754.83,
+    "day_change_pct": -0.6,
+    "sma_20": 746.44,
+    "sma_50": 726.61,
+    "sma_200": 685.18,
+    "rsi_14": 49.92,
     "52_week_high": 760.4,
     "52_week_low": 591.89,
-    "price_vs_52w_pct": 88.9,
-    "volume_surge": 1.06,
-    "avg_volume": 64329955,
+    "price_vs_52w_pct": 94.0,
+    "volume_surge": 1.04,
+    "avg_volume": 63666117,
     "market_cap": null,
-    "pe_trailing": 26.56538,
+    "pe_trailing": 26.87267,
     "pe_forward": null,
     "peg_ratio": null,
     "eps_ttm": null,
@@ -33,9 +33,9 @@
     "profit_margin": null,
     "short_ratio": null,
     "beta": null,
-    "return_5d_pct": 0.34,
-    "return_1mo_pct": 0.35,
-    "return_3mo_pct": 11.17,
+    "return_5d_pct": 3.43,
+    "return_1mo_pct": 2.26,
+    "return_3mo_pct": 13.75,
     "_source": "yfinance"
   },
   "signals": [
@@ -47,7 +47,12 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (684.07) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (685.18) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (94.0% of range)"
     },
     {
       "name": "sentiment",
@@ -58,7 +63,9 @@
   "reasons": [
     "Bullish news sentiment detected"
   ],
-  "warnings": [],
+  "warnings": [
+    "Price at 94.0% of 52-week range \u2014 limited upside"
+  ],
   "sentiment": {
     "score": 100.0,
     "label": "BULLISH",
@@ -68,33 +75,33 @@
   },
   "news": [
     {
-      "title": "S&P 500, Nasdaq, Dow End Higher On SpaceX Strong Debut And US-Iran Peace Signals \u2014 SPCX, SHEL, ROKU, XOM, HOOD In Focus",
-      "published": "Fri, 12 Jun 2026 21:45:19 +0000",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-end-higher-on-space-x-strong-debut-and-us-iran-peace-signals-spcx-shel-roku-xom-hood-in-focus/cZKdaEuR75L?.tsrc=rss",
+      "title": "Stock Market Today: Dow Waffles Ahead Of Fed Decision, Warsh Remarks; SpaceX Rally Continues (Live Coverage)",
+      "published": "Wed, 17 Jun 2026 12:18:47 +0000",
+      "url": "https://finance.yahoo.com/m/e7cfae4f-5942-3260-a2fa-e4ec522cb757/stock-market-today%3A-dow.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Stocks Rally on Hopes for a Near-term US-Iran Interim Peace Agreement",
-      "published": "Fri, 12 Jun 2026 20:39:53 +0000",
-      "url": "https://www.barchart.com/story/news/2447851/stocks-rally-on-hopes-for-a-near-term-us-iran-interim-peace-agreement?.tsrc=rss",
+      "title": "Tech ETFs Are Doing Something Unprecedented Right Now. Should Investors Buy or Wait?",
+      "published": "Wed, 17 Jun 2026 11:35:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/17/tech-etf-doing-unprecedented-invest-buy-vgt/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Elon Musk May Be a Trillionaire, but Tesla Is Still Down 11% in 2026. Is TSLA Stock Dead Weight Now?",
-      "published": "Fri, 12 Jun 2026 19:16:20 +0000",
-      "url": "https://247wallst.com/investing/2026/06/12/elon-musk-may-be-a-trillionaire-but-tesla-is-still-down-11-in-2026-is-tsla-stock-dead-weight-now/?.tsrc=rss",
+      "title": "S&P 500, Nasdaq, Dow Futures Edge Higher Ahead Of Fed Rate Decision: INTC, SNAP, SOFI, RUM In Focus",
+      "published": "Wed, 17 Jun 2026 00:49:38 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/sp500-nasdaq-dow-futures-edge-higher-ahead-of-fed-rate-decision/cZK0WgFR74u?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "VOO vs. SPY: Which S&P 500 ETF is The Better Bet?",
-      "published": "Fri, 12 Jun 2026 18:48:03 +0000",
-      "url": "https://www.fool.com/coverage/etfs/2026/06/12/voo-vs-spy-which-s-and-p-500-etf-is-the-better-bet/?.tsrc=rss",
+      "title": "Target Hiked Its Dividend by 1.8%. It\u2019s Not Enough to Change the Thesis for TGT Stock.",
+      "published": "Tue, 16 Jun 2026 23:30:02 +0000",
+      "url": "https://www.barchart.com/story/news/2504759/target-hiked-its-dividend-by-1-8-its-not-enough-to-change-the-thesis-for-tgt-stock?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Leaving Las Vegas: How to Beat the House as the Stock Market Turns Into a Casino",
-      "published": "Fri, 12 Jun 2026 16:58:17 +0000",
-      "url": "https://www.barchart.com/story/news/2444431/leaving-las-vegas-how-to-beat-the-house-as-the-stock-market-turns-into-a-casino?.tsrc=rss",
+      "title": "ETF vs. Mutual Fund: Which Is Better for Your Money in 2026?",
+      "published": "Tue, 16 Jun 2026 22:11:01 +0000",
+      "url": "http://www.etf.com/sections/etf-basics/etf-vs-mutual-fund-which-better-your-money-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -102,6 +109,6 @@
     "https://finance.yahoo.com/quote/SPY"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 741.75,
+  "paper_trade_price": 750.33,
   "asset_type": "stock"
 }

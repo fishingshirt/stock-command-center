@@ -2,28 +2,28 @@
   "task_id": "",
   "subject": "VOO analysis",
   "ticker": "VOO",
-  "timestamp": "2026-06-13T12:32:18.119384+00:00",
+  "timestamp": "2026-06-17T12:32:16.312083+00:00",
   "recommendation": "BUY",
-  "confidence": 95,
-  "summary": "VOO @ $681.95 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 47.34 | P/E: 27.893824 | Strategy: GROWTH",
-  "signal_score": 1.0,
+  "confidence": 82,
+  "summary": "VOO @ $689.75 \u2014 BUY (82% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 93.9% of 52-week range \u2014 limited upside | RSI: 49.87 | P/E: 26.91888 | Strategy: GROWTH",
+  "signal_score": 0.5,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "VOO",
-    "current_price": 681.95,
-    "previous_close": 678.23,
-    "day_change_pct": 0.55,
-    "sma_20": 684.99,
-    "sma_50": 664.48,
-    "sma_200": 628.81,
-    "rsi_14": 47.34,
+    "current_price": 689.75,
+    "previous_close": 693.83,
+    "day_change_pct": -0.59,
+    "sma_20": 686.25,
+    "sma_50": 667.98,
+    "sma_200": 629.82,
+    "rsi_14": 49.87,
     "52_week_high": 699.15,
     "52_week_low": 545.75,
-    "price_vs_52w_pct": 88.8,
-    "volume_surge": 1.59,
-    "avg_volume": 8505611,
+    "price_vs_52w_pct": 93.9,
+    "volume_surge": 1.62,
+    "avg_volume": 8650757,
     "market_cap": null,
-    "pe_trailing": 27.893824,
+    "pe_trailing": 26.91888,
     "pe_forward": null,
     "peg_ratio": null,
     "eps_ttm": null,
@@ -33,9 +33,9 @@
     "profit_margin": null,
     "short_ratio": null,
     "beta": null,
-    "return_5d_pct": 0.33,
-    "return_1mo_pct": 0.37,
-    "return_3mo_pct": 11.2,
+    "return_5d_pct": 3.4,
+    "return_1mo_pct": 2.25,
+    "return_3mo_pct": 13.73,
     "_source": "yfinance"
   },
   "signals": [
@@ -47,54 +47,61 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (628.81) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (629.82) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (93.9% of range)"
     },
     {
       "name": "sentiment",
       "score": 1.0,
-      "note": "Bullish news sentiment (100.0)"
+      "note": "Bullish news sentiment (60.0)"
     }
   ],
   "reasons": [
     "Bullish news sentiment detected"
   ],
-  "warnings": [],
+  "warnings": [
+    "Price at 93.9% of 52-week range \u2014 limited upside"
+  ],
   "sentiment": {
-    "score": 100.0,
+    "score": 60.0,
     "label": "BULLISH",
-    "bullish": 3,
-    "bearish": 0,
-    "total_mentions": 3
+    "bullish": 4,
+    "bearish": 1,
+    "total_mentions": 5
   },
   "news": [
     {
-      "title": "ETF League Tables: Vanguard Gains, BlackRock Sheds Assets",
-      "published": "Fri, 12 Jun 2026 21:00:04 +0000",
-      "url": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-vanguard-gains-blackrock-sheds-assets?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "title": "ETF League Tables: Vanguard, ARK Invest Lead Gains",
+      "published": "Tue, 16 Jun 2026 21:00:05 +0000",
+      "url": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-vanguard-ark-invest-lead-gains?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "VOO vs. SPY: Which S&P 500 ETF is The Better Bet?",
-      "published": "Fri, 12 Jun 2026 18:48:03 +0000",
-      "url": "https://www.fool.com/coverage/etfs/2026/06/12/voo-vs-spy-which-s-and-p-500-etf-is-the-better-bet/?.tsrc=rss",
+      "title": "Is Vanguard\u2019s S&P 500 Value ETF A Buy, Sell, Or Hold? | VOOV",
+      "published": "Tue, 16 Jun 2026 15:42:25 +0000",
+      "url": "https://247wallst.com/investing/2026/06/16/is-vanguards-sp-500-value-etf-a-buy-sell-or-hold-voov/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Leaving Las Vegas: How to Beat the House as the Stock Market Turns Into a Casino",
-      "published": "Fri, 12 Jun 2026 16:58:17 +0000",
-      "url": "https://www.barchart.com/story/news/2444431/leaving-las-vegas-how-to-beat-the-house-as-the-stock-market-turns-into-a-casino?.tsrc=rss",
+      "title": "VOOG vs. MGK: Which Vanguard Growth ETF Is a Better Buy?",
+      "published": "Tue, 16 Jun 2026 15:35:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/16/voog-vs-mgk-which-vanguard-growth-etf-is-a-better/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "The S&P 500 ETF Nobody Talks About That Could Beat VOO",
-      "published": "Fri, 12 Jun 2026 15:35:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/12/sp-500-etf-nobody-talks-about-could-beat-voo-sphq/?.tsrc=rss",
+      "title": "Pacer\u2019s Dividend Multiplier ETF Pays 400% of the S&P 500\u2019s Dividend, With a Catch Most Investors Don\u2019t Notice",
+      "published": "Tue, 16 Jun 2026 13:48:05 +0000",
+      "url": "https://247wallst.com/investing/2026/06/16/pacers-dividend-multiplier-etf-pays-400-of-the-sp-500s-dividend-with-a-catch-most-investors-dont-notice/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Elon Musk Only Owns 46% Of SpaceX \u2014 Who Has The Rest?",
-      "published": "Fri, 12 Jun 2026 12:00:18 +0000",
-      "url": "https://finance.yahoo.com/m/9b783e04-3d7a-3e4a-b617-2befdac40062/elon-musk-only-owns-46%25-of.html?.tsrc=rss",
+      "title": "This Vanguard ETF Is Quietly Outpacing the S&P 500 in 2026 and Costs Just 0.04 Percent",
+      "published": "Tue, 16 Jun 2026 13:47:22 +0000",
+      "url": "https://247wallst.com/investing/2026/06/16/this-vanguard-etf-is-quietly-outpacing-the-sp-500-in-2026-and-costs-just-0-04-percent/?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -102,6 +109,6 @@
     "https://finance.yahoo.com/quote/VOO"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 681.95,
+  "paper_trade_price": 689.75,
   "asset_type": "stock"
 }
