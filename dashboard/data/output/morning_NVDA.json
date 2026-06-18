@@ -2,29 +2,29 @@
   "task_id": "",
   "subject": "NVDA analysis",
   "ticker": "NVDA",
-  "timestamp": "2026-06-17T12:31:27.844166+00:00",
+  "timestamp": "2026-06-18T12:30:57.793556+00:00",
   "recommendation": "BUY",
-  "confidence": 87,
-  "summary": "NVDA @ $207.41 \u2014 BUY (87% confidence) | Bullish: Bullish news sentiment detected | RSI: 46.67 | P/E: 31.762634 | Strategy: GROWTH",
-  "signal_score": 0.714,
+  "confidence": 86,
+  "summary": "NVDA @ $204.65 \u2014 BUY (86% confidence) | Bullish: Bullish news sentiment detected | RSI: 43.78 | P/E: 31.339968 | Strategy: GROWTH",
+  "signal_score": 0.667,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "NVDA",
-    "current_price": 207.41,
-    "previous_close": 212.45,
-    "day_change_pct": -2.37,
-    "sma_20": 213.09,
-    "sma_50": 208.01,
-    "sma_200": 189.33,
-    "rsi_14": 46.67,
+    "current_price": 204.65,
+    "previous_close": 207.41,
+    "day_change_pct": -1.33,
+    "sma_20": 212.31,
+    "sma_50": 208.54,
+    "sma_200": 189.48,
+    "rsi_14": 43.78,
     "52_week_high": 236.54,
     "52_week_low": 142.03,
-    "price_vs_52w_pct": 69.2,
-    "volume_surge": 0.87,
-    "avg_volume": 163387936,
-    "market_cap": 5023677808640,
-    "pe_trailing": 31.762634,
-    "pe_forward": 16.296658,
+    "price_vs_52w_pct": 66.3,
+    "volume_surge": 0.83,
+    "avg_volume": 162935263,
+    "market_cap": 4956827418624,
+    "pe_trailing": 31.339968,
+    "pe_forward": 16.079798,
     "peg_ratio": 0.64,
     "eps_ttm": 6.53,
     "eps_forward": 12.72715,
@@ -33,26 +33,21 @@
     "profit_margin": 0.62966,
     "short_ratio": 1.71,
     "beta": 2.202,
-    "return_5d_pct": 3.49,
-    "return_1mo_pct": -5.87,
-    "return_3mo_pct": 15.11,
+    "return_5d_pct": -0.11,
+    "return_1mo_pct": -8.31,
+    "return_3mo_pct": 14.74,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
       "score": -0.5,
-      "note": "Negative 1mo momentum -5.87%"
-    },
-    {
-      "name": "3mo_momentum",
-      "score": 1.5,
-      "note": "Strong 3mo momentum +15.11%"
+      "note": "Negative 1mo momentum -8.31%"
     },
     {
       "name": "sma20",
       "score": -0.5,
-      "note": "Price below SMA20 (213.09)"
+      "note": "Price below SMA20 (212.31)"
     },
     {
       "name": "golden_cross",
@@ -62,17 +57,17 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (189.33) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (189.48) \u2014 confirmed uptrend"
     },
     {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 31.762634x"
+      "note": "Elevated P/E 31.339968x"
     },
     {
       "name": "pe_forward",
       "score": 1.0,
-      "note": "Forward P/E 16.296658x < trailing 31.762634x (expected growth)"
+      "note": "Forward P/E 16.079798x < trailing 31.339968x (expected growth)"
     },
     {
       "name": "peg",
@@ -102,39 +97,39 @@
   "sentiment": {
     "score": 100.0,
     "label": "BULLISH",
-    "bullish": 1,
+    "bullish": 5,
     "bearish": 0,
-    "total_mentions": 1
+    "total_mentions": 5
   },
   "news": [
     {
-      "title": "SpaceX's near $3 trillion rally comes with one big catch: Chart of the Day",
-      "published": "Wed, 17 Jun 2026 12:21:14 +0000",
-      "url": "https://finance.yahoo.com/markets/article/spacexs-near-3-trillion-rally-comes-with-one-big-catch-chart-of-the-day-122114608.html?.tsrc=rss",
+      "title": "What Happens to Social Security Benefits if the Trust Fund Runs Short in 2033?",
+      "published": "Thu, 18 Jun 2026 12:20:00 +0000",
+      "url": "https://www.fool.com/retirement/2026/06/18/social-security-benefits-if-trust-fund-runs-short/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Iron Mountain: High Yield and Reliable Revenue From the Largest Companies",
-      "published": "Wed, 17 Jun 2026 12:20:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/17/iron-mountain-high-yield-and-reliable-revenue-from/?.tsrc=rss",
+      "title": "Nvidia Supplier Advances Next AI Memory",
+      "published": "Thu, 18 Jun 2026 12:18:54 +0000",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-supplier-advances-next-ai-121854288.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Nvidia Stock Is Suffering as Competition Begins to Bite",
-      "published": "Wed, 17 Jun 2026 12:16:00 +0000",
-      "url": "https://finance.yahoo.com/m/036e13d9-bf92-308b-9a6e-1d5c7c62f95c/nvidia-stock-is-suffering-as.html?.tsrc=rss",
+      "title": "Nvidia Claims No. 1 Spot in $10 Billion AI Networking Market",
+      "published": "Thu, 18 Jun 2026 12:15:40 +0000",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-claims-no-1-spot-121540877.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "5 stunning stats about the world's most valuable stocks",
-      "published": "Wed, 17 Jun 2026 12:15:15 +0000",
-      "url": "https://finance.yahoo.com/markets/article/5-stunning-stats-about-the-worlds-most-valuable-stocks-121515219.html?.tsrc=rss",
+      "title": "Brookfield Asset Management vs. Blackstone: Which Financial Stock Is a Better Buy in 2026?",
+      "published": "Thu, 18 Jun 2026 12:15:01 +0000",
+      "url": "https://www.fool.com/coverage/better-buy/2026/06/18/brookfield-asset-management-vs-blackstone-which-financial-stock-is-a-better-buy-in-2026/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Could Lululemon Stock Go From Bad to Worse Amid a 6.5% Increase in Wholesale Prices?",
-      "published": "Wed, 17 Jun 2026 12:11:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/17/could-lululemon-stock-worse-amid-increase-prices/?.tsrc=rss",
+      "title": "3 Top Artificial Intelligence (AI) Stocks to Buy With $1,000 Right Now",
+      "published": "Thu, 18 Jun 2026 12:10:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/18/3-top-artificial-intelligence-ai-stocks-to-buy-wit/?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -142,6 +137,6 @@
     "https://finance.yahoo.com/quote/NVDA"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 207.41,
+  "paper_trade_price": 204.65,
   "asset_type": "stock"
 }

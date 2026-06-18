@@ -2,29 +2,29 @@
   "task_id": "",
   "subject": "RACE analysis",
   "ticker": "RACE",
-  "timestamp": "2026-06-17T12:31:39.687383+00:00",
-  "recommendation": "SELL",
-  "confidence": 75,
-  "summary": "RACE @ $nan \u2014 SELL (75% confidence) | Bullish: Bullish news sentiment detected | RSI: 65.43 | P/E: 35.103546 | Strategy: GROWTH",
-  "signal_score": -0.429,
+  "timestamp": "2026-06-18T12:31:09.841468+00:00",
+  "recommendation": "HOLD",
+  "confidence": 54,
+  "summary": "RACE @ $354.28 \u2014 HOLD (54% confidence) | Bullish: Bullish news sentiment detected | RSI: 53.37 | P/E: 33.9674 | Strategy: GROWTH",
+  "signal_score": -0.2,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "RACE",
-    "current_price": NaN,
-    "previous_close": 369.06,
-    "day_change_pct": NaN,
-    "sma_20": NaN,
-    "sma_50": NaN,
-    "sma_200": NaN,
-    "rsi_14": 65.43,
+    "current_price": 354.28,
+    "previous_close": 366.13,
+    "day_change_pct": -3.24,
+    "sma_20": 349.96,
+    "sma_50": 346.23,
+    "sma_200": 375.33,
+    "rsi_14": 53.37,
     "52_week_high": 519.1,
     "52_week_low": 312.51,
-    "price_vs_52w_pct": NaN,
-    "volume_surge": 0.79,
-    "avg_volume": 660217,
-    "market_cap": 64457199616,
-    "pe_trailing": 35.103546,
-    "pe_forward": 29.437408,
+    "price_vs_52w_pct": 20.2,
+    "volume_surge": 0.83,
+    "avg_volume": 659906,
+    "market_cap": 62371004416,
+    "pe_trailing": 33.9674,
+    "pe_forward": 28.48465,
     "peg_ratio": 4.04,
     "eps_ttm": 10.43,
     "eps_forward": 12.437576,
@@ -33,21 +33,31 @@
     "profit_margin": 0.22187,
     "short_ratio": 4.79,
     "beta": 0.595,
-    "return_5d_pct": NaN,
-    "return_1mo_pct": NaN,
-    "return_3mo_pct": NaN,
+    "return_5d_pct": -3.1,
+    "return_1mo_pct": 3.65,
+    "return_3mo_pct": 11.64,
     "_source": "yfinance"
   },
   "signals": [
     {
-      "name": "rsi",
+      "name": "day_spike",
+      "score": -0.5,
+      "note": "Big daily drop -3.24%"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
       "score": -1.0,
-      "note": "RSI overbought 65.43"
+      "note": "Price below SMA200 (375.33) \u2014 confirmed downtrend"
     },
     {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 35.103546x"
+      "note": "Elevated P/E 33.9674x"
     },
     {
       "name": "peg",
@@ -67,11 +77,17 @@
   "sentiment": {
     "score": 100.0,
     "label": "BULLISH",
-    "bullish": 6,
+    "bullish": 4,
     "bearish": 0,
-    "total_mentions": 6
+    "total_mentions": 4
   },
   "news": [
+    {
+      "title": "Ferrari nudges buyers toward mid-six-figure Luce EV",
+      "published": "Wed, 17 Jun 2026 20:25:00 +0000",
+      "url": "https://finance.yahoo.com/video/ferrari-nudges-buyers-toward-mid-202500048.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
     {
       "title": "Morgan Stanley upgrades Ferrari despite controversial EV",
       "published": "Tue, 16 Jun 2026 13:46:10 +0000",
@@ -95,18 +111,12 @@
       "published": "Mon, 15 Jun 2026 13:42:48 +0000",
       "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-upgraded-accenture-downgraded-wall-134248909.html?.tsrc=rss",
       "source": "Yahoo Finance"
-    },
-    {
-      "title": "Morgan Stanley Says Ferrari's Selloff Has Gone Too Far",
-      "published": "Mon, 15 Jun 2026 13:32:16 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-says-ferraris-selloff-133216396.html?.tsrc=rss",
-      "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/RACE"
   ],
-  "paper_trade_signal": "SELL",
-  "paper_trade_price": NaN,
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 354.28,
   "asset_type": "stock"
 }

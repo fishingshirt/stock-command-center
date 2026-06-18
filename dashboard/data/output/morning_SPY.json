@@ -2,28 +2,28 @@
   "task_id": "",
   "subject": "SPY analysis",
   "ticker": "SPY",
-  "timestamp": "2026-06-17T12:32:39.957622+00:00",
+  "timestamp": "2026-06-18T12:32:09.722383+00:00",
   "recommendation": "BUY",
-  "confidence": 82,
-  "summary": "SPY @ $750.33 \u2014 BUY (82% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 94.0% of 52-week range \u2014 limited upside | RSI: 49.92 | P/E: 26.87267 | Strategy: GROWTH",
-  "signal_score": 0.5,
+  "confidence": 95,
+  "summary": "SPY @ $740.96 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 42.54 | P/E: 26.537086 | Strategy: GROWTH",
+  "signal_score": 1.0,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "SPY",
-    "current_price": 750.33,
-    "previous_close": 754.83,
-    "day_change_pct": -0.6,
-    "sma_20": 746.44,
-    "sma_50": 726.61,
-    "sma_200": 685.18,
-    "rsi_14": 49.92,
+    "current_price": 740.96,
+    "previous_close": 750.33,
+    "day_change_pct": -1.25,
+    "sma_20": 746.8,
+    "sma_50": 728.24,
+    "sma_200": 685.68,
+    "rsi_14": 42.54,
     "52_week_high": 760.4,
     "52_week_low": 591.89,
-    "price_vs_52w_pct": 94.0,
-    "volume_surge": 1.04,
-    "avg_volume": 63666117,
+    "price_vs_52w_pct": 88.5,
+    "volume_surge": 1.12,
+    "avg_volume": 63725417,
     "market_cap": null,
-    "pe_trailing": 26.87267,
+    "pe_trailing": 26.537086,
     "pe_forward": null,
     "peg_ratio": null,
     "eps_ttm": null,
@@ -33,9 +33,9 @@
     "profit_margin": null,
     "short_ratio": null,
     "beta": null,
-    "return_5d_pct": 3.43,
-    "return_1mo_pct": 2.26,
-    "return_3mo_pct": 13.75,
+    "return_5d_pct": 0.43,
+    "return_1mo_pct": -0.04,
+    "return_3mo_pct": 12.61,
     "_source": "yfinance"
   },
   "signals": [
@@ -47,12 +47,7 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (685.18) \u2014 confirmed uptrend"
-    },
-    {
-      "name": "52w",
-      "score": -1.0,
-      "note": "Near 52-week high (94.0% of range)"
+      "note": "Price well above SMA200 (685.68) \u2014 confirmed uptrend"
     },
     {
       "name": "sentiment",
@@ -63,45 +58,43 @@
   "reasons": [
     "Bullish news sentiment detected"
   ],
-  "warnings": [
-    "Price at 94.0% of 52-week range \u2014 limited upside"
-  ],
+  "warnings": [],
   "sentiment": {
     "score": 100.0,
     "label": "BULLISH",
-    "bullish": 3,
+    "bullish": 1,
     "bearish": 0,
-    "total_mentions": 3
+    "total_mentions": 1
   },
   "news": [
     {
-      "title": "Stock Market Today: Dow Waffles Ahead Of Fed Decision, Warsh Remarks; SpaceX Rally Continues (Live Coverage)",
-      "published": "Wed, 17 Jun 2026 12:18:47 +0000",
-      "url": "https://finance.yahoo.com/m/e7cfae4f-5942-3260-a2fa-e4ec522cb757/stock-market-today%3A-dow.html?.tsrc=rss",
+      "title": "Stock Market Today: Dow Brushes Off Fed, Rises Ahead Of Jobless Claims; Trump Spurs Intel Shares (Live Coverage)",
+      "published": "Thu, 18 Jun 2026 12:06:18 +0000",
+      "url": "https://finance.yahoo.com/m/7d9d2b46-4a95-3f5e-8492-d6e8307ce329/stock-market-today%3A-dow.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Tech ETFs Are Doing Something Unprecedented Right Now. Should Investors Buy or Wait?",
-      "published": "Wed, 17 Jun 2026 11:35:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/17/tech-etf-doing-unprecedented-invest-buy-vgt/?.tsrc=rss",
+      "title": "\u2018Forget AI, Fed Is The Story Now\u2019 \u2013 'Bond King' Jeffrey Gundlach Says Kevin Warsh Faces A 1970s-Style Inflation Challenge",
+      "published": "Thu, 18 Jun 2026 07:19:17 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/jeffrey-gundlach-kevin-warsh-inflation-warning/cZKjvy6R7et?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "S&P 500, Nasdaq, Dow Futures Edge Higher Ahead Of Fed Rate Decision: INTC, SNAP, SOFI, RUM In Focus",
-      "published": "Wed, 17 Jun 2026 00:49:38 +0000",
-      "url": "https://stocktwits.com/news-articles/markets/equity/sp500-nasdaq-dow-futures-edge-higher-ahead-of-fed-rate-decision/cZK0WgFR74u?.tsrc=rss",
+      "title": "Dow, S&P 500, Nasdaq Futures Climb On US-Iran Agreement Despite Hawkish Fed Outlook: RUM, INTC, NFLX, RXT In Focus",
+      "published": "Thu, 18 Jun 2026 02:19:52 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dow-sp500-nasdaq-futures-climb-on-us-iran-agreement-despite-hawkish-fed-outlook/cZKjFzPR7e0?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Target Hiked Its Dividend by 1.8%. It\u2019s Not Enough to Change the Thesis for TGT Stock.",
-      "published": "Tue, 16 Jun 2026 23:30:02 +0000",
-      "url": "https://www.barchart.com/story/news/2504759/target-hiked-its-dividend-by-1-8-its-not-enough-to-change-the-thesis-for-tgt-stock?.tsrc=rss",
+      "title": "ETF Fund Flows: A Beginner's Guide to the ETF.com Tool",
+      "published": "Wed, 17 Jun 2026 22:59:10 +0000",
+      "url": "http://www.etf.com/sections/etf-basics/etf-fund-flows-beginners-guide-etfcom-tool?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "ETF vs. Mutual Fund: Which Is Better for Your Money in 2026?",
-      "published": "Tue, 16 Jun 2026 22:11:01 +0000",
-      "url": "http://www.etf.com/sections/etf-basics/etf-vs-mutual-fund-which-better-your-money-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "title": "Which S&P 500 ETF Is the Better Buy: iShares' IVV or State Street's SPY?",
+      "published": "Wed, 17 Jun 2026 22:24:15 +0000",
+      "url": "https://www.fool.com/coverage/etfs/2026/06/17/which-s-and-p-500-etf-is-the-better-buy-ishares-ivv-or-state-street-s-spy/?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -109,6 +102,6 @@
     "https://finance.yahoo.com/quote/SPY"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 750.33,
+  "paper_trade_price": 740.96,
   "asset_type": "stock"
 }
