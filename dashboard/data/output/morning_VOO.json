@@ -2,28 +2,28 @@
   "task_id": "",
   "subject": "VOO analysis",
   "ticker": "VOO",
-  "timestamp": "2026-06-18T12:31:46.026982+00:00",
+  "timestamp": "2026-06-19T12:31:58.409291+00:00",
   "recommendation": "BUY",
-  "confidence": 95,
-  "summary": "VOO @ $681.41 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 42.52 | P/E: 26.593393 | Strategy: GROWTH",
-  "signal_score": 1.0,
+  "confidence": 85,
+  "summary": "VOO @ $688.11 \u2014 BUY (85% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 92.8% of 52-week range \u2014 limited upside | RSI: 45.84 | P/E: 26.854876 | Strategy: GROWTH",
+  "signal_score": 0.636,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "VOO",
-    "current_price": 681.41,
-    "previous_close": 689.75,
-    "day_change_pct": -1.21,
-    "sma_20": 686.6,
-    "sma_50": 669.49,
-    "sma_200": 630.29,
-    "rsi_14": 42.52,
+    "current_price": 688.11,
+    "previous_close": 681.41,
+    "day_change_pct": 0.98,
+    "sma_20": 686.92,
+    "sma_50": 670.82,
+    "sma_200": 630.82,
+    "rsi_14": 45.84,
     "52_week_high": 699.15,
     "52_week_low": 545.75,
-    "price_vs_52w_pct": 88.4,
-    "volume_surge": 1.59,
-    "avg_volume": 8662553,
+    "price_vs_52w_pct": 92.8,
+    "volume_surge": 1.51,
+    "avg_volume": 8781442,
     "market_cap": null,
-    "pe_trailing": 26.593393,
+    "pe_trailing": 26.854876,
     "pe_forward": null,
     "peg_ratio": null,
     "eps_ttm": null,
@@ -33,12 +33,17 @@
     "profit_margin": null,
     "short_ratio": null,
     "beta": null,
-    "return_5d_pct": 0.47,
-    "return_1mo_pct": -0.02,
-    "return_3mo_pct": 12.66,
+    "return_5d_pct": 0.9,
+    "return_1mo_pct": 0.77,
+    "return_3mo_pct": 15.44,
     "_source": "yfinance"
   },
   "signals": [
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +15.44%"
+    },
     {
       "name": "golden_cross",
       "score": 1.0,
@@ -47,54 +52,61 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (630.29) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (630.82) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (92.8% of range)"
     },
     {
       "name": "sentiment",
       "score": 1.0,
-      "note": "Bullish news sentiment (60.0)"
+      "note": "Bullish news sentiment (100.0)"
     }
   ],
   "reasons": [
     "Bullish news sentiment detected"
   ],
-  "warnings": [],
+  "warnings": [
+    "Price at 92.8% of 52-week range \u2014 limited upside"
+  ],
   "sentiment": {
-    "score": 60.0,
+    "score": 100.0,
     "label": "BULLISH",
-    "bullish": 4,
-    "bearish": 1,
-    "total_mentions": 5
+    "bullish": 3,
+    "bearish": 0,
+    "total_mentions": 3
   },
   "news": [
     {
-      "title": "Why the Invesco S&P 500 Equal Weight ETF (RSP) Might Be a Better Buy Than the Flagship Vanguard S&P 500 ETF (VOO) Right Now",
-      "published": "Thu, 18 Jun 2026 10:10:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/18/why-the-invesco-sp-500-equal-weight-etf-rsp-might/?.tsrc=rss",
+      "title": "VOO\u2019s 0.03% Fee Hides a Costlier Truth About Taxes and Concentration",
+      "published": "Fri, 19 Jun 2026 00:41:10 +0000",
+      "url": "https://247wallst.com/investing/2026/06/18/voos-0-03-fee-hides-a-costlier-truth-about-taxes-and-concentration/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Tech Stocks Just Did Something That Should Only Happen Once Every 4 Million Years",
-      "published": "Thu, 18 Jun 2026 09:50:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/18/tech-stocks-just-did-something-that-should-only-ha/?.tsrc=rss",
+      "title": "VOO vs. SCHD: Which Is the Smarter Buy When Inflation Is Running Hot?",
+      "published": "Thu, 18 Jun 2026 21:51:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/18/voo-vs-schd-which-is-smarter-buy-inflation-hot/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Is What's Inside VOO Worth The Price On The Label?",
-      "published": "Thu, 18 Jun 2026 00:49:32 +0000",
-      "url": "https://www.trefis.com/articles/603351/is-whats-inside-voo-worth-the-price-on-the-label/2026-06-17?.tsrc=rss",
+      "title": "ETF League Tables: VictoryShares Accumulates $2.6B",
+      "published": "Thu, 18 Jun 2026 21:00:06 +0000",
+      "url": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-victoryshares-accumulates-26b?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "VOO vs. IVV: Which Popular S&P 500 ETF Is the Better Buy for Investors?",
-      "published": "Wed, 17 Jun 2026 23:22:38 +0000",
-      "url": "https://www.fool.com/coverage/etfs/2026/06/17/voo-vs-ivv-which-popular-s-and-p-500-etf-is-the-better-buy-for-investors/?.tsrc=rss",
+      "title": "The Best ETFs to Buy for 2026 and Beyond",
+      "published": "Thu, 18 Jun 2026 17:47:35 +0000",
+      "url": "https://www.kiplinger.com/investing/etfs/best-etfs-to-buy?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "ETF Fund Flows: Profit-Taking Hits ARKK  VO Nets $4.8B",
-      "published": "Wed, 17 Jun 2026 21:00:05 +0000",
-      "url": "http://www.etf.com/sections/daily-etf-flows/etf-fund-flows-profit-taking-hits-arkk-vo-nets-48b?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "title": "The Vanguard S&P 500 ETF (VOO) Is Unstoppable -- but There's a Quiet Risk Many Investors Are Overlooking",
+      "published": "Thu, 18 Jun 2026 16:20:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/18/the-vanguard-sp-500-etf-voo-is-unstoppable-but-the/?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -102,6 +114,6 @@
     "https://finance.yahoo.com/quote/VOO"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 681.41,
+  "paper_trade_price": 688.11,
   "asset_type": "stock"
 }

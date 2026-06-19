@@ -2,28 +2,28 @@
   "task_id": "",
   "subject": "SPY analysis",
   "ticker": "SPY",
-  "timestamp": "2026-06-18T12:32:09.722383+00:00",
+  "timestamp": "2026-06-19T12:32:29.297990+00:00",
   "recommendation": "BUY",
-  "confidence": 95,
-  "summary": "SPY @ $740.96 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 42.54 | P/E: 26.537086 | Strategy: GROWTH",
-  "signal_score": 1.0,
+  "confidence": 85,
+  "summary": "SPY @ $746.74 \u2014 BUY (85% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 91.9% of 52-week range \u2014 limited upside | RSI: 45.98 | P/E: 26.744093 | Strategy: GROWTH",
+  "signal_score": 0.636,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "SPY",
-    "current_price": 740.96,
-    "previous_close": 750.33,
-    "day_change_pct": -1.25,
-    "sma_20": 746.8,
-    "sma_50": 728.24,
-    "sma_200": 685.68,
-    "rsi_14": 42.54,
+    "current_price": 746.74,
+    "previous_close": 739.06,
+    "day_change_pct": 1.04,
+    "sma_20": 745.25,
+    "sma_50": 727.82,
+    "sma_200": 684.49,
+    "rsi_14": 45.98,
     "52_week_high": 760.4,
     "52_week_low": 591.89,
-    "price_vs_52w_pct": 88.5,
-    "volume_surge": 1.12,
-    "avg_volume": 63725417,
+    "price_vs_52w_pct": 91.9,
+    "volume_surge": 1.11,
+    "avg_volume": 63244707,
     "market_cap": null,
-    "pe_trailing": 26.537086,
+    "pe_trailing": 26.744093,
     "pe_forward": null,
     "peg_ratio": null,
     "eps_ttm": null,
@@ -33,12 +33,17 @@
     "profit_margin": null,
     "short_ratio": null,
     "beta": null,
-    "return_5d_pct": 0.43,
-    "return_1mo_pct": -0.04,
-    "return_3mo_pct": 12.61,
+    "return_5d_pct": 0.93,
+    "return_1mo_pct": 0.8,
+    "return_3mo_pct": 15.43,
     "_source": "yfinance"
   },
   "signals": [
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +15.43%"
+    },
     {
       "name": "golden_cross",
       "score": 1.0,
@@ -47,7 +52,12 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (685.68) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (684.49) \u2014 confirmed uptrend"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (91.9% of range)"
     },
     {
       "name": "sentiment",
@@ -58,43 +68,45 @@
   "reasons": [
     "Bullish news sentiment detected"
   ],
-  "warnings": [],
+  "warnings": [
+    "Price at 91.9% of 52-week range \u2014 limited upside"
+  ],
   "sentiment": {
     "score": 100.0,
     "label": "BULLISH",
-    "bullish": 1,
+    "bullish": 2,
     "bearish": 0,
-    "total_mentions": 1
+    "total_mentions": 2
   },
   "news": [
     {
-      "title": "Stock Market Today: Dow Brushes Off Fed, Rises Ahead Of Jobless Claims; Trump Spurs Intel Shares (Live Coverage)",
-      "published": "Thu, 18 Jun 2026 12:06:18 +0000",
-      "url": "https://finance.yahoo.com/m/7d9d2b46-4a95-3f5e-8492-d6e8307ce329/stock-market-today%3A-dow.html?.tsrc=rss",
+      "title": "Why JEPI Investors Gave Up $3,379 in Five-Year Gains",
+      "published": "Fri, 19 Jun 2026 00:31:49 +0000",
+      "url": "https://247wallst.com/investing/2026/06/18/why-jepi-investors-gave-up-3379-in-five-year-gains/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "\u2018Forget AI, Fed Is The Story Now\u2019 \u2013 'Bond King' Jeffrey Gundlach Says Kevin Warsh Faces A 1970s-Style Inflation Challenge",
-      "published": "Thu, 18 Jun 2026 07:19:17 +0000",
-      "url": "https://stocktwits.com/news-articles/markets/equity/jeffrey-gundlach-kevin-warsh-inflation-warning/cZKjvy6R7et?.tsrc=rss",
+      "title": "S&P 500, Nasdaq And Dow End Holiday-Shortened Week Higher As Investors Cheer US-Iran Peace Deal \u2014 SPCX, AMZN, ONDS, NFLX, TTWO In Focus",
+      "published": "Thu, 18 Jun 2026 22:07:48 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-and-dow-end-holiday-shortened-week-higher-as-investors-cheer-us-iran-peace-deal-spcx-amzn-onds-nflx-ttwo-in-focus/cZKk181R77v?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Dow, S&P 500, Nasdaq Futures Climb On US-Iran Agreement Despite Hawkish Fed Outlook: RUM, INTC, NFLX, RXT In Focus",
-      "published": "Thu, 18 Jun 2026 02:19:52 +0000",
-      "url": "https://stocktwits.com/news-articles/markets/equity/dow-sp500-nasdaq-futures-climb-on-us-iran-agreement-despite-hawkish-fed-outlook/cZKjFzPR7e0?.tsrc=rss",
+      "title": "ETF League Tables: VictoryShares Accumulates $2.6B",
+      "published": "Thu, 18 Jun 2026 21:00:06 +0000",
+      "url": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-victoryshares-accumulates-26b?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "ETF Fund Flows: A Beginner's Guide to the ETF.com Tool",
-      "published": "Wed, 17 Jun 2026 22:59:10 +0000",
-      "url": "http://www.etf.com/sections/etf-basics/etf-fund-flows-beginners-guide-etfcom-tool?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
+      "title": "Kevin Warsh Comments Send Shiver Down Investors\u2019 Spines. Would He Really \u2018Murder This Bull Market?\u2019",
+      "published": "Thu, 18 Jun 2026 20:45:46 +0000",
+      "url": "https://247wallst.com/investing/2026/06/18/kevin-warsh-comments-send-shiver-down-investors-spines-would-he-really-murder-this-bull-market/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Which S&P 500 ETF Is the Better Buy: iShares' IVV or State Street's SPY?",
-      "published": "Wed, 17 Jun 2026 22:24:15 +0000",
-      "url": "https://www.fool.com/coverage/etfs/2026/06/17/which-s-and-p-500-etf-is-the-better-buy-ishares-ivv-or-state-street-s-spy/?.tsrc=rss",
+      "title": "The VIX Isn\u2019t Broken, It\u2019s Just Being Outplayed",
+      "published": "Thu, 18 Jun 2026 20:06:56 +0000",
+      "url": "http://www.etf.com/sections/conferences/vix-isnt-broken-its-just-being-outplayed?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -102,6 +114,6 @@
     "https://finance.yahoo.com/quote/SPY"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 740.96,
+  "paper_trade_price": 746.74,
   "asset_type": "stock"
 }

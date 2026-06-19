@@ -2,30 +2,30 @@
   "task_id": "",
   "subject": "RACE analysis",
   "ticker": "RACE",
-  "timestamp": "2026-06-18T12:31:09.841468+00:00",
-  "recommendation": "HOLD",
-  "confidence": 54,
-  "summary": "RACE @ $354.28 \u2014 HOLD (54% confidence) | Bullish: Bullish news sentiment detected | RSI: 53.37 | P/E: 33.9674 | Strategy: GROWTH",
-  "signal_score": -0.2,
+  "timestamp": "2026-06-19T12:31:16.670371+00:00",
+  "recommendation": "BUY",
+  "confidence": 81,
+  "summary": "RACE @ $362.13 \u2014 BUY (81% confidence) | Bullish: Bullish news sentiment detected | RSI: 59.16 | P/E: 34.72004 | Strategy: GROWTH",
+  "signal_score": 0.455,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "RACE",
-    "current_price": 354.28,
-    "previous_close": 366.13,
-    "day_change_pct": -3.24,
-    "sma_20": 349.96,
-    "sma_50": 346.23,
-    "sma_200": 375.33,
-    "rsi_14": 53.37,
+    "current_price": 362.13,
+    "previous_close": 354.28,
+    "day_change_pct": 2.22,
+    "sma_20": 350.97,
+    "sma_50": 346.53,
+    "sma_200": 374.71,
+    "rsi_14": 59.16,
     "52_week_high": 519.1,
     "52_week_low": 312.51,
-    "price_vs_52w_pct": 20.2,
-    "volume_surge": 0.83,
-    "avg_volume": 659906,
-    "market_cap": 62371004416,
-    "pe_trailing": 33.9674,
-    "pe_forward": 28.48465,
-    "peg_ratio": 4.04,
+    "price_vs_52w_pct": 24.0,
+    "volume_surge": 0.77,
+    "avg_volume": 649373,
+    "market_cap": 63752998912,
+    "pe_trailing": 34.72004,
+    "pe_forward": 29.1158,
+    "peg_ratio": 4.0,
     "eps_ttm": 10.43,
     "eps_forward": 12.437576,
     "revenue_growth": 0.032,
@@ -33,16 +33,21 @@
     "profit_margin": 0.22187,
     "short_ratio": 4.79,
     "beta": 0.595,
-    "return_5d_pct": -3.1,
+    "return_5d_pct": 2.03,
     "return_1mo_pct": 3.65,
-    "return_3mo_pct": 11.64,
+    "return_3mo_pct": 16.43,
     "_source": "yfinance"
   },
   "signals": [
     {
-      "name": "day_spike",
-      "score": -0.5,
-      "note": "Big daily drop -3.24%"
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +16.43%"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (350.97)"
     },
     {
       "name": "golden_cross",
@@ -50,19 +55,14 @@
       "note": "SMA20 > SMA50 (short-term uptrend)"
     },
     {
-      "name": "sma200",
-      "score": -1.0,
-      "note": "Price below SMA200 (375.33) \u2014 confirmed downtrend"
-    },
-    {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 33.9674x"
+      "note": "Elevated P/E 34.72004x"
     },
     {
       "name": "peg",
       "score": -1.0,
-      "note": "PEG 4.04 > 2.0 \u2014 expensive growth"
+      "note": "PEG 4.0 > 2.0 \u2014 expensive growth"
     },
     {
       "name": "sentiment",
@@ -77,11 +77,29 @@
   "sentiment": {
     "score": 100.0,
     "label": "BULLISH",
-    "bullish": 4,
+    "bullish": 2,
     "bearish": 0,
-    "total_mentions": 4
+    "total_mentions": 2
   },
   "news": [
+    {
+      "title": "The Growth Story Behind Furniture Maker Poltrona Frau\u2019s Bespoke Car Division",
+      "published": "Thu, 18 Jun 2026 20:05:32 +0000",
+      "url": "https://wwd.com/home-design/interior-design/poltrona-frau-luxury-car-interiors-growth-story-1239009187/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "VLVLY vs. RACE: Which Stock Is the Better Value Option?",
+      "published": "Thu, 18 Jun 2026 15:40:02 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vlvly-vs-race-stock-better-154002085.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "duPont REGISTRY Live Sets All-Time Online Auction Record with $13M Ferrari Enzo",
+      "published": "Thu, 18 Jun 2026 14:22:00 +0000",
+      "url": "https://finance.yahoo.com/media-advertising/articles/dupont-registry-live-sets-time-142200102.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
     {
       "title": "Ferrari nudges buyers toward mid-six-figure Luce EV",
       "published": "Wed, 17 Jun 2026 20:25:00 +0000",
@@ -93,30 +111,12 @@
       "published": "Tue, 16 Jun 2026 13:46:10 +0000",
       "url": "https://finance.yahoo.com/video/morgan-stanley-upgrades-ferrari-despite-controversial-ev-134610265.html?.tsrc=rss",
       "source": "Yahoo Finance"
-    },
-    {
-      "title": "/C O R R E C T I O N -- Turo Inc./",
-      "published": "Mon, 15 Jun 2026 19:16:00 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/turo-brings-italy-tournament-170000061.html?.tsrc=rss",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Is Ferrari N.V. (RACE) A Good Stock To Buy Now?",
-      "published": "Mon, 15 Jun 2026 14:54:03 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ferrari-n-v-race-good-145403044.html?.tsrc=rss",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Datadog upgraded, Accenture downgraded: Wall Street's top analyst calls",
-      "published": "Mon, 15 Jun 2026 13:42:48 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-upgraded-accenture-downgraded-wall-134248909.html?.tsrc=rss",
-      "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/RACE"
   ],
-  "paper_trade_signal": "HOLD",
-  "paper_trade_price": 354.28,
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 362.13,
   "asset_type": "stock"
 }
