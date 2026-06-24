@@ -80,14 +80,7 @@ Real-time market analysis for MTUM. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260624-006
-**Subject:** RACE analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-06-24
-**Started At:** 2026-06-24T14:01:17.577947+00:00
-**Details:**
-Real-time market analysis for RACE. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -20700,3 +20693,15 @@ Real-time market analysis for NVDA. Auto-generated watchlist task.
 **Summary:** Data unavailable for MTUM: Expecting value: line 1 column 1 (char 0)
 **Details:**
 Real-time market analysis for MTUM. Auto-generated watchlist task.
+
+### Task ID: 20260624-006
+**Subject:** RACE analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-06-24
+**Started At:** 2026-06-24T14:01:17.577947+00:00
+**Completed At:** 2026-06-24T14:02:07.810119+00:00
+**Result:** dashboard/data/output/20260624-006.json
+**Summary:** Data unavailable for SPY: Expecting value: line 1 column 1 (char 0)
+**Details:**
+Real-time market analysis for RACE. Auto-generated watchlist task.
