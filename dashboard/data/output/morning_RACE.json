@@ -2,67 +2,62 @@
   "task_id": "",
   "subject": "RACE analysis",
   "ticker": "RACE",
-  "timestamp": "2026-06-19T12:31:16.670371+00:00",
-  "recommendation": "BUY",
-  "confidence": 81,
-  "summary": "RACE @ $362.13 \u2014 BUY (81% confidence) | Bullish: Bullish news sentiment detected | RSI: 59.16 | P/E: 34.72004 | Strategy: GROWTH",
-  "signal_score": 0.455,
+  "timestamp": "2026-06-24T12:31:14.510866+00:00",
+  "recommendation": "HOLD",
+  "confidence": 52,
+  "summary": "RACE @ $344.87 \u2014 HOLD (52% confidence) | Bullish: Bullish news sentiment detected | RSI: 46.37 | P/E: 33.450047 | Strategy: GROWTH",
+  "signal_score": -0.111,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "RACE",
-    "current_price": 362.13,
-    "previous_close": 354.28,
-    "day_change_pct": 2.22,
-    "sma_20": 350.97,
-    "sma_50": 346.53,
-    "sma_200": 374.71,
-    "rsi_14": 59.16,
+    "current_price": 344.87,
+    "previous_close": 348.42,
+    "day_change_pct": -1.02,
+    "sma_20": 350.76,
+    "sma_50": 346.47,
+    "sma_200": 373.28,
+    "rsi_14": 46.37,
     "52_week_high": 519.1,
     "52_week_low": 312.51,
-    "price_vs_52w_pct": 24.0,
+    "price_vs_52w_pct": 15.7,
     "volume_surge": 0.77,
-    "avg_volume": 649373,
-    "market_cap": 63752998912,
-    "pe_trailing": 34.72004,
-    "pe_forward": 29.1158,
-    "peg_ratio": 4.0,
-    "eps_ttm": 10.43,
-    "eps_forward": 12.437576,
+    "avg_volume": 638829,
+    "market_cap": 60695330816,
+    "pe_trailing": 33.450047,
+    "pe_forward": 28.124826,
+    "peg_ratio": 3.85,
+    "eps_ttm": 10.31,
+    "eps_forward": 12.26212,
     "revenue_growth": 0.032,
     "earnings_growth": 0.013,
     "profit_margin": 0.22187,
     "short_ratio": 4.79,
     "beta": 0.595,
-    "return_5d_pct": 2.03,
-    "return_1mo_pct": 3.65,
-    "return_3mo_pct": 16.43,
+    "return_5d_pct": -5.81,
+    "return_1mo_pct": 4.53,
+    "return_3mo_pct": 8.33,
     "_source": "yfinance"
   },
   "signals": [
-    {
-      "name": "3mo_momentum",
-      "score": 1.5,
-      "note": "Strong 3mo momentum +16.43%"
-    },
-    {
-      "name": "sma20",
-      "score": 0.5,
-      "note": "Price above SMA20 (350.97)"
-    },
     {
       "name": "golden_cross",
       "score": 1.0,
       "note": "SMA20 > SMA50 (short-term uptrend)"
     },
     {
+      "name": "sma200",
+      "score": -1.0,
+      "note": "Price below SMA200 (373.28) \u2014 confirmed downtrend"
+    },
+    {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 34.72004x"
+      "note": "Elevated P/E 33.450047x"
     },
     {
       "name": "peg",
       "score": -1.0,
-      "note": "PEG 4.0 > 2.0 \u2014 expensive growth"
+      "note": "PEG 3.85 > 2.0 \u2014 expensive growth"
     },
     {
       "name": "sentiment",
@@ -77,46 +72,46 @@
   "sentiment": {
     "score": 100.0,
     "label": "BULLISH",
-    "bullish": 2,
+    "bullish": 1,
     "bearish": 0,
-    "total_mentions": 2
+    "total_mentions": 1
   },
   "news": [
     {
-      "title": "The Growth Story Behind Furniture Maker Poltrona Frau\u2019s Bespoke Car Division",
-      "published": "Thu, 18 Jun 2026 20:05:32 +0000",
-      "url": "https://wwd.com/home-design/interior-design/poltrona-frau-luxury-car-interiors-growth-story-1239009187/?.tsrc=rss",
+      "title": "FERRARI ANNOUNCES A CHANGE IN THE LEADERSHIP OF ITS MARKETING & COMMERCIAL DEPARTMENT",
+      "published": "Tue, 23 Jun 2026 14:32:00 +0000",
+      "url": "https://finance.yahoo.com/media-advertising/articles/ferrari-announces-change-leadership-marketing-143200812.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "VLVLY vs. RACE: Which Stock Is the Better Value Option?",
-      "published": "Thu, 18 Jun 2026 15:40:02 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vlvly-vs-race-stock-better-154002085.html?.tsrc=rss",
+      "title": "Mamatha Chamarthi, Former Stellantis C-Level Software Business Growth Auto Exec and AI Transformation Leader, Featured in Bloomberg and LA Times Coverage on Ferrari EV and the Future of Automotive Identity",
+      "published": "Tue, 23 Jun 2026 13:00:00 +0000",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mamatha-chamarthi-former-stellantis-c-130000846.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "duPont REGISTRY Live Sets All-Time Online Auction Record with $13M Ferrari Enzo",
-      "published": "Thu, 18 Jun 2026 14:22:00 +0000",
-      "url": "https://finance.yahoo.com/media-advertising/articles/dupont-registry-live-sets-time-142200102.html?.tsrc=rss",
+      "title": "Ferrari denies buying Luce EV is condition to access other models",
+      "published": "Mon, 22 Jun 2026 15:14:08 +0000",
+      "url": "https://finance.yahoo.com/video/ferrari-denies-buying-luce-ev-151408956.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Ferrari nudges buyers toward mid-six-figure Luce EV",
-      "published": "Wed, 17 Jun 2026 20:25:00 +0000",
-      "url": "https://finance.yahoo.com/video/ferrari-nudges-buyers-toward-mid-202500048.html?.tsrc=rss",
+      "title": "Himax Shares More Than Double, Founding Brothers Reach $1 Billion",
+      "published": "Mon, 22 Jun 2026 13:21:04 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/himax-shares-more-double-founding-132104231.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Morgan Stanley upgrades Ferrari despite controversial EV",
-      "published": "Tue, 16 Jun 2026 13:46:10 +0000",
-      "url": "https://finance.yahoo.com/video/morgan-stanley-upgrades-ferrari-despite-controversial-ev-134610265.html?.tsrc=rss",
+      "title": "Ferrari Rejects Claims Luce EV Purchase Is Required for Access to Limited-Edition Models",
+      "published": "Mon, 22 Jun 2026 12:41:16 +0000",
+      "url": "https://investorshub.advfn.com/market-news/article/30848/ferrari-rejects-claims-luce-ev-purchase-is-required-for-access-to-limited-edition-models?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/RACE"
   ],
-  "paper_trade_signal": "BUY",
-  "paper_trade_price": 362.13,
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 344.87,
   "asset_type": "stock"
 }

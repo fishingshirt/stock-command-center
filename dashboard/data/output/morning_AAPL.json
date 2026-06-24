@@ -2,47 +2,57 @@
   "task_id": "",
   "subject": "AAPL analysis",
   "ticker": "AAPL",
-  "timestamp": "2026-06-19T12:30:46.170905+00:00",
+  "timestamp": "2026-06-24T12:30:50.809535+00:00",
   "recommendation": "BUY",
-  "confidence": 85,
-  "summary": "AAPL @ $298.01 \u2014 BUY (85% confidence) | Bullish: Bullish news sentiment detected | RSI: 39.07 | P/E: 36.078693 | Strategy: GROWTH",
-  "signal_score": 0.625,
+  "confidence": 84,
+  "summary": "AAPL @ $294.3 \u2014 BUY (84% confidence) | Bullish: RSI 30.41 \u2014 approaching oversold; Bullish news sentiment detected | RSI: 30.41 | P/E: 35.586452 | Strategy: GROWTH",
+  "signal_score": 0.579,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "AAPL",
-    "current_price": 298.01,
-    "previous_close": 295.95,
-    "day_change_pct": 0.7,
-    "sma_20": 303.4,
-    "sma_50": 288.63,
-    "sma_200": 267.79,
-    "rsi_14": 39.07,
+    "current_price": 294.3,
+    "previous_close": 297.01,
+    "day_change_pct": -0.91,
+    "sma_20": 302.27,
+    "sma_50": 290.05,
+    "sma_200": 268.37,
+    "rsi_14": 30.41,
     "52_week_high": 317.4,
-    "52_week_low": 196.86,
-    "price_vs_52w_pct": 83.9,
-    "volume_surge": 1.06,
-    "avg_volume": 47950982,
-    "market_cap": 4376979046400,
-    "pe_trailing": 36.078693,
-    "pe_forward": 31.058918,
-    "peg_ratio": 2.41,
-    "eps_ttm": 8.26,
-    "eps_forward": 9.59499,
+    "52_week_low": 199.26,
+    "price_vs_52w_pct": 80.4,
+    "volume_surge": 1.12,
+    "avg_volume": 47479672,
+    "market_cap": 4322488745984,
+    "pe_trailing": 35.586452,
+    "pe_forward": 30.623997,
+    "peg_ratio": 2.4,
+    "eps_ttm": 8.27,
+    "eps_forward": 9.61011,
     "revenue_growth": 0.166,
     "earnings_growth": 0.218,
     "profit_margin": 0.27152002,
     "short_ratio": 3.12,
     "beta": 1.086,
-    "return_5d_pct": 2.36,
-    "return_1mo_pct": -2.29,
-    "return_3mo_pct": 20.28,
+    "return_5d_pct": -1.65,
+    "return_1mo_pct": -4.55,
+    "return_3mo_pct": 17.06,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "3mo_momentum",
       "score": 1.5,
-      "note": "Strong 3mo momentum +20.28%"
+      "note": "Strong 3mo momentum +17.06%"
+    },
+    {
+      "name": "rsi",
+      "score": 1.0,
+      "note": "RSI oversold 30.41"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (302.27)"
     },
     {
       "name": "golden_cross",
@@ -52,17 +62,17 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (267.79) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (268.37) \u2014 confirmed uptrend"
     },
     {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 36.078693x"
+      "note": "Elevated P/E 35.586452x"
     },
     {
       "name": "peg",
       "score": -1.0,
-      "note": "PEG 2.41 > 2.0 \u2014 expensive growth"
+      "note": "PEG 2.4 > 2.0 \u2014 expensive growth"
     },
     {
       "name": "revenue_growth",
@@ -77,49 +87,50 @@
     {
       "name": "sentiment",
       "score": 1.0,
-      "note": "Bullish news sentiment (60.0)"
+      "note": "Bullish news sentiment (100.0)"
     }
   ],
   "reasons": [
+    "RSI 30.41 \u2014 approaching oversold",
     "Bullish news sentiment detected"
   ],
   "warnings": [],
   "sentiment": {
-    "score": 60.0,
+    "score": 100.0,
     "label": "BULLISH",
-    "bullish": 4,
-    "bearish": 1,
-    "total_mentions": 5
+    "bullish": 2,
+    "bearish": 0,
+    "total_mentions": 2
   },
   "news": [
     {
-      "title": "US Tells ASML It\u2019s Concerned China May Have Top Chip Tool",
-      "published": "Fri, 19 Jun 2026 11:05:21 +0000",
-      "url": "https://finance.yahoo.com/technology/articles/us-tells-asml-concerned-china-032918446.html?.tsrc=rss",
+      "title": "Apple supplier Lingyi iTech prices $1.06 billion Hong Kong IPO to tap AI demand",
+      "published": "Wed, 24 Jun 2026 12:09:25 +0000",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-supplier-lingyi-itech-prices-120925248.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Just 4 \"Magnificent Seven\" Stocks Are Still More Valuable Than SpaceX. Could SpaceX Be a Better Buy Than All of Them?",
-      "published": "Fri, 19 Jun 2026 10:20:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/19/just-4-magnificent-seven-stocks-are-still-more-val/?.tsrc=rss",
+      "title": "Apple Stock Polishing New Buy Zone With All-Time High In Sight",
+      "published": "Wed, 24 Jun 2026 11:10:43 +0000",
+      "url": "https://finance.yahoo.com/m/496316ae-5f06-35b4-89cc-c5234b9528cb/apple-stock-polishing-new-buy.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "The Best Nasdaq Stocks to Buy for Long-Term Upside",
-      "published": "Fri, 19 Jun 2026 10:00:00 +0000",
-      "url": "https://www.kiplinger.com/investing/stocks/the-best-nasdaq-stocks-to-buy-for-long-term-upside?.tsrc=rss",
+      "title": "UK tribunal greenlights $4bn class action over Apple iCloud",
+      "published": "Wed, 24 Jun 2026 11:00:29 +0000",
+      "url": "https://www.verdict.co.uk/uk-greenlights-action-apple-icloud/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "3 Reasons to Buy Apple Stock",
-      "published": "Fri, 19 Jun 2026 07:05:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/19/3-reasons-to-buy-apple-stock/?.tsrc=rss",
+      "title": "Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",
+      "published": "Wed, 24 Jun 2026 10:48:38 +0000",
+      "url": "https://finance.yahoo.com/m/a1077ce3-f550-3d55-a667-1472e8e22b80/google-parent-alphabet-to.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Apple to work with Intel on US chip design and production, Trump says",
-      "published": "Fri, 19 Jun 2026 05:37:28 +0000",
-      "url": "https://www.foxbusiness.com/technology/apple-work-intel-us-chip-design-production-trump-says?.tsrc=rss",
+      "title": "2 Unpopular Stocks That Deserve a Second Chance and 1 Facing Headwinds",
+      "published": "Wed, 24 Jun 2026 10:00:25 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-unpopular-stocks-deserve-second-100025166.html?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -127,6 +138,6 @@
     "https://finance.yahoo.com/quote/AAPL"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 298.01,
+  "paper_trade_price": 294.3,
   "asset_type": "stock"
 }

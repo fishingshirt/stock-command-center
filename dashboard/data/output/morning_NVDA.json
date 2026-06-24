@@ -2,72 +2,82 @@
   "task_id": "",
   "subject": "NVDA analysis",
   "ticker": "NVDA",
-  "timestamp": "2026-06-19T12:30:59.899873+00:00",
+  "timestamp": "2026-06-24T12:31:02.604376+00:00",
   "recommendation": "BUY",
-  "confidence": 92,
-  "summary": "NVDA @ $210.69 \u2014 BUY (92% confidence) | RSI: 49.87 | P/E: 32.26493 | Strategy: GROWTH",
-  "signal_score": 0.882,
+  "confidence": 84,
+  "summary": "NVDA @ $200.04 \u2014 BUY (84% confidence) | Bullish: RSI 34.8 \u2014 approaching oversold; Bullish news sentiment detected | RSI: 34.8 | P/E: 30.68098 | Strategy: GROWTH",
+  "signal_score": 0.579,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "NVDA",
-    "current_price": 210.69,
-    "previous_close": 204.65,
-    "day_change_pct": 2.95,
-    "sma_20": 211.68,
-    "sma_50": 209.12,
-    "sma_200": 189.68,
-    "rsi_14": 49.87,
+    "current_price": 200.04,
+    "previous_close": 208.65,
+    "day_change_pct": -4.13,
+    "sma_20": 210.4,
+    "sma_50": 209.85,
+    "sma_200": 190.02,
+    "rsi_14": 34.8,
     "52_week_high": 236.54,
-    "52_week_low": 142.03,
-    "price_vs_52w_pct": 72.6,
-    "volume_surge": 0.92,
-    "avg_volume": 164054030,
-    "market_cap": 5103122644992,
-    "pe_trailing": 32.26493,
-    "pe_forward": 16.554375,
-    "peg_ratio": 0.65,
-    "eps_ttm": 6.53,
-    "eps_forward": 12.72715,
+    "52_week_low": 149.26,
+    "price_vs_52w_pct": 58.2,
+    "volume_surge": 0.95,
+    "avg_volume": 161916554,
+    "market_cap": 4845168754688,
+    "pe_trailing": 30.68098,
+    "pe_forward": 15.715283,
+    "peg_ratio": 0.64,
+    "eps_ttm": 6.52,
+    "eps_forward": 12.72901,
     "revenue_growth": 0.852,
     "earnings_growth": 2.145,
     "profit_margin": 0.62966,
     "short_ratio": 1.71,
     "beta": 2.202,
-    "return_5d_pct": 2.68,
-    "return_1mo_pct": -3.91,
-    "return_3mo_pct": 22.14,
+    "return_5d_pct": -3.55,
+    "return_1mo_pct": -6.79,
+    "return_3mo_pct": 14.31,
     "_source": "yfinance"
   },
   "signals": [
     {
-      "name": "3mo_momentum",
-      "score": 1.5,
-      "note": "Strong 3mo momentum +22.14%"
+      "name": "1mo_momentum",
+      "score": -0.5,
+      "note": "Negative 1mo momentum -6.79%"
     },
     {
-      "name": "golden_cross",
+      "name": "day_spike",
+      "score": -0.5,
+      "note": "Big daily drop -4.13%"
+    },
+    {
+      "name": "rsi",
       "score": 1.0,
-      "note": "SMA20 > SMA50 (short-term uptrend)"
+      "note": "RSI oversold 34.8"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (210.4)"
     },
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (189.68) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (190.02) \u2014 confirmed uptrend"
     },
     {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 32.26493x"
+      "note": "Elevated P/E 30.68098x"
     },
     {
       "name": "pe_forward",
       "score": 1.0,
-      "note": "Forward P/E 16.554375x < trailing 32.26493x (expected growth)"
+      "note": "Forward P/E 15.715283x < trailing 30.68098x (expected growth)"
     },
     {
       "name": "peg",
       "score": 1.0,
-      "note": "PEG 0.65 < 1.0 \u2014 growth cheap vs price"
+      "note": "PEG 0.64 < 1.0 \u2014 growth cheap vs price"
     },
     {
       "name": "revenue_growth",
@@ -78,46 +88,54 @@
       "name": "earnings_growth",
       "score": 1.0,
       "note": "Earnings growing 214% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
     }
   ],
-  "reasons": [],
+  "reasons": [
+    "RSI 34.8 \u2014 approaching oversold",
+    "Bullish news sentiment detected"
+  ],
   "warnings": [],
   "sentiment": {
-    "score": 0.0,
-    "label": "NEUTRAL",
-    "bullish": 1,
-    "bearish": 1,
-    "total_mentions": 2
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 5,
+    "bearish": 0,
+    "total_mentions": 5
   },
   "news": [
     {
-      "title": "Visa and Mastercard Reportedly Want to Run Stablecoins, Not Fight Them. Here's What It Means for Investors.",
-      "published": "Fri, 19 Jun 2026 12:24:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/19/visa-mastercard-stablecoins-what-means-investors/?.tsrc=rss",
+      "title": "Nvidia Chips Get Pricier Behind China's Firewall",
+      "published": "Wed, 24 Jun 2026 12:25:52 +0000",
+      "url": "https://finance.yahoo.com/technology/articles/nvidia-chips-pricier-behind-chinas-122552536.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "This Utility Wants Tech Companies to Help Pay for New Nuclear Energy Developments. Here's What It Could Mean for Nuclear Energy Stocks.",
-      "published": "Fri, 19 Jun 2026 12:20:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/19/this-utility-wants-technology-companies-to-help-fo/?.tsrc=rss",
+      "title": "The Beaten-Down Stock Wall Street Insiders Are Quietly Loading Up On",
+      "published": "Wed, 24 Jun 2026 12:20:52 +0000",
+      "url": "https://247wallst.com/investing/2026/06/24/the-beaten-down-stock-wall-street-insiders-are-quietly-loading-up-on/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Nvidia (NVDA) Announces Artificial Intelligence Partnerships with 6 Major South Korean Companies",
-      "published": "Fri, 19 Jun 2026 12:19:04 +0000",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-announces-artificial-intelligence-121904675.html?.tsrc=rss",
+      "title": "Jim Cramer Says to Buy UnitedHealth Group Stock. Is He Right?",
+      "published": "Wed, 24 Jun 2026 12:20:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/24/jim-cramer-buy-unitedhealth-group-stock-right/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Uber Technologies (UBER) is One of the Best Electric and Autonomous Driving Stocks, Here is Why",
-      "published": "Fri, 19 Jun 2026 12:18:55 +0000",
-      "url": "https://finance.yahoo.com/technology/ai/articles/uber-technologies-uber-one-best-121855043.html?.tsrc=rss",
+      "title": "5 High-Yielding S&P 500 Stocks Trading at Double-Digit Discounts Are Incredible Strong Buys Now",
+      "published": "Wed, 24 Jun 2026 12:17:16 +0000",
+      "url": "https://247wallst.com/investing/2026/06/24/5-high-yielding-sp-500-stocks-trading-at-double-digit-discounts-are-incredible-strong-buys-now/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "The Case for Holding VYM in Your Roth IRA",
-      "published": "Fri, 19 Jun 2026 12:09:24 +0000",
-      "url": "https://247wallst.com/investing/2026/06/19/the-case-for-holding-vym-in-your-roth-ira/?.tsrc=rss",
+      "title": "Here Are Wednesday\u2019s Best Wall Street Analyst Research Calls: Devon Energy, Flowserve, Klaviyo, Macerich, Merck,  Nucor, Take-Two Interactive Software, Twilio, and More",
+      "published": "Wed, 24 Jun 2026 12:15:12 +0000",
+      "url": "https://247wallst.com/investing/2026/06/24/here-are-wednesdays-best-wall-street-analyst-research-calls-devon-energy-flowserve-klaviyo-macerich-merck-nucor-take-two-interactive-software-twilio-and-more/?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -125,6 +143,6 @@
     "https://finance.yahoo.com/quote/NVDA"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 210.69,
+  "paper_trade_price": 200.04,
   "asset_type": "stock"
 }
