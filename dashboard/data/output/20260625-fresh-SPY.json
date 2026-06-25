@@ -1,0 +1,100 @@
+{
+  "task_id": "",
+  "subject": "SPY analysis",
+  "ticker": "SPY",
+  "timestamp": "2026-06-25T12:31:44.047634+00:00",
+  "recommendation": "BUY",
+  "confidence": 95,
+  "summary": "SPY @ $733.24 \u2014 BUY (95% confidence) | RSI: 40.66 | P/E: 26.2606 | Strategy: GROWTH",
+  "signal_score": 1.0,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "SPY",
+    "current_price": 733.24,
+    "previous_close": 733.58,
+    "day_change_pct": -0.05,
+    "sma_20": 744.15,
+    "sma_50": 731.24,
+    "sma_200": 685.95,
+    "rsi_14": 40.66,
+    "52_week_high": 760.4,
+    "52_week_low": 608.37,
+    "price_vs_52w_pct": 82.1,
+    "volume_surge": 1.14,
+    "avg_volume": 59183846,
+    "market_cap": null,
+    "pe_trailing": 26.2606,
+    "pe_forward": null,
+    "peg_ratio": null,
+    "eps_ttm": null,
+    "eps_forward": null,
+    "revenue_growth": null,
+    "earnings_growth": null,
+    "profit_margin": null,
+    "short_ratio": null,
+    "beta": null,
+    "return_5d_pct": -0.79,
+    "return_1mo_pct": -2.04,
+    "return_3mo_pct": 11.92,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (685.95) \u2014 confirmed uptrend"
+    }
+  ],
+  "reasons": [],
+  "warnings": [],
+  "sentiment": {
+    "score": 20.0,
+    "label": "NEUTRAL",
+    "bullish": 3,
+    "bearish": 2,
+    "total_mentions": 5
+  },
+  "news": [
+    {
+      "title": "Stock Market Today: Dow Rises Ahead Of Key Inflation Data; Micron Rockets On Earnings News (Live Coverage)",
+      "published": "Thu, 25 Jun 2026 12:08:33 +0000",
+      "url": "https://finance.yahoo.com/m/a73445f1-297d-3bcf-aba0-9d071c23697c/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Cost Conscious? Vanguard S&P 500 ETF Tops SPDR Rival",
+      "published": "Thu, 25 Jun 2026 12:05:01 +0000",
+      "url": "https://www.fool.com/coverage/etfs/2026/06/25/cost-conscious-vanguard-s-and-p-500-etf-tops-spdr-rival/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Three Index ETFs Where You Can Sell Your Own 0DTE Covered Calls for Daily Premium Income",
+      "published": "Thu, 25 Jun 2026 10:30:51 +0000",
+      "url": "https://247wallst.com/investing/2026/06/25/three-index-etfs-where-you-can-sell-your-own-0dte-covered-calls-for-daily-premium-income/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nasdaq, S&P 500 Futures Jump As Micron, Qualcomm Reignite AI Rally, All Eyes On PCE Data: Why SPCX, BABA, BB, FRMI, WEN, ADTX Are In Focus",
+      "published": "Thu, 25 Jun 2026 08:32:18 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-mu-qualcomm-ai-rally-pce-inflation-bb-frmi-wen-adtx-stocks/cZ1G9x1R7QN?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Nasdaq, S&P 500, Dow Futures Rise As Micron, Qualcomm Calm AI Jitters: Why WEN, SPCX, NVDA Stocks Are Also In Focus",
+      "published": "Thu, 25 Jun 2026 01:59:07 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-dow-futures-rise-as-micron-qualcomm-calm-ai-jitters/cZ1GGWuR7Q7?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/SPY"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 733.24,
+  "asset_type": "stock"
+}

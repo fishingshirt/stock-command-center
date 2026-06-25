@@ -1,0 +1,122 @@
+{
+  "task_id": "",
+  "subject": "TTWO analysis",
+  "ticker": "TTWO",
+  "timestamp": "2026-06-25T12:31:27.387729+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 68,
+  "summary": "TTWO @ $235.77 \u2014 ACCUMULATE (68% confidence) | Bullish: Bullish news sentiment detected | RSI: 69.72 | Strategy: GROWTH",
+  "signal_score": 0.333,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "TTWO",
+    "current_price": 235.77,
+    "previous_close": 242.64,
+    "day_change_pct": -2.83,
+    "sma_20": 222.35,
+    "sma_50": 222.29,
+    "sma_200": 230.87,
+    "rsi_14": 69.72,
+    "52_week_high": 264.79,
+    "52_week_low": 187.63,
+    "price_vs_52w_pct": 62.4,
+    "volume_surge": 1.92,
+    "avg_volume": 2252535,
+    "market_cap": 43774627840,
+    "pe_trailing": null,
+    "pe_forward": 23.632868,
+    "peg_ratio": 3.35,
+    "eps_ttm": -1.63,
+    "eps_forward": 9.97636,
+    "revenue_growth": 0.061,
+    "earnings_growth": null,
+    "profit_margin": -0.0448,
+    "short_ratio": 3.05,
+    "beta": 0.982,
+    "return_5d_pct": 3.39,
+    "return_1mo_pct": 7.92,
+    "return_3mo_pct": 22.13,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +7.92%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +22.13%"
+    },
+    {
+      "name": "rsi",
+      "score": -1.0,
+      "note": "RSI overbought 69.72"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (222.35)"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 3.35 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 3,
+    "bearish": 0,
+    "total_mentions": 3
+  },
+  "news": [
+    {
+      "title": "TTWO Stock Climbs After GTA 6 Preorders Go Live \u2013 Retail Fans Debate Discless Physical Edition",
+      "published": "Thu, 25 Jun 2026 10:13:35 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/ttwo-stock-climbs-after-gta-6-preorders-go-live-retail-fans-debate-disc-less-physical-edition/cZ1GXVYR7Qq?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Take-Two Stock Nabs Fresh Buy Rating Ahead Of Big Game Preorders",
+      "published": "Wed, 24 Jun 2026 22:19:03 +0000",
+      "url": "https://finance.yahoo.com/m/17f93ef8-87dd-38e1-ba14-b10c9ff9c6c5/take-two-stock-nabs-fresh-buy.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Take-Two\u2019s real GTA 6 jackpot may not be the game itself",
+      "published": "Wed, 24 Jun 2026 21:33:00 +0000",
+      "url": "https://www.thestreet.com/investing/take-two-gta-6-jackpot-not-game-but-online-repeat-spending?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Grand Theft Auto\u2019s New Game Won\u2019t Come With a Disc. That\u2019s a Big Deal.",
+      "published": "Wed, 24 Jun 2026 19:30:00 +0000",
+      "url": "https://finance.yahoo.com/m/9a92e8d9-1560-3ed0-823a-856f830c067e/grand-theft-auto%E2%80%99s-new-game.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "GTA VI Price Set at $80 as Preorders Open",
+      "published": "Wed, 24 Jun 2026 17:38:22 +0000",
+      "url": "https://finance.yahoo.com/media-advertising/articles/gta-vi-price-set-80-173822958.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/TTWO"
+  ],
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 235.77,
+  "asset_type": "stock"
+}

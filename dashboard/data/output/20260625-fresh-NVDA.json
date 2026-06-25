@@ -1,0 +1,132 @@
+{
+  "task_id": "",
+  "subject": "NVDA analysis",
+  "ticker": "NVDA",
+  "timestamp": "2026-06-25T12:31:19.492155+00:00",
+  "recommendation": "BUY",
+  "confidence": 84,
+  "summary": "NVDA @ $199.0 \u2014 BUY (84% confidence) | Bullish: Bullish news sentiment detected | RSI: 38.44 | P/E: 30.474731 | Strategy: GROWTH",
+  "signal_score": 0.571,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "NVDA",
+    "current_price": 199.0,
+    "previous_close": 200.04,
+    "day_change_pct": -0.52,
+    "sma_20": 209.62,
+    "sma_50": 210.05,
+    "sma_200": 190.18,
+    "rsi_14": 38.44,
+    "52_week_high": 236.54,
+    "52_week_low": 151.49,
+    "price_vs_52w_pct": 55.9,
+    "volume_surge": 0.98,
+    "avg_volume": 161737354,
+    "market_cap": 4819978813440,
+    "pe_trailing": 30.474731,
+    "pe_forward": 15.633581,
+    "peg_ratio": 0.64,
+    "eps_ttm": 6.53,
+    "eps_forward": 12.72901,
+    "revenue_growth": 0.852,
+    "earnings_growth": 2.145,
+    "profit_margin": 0.62966,
+    "short_ratio": 1.71,
+    "beta": 2.202,
+    "return_5d_pct": -2.76,
+    "return_1mo_pct": -6.29,
+    "return_3mo_pct": 11.5,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": -0.5,
+      "note": "Negative 1mo momentum -6.29%"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (209.62)"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 30.474731x"
+    },
+    {
+      "name": "pe_forward",
+      "score": 1.0,
+      "note": "Forward P/E 15.633581x < trailing 30.474731x (expected growth)"
+    },
+    {
+      "name": "peg",
+      "score": 1.0,
+      "note": "PEG 0.64 < 1.0 \u2014 growth cheap vs price"
+    },
+    {
+      "name": "revenue_growth",
+      "score": 1.5,
+      "note": "Revenue growing 85% YoY"
+    },
+    {
+      "name": "earnings_growth",
+      "score": 1.0,
+      "note": "Earnings growing 214% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 3,
+    "bearish": 0,
+    "total_mentions": 3
+  },
+  "news": [
+    {
+      "title": "Should You Really Buy Tech Stocks Now? History Offers a Surprising Answer That's Strikingly Clear.",
+      "published": "Thu, 25 Jun 2026 12:22:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/25/should-you-really-buy-tech-stocks-now-history-offe/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "3 Under-the-Radar Biotech Takeover Targets for the Next Pharma Buying Spree",
+      "published": "Thu, 25 Jun 2026 12:15:12 +0000",
+      "url": "https://247wallst.com/investing/2026/06/25/3-under-the-radar-biotech-takeover-targets-for-the-next-pharma-buying-spree/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The 4th China International Supply Chain Expo: Digital Tech Chain Links Global Upstream and Downstream in the Intelligent Economy",
+      "published": "Thu, 25 Jun 2026 12:15:00 +0000",
+      "url": "https://finance.yahoo.com/technology/ai/articles/4th-china-international-supply-chain-121500900.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Micron Just Eliminated Its Biggest Risk With This Brilliant Move, and Investors Are Loving it",
+      "published": "Thu, 25 Jun 2026 12:05:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/25/micron-just-eliminated-its-biggest-risk-with-this/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market",
+      "published": "Thu, 25 Jun 2026 12:00:31 +0000",
+      "url": "https://finance.yahoo.com/m/4502cac3-1011-334f-a373-0fc7ac8d7481/breakout-watch%3A-this-firm.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/NVDA"
+  ],
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 199.0,
+  "asset_type": "stock"
+}

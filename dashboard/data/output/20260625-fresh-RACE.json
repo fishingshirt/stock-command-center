@@ -1,0 +1,117 @@
+{
+  "task_id": "",
+  "subject": "RACE analysis",
+  "ticker": "RACE",
+  "timestamp": "2026-06-25T12:31:23.528753+00:00",
+  "recommendation": "HOLD",
+  "confidence": 52,
+  "summary": "RACE @ $348.75 \u2014 HOLD (52% confidence) | Bullish: Bullish news sentiment detected | RSI: 51.85 | P/E: 33.892128 | Strategy: GROWTH",
+  "signal_score": -0.111,
+  "strategy": "GROWTH",
+  "key_metrics": {
+    "ticker": "RACE",
+    "current_price": 348.75,
+    "previous_close": 344.87,
+    "day_change_pct": 1.13,
+    "sma_20": 351.7,
+    "sma_50": 346.43,
+    "sma_200": 372.61,
+    "rsi_14": 51.85,
+    "52_week_high": 519.1,
+    "52_week_low": 312.51,
+    "price_vs_52w_pct": 17.5,
+    "volume_surge": 0.76,
+    "avg_volume": 636658,
+    "market_cap": 61378191360,
+    "pe_trailing": 33.892128,
+    "pe_forward": 28.441248,
+    "peg_ratio": 3.85,
+    "eps_ttm": 10.29,
+    "eps_forward": 12.26212,
+    "revenue_growth": 0.032,
+    "earnings_growth": 0.013,
+    "profit_margin": 0.22187,
+    "short_ratio": 4.79,
+    "beta": 0.595,
+    "return_5d_pct": -1.56,
+    "return_1mo_pct": 4.66,
+    "return_3mo_pct": 9.5,
+    "_source": "yfinance"
+  },
+  "signals": [
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": -1.0,
+      "note": "Price below SMA200 (372.61) \u2014 confirmed downtrend"
+    },
+    {
+      "name": "pe",
+      "score": -0.5,
+      "note": "Elevated P/E 33.892128x"
+    },
+    {
+      "name": "peg",
+      "score": -1.0,
+      "note": "PEG 3.85 > 2.0 \u2014 expensive growth"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
+    }
+  ],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
+  "warnings": [],
+  "sentiment": {
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 1,
+    "bearish": 0,
+    "total_mentions": 1
+  },
+  "news": [
+    {
+      "title": "Ferrari's marketing boss quits after troubled EV debut as former BMW executive steps in",
+      "published": "Thu, 25 Jun 2026 09:59:19 +0000",
+      "url": "https://www.euronews.com/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "The Dividend Portfolio That Starts Like A Honda And Ends Like A Ferrari",
+      "published": "Wed, 24 Jun 2026 15:38:51 +0000",
+      "url": "https://247wallst.com/personal-finance/2026/06/24/the-dividend-portfolio-that-starts-like-a-honda-and-ends-like-a-ferrari/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "FERRARI ANNOUNCES A CHANGE IN THE LEADERSHIP OF ITS MARKETING & COMMERCIAL DEPARTMENT",
+      "published": "Tue, 23 Jun 2026 14:32:00 +0000",
+      "url": "https://finance.yahoo.com/media-advertising/articles/ferrari-announces-change-leadership-marketing-143200812.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Mamatha Chamarthi, Former Stellantis C-Level Software Business Growth Auto Exec and AI Transformation Leader, Featured in Bloomberg and LA Times Coverage on Ferrari EV and the Future of Automotive Identity",
+      "published": "Tue, 23 Jun 2026 13:00:00 +0000",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mamatha-chamarthi-former-stellantis-c-130000846.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Ferrari denies buying Luce EV is condition to access other models",
+      "published": "Mon, 22 Jun 2026 15:14:08 +0000",
+      "url": "https://finance.yahoo.com/video/ferrari-denies-buying-luce-ev-151408956.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    }
+  ],
+  "sources": [
+    "https://finance.yahoo.com/quote/RACE"
+  ],
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 348.75,
+  "asset_type": "stock"
+}
