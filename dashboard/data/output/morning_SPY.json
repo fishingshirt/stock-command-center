@@ -2,28 +2,28 @@
   "task_id": "",
   "subject": "SPY analysis",
   "ticker": "SPY",
-  "timestamp": "2026-06-24T12:32:13.321968+00:00",
+  "timestamp": "2026-06-26T12:32:37.659000+00:00",
   "recommendation": "ACCUMULATE",
   "confidence": 68,
-  "summary": "SPY @ $733.58 \u2014 ACCUMULATE (68% confidence) | Warnings: Bearish news sentiment detected | RSI: 38.77 | P/E: 26.272776 | Strategy: GROWTH",
+  "summary": "SPY @ $734.3 \u2014 ACCUMULATE (68% confidence) | Warnings: Bearish news sentiment detected | RSI: 39.61 | P/E: 26.298561 | Strategy: GROWTH",
   "signal_score": 0.333,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "SPY",
-    "current_price": 733.58,
-    "previous_close": 744.39,
-    "day_change_pct": -1.45,
-    "sma_20": 744.93,
-    "sma_50": 730.26,
-    "sma_200": 685.48,
-    "rsi_14": 38.77,
+    "current_price": 734.3,
+    "previous_close": 733.24,
+    "day_change_pct": 0.14,
+    "sma_20": 743.44,
+    "sma_50": 732.07,
+    "sma_200": 686.41,
+    "rsi_14": 39.61,
     "52_week_high": 760.4,
-    "52_week_low": 605.54,
-    "price_vs_52w_pct": 82.7,
-    "volume_surge": 1.16,
-    "avg_volume": 59724574,
+    "52_week_low": 610.83,
+    "price_vs_52w_pct": 82.5,
+    "volume_surge": 1.05,
+    "avg_volume": 58505709,
     "market_cap": null,
-    "pe_trailing": 26.272776,
+    "pe_trailing": 26.298561,
     "pe_forward": null,
     "peg_ratio": null,
     "eps_ttm": null,
@@ -33,9 +33,9 @@
     "profit_margin": null,
     "short_ratio": null,
     "beta": null,
-    "return_5d_pct": -1.98,
-    "return_1mo_pct": -2.01,
-    "return_3mo_pct": 12.6,
+    "return_5d_pct": -1.67,
+    "return_1mo_pct": -2.44,
+    "return_3mo_pct": 14.12,
     "_source": "yfinance"
   },
   "signals": [
@@ -47,12 +47,12 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (685.48) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (686.41) \u2014 confirmed uptrend"
     },
     {
       "name": "sentiment",
       "score": -1.0,
-      "note": "Bearish news sentiment (-100.0)"
+      "note": "Bearish news sentiment (-50.0)"
     }
   ],
   "reasons": [],
@@ -60,41 +60,41 @@
     "Bearish news sentiment detected"
   ],
   "sentiment": {
-    "score": -100.0,
+    "score": -50.0,
     "label": "BEARISH",
-    "bullish": 0,
-    "bearish": 5,
-    "total_mentions": 5
+    "bullish": 1,
+    "bearish": 3,
+    "total_mentions": 4
   },
   "news": [
     {
-      "title": "Stock Market Today: Dow Steady After Tech Sell-Off; FedEx Dives On Earnings (Live Coverage)",
-      "published": "Wed, 24 Jun 2026 12:09:29 +0000",
-      "url": "https://finance.yahoo.com/m/0d11f791-1b22-3ad3-9a4d-f3fd42d663e5/stock-market-today%3A-dow.html?.tsrc=rss",
+      "title": "Stock Market Today: Nasdaq Futures Slide Amid Global Tech Sell-Off; Micron, Nvidia, Sandisk Fall (Live Coverage)",
+      "published": "Fri, 26 Jun 2026 12:12:17 +0000",
+      "url": "https://finance.yahoo.com/m/71673a4f-6fe0-330c-8edb-892aa4e7b732/stock-market-today%3A-nasdaq.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Dow, S&P 500, Nasdaq Futures Rise After Chip Stock Selloff: Why CBRS, PLTR, BLZE, MU, FDX Are Trending",
-      "published": "Wed, 24 Jun 2026 01:22:01 +0000",
-      "url": "https://stocktwits.com/news-articles/markets/equity/dow-sp500-nasdaq-futures-cbrs-pltr-blze-mu-fdx-trending/cZKUtabR7OI?.tsrc=rss",
+      "title": "JEPI\u2019s Covered-Call Strategy Could Pay You $100,000/Year for Doing Nothing",
+      "published": "Fri, 26 Jun 2026 12:09:28 +0000",
+      "url": "https://247wallst.com/investing/2026/06/26/jepis-covered-call-strategy-could-pay-you-100000-year-for-doing-nothing/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Mark Zandi Says Top 20% Of Americans Now Account For Nearly 60% Of Spending As Bottom 80% Fall Behind Inflation",
-      "published": "Wed, 24 Jun 2026 00:30:19 +0000",
-      "url": "https://finance.yahoo.com/economy/articles/mark-zandi-says-top-20-003019501.html?.tsrc=rss",
+      "title": "How Much of Your Portfolio Should Be in Index Funds?",
+      "published": "Fri, 26 Jun 2026 12:02:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/26/how-much-of-your-portfolio-should-be-in-index-fund/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Why ARKK Investors Paid Premium Fees for a 37.88% Loss Over Five Years",
-      "published": "Tue, 23 Jun 2026 22:45:35 +0000",
-      "url": "https://247wallst.com/investing/2026/06/23/why-arkk-investors-paid-premium-fees-for-a-37-88-loss-over-five-years/?.tsrc=rss",
+      "title": "If You Own These 10 Stocks \u2014 Analysts Think You Should Sell Them",
+      "published": "Fri, 26 Jun 2026 11:12:39 +0000",
+      "url": "https://finance.yahoo.com/m/1475ccd1-1262-3036-a4c6-fddbec568563/if-you-own-these-10-stocks-%E2%80%94.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "JEPI\u2019s 0.35% Fee Is a Trap: The Real Cost Is the 14.48% Return Gap vs. SPY",
-      "published": "Tue, 23 Jun 2026 22:21:50 +0000",
-      "url": "https://247wallst.com/investing/2026/06/23/jepis-0-35-fee-is-a-trap-the-real-cost-is-the-14-48-return-gap-vs-spy/?.tsrc=rss",
+      "title": "S&P 500, Dow Futures Climb As Markets Look Past Big Tech Declines, Hotter-Than-Expected Inflation: AAPL, MSFT, BABA, MSTR, SNDK, FIG In Focus",
+      "published": "Fri, 26 Jun 2026 01:58:49 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/sp500-dow-futures-climb-as-markets-look-past-big-tech-declines-hotter-than-expected-inflation/cZ1cIjUR7Xv?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -102,6 +102,6 @@
     "https://finance.yahoo.com/quote/SPY"
   ],
   "paper_trade_signal": "ACCUMULATE",
-  "paper_trade_price": 733.58,
+  "paper_trade_price": 734.3,
   "asset_type": "stock"
 }

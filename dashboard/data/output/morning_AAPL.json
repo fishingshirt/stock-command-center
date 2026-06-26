@@ -2,57 +2,62 @@
   "task_id": "",
   "subject": "AAPL analysis",
   "ticker": "AAPL",
-  "timestamp": "2026-06-24T12:30:50.809535+00:00",
-  "recommendation": "BUY",
-  "confidence": 84,
-  "summary": "AAPL @ $294.3 \u2014 BUY (84% confidence) | Bullish: RSI 30.41 \u2014 approaching oversold; Bullish news sentiment detected | RSI: 30.41 | P/E: 35.586452 | Strategy: GROWTH",
-  "signal_score": 0.579,
+  "timestamp": "2026-06-26T12:31:00.244357+00:00",
+  "recommendation": "HOLD",
+  "confidence": 52,
+  "summary": "AAPL @ $275.15 \u2014 HOLD (52% confidence) | Bullish: RSI 22.9 \u2014 oversold bounce potential | RSI: 22.9 | P/E: 33.351513 | Strategy: GROWTH",
+  "signal_score": 0.111,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "AAPL",
-    "current_price": 294.3,
-    "previous_close": 297.01,
-    "day_change_pct": -0.91,
-    "sma_20": 302.27,
-    "sma_50": 290.05,
-    "sma_200": 268.37,
-    "rsi_14": 30.41,
+    "current_price": 275.15,
+    "previous_close": 293.08,
+    "day_change_pct": -6.12,
+    "sma_20": 299.73,
+    "sma_50": 291.06,
+    "sma_200": 268.83,
+    "rsi_14": 22.9,
     "52_week_high": 317.4,
     "52_week_low": 199.26,
-    "price_vs_52w_pct": 80.4,
-    "volume_surge": 1.12,
-    "avg_volume": 47479672,
-    "market_cap": 4322488745984,
-    "pe_trailing": 35.586452,
-    "pe_forward": 30.623997,
-    "peg_ratio": 2.4,
-    "eps_ttm": 8.27,
-    "eps_forward": 9.61011,
+    "price_vs_52w_pct": 64.2,
+    "volume_surge": 1.4,
+    "avg_volume": 48929622,
+    "market_cap": 4041225797632,
+    "pe_trailing": 33.351513,
+    "pe_forward": 28.634851,
+    "peg_ratio": 2.37,
+    "eps_ttm": 8.25,
+    "eps_forward": 9.60892,
     "revenue_growth": 0.166,
     "earnings_growth": 0.218,
     "profit_margin": 0.27152002,
-    "short_ratio": 3.12,
+    "short_ratio": 2.88,
     "beta": 1.086,
-    "return_5d_pct": -1.65,
-    "return_1mo_pct": -4.55,
-    "return_3mo_pct": 17.06,
+    "return_5d_pct": -7.67,
+    "return_1mo_pct": -11.95,
+    "return_3mo_pct": 8.9,
     "_source": "yfinance"
   },
   "signals": [
     {
-      "name": "3mo_momentum",
-      "score": 1.5,
-      "note": "Strong 3mo momentum +17.06%"
+      "name": "1mo_momentum",
+      "score": -1.5,
+      "note": "Weak 1mo momentum -11.95%"
+    },
+    {
+      "name": "day_spike",
+      "score": -0.5,
+      "note": "Big daily drop -6.12%"
     },
     {
       "name": "rsi",
-      "score": 1.0,
-      "note": "RSI oversold 30.41"
+      "score": 2.0,
+      "note": "RSI extremely oversold 22.9"
     },
     {
       "name": "sma20",
       "score": -0.5,
-      "note": "Price below SMA20 (302.27)"
+      "note": "Price below SMA20 (299.73)"
     },
     {
       "name": "golden_cross",
@@ -60,19 +65,14 @@
       "note": "SMA20 > SMA50 (short-term uptrend)"
     },
     {
-      "name": "sma200",
-      "score": 1.0,
-      "note": "Price well above SMA200 (268.37) \u2014 confirmed uptrend"
-    },
-    {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 35.586452x"
+      "note": "Elevated P/E 33.351513x"
     },
     {
       "name": "peg",
       "score": -1.0,
-      "note": "PEG 2.4 > 2.0 \u2014 expensive growth"
+      "note": "PEG 2.37 > 2.0 \u2014 expensive growth"
     },
     {
       "name": "revenue_growth",
@@ -83,61 +83,55 @@
       "name": "earnings_growth",
       "score": 1.0,
       "note": "Earnings growing 22% YoY"
-    },
-    {
-      "name": "sentiment",
-      "score": 1.0,
-      "note": "Bullish news sentiment (100.0)"
     }
   ],
   "reasons": [
-    "RSI 30.41 \u2014 approaching oversold",
-    "Bullish news sentiment detected"
+    "RSI 22.9 \u2014 oversold bounce potential"
   ],
   "warnings": [],
   "sentiment": {
-    "score": 100.0,
-    "label": "BULLISH",
+    "score": -20.0,
+    "label": "NEUTRAL",
     "bullish": 2,
-    "bearish": 0,
-    "total_mentions": 2
+    "bearish": 3,
+    "total_mentions": 5
   },
   "news": [
     {
-      "title": "Apple supplier Lingyi iTech prices $1.06 billion Hong Kong IPO to tap AI demand",
-      "published": "Wed, 24 Jun 2026 12:09:25 +0000",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-supplier-lingyi-itech-prices-120925248.html?.tsrc=rss",
+      "title": "Micron Stock Drops After Memory Rivals SK Hynix, Samsung Sink KOSPI Index",
+      "published": "Fri, 26 Jun 2026 12:18:00 +0000",
+      "url": "https://finance.yahoo.com/m/6418dd9a-46e2-35d6-a390-0130f84249ae/micron-stock-drops-after.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Apple Stock Polishing New Buy Zone With All-Time High In Sight",
-      "published": "Wed, 24 Jun 2026 11:10:43 +0000",
-      "url": "https://finance.yahoo.com/m/496316ae-5f06-35b4-89cc-c5234b9528cb/apple-stock-polishing-new-buy.html?.tsrc=rss",
+      "title": "Apple, Microsoft Face Bigger Problems Than Micron\u2019s Memory Prices",
+      "published": "Fri, 26 Jun 2026 12:13:00 +0000",
+      "url": "https://finance.yahoo.com/m/fb1160fc-8742-36ae-a5f4-07f07888d1e8/apple%2C-microsoft-face-bigger.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "UK tribunal greenlights $4bn class action over Apple iCloud",
-      "published": "Wed, 24 Jun 2026 11:00:29 +0000",
-      "url": "https://www.verdict.co.uk/uk-greenlights-action-apple-icloud/?.tsrc=rss",
+      "title": "Dow Jones Futures: S&P 500 Set To Break Key Level As Techs Tumble; What To Do Now",
+      "published": "Fri, 26 Jun 2026 12:11:17 +0000",
+      "url": "https://finance.yahoo.com/m/39030516-de91-329d-8d9d-9e91b632c186/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Google-Parent Alphabet To Join Dow Jones Industrial Average, Replacing Verizon",
-      "published": "Wed, 24 Jun 2026 10:48:38 +0000",
-      "url": "https://finance.yahoo.com/m/a1077ce3-f550-3d55-a667-1472e8e22b80/google-parent-alphabet-to.html?.tsrc=rss",
+      "title": "Stocks Fall Pre-Bell as Tech Weakness Persists",
+      "published": "Fri, 26 Jun 2026 11:45:09 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-pre-bell-tech-114509137.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "2 Unpopular Stocks That Deserve a Second Chance and 1 Facing Headwinds",
-      "published": "Wed, 24 Jun 2026 10:00:25 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-unpopular-stocks-deserve-second-100025166.html?.tsrc=rss",
+      "title": "Here's Why Taiwan Semiconductor (TSM) May Be the Smartest AI Infrastructure Buy Right Now",
+      "published": "Fri, 26 Jun 2026 11:45:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/26/tsm-smartest-infrastructure-ai-buy-right-now/?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/AAPL"
   ],
-  "paper_trade_signal": "BUY",
-  "paper_trade_price": 294.3,
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 275.15,
   "asset_type": "stock"
 }

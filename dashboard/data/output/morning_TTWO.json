@@ -2,126 +2,121 @@
   "task_id": "",
   "subject": "TTWO analysis",
   "ticker": "TTWO",
-  "timestamp": "2026-06-24T12:31:26.330849+00:00",
-  "recommendation": "HOLD",
-  "confidence": 52,
-  "summary": "TTWO @ $242.64 \u2014 HOLD (52% confidence) | Warnings: Bearish news sentiment detected | RSI: 70.12 | Strategy: GROWTH",
-  "signal_score": 0.143,
+  "timestamp": "2026-06-26T12:31:42.744467+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 68,
+  "summary": "TTWO @ $238.72 \u2014 ACCUMULATE (68% confidence) | Bullish: Bullish news sentiment detected | RSI: 70.93 | Strategy: GROWTH",
+  "signal_score": 0.333,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "TTWO",
-    "current_price": 242.64,
-    "previous_close": 239.57,
-    "day_change_pct": 1.28,
-    "sma_20": 221.6,
-    "sma_50": 221.6,
-    "sma_200": 230.89,
-    "rsi_14": 70.12,
+    "current_price": 238.72,
+    "previous_close": 235.77,
+    "day_change_pct": 1.25,
+    "sma_20": 223.37,
+    "sma_50": 222.96,
+    "sma_200": 230.82,
+    "rsi_14": 70.93,
     "52_week_high": 264.79,
     "52_week_low": 187.63,
-    "price_vs_52w_pct": 71.3,
-    "volume_surge": 1.89,
-    "avg_volume": 2216887,
-    "market_cap": 45050159104,
+    "price_vs_52w_pct": 66.2,
+    "volume_surge": 1.92,
+    "avg_volume": 2271580,
+    "market_cap": 44322344960,
     "pe_trailing": null,
-    "pe_forward": 24.195358,
-    "peg_ratio": 3.35,
-    "eps_ttm": -1.63,
-    "eps_forward": 10.02837,
+    "pe_forward": 23.946571,
+    "peg_ratio": 3.29,
+    "eps_ttm": -1.62,
+    "eps_forward": 9.96886,
     "revenue_growth": 0.061,
     "earnings_growth": null,
     "profit_margin": -0.0448,
-    "short_ratio": 3.05,
+    "short_ratio": 3.09,
     "beta": 0.982,
-    "return_5d_pct": 5.51,
-    "return_1mo_pct": 9.96,
-    "return_3mo_pct": 26.79,
+    "return_5d_pct": -0.23,
+    "return_1mo_pct": 9.57,
+    "return_3mo_pct": 22.6,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
       "score": 1.0,
-      "note": "Positive 1mo momentum +9.96%"
+      "note": "Positive 1mo momentum +9.57%"
     },
     {
       "name": "3mo_momentum",
       "score": 1.5,
-      "note": "Strong 3mo momentum +26.79%"
+      "note": "Strong 3mo momentum +22.6%"
     },
     {
       "name": "rsi",
       "score": -1.0,
-      "note": "RSI overbought 70.12"
+      "note": "RSI overbought 70.93"
     },
     {
       "name": "sma20",
       "score": 0.5,
-      "note": "Price above SMA20 (221.6)"
-    },
-    {
-      "name": "sma200",
-      "score": 1.0,
-      "note": "Price well above SMA200 (230.89) \u2014 confirmed uptrend"
+      "note": "Price above SMA20 (223.37)"
     },
     {
       "name": "peg",
       "score": -1.0,
-      "note": "PEG 3.35 > 2.0 \u2014 expensive growth"
+      "note": "PEG 3.29 > 2.0 \u2014 expensive growth"
     },
     {
       "name": "sentiment",
-      "score": -1.0,
-      "note": "Bearish news sentiment (-100.0)"
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
     }
   ],
-  "reasons": [],
-  "warnings": [
-    "Bearish news sentiment detected"
+  "reasons": [
+    "Bullish news sentiment detected"
   ],
+  "warnings": [],
   "sentiment": {
-    "score": -100.0,
-    "label": "BEARISH",
-    "bullish": 0,
-    "bearish": 1,
-    "total_mentions": 1
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 2,
+    "bearish": 0,
+    "total_mentions": 2
   },
   "news": [
     {
-      "title": "Here Are Wednesday\u2019s Best Wall Street Analyst Research Calls: Devon Energy, Flowserve, Klaviyo, Macerich, Merck,  Nucor, Take-Two Interactive Software, Twilio, and More",
-      "published": "Wed, 24 Jun 2026 12:15:12 +0000",
-      "url": "https://247wallst.com/investing/2026/06/24/here-are-wednesdays-best-wall-street-analyst-research-calls-devon-energy-flowserve-klaviyo-macerich-merck-nucor-take-two-interactive-software-twilio-and-more/?.tsrc=rss",
+      "title": "Apple, Microsoft Face Bigger Problems Than Micron\u2019s Memory Prices",
+      "published": "Fri, 26 Jun 2026 12:13:00 +0000",
+      "url": "https://finance.yahoo.com/m/fb1160fc-8742-36ae-a5f4-07f07888d1e8/apple%2C-microsoft-face-bigger.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "TTWO Stock Edges Higher After GTA 6 Pricing Reveal By Rockstar \u2013 Retail Sees Another Cash Cow",
-      "published": "Wed, 24 Jun 2026 11:40:47 +0000",
-      "url": "https://stocktwits.com/news-articles/markets/equity/ttwo-stock-edges-higher-after-gta-6-pricing-reveal-by-rockstar-retail-sees-another-cash-cow/cZKyesYR7fe?.tsrc=rss",
+      "title": "GTA 6 Pre-Orders Send Take-Two Stock Down as Price and Launch Details Disappoint",
+      "published": "Thu, 25 Jun 2026 21:24:04 +0000",
+      "url": "https://beincrypto.com/gta-6-preorders-take-two-stock-drop/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Take-Two prices 'Grand Theft Auto VI' at $79.99, sticks to November 19 launch",
-      "published": "Wed, 24 Jun 2026 10:25:56 +0000",
-      "url": "https://finance.yahoo.com/media-advertising/articles/two-prices-grand-theft-auto-102556580.html?.tsrc=rss",
+      "title": "GTA VI poised for one of gaming's biggest launches ever",
+      "published": "Thu, 25 Jun 2026 20:15:00 +0000",
+      "url": "https://finance.yahoo.com/video/gta-vi-poised-for-one-of-gamings-biggest-launches-ever-201500471.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Rockstar Games Announces Pre-Orders for Grand Theft Auto VI",
-      "published": "Wed, 24 Jun 2026 10:15:00 +0000",
-      "url": "https://finance.yahoo.com/media-advertising/articles/rockstar-games-announces-pre-orders-101500360.html?.tsrc=rss",
+      "title": "Take-Two Interactive's 'GTA VI' Pricing Suggests Incremental Upside to Financials, B. Riley Says",
+      "published": "Thu, 25 Jun 2026 16:48:35 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-apos-apos-gta-164835708.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Take-Two Interactive (TTWO) Ascends While Market Falls: Some Facts to Note",
-      "published": "Tue, 23 Jun 2026 21:50:06 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-ttwo-ascends-while-215006907.html?.tsrc=rss",
+      "title": "Will Gaming Expansion Help Microsoft Anchor the Cloud Reach?",
+      "published": "Thu, 25 Jun 2026 14:00:00 +0000",
+      "url": "https://finance.yahoo.com/technology/articles/gaming-expansion-help-microsoft-anchor-140000783.html?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/TTWO"
   ],
-  "paper_trade_signal": "HOLD",
-  "paper_trade_price": 242.64,
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 238.72,
   "asset_type": "stock"
 }
