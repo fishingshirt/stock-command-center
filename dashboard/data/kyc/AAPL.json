@@ -1,17 +1,15 @@
 {
   "ticker": "AAPL",
-  "timestamp": "2026-06-26T08:01:31.396188+00:00",
+  "timestamp": "2026-06-26T10:01:22.332468+00:00",
   "compliance_score": "NO_DATA",
   "risk_level": "NO_DATA",
   "sanctions_risk": "NO_DATA \u2014 Premium API required (OFAC/dowJones Watchlist)",
   "pep_exposure": "NO_DATA \u2014 Premium API required (DowJones/Refinitiv PEP)",
   "esg_score": "NO_DATA \u2014 Premium API required (MSCI/Refinitiv/Sustainalytics)",
-  "controversy_count": 1,
+  "controversy_count": 0,
   "jurisdiction_risk": "NO_DATA",
-  "flags": [
-    "Headline flagged: Apple (AAPL) Faces \u00a33 Billion UK iCloud Lawsuit As Class Action Moves Ahead"
-  ],
-  "pass": false,
+  "flags": [],
+  "pass": true,
   "derived_from": {
     "sector": null,
     "country": null,
