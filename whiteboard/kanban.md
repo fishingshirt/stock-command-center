@@ -88,14 +88,7 @@ Real-time market analysis for MTUM. Auto-generated watchlist task.
 
 ## In Progress
 
-### Task ID: 20260627-040
-**Subject:** MTUM analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-06-27
-**Started At:** 2026-06-27T20:00:48.683665+00:00
-**Details:**
-Real-time market analysis for MTUM. Auto-generated watchlist task.
+_(No tasks in this section.)_
 
 ## Done
 
@@ -23036,3 +23029,15 @@ Real-time market analysis for AAPL. Auto-generated watchlist task.
 **Summary:** Data unavailable for NVDA: Expecting value: line 1 column 1 (char 0)
 **Details:**
 Real-time market analysis for NVDA. Auto-generated watchlist task.
+
+### Task ID: 20260627-040
+**Subject:** MTUM analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-06-27
+**Started At:** 2026-06-27T20:00:48.683665+00:00
+**Completed At:** 2026-06-27T20:00:59.549658+00:00
+**Result:** dashboard/data/output/20260627-040.json
+**Summary:** Data unavailable for MTUM: Expecting value: line 1 column 1 (char 0)
+**Details:**
+Real-time market analysis for MTUM. Auto-generated watchlist task.
