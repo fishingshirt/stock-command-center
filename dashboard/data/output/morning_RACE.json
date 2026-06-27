@@ -2,57 +2,72 @@
   "task_id": "",
   "subject": "RACE analysis",
   "ticker": "RACE",
-  "timestamp": "2026-06-26T12:31:28.080733+00:00",
-  "recommendation": "HOLD",
-  "confidence": 52,
-  "summary": "RACE @ $352.2 \u2014 HOLD (52% confidence) | Bullish: Bullish news sentiment detected | RSI: 50.99 | P/E: 34.495594 | Strategy: GROWTH",
-  "signal_score": -0.111,
+  "timestamp": "2026-06-27T12:30:45.906027+00:00",
+  "recommendation": "BUY",
+  "confidence": 84,
+  "summary": "RACE @ $368.34 \u2014 BUY (84% confidence) | Bullish: Bullish news sentiment detected | RSI: 58.29 | P/E: 36.111767 | Strategy: GROWTH",
+  "signal_score": 0.571,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "RACE",
-    "current_price": 352.2,
-    "previous_close": 348.75,
-    "day_change_pct": 0.99,
-    "sma_20": 352.65,
-    "sma_50": 346.39,
-    "sma_200": 372.0,
-    "rsi_14": 50.99,
+    "current_price": 368.34,
+    "previous_close": 352.2,
+    "day_change_pct": 4.58,
+    "sma_20": 353.75,
+    "sma_50": 346.7,
+    "sma_200": 371.48,
+    "rsi_14": 58.29,
     "52_week_high": 519.1,
     "52_week_low": 312.51,
-    "price_vs_52w_pct": 19.2,
-    "volume_surge": 0.85,
-    "avg_volume": 640348,
-    "market_cap": 61985378304,
-    "pe_trailing": 34.495594,
-    "pe_forward": 28.938335,
+    "price_vs_52w_pct": 27.0,
+    "volume_surge": 0.87,
+    "avg_volume": 640488,
+    "market_cap": 64825929728,
+    "pe_trailing": 36.111767,
+    "pe_forward": 30.206297,
     "peg_ratio": 3.86,
-    "eps_ttm": 10.21,
-    "eps_forward": 12.170708,
+    "eps_ttm": 10.2,
+    "eps_forward": 12.194146,
     "revenue_growth": 0.032,
     "earnings_growth": 0.013,
     "profit_margin": 0.22187,
     "short_ratio": 4.59,
     "beta": 0.595,
-    "return_5d_pct": -2.74,
-    "return_1mo_pct": 1.69,
-    "return_3mo_pct": 10.1,
+    "return_5d_pct": 5.72,
+    "return_1mo_pct": 8.26,
+    "return_3mo_pct": 17.39,
     "_source": "yfinance"
   },
   "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +8.26%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +17.39%"
+    },
+    {
+      "name": "day_spike",
+      "score": 0.5,
+      "note": "Big daily move +4.58%"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (353.75)"
+    },
     {
       "name": "golden_cross",
       "score": 1.0,
       "note": "SMA20 > SMA50 (short-term uptrend)"
     },
     {
-      "name": "sma200",
-      "score": -1.0,
-      "note": "Price below SMA200 (372.0) \u2014 confirmed downtrend"
-    },
-    {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 34.495594x"
+      "note": "Elevated P/E 36.111767x"
     },
     {
       "name": "peg",
@@ -80,7 +95,7 @@
     {
       "title": "Ferrari marketing chief quits after launching car that looks like a Nissan",
       "published": "Thu, 25 Jun 2026 13:17:32 +0000",
-      "url": "https://uk.finance.yahoo.com/news/ferrari-marketing-chief-ousted-launching-131732260.html?.tsrc=rss",
+      "url": "https://uk.finance.yahoo.com/news/ferrari-marketing-chief-quits-launching-131732530.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
@@ -111,7 +126,7 @@
   "sources": [
     "https://finance.yahoo.com/quote/RACE"
   ],
-  "paper_trade_signal": "HOLD",
-  "paper_trade_price": 352.2,
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 368.34,
   "asset_type": "stock"
 }

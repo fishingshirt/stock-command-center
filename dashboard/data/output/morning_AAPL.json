@@ -2,62 +2,62 @@
   "task_id": "",
   "subject": "AAPL analysis",
   "ticker": "AAPL",
-  "timestamp": "2026-06-26T12:31:00.244357+00:00",
-  "recommendation": "HOLD",
-  "confidence": 52,
-  "summary": "AAPL @ $275.15 \u2014 HOLD (52% confidence) | Bullish: RSI 22.9 \u2014 oversold bounce potential | RSI: 22.9 | P/E: 33.351513 | Strategy: GROWTH",
-  "signal_score": 0.111,
+  "timestamp": "2026-06-27T12:30:22.170485+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 69,
+  "summary": "AAPL @ $283.78 \u2014 ACCUMULATE (69% confidence) | Bullish: RSI 33.48 \u2014 approaching oversold | RSI: 33.48 | P/E: 34.35593 | Strategy: GROWTH",
+  "signal_score": 0.375,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "AAPL",
-    "current_price": 275.15,
-    "previous_close": 293.08,
-    "day_change_pct": -6.12,
-    "sma_20": 299.73,
-    "sma_50": 291.06,
-    "sma_200": 268.83,
-    "rsi_14": 22.9,
+    "current_price": 283.78,
+    "previous_close": 275.15,
+    "day_change_pct": 3.14,
+    "sma_20": 298.29,
+    "sma_50": 291.41,
+    "sma_200": 269.08,
+    "rsi_14": 33.48,
     "52_week_high": 317.4,
     "52_week_low": 199.26,
-    "price_vs_52w_pct": 64.2,
-    "volume_surge": 1.4,
-    "avg_volume": 48929622,
-    "market_cap": 4041225797632,
-    "pe_trailing": 33.351513,
-    "pe_forward": 28.634851,
+    "price_vs_52w_pct": 71.5,
+    "volume_surge": 1.98,
+    "avg_volume": 52381777,
+    "market_cap": 4167977926656,
+    "pe_trailing": 34.35593,
+    "pe_forward": 29.532974,
     "peg_ratio": 2.37,
-    "eps_ttm": 8.25,
+    "eps_ttm": 8.26,
     "eps_forward": 9.60892,
     "revenue_growth": 0.166,
     "earnings_growth": 0.218,
     "profit_margin": 0.27152002,
     "short_ratio": 2.88,
     "beta": 1.086,
-    "return_5d_pct": -7.67,
-    "return_1mo_pct": -11.95,
-    "return_3mo_pct": 8.9,
+    "return_5d_pct": -4.45,
+    "return_1mo_pct": -9.06,
+    "return_3mo_pct": 14.16,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
-      "score": -1.5,
-      "note": "Weak 1mo momentum -11.95%"
+      "score": -0.5,
+      "note": "Negative 1mo momentum -9.06%"
     },
     {
       "name": "day_spike",
-      "score": -0.5,
-      "note": "Big daily drop -6.12%"
+      "score": 0.5,
+      "note": "Big daily move +3.14%"
     },
     {
       "name": "rsi",
-      "score": 2.0,
-      "note": "RSI extremely oversold 22.9"
+      "score": 1.0,
+      "note": "RSI oversold 33.48"
     },
     {
       "name": "sma20",
       "score": -0.5,
-      "note": "Price below SMA20 (299.73)"
+      "note": "Price below SMA20 (298.29)"
     },
     {
       "name": "golden_cross",
@@ -65,9 +65,14 @@
       "note": "SMA20 > SMA50 (short-term uptrend)"
     },
     {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (269.08) \u2014 confirmed uptrend"
+    },
+    {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 33.351513x"
+      "note": "Elevated P/E 34.35593x"
     },
     {
       "name": "peg",
@@ -86,7 +91,7 @@
     }
   ],
   "reasons": [
-    "RSI 22.9 \u2014 oversold bounce potential"
+    "RSI 33.48 \u2014 approaching oversold"
   ],
   "warnings": [],
   "sentiment": {
@@ -98,40 +103,40 @@
   },
   "news": [
     {
-      "title": "Micron Stock Drops After Memory Rivals SK Hynix, Samsung Sink KOSPI Index",
-      "published": "Fri, 26 Jun 2026 12:18:00 +0000",
-      "url": "https://finance.yahoo.com/m/6418dd9a-46e2-35d6-a390-0130f84249ae/micron-stock-drops-after.html?.tsrc=rss",
+      "title": "Crypto's brutal week in review: Bitcoin prices, illicit Iranian transactions, & more",
+      "published": "Sat, 27 Jun 2026 12:00:00 +0000",
+      "url": "https://finance.yahoo.com/video/cryptos-brutal-week-review-bitcoin-120000992.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Apple, Microsoft Face Bigger Problems Than Micron\u2019s Memory Prices",
-      "published": "Fri, 26 Jun 2026 12:13:00 +0000",
-      "url": "https://finance.yahoo.com/m/fb1160fc-8742-36ae-a5f4-07f07888d1e8/apple%2C-microsoft-face-bigger.html?.tsrc=rss",
+      "title": "Apple Seeks US Approval to Buy Chips From Blacklisted CXMT: FT",
+      "published": "Sat, 27 Jun 2026 07:45:23 +0000",
+      "url": "https://finance.yahoo.com/technology/articles/apple-seeks-us-approval-buy-074523538.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Dow Jones Futures: S&P 500 Set To Break Key Level As Techs Tumble; What To Do Now",
-      "published": "Fri, 26 Jun 2026 12:11:17 +0000",
-      "url": "https://finance.yahoo.com/m/39030516-de91-329d-8d9d-9e91b632c186/dow-jones-futures%3A-s%26p-500.html?.tsrc=rss",
+      "title": "Apple seeks approval to buy chips from blacklisted Chinese company, FT reports",
+      "published": "Sat, 27 Jun 2026 03:26:19 +0000",
+      "url": "https://finance.yahoo.com/technology/articles/apple-seeks-approval-buy-chips-032619573.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Stocks Fall Pre-Bell as Tech Weakness Persists",
-      "published": "Fri, 26 Jun 2026 11:45:09 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-pre-bell-tech-114509137.html?.tsrc=rss",
+      "title": "S&P 500, Nasdaq End Week Lower As Investors Rotate Out Of Tech, AI Plays \u2014 ON, AAPL, SLS, INFQ, NKE in Focus",
+      "published": "Fri, 26 Jun 2026 22:34:47 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-week-lower-as-investors-rotate-out-of-tech-ai-plays-on-aapl-sls-infq-nke-in-focus/cZ12ck9R7W9?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Here's Why Taiwan Semiconductor (TSM) May Be the Smartest AI Infrastructure Buy Right Now",
-      "published": "Fri, 26 Jun 2026 11:45:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/26/tsm-smartest-infrastructure-ai-buy-right-now/?.tsrc=rss",
+      "title": "Update: Equity Markets Fall as Trump Says Iran Violated Ceasefire",
+      "published": "Fri, 26 Jun 2026 20:45:21 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equity-markets-fall-trump-says-204521099.html?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/AAPL"
   ],
-  "paper_trade_signal": "HOLD",
-  "paper_trade_price": 275.15,
+  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_price": 283.78,
   "asset_type": "stock"
 }

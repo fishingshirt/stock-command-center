@@ -2,29 +2,29 @@
   "task_id": "",
   "subject": "TTWO analysis",
   "ticker": "TTWO",
-  "timestamp": "2026-06-26T12:31:42.744467+00:00",
+  "timestamp": "2026-06-27T12:30:57.688706+00:00",
   "recommendation": "ACCUMULATE",
   "confidence": 68,
-  "summary": "TTWO @ $238.72 \u2014 ACCUMULATE (68% confidence) | Bullish: Bullish news sentiment detected | RSI: 70.93 | Strategy: GROWTH",
+  "summary": "TTWO @ $238.53 \u2014 ACCUMULATE (68% confidence) | Bullish: Bullish news sentiment detected | RSI: 73.83 | Strategy: GROWTH",
   "signal_score": 0.333,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "TTWO",
-    "current_price": 238.72,
-    "previous_close": 235.77,
-    "day_change_pct": 1.25,
-    "sma_20": 223.37,
-    "sma_50": 222.96,
-    "sma_200": 230.82,
-    "rsi_14": 70.93,
+    "current_price": 238.53,
+    "previous_close": 238.72,
+    "day_change_pct": -0.08,
+    "sma_20": 224.4,
+    "sma_50": 223.45,
+    "sma_200": 230.78,
+    "rsi_14": 73.83,
     "52_week_high": 264.79,
     "52_week_low": 187.63,
-    "price_vs_52w_pct": 66.2,
-    "volume_surge": 1.92,
-    "avg_volume": 2271580,
-    "market_cap": 44322344960,
+    "price_vs_52w_pct": 66.0,
+    "volume_surge": 1.79,
+    "avg_volume": 2346140,
+    "market_cap": 44287066112,
     "pe_trailing": null,
-    "pe_forward": 23.946571,
+    "pe_forward": 23.927511,
     "peg_ratio": 3.29,
     "eps_ttm": -1.62,
     "eps_forward": 9.96886,
@@ -33,31 +33,31 @@
     "profit_margin": -0.0448,
     "short_ratio": 3.09,
     "beta": 0.982,
-    "return_5d_pct": -0.23,
-    "return_1mo_pct": 9.57,
-    "return_3mo_pct": 22.6,
+    "return_5d_pct": -0.43,
+    "return_1mo_pct": 6.41,
+    "return_3mo_pct": 25.75,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
       "score": 1.0,
-      "note": "Positive 1mo momentum +9.57%"
+      "note": "Positive 1mo momentum +6.41%"
     },
     {
       "name": "3mo_momentum",
       "score": 1.5,
-      "note": "Strong 3mo momentum +22.6%"
+      "note": "Strong 3mo momentum +25.75%"
     },
     {
       "name": "rsi",
       "score": -1.0,
-      "note": "RSI overbought 70.93"
+      "note": "RSI overbought 73.83"
     },
     {
       "name": "sma20",
       "score": 0.5,
-      "note": "Price above SMA20 (223.37)"
+      "note": "Price above SMA20 (224.4)"
     },
     {
       "name": "peg",
@@ -83,6 +83,18 @@
   },
   "news": [
     {
+      "title": "Take Two (TTWO) Reveals GTA VI Pricing And Digital Only Launch Details",
+      "published": "Fri, 26 Jun 2026 21:10:10 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/two-ttwo-reveals-gta-vi-211010207.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "1 Cash-Producing Stock on Our Buy List and 2 We Question",
+      "published": "Fri, 26 Jun 2026 14:24:25 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-buy-142425825.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
       "title": "Apple, Microsoft Face Bigger Problems Than Micron\u2019s Memory Prices",
       "published": "Fri, 26 Jun 2026 12:13:00 +0000",
       "url": "https://finance.yahoo.com/m/fb1160fc-8742-36ae-a5f4-07f07888d1e8/apple%2C-microsoft-face-bigger.html?.tsrc=rss",
@@ -99,24 +111,12 @@
       "published": "Thu, 25 Jun 2026 20:15:00 +0000",
       "url": "https://finance.yahoo.com/video/gta-vi-poised-for-one-of-gamings-biggest-launches-ever-201500471.html?.tsrc=rss",
       "source": "Yahoo Finance"
-    },
-    {
-      "title": "Take-Two Interactive's 'GTA VI' Pricing Suggests Incremental Upside to Financials, B. Riley Says",
-      "published": "Thu, 25 Jun 2026 16:48:35 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/two-interactive-apos-apos-gta-164835708.html?.tsrc=rss",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Will Gaming Expansion Help Microsoft Anchor the Cloud Reach?",
-      "published": "Thu, 25 Jun 2026 14:00:00 +0000",
-      "url": "https://finance.yahoo.com/technology/articles/gaming-expansion-help-microsoft-anchor-140000783.html?.tsrc=rss",
-      "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/TTWO"
   ],
   "paper_trade_signal": "ACCUMULATE",
-  "paper_trade_price": 238.72,
+  "paper_trade_price": 238.53,
   "asset_type": "stock"
 }
