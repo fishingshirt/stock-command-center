@@ -2,7 +2,7 @@
   "task_id": "",
   "subject": "TTWO analysis",
   "ticker": "TTWO",
-  "timestamp": "2026-06-27T12:30:57.688706+00:00",
+  "timestamp": "2026-06-28T12:31:28.951223+00:00",
   "recommendation": "ACCUMULATE",
   "confidence": 68,
   "summary": "TTWO @ $238.53 \u2014 ACCUMULATE (68% confidence) | Bullish: Bullish news sentiment detected | RSI: 73.83 | Strategy: GROWTH",
@@ -25,7 +25,7 @@
     "market_cap": 44287066112,
     "pe_trailing": null,
     "pe_forward": 23.927511,
-    "peg_ratio": 3.29,
+    "peg_ratio": 3.33,
     "eps_ttm": -1.62,
     "eps_forward": 9.96886,
     "revenue_growth": 0.061,
@@ -62,7 +62,7 @@
     {
       "name": "peg",
       "score": -1.0,
-      "note": "PEG 3.29 > 2.0 \u2014 expensive growth"
+      "note": "PEG 3.33 > 2.0 \u2014 expensive growth"
     },
     {
       "name": "sentiment",
@@ -83,6 +83,18 @@
   },
   "news": [
     {
+      "title": "Gonna buy Take-Two shares before the GTA 6 release? Here's how blockbuster game launches actually move stocks",
+      "published": "Sun, 28 Jun 2026 12:15:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gonna-buy-two-shares-gta-121500369.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Viral post says GTA 6 cost as much to build as the $1.5B+ Burj Khalifa \u2014 analysts say Take-Two could recoup that in days",
+      "published": "Sat, 27 Jun 2026 18:45:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/viral-post-says-gta-6-184500207.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
       "title": "Take Two (TTWO) Reveals GTA VI Pricing And Digital Only Launch Details",
       "published": "Fri, 26 Jun 2026 21:10:10 +0000",
       "url": "https://finance.yahoo.com/markets/stocks/articles/two-ttwo-reveals-gta-vi-211010207.html?.tsrc=rss",
@@ -98,18 +110,6 @@
       "title": "Apple, Microsoft Face Bigger Problems Than Micron\u2019s Memory Prices",
       "published": "Fri, 26 Jun 2026 12:13:00 +0000",
       "url": "https://finance.yahoo.com/m/fb1160fc-8742-36ae-a5f4-07f07888d1e8/apple%2C-microsoft-face-bigger.html?.tsrc=rss",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "GTA 6 Pre-Orders Send Take-Two Stock Down as Price and Launch Details Disappoint",
-      "published": "Thu, 25 Jun 2026 21:24:04 +0000",
-      "url": "https://beincrypto.com/gta-6-preorders-take-two-stock-drop/?.tsrc=rss",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "GTA VI poised for one of gaming's biggest launches ever",
-      "published": "Thu, 25 Jun 2026 20:15:00 +0000",
-      "url": "https://finance.yahoo.com/video/gta-vi-poised-for-one-of-gamings-biggest-launches-ever-201500471.html?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],

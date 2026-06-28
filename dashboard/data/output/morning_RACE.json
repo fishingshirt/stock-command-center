@@ -2,7 +2,7 @@
   "task_id": "",
   "subject": "RACE analysis",
   "ticker": "RACE",
-  "timestamp": "2026-06-27T12:30:45.906027+00:00",
+  "timestamp": "2026-06-28T12:31:17.063147+00:00",
   "recommendation": "BUY",
   "confidence": 84,
   "summary": "RACE @ $368.34 \u2014 BUY (84% confidence) | Bullish: Bullish news sentiment detected | RSI: 58.29 | P/E: 36.111767 | Strategy: GROWTH",
@@ -24,10 +24,10 @@
     "avg_volume": 640488,
     "market_cap": 64825929728,
     "pe_trailing": 36.111767,
-    "pe_forward": 30.206297,
-    "peg_ratio": 3.86,
+    "pe_forward": 30.121984,
+    "peg_ratio": 4.09,
     "eps_ttm": 10.2,
-    "eps_forward": 12.194146,
+    "eps_forward": 12.228278,
     "revenue_growth": 0.032,
     "earnings_growth": 0.013,
     "profit_margin": 0.22187,
@@ -72,7 +72,7 @@
     {
       "name": "peg",
       "score": -1.0,
-      "note": "PEG 3.86 > 2.0 \u2014 expensive growth"
+      "note": "PEG 4.09 > 2.0 \u2014 expensive growth"
     },
     {
       "name": "sentiment",
@@ -92,6 +92,12 @@
     "total_mentions": 1
   },
   "news": [
+    {
+      "title": "She billed Medicare $906 million for hospice patients \u2014 then spent it on a Ferrari and a Bulgari necklace",
+      "published": "Sat, 27 Jun 2026 21:45:00 +0000",
+      "url": "https://finance.yahoo.com/healthcare/articles/she-billed-medicare-906-million-for-hospice-patients--then-spent-it-on-a-ferrari-and-a-bulgari-necklace-214500227.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
     {
       "title": "Ferrari marketing chief quits after launching car that looks like a Nissan",
       "published": "Thu, 25 Jun 2026 13:17:32 +0000",
@@ -114,12 +120,6 @@
       "title": "The Dividend Portfolio That Starts Like A Honda And Ends Like A Ferrari",
       "published": "Wed, 24 Jun 2026 15:38:51 +0000",
       "url": "https://247wallst.com/personal-finance/2026/06/24/the-dividend-portfolio-that-starts-like-a-honda-and-ends-like-a-ferrari/?.tsrc=rss",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "FERRARI ANNOUNCES A CHANGE IN THE LEADERSHIP OF ITS MARKETING & COMMERCIAL DEPARTMENT",
-      "published": "Tue, 23 Jun 2026 14:32:00 +0000",
-      "url": "https://finance.yahoo.com/media-advertising/articles/ferrari-announces-change-leadership-marketing-143200812.html?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],

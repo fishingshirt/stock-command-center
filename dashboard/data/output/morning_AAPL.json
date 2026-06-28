@@ -2,11 +2,11 @@
   "task_id": "",
   "subject": "AAPL analysis",
   "ticker": "AAPL",
-  "timestamp": "2026-06-27T12:30:22.170485+00:00",
-  "recommendation": "ACCUMULATE",
-  "confidence": 69,
-  "summary": "AAPL @ $283.78 \u2014 ACCUMULATE (69% confidence) | Bullish: RSI 33.48 \u2014 approaching oversold | RSI: 33.48 | P/E: 34.35593 | Strategy: GROWTH",
-  "signal_score": 0.375,
+  "timestamp": "2026-06-28T12:30:53.386216+00:00",
+  "recommendation": "BUY",
+  "confidence": 81,
+  "summary": "AAPL @ $283.78 \u2014 BUY (81% confidence) | Bullish: RSI 33.48 \u2014 approaching oversold; Bullish news sentiment detected | RSI: 33.48 | P/E: 34.35593 | Strategy: GROWTH",
+  "signal_score": 0.444,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "AAPL",
@@ -21,11 +21,11 @@
     "52_week_low": 199.26,
     "price_vs_52w_pct": 71.5,
     "volume_surge": 1.98,
-    "avg_volume": 52381777,
+    "avg_volume": 52377906,
     "market_cap": 4167977926656,
     "pe_trailing": 34.35593,
     "pe_forward": 29.532974,
-    "peg_ratio": 2.37,
+    "peg_ratio": 2.29,
     "eps_ttm": 8.26,
     "eps_forward": 9.60892,
     "revenue_growth": 0.166,
@@ -77,7 +77,7 @@
     {
       "name": "peg",
       "score": -1.0,
-      "note": "PEG 2.37 > 2.0 \u2014 expensive growth"
+      "note": "PEG 2.29 > 2.0 \u2014 expensive growth"
     },
     {
       "name": "revenue_growth",
@@ -88,55 +88,61 @@
       "name": "earnings_growth",
       "score": 1.0,
       "note": "Earnings growing 22% YoY"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (33.3)"
     }
   ],
   "reasons": [
-    "RSI 33.48 \u2014 approaching oversold"
+    "RSI 33.48 \u2014 approaching oversold",
+    "Bullish news sentiment detected"
   ],
   "warnings": [],
   "sentiment": {
-    "score": -20.0,
-    "label": "NEUTRAL",
+    "score": 33.3,
+    "label": "BULLISH",
     "bullish": 2,
-    "bearish": 3,
-    "total_mentions": 5
+    "bearish": 1,
+    "total_mentions": 3
   },
   "news": [
     {
-      "title": "Crypto's brutal week in review: Bitcoin prices, illicit Iranian transactions, & more",
-      "published": "Sat, 27 Jun 2026 12:00:00 +0000",
-      "url": "https://finance.yahoo.com/video/cryptos-brutal-week-review-bitcoin-120000992.html?.tsrc=rss",
+      "title": "Even Apple supply chain maestro Tim Cook couldn\u2019t dodge the memory chip \u2018RAM-ageddon\u2019 crisis. Here\u2019s why PC prices are soaring this summer",
+      "published": "Sun, 28 Jun 2026 09:00:00 +0000",
+      "url": "https://finance.yahoo.com/technology/articles/even-apple-supply-chain-maestro-090000927.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Apple Seeks US Approval to Buy Chips From Blacklisted CXMT: FT",
-      "published": "Sat, 27 Jun 2026 07:45:23 +0000",
-      "url": "https://finance.yahoo.com/technology/articles/apple-seeks-us-approval-buy-074523538.html?.tsrc=rss",
+      "title": "Amkor Technology, Inc. (AMKR) Is A \u201cSecret Weapon,\u201d Says Newsletter",
+      "published": "Sun, 28 Jun 2026 06:49:07 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-inc-amkr-secret-064907032.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Apple seeks approval to buy chips from blacklisted Chinese company, FT reports",
-      "published": "Sat, 27 Jun 2026 03:26:19 +0000",
-      "url": "https://finance.yahoo.com/technology/articles/apple-seeks-approval-buy-chips-032619573.html?.tsrc=rss",
+      "title": "Apple (AAPL) Plans Mac Chip Roadmap Shift Toward AI-Focused M7",
+      "published": "Sat, 27 Jun 2026 19:32:17 +0000",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-plans-mac-chip-193217551.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "S&P 500, Nasdaq End Week Lower As Investors Rotate Out Of Tech, AI Plays \u2014 ON, AAPL, SLS, INFQ, NKE in Focus",
-      "published": "Fri, 26 Jun 2026 22:34:47 +0000",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-week-lower-as-investors-rotate-out-of-tech-ai-plays-on-aapl-sls-infq-nke-in-focus/cZ12ck9R7W9?.tsrc=rss",
+      "title": "The Big Paint vs Rare Earth Faceoff: One Stock to Buy Right Now for 2026 and Beyond",
+      "published": "Sat, 27 Jun 2026 19:31:14 +0000",
+      "url": "https://www.fool.com/coverage/better-buy/2026/06/27/the-big-paint-vs-rare-earth-faceoff-one-stock-to-buy-right-now-for-2026-and-beyond/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Update: Equity Markets Fall as Trump Says Iran Violated Ceasefire",
-      "published": "Fri, 26 Jun 2026 20:45:21 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equity-markets-fall-trump-says-204521099.html?.tsrc=rss",
+      "title": "KGI Securities Downgrades Apple (AAPL) to Hold \u2013 Here\u2019s Why",
+      "published": "Sat, 27 Jun 2026 19:08:12 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kgi-securities-downgrades-apple-aapl-190812337.html?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/AAPL"
   ],
-  "paper_trade_signal": "ACCUMULATE",
+  "paper_trade_signal": "BUY",
   "paper_trade_price": 283.78,
   "asset_type": "stock"
 }

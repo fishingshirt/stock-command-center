@@ -2,11 +2,11 @@
   "task_id": "",
   "subject": "MTUM analysis",
   "ticker": "MTUM",
-  "timestamp": "2026-06-27T12:31:09.598745+00:00",
+  "timestamp": "2026-06-28T12:31:40.823958+00:00",
   "recommendation": "BUY",
-  "confidence": 83,
-  "summary": "MTUM @ $325.74 \u2014 BUY (83% confidence) | Bullish: Bullish news sentiment detected | RSI: 58.47 | P/E: 34.657448 | Strategy: GROWTH",
-  "signal_score": 0.556,
+  "confidence": 85,
+  "summary": "MTUM @ $325.74 \u2014 BUY (85% confidence) | Bullish: Bullish news sentiment detected | RSI: 58.47 | P/E: 34.657448 | Strategy: GROWTH",
+  "signal_score": 0.636,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "MTUM",
@@ -15,7 +15,7 @@
     "day_change_pct": -4.0,
     "sma_20": 324.33,
     "sma_50": 304.59,
-    "sma_200": NaN,
+    "sma_200": 264.55,
     "rsi_14": 58.47,
     "52_week_high": 345.59,
     "52_week_low": 229.42,
@@ -53,6 +53,11 @@
       "name": "golden_cross",
       "score": 1.0,
       "note": "SMA20 > SMA50 (short-term uptrend)"
+    },
+    {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (264.55) \u2014 confirmed uptrend"
     },
     {
       "name": "pe",

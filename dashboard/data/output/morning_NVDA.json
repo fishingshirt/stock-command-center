@@ -2,30 +2,30 @@
   "task_id": "",
   "subject": "NVDA analysis",
   "ticker": "NVDA",
-  "timestamp": "2026-06-27T12:30:34.048236+00:00",
+  "timestamp": "2026-06-28T12:31:05.301901+00:00",
   "recommendation": "BUY",
-  "confidence": 95,
-  "summary": "NVDA @ $nan \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 41.1 | P/E: 29.48392 | Strategy: GROWTH",
-  "signal_score": 1.0,
+  "confidence": 83,
+  "summary": "NVDA @ $192.53 \u2014 BUY (83% confidence) | Bullish: Bullish news sentiment detected | RSI: 38.73 | P/E: 29.48392 | Strategy: GROWTH",
+  "signal_score": 0.556,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "NVDA",
-    "current_price": NaN,
+    "current_price": 192.53,
     "previous_close": 195.74,
-    "day_change_pct": NaN,
-    "sma_20": NaN,
-    "sma_50": NaN,
-    "sma_200": NaN,
-    "rsi_14": 41.1,
+    "day_change_pct": -1.64,
+    "sma_20": 207.71,
+    "sma_50": 209.92,
+    "sma_200": 190.43,
+    "rsi_14": 38.73,
     "52_week_high": 236.54,
     "52_week_low": 151.49,
-    "price_vs_52w_pct": NaN,
+    "price_vs_52w_pct": 48.3,
     "volume_surge": 0.94,
-    "avg_volume": 160894345,
+    "avg_volume": 160883770,
     "market_cap": 4663269130240,
     "pe_trailing": 29.48392,
     "pe_forward": 15.125293,
-    "peg_ratio": 0.61,
+    "peg_ratio": 0.59,
     "eps_ttm": 6.53,
     "eps_forward": 12.72901,
     "revenue_growth": 0.852,
@@ -33,12 +33,32 @@
     "profit_margin": 0.62966,
     "short_ratio": 1.72,
     "beta": 2.202,
-    "return_5d_pct": NaN,
-    "return_1mo_pct": NaN,
-    "return_3mo_pct": NaN,
+    "return_5d_pct": -7.73,
+    "return_1mo_pct": -8.71,
+    "return_3mo_pct": 15.06,
     "_source": "yfinance"
   },
   "signals": [
+    {
+      "name": "1mo_momentum",
+      "score": -0.5,
+      "note": "Negative 1mo momentum -8.71%"
+    },
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +15.06%"
+    },
+    {
+      "name": "sma20",
+      "score": -0.5,
+      "note": "Price below SMA20 (207.71)"
+    },
+    {
+      "name": "death_cross",
+      "score": -1.0,
+      "note": "SMA20 < SMA50 (short-term downtrend)"
+    },
     {
       "name": "pe_forward",
       "score": 1.0,
@@ -47,7 +67,7 @@
     {
       "name": "peg",
       "score": 1.0,
-      "note": "PEG 0.61 < 1.0 \u2014 growth cheap vs price"
+      "note": "PEG 0.59 < 1.0 \u2014 growth cheap vs price"
     },
     {
       "name": "revenue_growth",
@@ -72,39 +92,39 @@
   "sentiment": {
     "score": 100.0,
     "label": "BULLISH",
-    "bullish": 3,
+    "bullish": 4,
     "bearish": 0,
-    "total_mentions": 3
+    "total_mentions": 4
   },
   "news": [
     {
-      "title": "2 Blue Chip Industrial Stocks I'd Buy Into This Week's Weakness Without Hesitation",
-      "published": "Sat, 27 Jun 2026 12:25:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/27/two-blue-chip-industrial-stocks-id-buy-into-this-w/?.tsrc=rss",
+      "title": "Did Salesforce Just Figure Out How to Beat the \"SaaSpocalypse\" With Its New Acquisition? Shares Are an Incredible Bargain If It Did.",
+      "published": "Sun, 28 Jun 2026 12:20:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/28/did-salesforce-figure-how-to-beat-saaspocalypse/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "This Top Dividend ETF Just Lowered Its Payment. Should Income Investors Be Concerned?",
-      "published": "Sat, 27 Jun 2026 12:20:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/27/this-top-dividend-etf-just-lowered-its-payment-sho/?.tsrc=rss",
+      "title": "Nike Looks Undervalued Here and Could Reward Long-Term Investors",
+      "published": "Sun, 28 Jun 2026 12:05:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/28/nike-looks-undervalued-here-and-could-reward-long/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "64 With $1.1 Million in a Traditional IRA. Yield Volatility Is Back. Here\u2019s Where I\u2019m Allocating Capital",
-      "published": "Sat, 27 Jun 2026 12:09:22 +0000",
-      "url": "https://247wallst.com/investing/2026/06/27/64-with-1-1-million-in-a-traditional-ira-yield-volatility-is-back-heres-where-im-allocating-capital/?.tsrc=rss",
+      "title": "5 Reasons Investors Love Roth IRAs",
+      "published": "Sun, 28 Jun 2026 11:59:00 +0000",
+      "url": "https://www.fool.com/retirement/2026/06/28/5-reasons-investors-love-roth-iras/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "The Insane Number HPE\u2019s CEO Just Threw Out Shows Why Bloom Energy Is a Buy Today",
-      "published": "Sat, 27 Jun 2026 11:51:23 +0000",
-      "url": "https://247wallst.com/investing/2026/06/27/the-insane-number-hpes-ceo-just-threw-out-shows-why-bloom-energy-is-a-buy-today/?.tsrc=rss",
+      "title": "The OpenAI Trade Isn't Microsoft Anymore. Here's Where Smart Money May Be Looking.",
+      "published": "Sun, 28 Jun 2026 11:45:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/28/the-openai-trade-isnt-microsoft-anymore-heres-wher/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Why SpaceX Stock Plummeted This Week",
-      "published": "Sat, 27 Jun 2026 11:51:16 +0000",
-      "url": "https://www.fool.com/investing/2026/06/27/why-spacex-stock-plummeted-this-week/?.tsrc=rss",
+      "title": "You Can Buy 1 Share of Costco for Less Than $1,000 Right Now. Here's Why the Price Could Go Up by the End of 2030.",
+      "published": "Sun, 28 Jun 2026 11:41:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/28/you-can-buy-1-share-of-costco-for-less-than-1000/?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -112,6 +132,6 @@
     "https://finance.yahoo.com/quote/NVDA"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": NaN,
+  "paper_trade_price": 192.53,
   "asset_type": "stock"
 }

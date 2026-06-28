@@ -1,0 +1,30 @@
+{
+  "AAPL": {
+    "status": "ok",
+    "path": "/home/fishingshirt/stock-command-center/dashboard/data/output/morning_AAPL.json"
+  },
+  "NVDA": {
+    "status": "ok",
+    "path": "/home/fishingshirt/stock-command-center/dashboard/data/output/morning_NVDA.json"
+  },
+  "RACE": {
+    "status": "ok",
+    "path": "/home/fishingshirt/stock-command-center/dashboard/data/output/morning_RACE.json"
+  },
+  "TTWO": {
+    "status": "ok",
+    "path": "/home/fishingshirt/stock-command-center/dashboard/data/output/morning_TTWO.json"
+  },
+  "MTUM": {
+    "status": "ok",
+    "path": "/home/fishingshirt/stock-command-center/dashboard/data/output/morning_MTUM.json"
+  },
+  "VOO": {
+    "status": "ok",
+    "path": "/home/fishingshirt/stock-command-center/dashboard/data/output/morning_VOO.json"
+  },
+  "SPCX": {
+    "status": "ok_fallback",
+    "path": "/home/fishingshirt/stock-command-center/dashboard/data/output/morning_SPCX.json"
+  }
+}
