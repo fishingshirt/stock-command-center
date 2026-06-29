@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "timestamp": "2026-06-29T14:01:38.318778+00:00",
+  "timestamp": "2026-06-29T16:00:59.934602+00:00",
   "compliance_score": "NO_DATA",
   "risk_level": "NO_DATA",
   "sanctions_risk": "NO_DATA \u2014 Premium API required (OFAC/dowJones Watchlist)",
@@ -9,7 +9,7 @@
   "controversy_count": 1,
   "jurisdiction_risk": "NO_DATA",
   "flags": [
-    "Headline flagged: Why Apple Wants To Use Banned Chinese Memory Chips"
+    "Headline flagged: Apple says India 'copy-pasted' rivals' claims in antitrust probe"
   ],
   "pass": false,
   "derived_from": {
