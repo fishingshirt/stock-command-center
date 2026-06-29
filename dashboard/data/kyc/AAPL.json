@@ -1,15 +1,17 @@
 {
   "ticker": "AAPL",
-  "timestamp": "2026-06-29T20:01:25.451319+00:00",
+  "timestamp": "2026-06-29T22:01:36.984435+00:00",
   "compliance_score": "NO_DATA",
   "risk_level": "NO_DATA",
   "sanctions_risk": "NO_DATA \u2014 Premium API required (OFAC/dowJones Watchlist)",
   "pep_exposure": "NO_DATA \u2014 Premium API required (DowJones/Refinitiv PEP)",
   "esg_score": "NO_DATA \u2014 Premium API required (MSCI/Refinitiv/Sustainalytics)",
-  "controversy_count": 0,
+  "controversy_count": 1,
   "jurisdiction_risk": "NO_DATA",
-  "flags": [],
-  "pass": true,
+  "flags": [
+    "Headline flagged: Why Apple Wants To Use Banned Chinese Memory Chips"
+  ],
+  "pass": false,
   "derived_from": {
     "sector": null,
     "country": null,
