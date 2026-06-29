@@ -2,7 +2,7 @@
   "task_id": "",
   "subject": "VOO analysis",
   "ticker": "VOO",
-  "timestamp": "2026-06-28T12:31:52.592299+00:00",
+  "timestamp": "2026-06-29T12:31:58.837584+00:00",
   "recommendation": "BUY",
   "confidence": 95,
   "summary": "VOO @ $670.26 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 46.2 | P/E: 26.158245 | Strategy: GROWTH",
@@ -57,7 +57,7 @@
     {
       "name": "sentiment",
       "score": 1.0,
-      "note": "Bullish news sentiment (33.3)"
+      "note": "Bullish news sentiment (50.0)"
     }
   ],
   "reasons": [
@@ -65,13 +65,19 @@
   ],
   "warnings": [],
   "sentiment": {
-    "score": 33.3,
+    "score": 50.0,
     "label": "BULLISH",
-    "bullish": 2,
+    "bullish": 3,
     "bearish": 1,
-    "total_mentions": 3
+    "total_mentions": 4
   },
   "news": [
+    {
+      "title": "VOO vs. SPY: Which Popular S&P 500 ETF Is the Better Buy?",
+      "published": "Sun, 28 Jun 2026 17:23:01 +0000",
+      "url": "https://www.fool.com/coverage/etfs/2026/06/28/voo-vs-spy-which-popular-s-and-p-500-etf-is-the-better-buy/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
     {
       "title": "This Vanguard Index Fund Could Be the Best Financial Decision You Ever Make",
       "published": "Sat, 27 Jun 2026 17:20:00 +0000",
@@ -94,12 +100,6 @@
       "title": "VOOG vs. VONG: Which Vanguard Growth ETF Is the Better Buy?",
       "published": "Fri, 26 Jun 2026 11:16:13 +0000",
       "url": "https://www.fool.com/coverage/etfs/2026/06/26/voog-vs-vong-which-vanguard-growth-etf-is-the-better-buy/?.tsrc=rss",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "If You Own These 10 Stocks \u2014 Analysts Think You Should Sell Them",
-      "published": "Fri, 26 Jun 2026 11:12:39 +0000",
-      "url": "https://finance.yahoo.com/m/1475ccd1-1262-3036-a4c6-fddbec568563/if-you-own-these-10-stocks-%E2%80%94.html?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],

@@ -2,28 +2,28 @@
   "task_id": "",
   "subject": "SPY analysis",
   "ticker": "SPY",
-  "timestamp": "2026-06-26T12:32:37.659000+00:00",
-  "recommendation": "ACCUMULATE",
-  "confidence": 68,
-  "summary": "SPY @ $734.3 \u2014 ACCUMULATE (68% confidence) | Warnings: Bearish news sentiment detected | RSI: 39.61 | P/E: 26.298561 | Strategy: GROWTH",
-  "signal_score": 0.333,
+  "timestamp": "2026-06-29T12:32:22.717566+00:00",
+  "recommendation": "BUY",
+  "confidence": 95,
+  "summary": "SPY @ $728.99 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 46.13 | P/E: 26.108387 | Strategy: GROWTH",
+  "signal_score": 1.0,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "SPY",
-    "current_price": 734.3,
-    "previous_close": 733.24,
-    "day_change_pct": 0.14,
-    "sma_20": 743.44,
-    "sma_50": 732.07,
-    "sma_200": 686.41,
-    "rsi_14": 39.61,
+    "current_price": 728.99,
+    "previous_close": 734.3,
+    "day_change_pct": -0.72,
+    "sma_20": 742.26,
+    "sma_50": 732.69,
+    "sma_200": 686.84,
+    "rsi_14": 46.13,
     "52_week_high": 760.4,
-    "52_week_low": 610.83,
-    "price_vs_52w_pct": 82.5,
-    "volume_surge": 1.05,
-    "avg_volume": 58505709,
+    "52_week_low": 615.04,
+    "price_vs_52w_pct": 78.4,
+    "volume_surge": 1.02,
+    "avg_volume": 57978022,
     "market_cap": null,
-    "pe_trailing": 26.298561,
+    "pe_trailing": 26.108387,
     "pe_forward": null,
     "peg_ratio": null,
     "eps_ttm": null,
@@ -33,12 +33,17 @@
     "profit_margin": null,
     "short_ratio": null,
     "beta": null,
-    "return_5d_pct": -1.67,
-    "return_1mo_pct": -2.44,
-    "return_3mo_pct": 14.12,
+    "return_5d_pct": -2.07,
+    "return_1mo_pct": -3.39,
+    "return_3mo_pct": 15.26,
     "_source": "yfinance"
   },
   "signals": [
+    {
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +15.26%"
+    },
     {
       "name": "golden_cross",
       "score": 1.0,
@@ -47,61 +52,61 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (686.41) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (686.84) \u2014 confirmed uptrend"
     },
     {
       "name": "sentiment",
-      "score": -1.0,
-      "note": "Bearish news sentiment (-50.0)"
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
     }
   ],
-  "reasons": [],
-  "warnings": [
-    "Bearish news sentiment detected"
+  "reasons": [
+    "Bullish news sentiment detected"
   ],
+  "warnings": [],
   "sentiment": {
-    "score": -50.0,
-    "label": "BEARISH",
-    "bullish": 1,
-    "bearish": 3,
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 4,
+    "bearish": 0,
     "total_mentions": 4
   },
   "news": [
     {
-      "title": "Stock Market Today: Nasdaq Futures Slide Amid Global Tech Sell-Off; Micron, Nvidia, Sandisk Fall (Live Coverage)",
-      "published": "Fri, 26 Jun 2026 12:12:17 +0000",
-      "url": "https://finance.yahoo.com/m/71673a4f-6fe0-330c-8edb-892aa4e7b732/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "title": "Stock Market Today: Dow Rises On U.S.-Iran News; SpaceX Rallies On Addition To Nasdaq-100 Index (Live Coverage)",
+      "published": "Mon, 29 Jun 2026 12:06:34 +0000",
+      "url": "https://finance.yahoo.com/m/f09e44e5-75d2-3d24-a413-c960372d4f03/stock-market-today%3A-dow-rises.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "JEPI\u2019s Covered-Call Strategy Could Pay You $100,000/Year for Doing Nothing",
-      "published": "Fri, 26 Jun 2026 12:09:28 +0000",
-      "url": "https://247wallst.com/investing/2026/06/26/jepis-covered-call-strategy-could-pay-you-100000-year-for-doing-nothing/?.tsrc=rss",
+      "title": "\u201cYou\u2019re Gonna Get That $200,000 Back in Tax-Free Growth So Freaking Fast\u201d: Ramsey Host Explains Why Paying Taxes Now Can Leave More for Your Kids",
+      "published": "Mon, 29 Jun 2026 02:40:36 +0000",
+      "url": "https://247wallst.com/personal-finance/2026/06/28/youre-gonna-get-that-200000-back-in-tax-free-growth-so-freaking-fast-ramsey-host-explains-why-paying-taxes-now-can-leave-more-for-your-kids/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "How Much of Your Portfolio Should Be in Index Funds?",
-      "published": "Fri, 26 Jun 2026 12:02:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/26/how-much-of-your-portfolio-should-be-in-index-fund/?.tsrc=rss",
+      "title": "S&P 500, Dow, Nasdaq Futures Climb As US, Iran Reportedly Agree To Pause Further Escalation: SLS, WEN, MSTR, WDC Stocks In Focus",
+      "published": "Mon, 29 Jun 2026 01:45:45 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/sp500-dow-nasdaq-futures-climb-as-us-iran-reportedly-agree-to-pause-further-escalation/cZ1BsV6R7WD?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "If You Own These 10 Stocks \u2014 Analysts Think You Should Sell Them",
-      "published": "Fri, 26 Jun 2026 11:12:39 +0000",
-      "url": "https://finance.yahoo.com/m/1475ccd1-1262-3036-a4c6-fddbec568563/if-you-own-these-10-stocks-%E2%80%94.html?.tsrc=rss",
+      "title": "VOO vs. SPY: Which Popular S&P 500 ETF Is the Better Buy?",
+      "published": "Sun, 28 Jun 2026 17:23:01 +0000",
+      "url": "https://www.fool.com/coverage/etfs/2026/06/28/voo-vs-spy-which-popular-s-and-p-500-etf-is-the-better-buy/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "S&P 500, Dow Futures Climb As Markets Look Past Big Tech Declines, Hotter-Than-Expected Inflation: AAPL, MSFT, BABA, MSTR, SNDK, FIG In Focus",
-      "published": "Fri, 26 Jun 2026 01:58:49 +0000",
-      "url": "https://stocktwits.com/news-articles/markets/equity/sp500-dow-futures-climb-as-markets-look-past-big-tech-declines-hotter-than-expected-inflation/cZ1cIjUR7Xv?.tsrc=rss",
+      "title": "5 AI Hardware Stocks Create a New \u2018MANIA\u2019 Trade That Replaces the Magnificent 7. Hedge Your Bets on the Hot Tickers with These 2 Leveraged ETFs.",
+      "published": "Sun, 28 Jun 2026 13:00:02 +0000",
+      "url": "https://www.barchart.com/story/news/3023086/5-ai-hardware-stocks-create-a-new-mania-trade-that-replaces-the-magnificent-7-hedge-your-bets-on-the-hot-tickers-with-these-2-leveraged-etfs?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/SPY"
   ],
-  "paper_trade_signal": "ACCUMULATE",
-  "paper_trade_price": 734.3,
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 728.99,
   "asset_type": "stock"
 }

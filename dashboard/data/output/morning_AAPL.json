@@ -2,11 +2,11 @@
   "task_id": "",
   "subject": "AAPL analysis",
   "ticker": "AAPL",
-  "timestamp": "2026-06-28T12:30:53.386216+00:00",
-  "recommendation": "BUY",
-  "confidence": 81,
-  "summary": "AAPL @ $283.78 \u2014 BUY (81% confidence) | Bullish: RSI 33.48 \u2014 approaching oversold; Bullish news sentiment detected | RSI: 33.48 | P/E: 34.35593 | Strategy: GROWTH",
-  "signal_score": 0.444,
+  "timestamp": "2026-06-29T12:30:59.048805+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 69,
+  "summary": "AAPL @ $283.78 \u2014 ACCUMULATE (69% confidence) | Bullish: RSI 33.48 \u2014 approaching oversold | RSI: 33.48 | P/E: 34.35593 | Strategy: GROWTH",
+  "signal_score": 0.375,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "AAPL",
@@ -88,61 +88,55 @@
       "name": "earnings_growth",
       "score": 1.0,
       "note": "Earnings growing 22% YoY"
-    },
-    {
-      "name": "sentiment",
-      "score": 1.0,
-      "note": "Bullish news sentiment (33.3)"
     }
   ],
   "reasons": [
-    "RSI 33.48 \u2014 approaching oversold",
-    "Bullish news sentiment detected"
+    "RSI 33.48 \u2014 approaching oversold"
   ],
   "warnings": [],
   "sentiment": {
-    "score": 33.3,
-    "label": "BULLISH",
-    "bullish": 2,
-    "bearish": 1,
-    "total_mentions": 3
+    "score": 20.0,
+    "label": "NEUTRAL",
+    "bullish": 3,
+    "bearish": 2,
+    "total_mentions": 5
   },
   "news": [
     {
-      "title": "Even Apple supply chain maestro Tim Cook couldn\u2019t dodge the memory chip \u2018RAM-ageddon\u2019 crisis. Here\u2019s why PC prices are soaring this summer",
-      "published": "Sun, 28 Jun 2026 09:00:00 +0000",
-      "url": "https://finance.yahoo.com/technology/articles/even-apple-supply-chain-maestro-090000927.html?.tsrc=rss",
+      "title": "Bank of America Issues Stark Warning on AI Stocks Rally",
+      "published": "Mon, 29 Jun 2026 12:16:38 +0000",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-issues-stark-warning-121638461.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Amkor Technology, Inc. (AMKR) Is A \u201cSecret Weapon,\u201d Says Newsletter",
-      "published": "Sun, 28 Jun 2026 06:49:07 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-inc-amkr-secret-064907032.html?.tsrc=rss",
+      "title": "Apple\u2019s (AAPL) AI Strategy Reset Gains Wall Street Support Amid Cybersecurity Probe",
+      "published": "Mon, 29 Jun 2026 11:53:26 +0000",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-ai-strategy-reset-115326070.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Apple (AAPL) Plans Mac Chip Roadmap Shift Toward AI-Focused M7",
-      "published": "Sat, 27 Jun 2026 19:32:17 +0000",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-plans-mac-chip-193217551.html?.tsrc=rss",
+      "title": "Stock futures rise as U.S. and Iran agree to stop latest attacks",
+      "published": "Mon, 29 Jun 2026 11:33:07 +0000",
+      "url": "https://qz.com/stock-futures-nasdaq-sp500-us-iran-hostilities-pause-062926?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "The Big Paint vs Rare Earth Faceoff: One Stock to Buy Right Now for 2026 and Beyond",
-      "published": "Sat, 27 Jun 2026 19:31:14 +0000",
-      "url": "https://www.fool.com/coverage/better-buy/2026/06/27/the-big-paint-vs-rare-earth-faceoff-one-stock-to-buy-right-now-for-2026-and-beyond/?.tsrc=rss",
+      "title": "Market Chatter: Apple Says India Antitrust Investigation Findings Copied Rivals' Claims",
+      "published": "Mon, 29 Jun 2026 11:18:31 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-apple-says-india-111831051.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "KGI Securities Downgrades Apple (AAPL) to Hold \u2013 Here\u2019s Why",
-      "published": "Sat, 27 Jun 2026 19:08:12 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kgi-securities-downgrades-apple-aapl-190812337.html?.tsrc=rss",
+      "title": "Comcast, Alphabet, Palantir, SpaceX, Microsoft, and More Stocks That Explain Today\u2019s Market",
+      "published": "Mon, 29 Jun 2026 10:25:00 +0000",
+      "url": "https://finance.yahoo.com/m/b10bddbf-cf12-31c1-a4b9-c8359ab511df/comcast%2C-alphabet%2C-palantir%2C.html?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/AAPL"
   ],
-  "paper_trade_signal": "BUY",
+  "paper_trade_signal": "ACCUMULATE",
   "paper_trade_price": 283.78,
   "asset_type": "stock"
 }

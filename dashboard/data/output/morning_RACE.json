@@ -2,7 +2,7 @@
   "task_id": "",
   "subject": "RACE analysis",
   "ticker": "RACE",
-  "timestamp": "2026-06-28T12:31:17.063147+00:00",
+  "timestamp": "2026-06-29T12:31:22.985001+00:00",
   "recommendation": "BUY",
   "confidence": 84,
   "summary": "RACE @ $368.34 \u2014 BUY (84% confidence) | Bullish: Bullish news sentiment detected | RSI: 58.29 | P/E: 36.111767 | Strategy: GROWTH",
@@ -93,6 +93,12 @@
   },
   "news": [
     {
+      "title": "Ferrari (BIT:RACE) Replaces Marketing Chief After EV Launch Draws Backlash",
+      "published": "Sun, 28 Jun 2026 15:06:46 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ferrari-bit-race-replaces-marketing-150646647.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
       "title": "She billed Medicare $906 million for hospice patients \u2014 then spent it on a Ferrari and a Bulgari necklace",
       "published": "Sat, 27 Jun 2026 21:45:00 +0000",
       "url": "https://finance.yahoo.com/healthcare/articles/she-billed-medicare-906-million-for-hospice-patients--then-spent-it-on-a-ferrari-and-a-bulgari-necklace-214500227.html?.tsrc=rss",
@@ -114,12 +120,6 @@
       "title": "Ferrari's marketing boss quits after troubled EV debut as former BMW executive steps in",
       "published": "Thu, 25 Jun 2026 09:59:19 +0000",
       "url": "https://www.euronews.com/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in?.tsrc=rss",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "The Dividend Portfolio That Starts Like A Honda And Ends Like A Ferrari",
-      "published": "Wed, 24 Jun 2026 15:38:51 +0000",
-      "url": "https://247wallst.com/personal-finance/2026/06/24/the-dividend-portfolio-that-starts-like-a-honda-and-ends-like-a-ferrari/?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],

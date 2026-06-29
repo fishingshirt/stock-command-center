@@ -2,7 +2,7 @@
   "task_id": "",
   "subject": "TTWO analysis",
   "ticker": "TTWO",
-  "timestamp": "2026-06-28T12:31:28.951223+00:00",
+  "timestamp": "2026-06-29T12:31:34.802330+00:00",
   "recommendation": "ACCUMULATE",
   "confidence": 68,
   "summary": "TTWO @ $238.53 \u2014 ACCUMULATE (68% confidence) | Bullish: Bullish news sentiment detected | RSI: 73.83 | Strategy: GROWTH",
@@ -77,11 +77,17 @@
   "sentiment": {
     "score": 100.0,
     "label": "BULLISH",
-    "bullish": 2,
+    "bullish": 3,
     "bearish": 0,
-    "total_mentions": 2
+    "total_mentions": 3
   },
   "news": [
+    {
+      "title": "Gaming ETF Becomes Growth Fund; Trailing Dividend Payout No Longer Reflects New Holdings",
+      "published": "Mon, 29 Jun 2026 02:35:11 +0000",
+      "url": "https://247wallst.com/investing/2026/06/28/gaming-etf-becomes-growth-fund-trailing-dividend-payout-no-longer-reflects-new-holdings/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
     {
       "title": "Gonna buy Take-Two shares before the GTA 6 release? Here's how blockbuster game launches actually move stocks",
       "published": "Sun, 28 Jun 2026 12:15:00 +0000",
@@ -104,12 +110,6 @@
       "title": "1 Cash-Producing Stock on Our Buy List and 2 We Question",
       "published": "Fri, 26 Jun 2026 14:24:25 +0000",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-buy-142425825.html?.tsrc=rss",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Apple, Microsoft Face Bigger Problems Than Micron\u2019s Memory Prices",
-      "published": "Fri, 26 Jun 2026 12:13:00 +0000",
-      "url": "https://finance.yahoo.com/m/fb1160fc-8742-36ae-a5f4-07f07888d1e8/apple%2C-microsoft-face-bigger.html?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
