@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "timestamp": "2026-06-29T00:01:03.600827+00:00",
+  "timestamp": "2026-06-29T02:01:23.443938+00:00",
   "compliance_score": "NO_DATA",
   "risk_level": "NO_DATA",
   "sanctions_risk": "NO_DATA \u2014 Premium API required (OFAC/dowJones Watchlist)",
@@ -17,7 +17,7 @@
     "market_cap": null,
     "beta": null,
     "current_price": null,
-    "news_items_scanned": 0
+    "news_items_scanned": 8
   },
   "_note": "Real-time sanctions, PEP, ESG, and structured controversy databases require paid APIs. This screen only checks public news headlines for controversy keywords."
 }
