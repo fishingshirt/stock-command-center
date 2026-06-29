@@ -1,15 +1,18 @@
 {
   "ticker": "AAPL",
-  "timestamp": "2026-06-29T10:00:45.242923+00:00",
+  "timestamp": "2026-06-29T12:00:54.355899+00:00",
   "compliance_score": "NO_DATA",
   "risk_level": "NO_DATA",
   "sanctions_risk": "NO_DATA \u2014 Premium API required (OFAC/dowJones Watchlist)",
   "pep_exposure": "NO_DATA \u2014 Premium API required (DowJones/Refinitiv PEP)",
   "esg_score": "NO_DATA \u2014 Premium API required (MSCI/Refinitiv/Sustainalytics)",
-  "controversy_count": 0,
+  "controversy_count": 2,
   "jurisdiction_risk": "NO_DATA",
-  "flags": [],
-  "pass": true,
+  "flags": [
+    "Headline flagged: Market Chatter: Apple Says India Antitrust Investigation Findings Copied Rivals' Claims",
+    "Headline flagged: Exclusive-Apple accuses India of 'copy-pasting' rivals' claims in antitrust investigation"
+  ],
+  "pass": false,
   "derived_from": {
     "sector": null,
     "country": null,
