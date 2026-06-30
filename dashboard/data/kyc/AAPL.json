@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "timestamp": "2026-06-30T16:01:16.614893+00:00",
+  "timestamp": "2026-06-30T18:01:46.792858+00:00",
   "compliance_score": "NO_DATA",
   "risk_level": "NO_DATA",
   "sanctions_risk": "NO_DATA \u2014 Premium API required (OFAC/dowJones Watchlist)",
@@ -9,7 +9,7 @@
   "controversy_count": 1,
   "jurisdiction_risk": "NO_DATA",
   "flags": [
-    "Headline flagged: The Zacks Analyst Blog Highlights Apple, Tokyo Electron, Advantest and Infineon"
+    "Headline flagged: US Supreme Court to hear Apple appeal of contempt in Epic Games lawsuit"
   ],
   "pass": false,
   "derived_from": {
