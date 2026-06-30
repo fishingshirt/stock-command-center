@@ -2,28 +2,28 @@
   "task_id": "",
   "subject": "MTUM analysis",
   "ticker": "MTUM",
-  "timestamp": "2026-06-29T12:31:46.795171+00:00",
+  "timestamp": "2026-06-30T12:31:24.362187+00:00",
   "recommendation": "BUY",
   "confidence": 85,
-  "summary": "MTUM @ $325.74 \u2014 BUY (85% confidence) | Bullish: Bullish news sentiment detected | RSI: 58.47 | P/E: 34.657448 | Strategy: GROWTH",
-  "signal_score": 0.636,
+  "summary": "MTUM @ $336.0 \u2014 BUY (85% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 91.7% of 52-week range \u2014 limited upside | RSI: 59.05 | P/E: 35.74907 | Strategy: GROWTH",
+  "signal_score": 0.625,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "MTUM",
-    "current_price": 325.74,
-    "previous_close": 339.3,
-    "day_change_pct": -4.0,
-    "sma_20": 324.33,
-    "sma_50": 304.59,
-    "sma_200": 264.55,
-    "rsi_14": 58.47,
+    "current_price": 336.0,
+    "previous_close": 325.74,
+    "day_change_pct": 3.15,
+    "sma_20": 325.36,
+    "sma_50": 305.9,
+    "sma_200": 264.97,
+    "rsi_14": 59.05,
     "52_week_high": 345.59,
     "52_week_low": 229.42,
-    "price_vs_52w_pct": 82.9,
-    "volume_surge": 1.44,
-    "avg_volume": 1244500,
+    "price_vs_52w_pct": 91.7,
+    "volume_surge": 1.41,
+    "avg_volume": 1244732,
     "market_cap": null,
-    "pe_trailing": 34.657448,
+    "pe_trailing": 35.74907,
     "pe_forward": null,
     "peg_ratio": null,
     "eps_ttm": null,
@@ -33,21 +33,31 @@
     "profit_margin": null,
     "short_ratio": null,
     "beta": null,
-    "return_5d_pct": -5.64,
-    "return_1mo_pct": 3.26,
-    "return_3mo_pct": 38.32,
+    "return_5d_pct": 1.89,
+    "return_1mo_pct": 6.13,
+    "return_3mo_pct": 45.76,
     "_source": "yfinance"
   },
   "signals": [
     {
+      "name": "1mo_momentum",
+      "score": 1.0,
+      "note": "Positive 1mo momentum +6.13%"
+    },
+    {
       "name": "3mo_momentum",
       "score": 1.5,
-      "note": "Strong 3mo momentum +38.32%"
+      "note": "Strong 3mo momentum +45.76%"
     },
     {
       "name": "day_spike",
-      "score": -0.5,
-      "note": "Big daily drop -4.0%"
+      "score": 0.5,
+      "note": "Big daily move +3.15%"
+    },
+    {
+      "name": "sma20",
+      "score": 0.5,
+      "note": "Price above SMA20 (325.36)"
     },
     {
       "name": "golden_cross",
@@ -57,12 +67,17 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (264.55) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (264.97) \u2014 confirmed uptrend"
     },
     {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 34.657448x"
+      "note": "Elevated P/E 35.74907x"
+    },
+    {
+      "name": "52w",
+      "score": -1.0,
+      "note": "Near 52-week high (91.7% of range)"
     },
     {
       "name": "sentiment",
@@ -73,7 +88,9 @@
   "reasons": [
     "Bullish news sentiment detected"
   ],
-  "warnings": [],
+  "warnings": [
+    "Price at 91.7% of 52-week range \u2014 limited upside"
+  ],
   "sentiment": {
     "score": 100.0,
     "label": "BULLISH",
@@ -117,6 +134,6 @@
     "https://finance.yahoo.com/quote/MTUM"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 325.74,
+  "paper_trade_price": 336.0,
   "asset_type": "stock"
 }

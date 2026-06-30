@@ -2,62 +2,52 @@
   "task_id": "",
   "subject": "RACE analysis",
   "ticker": "RACE",
-  "timestamp": "2026-06-29T12:31:22.985001+00:00",
-  "recommendation": "BUY",
-  "confidence": 84,
-  "summary": "RACE @ $368.34 \u2014 BUY (84% confidence) | Bullish: Bullish news sentiment detected | RSI: 58.29 | P/E: 36.111767 | Strategy: GROWTH",
-  "signal_score": 0.571,
+  "timestamp": "2026-06-30T12:31:00.205238+00:00",
+  "recommendation": "ACCUMULATE",
+  "confidence": 66,
+  "summary": "RACE @ $368.34 \u2014 ACCUMULATE (66% confidence) | RSI: 56.75 | P/E: 35.970703 | Strategy: GROWTH",
+  "signal_score": 0.25,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "RACE",
     "current_price": 368.34,
-    "previous_close": 352.2,
-    "day_change_pct": 4.58,
-    "sma_20": 353.75,
-    "sma_50": 346.7,
-    "sma_200": 371.48,
-    "rsi_14": 58.29,
+    "previous_close": 368.34,
+    "day_change_pct": 0.0,
+    "sma_20": 355.15,
+    "sma_50": 347.01,
+    "sma_200": 370.98,
+    "rsi_14": 56.75,
     "52_week_high": 519.1,
     "52_week_low": 312.51,
     "price_vs_52w_pct": 27.0,
-    "volume_surge": 0.87,
-    "avg_volume": 640488,
+    "volume_surge": 1.02,
+    "avg_volume": 645087,
     "market_cap": 64825929728,
-    "pe_trailing": 36.111767,
-    "pe_forward": 30.121984,
+    "pe_trailing": 35.970703,
+    "pe_forward": 30.135578,
     "peg_ratio": 4.09,
-    "eps_ttm": 10.2,
-    "eps_forward": 12.228278,
+    "eps_ttm": 10.24,
+    "eps_forward": 12.222762,
     "revenue_growth": 0.032,
     "earnings_growth": 0.013,
     "profit_margin": 0.22187,
     "short_ratio": 4.59,
     "beta": 0.595,
-    "return_5d_pct": 5.72,
-    "return_1mo_pct": 8.26,
-    "return_3mo_pct": 17.39,
+    "return_5d_pct": 6.81,
+    "return_1mo_pct": 5.47,
+    "return_3mo_pct": 13.87,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
       "score": 1.0,
-      "note": "Positive 1mo momentum +8.26%"
-    },
-    {
-      "name": "3mo_momentum",
-      "score": 1.5,
-      "note": "Strong 3mo momentum +17.39%"
-    },
-    {
-      "name": "day_spike",
-      "score": 0.5,
-      "note": "Big daily move +4.58%"
+      "note": "Positive 1mo momentum +5.47%"
     },
     {
       "name": "sma20",
       "score": 0.5,
-      "note": "Price above SMA20 (353.75)"
+      "note": "Price above SMA20 (355.15)"
     },
     {
       "name": "golden_cross",
@@ -67,31 +57,29 @@
     {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 36.111767x"
+      "note": "Elevated P/E 35.970703x"
     },
     {
       "name": "peg",
       "score": -1.0,
       "note": "PEG 4.09 > 2.0 \u2014 expensive growth"
-    },
-    {
-      "name": "sentiment",
-      "score": 1.0,
-      "note": "Bullish news sentiment (100.0)"
     }
   ],
-  "reasons": [
-    "Bullish news sentiment detected"
-  ],
+  "reasons": [],
   "warnings": [],
   "sentiment": {
-    "score": 100.0,
-    "label": "BULLISH",
-    "bullish": 1,
-    "bearish": 0,
-    "total_mentions": 1
+    "score": 0,
+    "label": "NEUTRAL",
+    "bullish": 0,
+    "bearish": 0
   },
   "news": [
+    {
+      "title": "FERRARI N.V.: PERIODIC REPORT ON THE BUYBACK PROGRAM",
+      "published": "Mon, 29 Jun 2026 12:26:00 +0000",
+      "url": "https://finance.yahoo.com/news/ferrari-n-v-periodic-report-122600451.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
     {
       "title": "Ferrari (BIT:RACE) Replaces Marketing Chief After EV Launch Draws Backlash",
       "published": "Sun, 28 Jun 2026 15:06:46 +0000",
@@ -101,7 +89,7 @@
     {
       "title": "She billed Medicare $906 million for hospice patients \u2014 then spent it on a Ferrari and a Bulgari necklace",
       "published": "Sat, 27 Jun 2026 21:45:00 +0000",
-      "url": "https://finance.yahoo.com/healthcare/articles/she-billed-medicare-906-million-for-hospice-patients--then-spent-it-on-a-ferrari-and-a-bulgari-necklace-214500227.html?.tsrc=rss",
+      "url": "https://finance.yahoo.com/news/she-billed-medicare-906-million-for-hospice-patients--then-spent-it-on-a-ferrari-and-a-bulgari-necklace-214500227.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
@@ -115,18 +103,12 @@
       "published": "Thu, 25 Jun 2026 13:17:32 +0000",
       "url": "https://www.telegraph.co.uk/business/2026/06/25/ferrari-marketing-chief-ousted/?.tsrc=rss",
       "source": "Yahoo Finance"
-    },
-    {
-      "title": "Ferrari's marketing boss quits after troubled EV debut as former BMW executive steps in",
-      "published": "Thu, 25 Jun 2026 09:59:19 +0000",
-      "url": "https://www.euronews.com/2026/06/25/ferraris-marketing-boss-quits-after-troubled-ev-debut-as-former-bmw-executive-steps-in?.tsrc=rss",
-      "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/RACE"
   ],
-  "paper_trade_signal": "BUY",
+  "paper_trade_signal": "ACCUMULATE",
   "paper_trade_price": 368.34,
   "asset_type": "stock"
 }

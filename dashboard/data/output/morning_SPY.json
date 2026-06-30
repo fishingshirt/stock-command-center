@@ -2,28 +2,28 @@
   "task_id": "",
   "subject": "SPY analysis",
   "ticker": "SPY",
-  "timestamp": "2026-06-29T12:32:22.717566+00:00",
+  "timestamp": "2026-06-30T12:32:00.007752+00:00",
   "recommendation": "BUY",
   "confidence": 95,
-  "summary": "SPY @ $728.99 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 46.13 | P/E: 26.108387 | Strategy: GROWTH",
+  "summary": "SPY @ $741.0 \u2014 BUY (95% confidence) | RSI: 51.91 | P/E: 26.538519 | Strategy: GROWTH",
   "signal_score": 1.0,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "SPY",
-    "current_price": 728.99,
-    "previous_close": 734.3,
-    "day_change_pct": -0.72,
-    "sma_20": 742.26,
-    "sma_50": 732.69,
-    "sma_200": 686.84,
-    "rsi_14": 46.13,
+    "current_price": 741.0,
+    "previous_close": 728.99,
+    "day_change_pct": 1.65,
+    "sma_20": 741.58,
+    "sma_50": 733.51,
+    "sma_200": 687.32,
+    "rsi_14": 51.91,
     "52_week_high": 760.4,
-    "52_week_low": 615.04,
-    "price_vs_52w_pct": 78.4,
-    "volume_surge": 1.02,
-    "avg_volume": 57978022,
+    "52_week_low": 615.52,
+    "price_vs_52w_pct": 86.6,
+    "volume_surge": 1.07,
+    "avg_volume": 57313170,
     "market_cap": null,
-    "pe_trailing": 26.108387,
+    "pe_trailing": 26.538519,
     "pe_forward": null,
     "peg_ratio": null,
     "eps_ttm": null,
@@ -33,16 +33,16 @@
     "profit_margin": null,
     "short_ratio": null,
     "beta": null,
-    "return_5d_pct": -2.07,
-    "return_1mo_pct": -3.39,
-    "return_3mo_pct": 15.26,
+    "return_5d_pct": 1.01,
+    "return_1mo_pct": -2.06,
+    "return_3mo_pct": 17.55,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "3mo_momentum",
       "score": 1.5,
-      "note": "Strong 3mo momentum +15.26%"
+      "note": "Strong 3mo momentum +17.55%"
     },
     {
       "name": "golden_cross",
@@ -52,54 +52,46 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (686.84) \u2014 confirmed uptrend"
-    },
-    {
-      "name": "sentiment",
-      "score": 1.0,
-      "note": "Bullish news sentiment (100.0)"
+      "note": "Price well above SMA200 (687.32) \u2014 confirmed uptrend"
     }
   ],
-  "reasons": [
-    "Bullish news sentiment detected"
-  ],
+  "reasons": [],
   "warnings": [],
   "sentiment": {
-    "score": 100.0,
-    "label": "BULLISH",
-    "bullish": 4,
-    "bearish": 0,
-    "total_mentions": 4
+    "score": 0,
+    "label": "NEUTRAL",
+    "bullish": 0,
+    "bearish": 0
   },
   "news": [
     {
-      "title": "Stock Market Today: Dow Rises On U.S.-Iran News; SpaceX Rallies On Addition To Nasdaq-100 Index (Live Coverage)",
-      "published": "Mon, 29 Jun 2026 12:06:34 +0000",
-      "url": "https://finance.yahoo.com/m/f09e44e5-75d2-3d24-a413-c960372d4f03/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+      "title": "Stock Market Today: Dow Rises Ahead Of Key Economic Data; AeroVironment Soars On Earnings (Live Coverage)",
+      "published": "Tue, 30 Jun 2026 12:09:03 +0000",
+      "url": "https://finance.yahoo.com/m/72cb64ac-956e-34d7-a70b-1bc0c9153407/stock-market-today%3A-dow-rises.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "\u201cYou\u2019re Gonna Get That $200,000 Back in Tax-Free Growth So Freaking Fast\u201d: Ramsey Host Explains Why Paying Taxes Now Can Leave More for Your Kids",
-      "published": "Mon, 29 Jun 2026 02:40:36 +0000",
-      "url": "https://247wallst.com/personal-finance/2026/06/28/youre-gonna-get-that-200000-back-in-tax-free-growth-so-freaking-fast-ramsey-host-explains-why-paying-taxes-now-can-leave-more-for-your-kids/?.tsrc=rss",
+      "title": "SpaceX Stock Vaporizes $811 Billion In Value",
+      "published": "Tue, 30 Jun 2026 11:30:29 +0000",
+      "url": "https://finance.yahoo.com/m/4753f1ed-8ed0-3d5c-a2de-60dfdf968d7c/spacex-stock-vaporizes-%24811.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "S&P 500, Dow, Nasdaq Futures Climb As US, Iran Reportedly Agree To Pause Further Escalation: SLS, WEN, MSTR, WDC Stocks In Focus",
-      "published": "Mon, 29 Jun 2026 01:45:45 +0000",
-      "url": "https://stocktwits.com/news-articles/markets/equity/sp500-dow-nasdaq-futures-climb-as-us-iran-reportedly-agree-to-pause-further-escalation/cZ1BsV6R7WD?.tsrc=rss",
+      "title": "S&P 500, Nasdaq, Dow Futures Retreat Ahead Of High-Stakes US-Iran Talks: SLS, QS, NKE, JACK In Focus",
+      "published": "Tue, 30 Jun 2026 01:50:13 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/sp500-nasdaq-dow-futures-retreat-ahead-of-high-stakes-us-iran-talks-sls-qs-nke-jack-in-focus/cZ1fCDmR7Ls?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "VOO vs. SPY: Which Popular S&P 500 ETF Is the Better Buy?",
-      "published": "Sun, 28 Jun 2026 17:23:01 +0000",
-      "url": "https://www.fool.com/coverage/etfs/2026/06/28/voo-vs-spy-which-popular-s-and-p-500-etf-is-the-better-buy/?.tsrc=rss",
+      "title": "S&P 500, Nasdaq End Higher To Record Best Quarter Since 2020, While Alphabet Debut Drives Dow \u2014 VZ, CMCSA, RKLB, SMCI, BATL, GOOGL In Focus",
+      "published": "Mon, 29 Jun 2026 21:57:41 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-to-record-best-quarter-since-2020-alphabet-debut-dow/cZ19VC2R7LN?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "5 AI Hardware Stocks Create a New \u2018MANIA\u2019 Trade That Replaces the Magnificent 7. Hedge Your Bets on the Hot Tickers with These 2 Leveraged ETFs.",
-      "published": "Sun, 28 Jun 2026 13:00:02 +0000",
-      "url": "https://www.barchart.com/story/news/3023086/5-ai-hardware-stocks-create-a-new-mania-trade-that-replaces-the-magnificent-7-hedge-your-bets-on-the-hot-tickers-with-these-2-leveraged-etfs?.tsrc=rss",
+      "title": "The Tool Giving Independent Advisors an Edge Over Big Banks",
+      "published": "Mon, 29 Jun 2026 21:22:19 +0000",
+      "url": "http://www.etf.com/sections/conferences/tool-giving-independent-advisors-edge-over-big-banks?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -107,6 +99,6 @@
     "https://finance.yahoo.com/quote/SPY"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 728.99,
+  "paper_trade_price": 741.0,
   "asset_type": "stock"
 }

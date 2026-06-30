@@ -2,62 +2,52 @@
   "task_id": "",
   "subject": "AAPL analysis",
   "ticker": "AAPL",
-  "timestamp": "2026-06-29T12:30:59.048805+00:00",
+  "timestamp": "2026-06-30T12:30:36.327829+00:00",
   "recommendation": "ACCUMULATE",
-  "confidence": 69,
-  "summary": "AAPL @ $283.78 \u2014 ACCUMULATE (69% confidence) | Bullish: RSI 33.48 \u2014 approaching oversold | RSI: 33.48 | P/E: 34.35593 | Strategy: GROWTH",
-  "signal_score": 0.375,
+  "confidence": 64,
+  "summary": "AAPL @ $281.74 \u2014 ACCUMULATE (64% confidence) | RSI: 35.35 | P/E: 34.150303 | Strategy: GROWTH",
+  "signal_score": 0.167,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "AAPL",
-    "current_price": 283.78,
-    "previous_close": 275.15,
-    "day_change_pct": 3.14,
-    "sma_20": 298.29,
-    "sma_50": 291.41,
-    "sma_200": 269.08,
-    "rsi_14": 33.48,
+    "current_price": 281.74,
+    "previous_close": 283.78,
+    "day_change_pct": -0.72,
+    "sma_20": 296.77,
+    "sma_50": 291.78,
+    "sma_200": 269.35,
+    "rsi_14": 35.35,
     "52_week_high": 317.4,
-    "52_week_low": 199.26,
-    "price_vs_52w_pct": 71.5,
-    "volume_surge": 1.98,
-    "avg_volume": 52377906,
-    "market_cap": 4167977926656,
-    "pe_trailing": 34.35593,
-    "pe_forward": 29.532974,
+    "52_week_low": 201.5,
+    "price_vs_52w_pct": 69.2,
+    "volume_surge": 2.05,
+    "avg_volume": 52813456,
+    "market_cap": 4138015391744,
+    "pe_trailing": 34.150303,
+    "pe_forward": 29.320671,
     "peg_ratio": 2.29,
-    "eps_ttm": 8.26,
+    "eps_ttm": 8.25,
     "eps_forward": 9.60892,
     "revenue_growth": 0.166,
     "earnings_growth": 0.218,
     "profit_margin": 0.27152002,
     "short_ratio": 2.88,
     "beta": 1.086,
-    "return_5d_pct": -4.45,
-    "return_1mo_pct": -9.06,
-    "return_3mo_pct": 14.16,
+    "return_5d_pct": -4.27,
+    "return_1mo_pct": -8.02,
+    "return_3mo_pct": 14.34,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
       "score": -0.5,
-      "note": "Negative 1mo momentum -9.06%"
-    },
-    {
-      "name": "day_spike",
-      "score": 0.5,
-      "note": "Big daily move +3.14%"
-    },
-    {
-      "name": "rsi",
-      "score": 1.0,
-      "note": "RSI oversold 33.48"
+      "note": "Negative 1mo momentum -8.02%"
     },
     {
       "name": "sma20",
       "score": -0.5,
-      "note": "Price below SMA20 (298.29)"
+      "note": "Price below SMA20 (296.77)"
     },
     {
       "name": "golden_cross",
@@ -65,14 +55,9 @@
       "note": "SMA20 > SMA50 (short-term uptrend)"
     },
     {
-      "name": "sma200",
-      "score": 1.0,
-      "note": "Price well above SMA200 (269.08) \u2014 confirmed uptrend"
-    },
-    {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 34.35593x"
+      "note": "Elevated P/E 34.150303x"
     },
     {
       "name": "peg",
@@ -88,48 +73,50 @@
       "name": "earnings_growth",
       "score": 1.0,
       "note": "Earnings growing 22% YoY"
+    },
+    {
+      "name": "volume",
+      "score": 0.5,
+      "note": "Volume surge 2.05x average"
     }
   ],
-  "reasons": [
-    "RSI 33.48 \u2014 approaching oversold"
-  ],
+  "reasons": [],
   "warnings": [],
   "sentiment": {
-    "score": 20.0,
+    "score": 0,
     "label": "NEUTRAL",
-    "bullish": 3,
-    "bearish": 2,
-    "total_mentions": 5
+    "bullish": 0,
+    "bearish": 0
   },
   "news": [
     {
-      "title": "Bank of America Issues Stark Warning on AI Stocks Rally",
-      "published": "Mon, 29 Jun 2026 12:16:38 +0000",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-issues-stark-warning-121638461.html?.tsrc=rss",
+      "title": "Apple Supplier Luxshare Plans Hong Kong Share Sale",
+      "published": "Tue, 30 Jun 2026 12:26:39 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-supplier-luxshare-plans-hong-122639512.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Apple\u2019s (AAPL) AI Strategy Reset Gains Wall Street Support Amid Cybersecurity Probe",
-      "published": "Mon, 29 Jun 2026 11:53:26 +0000",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-ai-strategy-reset-115326070.html?.tsrc=rss",
+      "title": "'Not constructive': Tim Cook blames Micron for Apple's $300 price hike. Micron suggests Apple helped cause the shortage",
+      "published": "Tue, 30 Jun 2026 12:15:00 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/not-constructive-tim-cook-blames-121500109.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Stock futures rise as U.S. and Iran agree to stop latest attacks",
-      "published": "Mon, 29 Jun 2026 11:33:07 +0000",
-      "url": "https://qz.com/stock-futures-nasdaq-sp500-us-iran-hostilities-pause-062926?.tsrc=rss",
+      "title": "Apple Supplier Leak Exposes iPhone 18 Details",
+      "published": "Tue, 30 Jun 2026 12:14:10 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-supplier-leak-exposes-iphone-121410097.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Market Chatter: Apple Says India Antitrust Investigation Findings Copied Rivals' Claims",
-      "published": "Mon, 29 Jun 2026 11:18:31 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-apple-says-india-111831051.html?.tsrc=rss",
+      "title": "Magnificent Seven stocks lose $2.3 trillion in June 2026",
+      "published": "Tue, 30 Jun 2026 12:13:43 +0000",
+      "url": "https://qz.com/magnificent-seven-stocks-trillion-loss-ai-spending-063026?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Comcast, Alphabet, Palantir, SpaceX, Microsoft, and More Stocks That Explain Today\u2019s Market",
-      "published": "Mon, 29 Jun 2026 10:25:00 +0000",
-      "url": "https://finance.yahoo.com/m/b10bddbf-cf12-31c1-a4b9-c8359ab511df/comcast%2C-alphabet%2C-palantir%2C.html?.tsrc=rss",
+      "title": "Invesco QQQ Is Magnificent, but This 1 ETF Might Be Even Better Right Now",
+      "published": "Tue, 30 Jun 2026 12:06:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/30/invesco-qqq-magnificent-this-etf-might-better-qqqe/?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -137,6 +124,6 @@
     "https://finance.yahoo.com/quote/AAPL"
   ],
   "paper_trade_signal": "ACCUMULATE",
-  "paper_trade_price": 283.78,
+  "paper_trade_price": 281.74,
   "asset_type": "stock"
 }

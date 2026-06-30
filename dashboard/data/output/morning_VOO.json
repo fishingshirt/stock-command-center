@@ -2,28 +2,28 @@
   "task_id": "",
   "subject": "VOO analysis",
   "ticker": "VOO",
-  "timestamp": "2026-06-29T12:31:58.837584+00:00",
+  "timestamp": "2026-06-30T12:31:36.458807+00:00",
   "recommendation": "BUY",
   "confidence": 95,
-  "summary": "VOO @ $670.26 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 46.2 | P/E: 26.158245 | Strategy: GROWTH",
+  "summary": "VOO @ $681.01 \u2014 BUY (95% confidence) | Bullish: Bullish news sentiment detected | RSI: 51.94 | P/E: 26.577785 | Strategy: GROWTH",
   "signal_score": 1.0,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "VOO",
-    "current_price": 670.26,
-    "previous_close": 673.75,
-    "day_change_pct": -0.52,
-    "sma_20": 682.13,
-    "sma_50": 673.34,
-    "sma_200": 631.15,
-    "rsi_14": 46.2,
+    "current_price": 681.01,
+    "previous_close": 670.26,
+    "day_change_pct": 1.6,
+    "sma_20": 681.5,
+    "sma_50": 674.1,
+    "sma_200": 631.59,
+    "rsi_14": 51.94,
     "52_week_high": 699.15,
-    "52_week_low": 565.38,
-    "price_vs_52w_pct": 78.4,
-    "volume_surge": 1.73,
-    "avg_volume": 8441245,
+    "52_week_low": 565.8,
+    "price_vs_52w_pct": 86.4,
+    "volume_surge": 1.56,
+    "avg_volume": 8342170,
     "market_cap": null,
-    "pe_trailing": 26.158245,
+    "pe_trailing": 26.577785,
     "pe_forward": null,
     "peg_ratio": null,
     "eps_ttm": null,
@@ -33,16 +33,16 @@
     "profit_margin": null,
     "short_ratio": null,
     "beta": null,
-    "return_5d_pct": -2.02,
-    "return_1mo_pct": -3.35,
-    "return_3mo_pct": 15.31,
+    "return_5d_pct": 0.98,
+    "return_1mo_pct": -2.05,
+    "return_3mo_pct": 17.57,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "3mo_momentum",
       "score": 1.5,
-      "note": "Strong 3mo momentum +15.31%"
+      "note": "Strong 3mo momentum +17.57%"
     },
     {
       "name": "golden_cross",
@@ -52,12 +52,12 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (631.15) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (631.59) \u2014 confirmed uptrend"
     },
     {
       "name": "sentiment",
       "score": 1.0,
-      "note": "Bullish news sentiment (50.0)"
+      "note": "Bullish news sentiment (100.0)"
     }
   ],
   "reasons": [
@@ -65,41 +65,41 @@
   ],
   "warnings": [],
   "sentiment": {
-    "score": 50.0,
+    "score": 100.0,
     "label": "BULLISH",
-    "bullish": 3,
-    "bearish": 1,
-    "total_mentions": 4
+    "bullish": 1,
+    "bearish": 0,
+    "total_mentions": 1
   },
   "news": [
     {
-      "title": "VOO vs. SPY: Which Popular S&P 500 ETF Is the Better Buy?",
-      "published": "Sun, 28 Jun 2026 17:23:01 +0000",
-      "url": "https://www.fool.com/coverage/etfs/2026/06/28/voo-vs-spy-which-popular-s-and-p-500-etf-is-the-better-buy/?.tsrc=rss",
+      "title": "SpaceX Stock Vaporizes $811 Billion In Value",
+      "published": "Tue, 30 Jun 2026 11:30:29 +0000",
+      "url": "https://finance.yahoo.com/m/4753f1ed-8ed0-3d5c-a2de-60dfdf968d7c/spacex-stock-vaporizes-%24811.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "This Vanguard Index Fund Could Be the Best Financial Decision You Ever Make",
-      "published": "Sat, 27 Jun 2026 17:20:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/27/vanguard-index-fund-best-financial-decision-voo/?.tsrc=rss",
+      "title": "Prediction: This Overlooked ETF Could Be the Smartest Buy of 2026",
+      "published": "Tue, 30 Jun 2026 09:33:00 +0000",
+      "url": "https://www.fool.com/investing/2026/06/30/predict-overlooked-etf-smart-buy-2026-ixus/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "VOO Became the First ETF to Hit $1 Trillion, but Nearly 40% of It Is Now Tech",
-      "published": "Fri, 26 Jun 2026 19:00:23 +0000",
-      "url": "https://247wallst.com/investing/2026/06/26/voo-became-the-first-etf-to-hit-1-trillion-but-nearly-40-of-it-is-now-tech/?.tsrc=rss",
+      "title": "The Tool Giving Independent Advisors an Edge Over Big Banks",
+      "published": "Mon, 29 Jun 2026 21:22:19 +0000",
+      "url": "http://www.etf.com/sections/conferences/tool-giving-independent-advisors-edge-over-big-banks?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "How Much of Your Portfolio Should Be in Index Funds?",
-      "published": "Fri, 26 Jun 2026 12:02:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/26/how-much-of-your-portfolio-should-be-in-index-fund/?.tsrc=rss",
+      "title": "You\u2019re 55 With $250K Sitting in Cash While Inflation Eats It Alive. These 3 Funds Put It to Work",
+      "published": "Mon, 29 Jun 2026 21:17:04 +0000",
+      "url": "https://247wallst.com/investing/etf/2026/06/29/youre-55-with-250k-sitting-in-cash-while-inflation-eats-it-alive-these-3-funds-put-it-to-work/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "VOOG vs. VONG: Which Vanguard Growth ETF Is the Better Buy?",
-      "published": "Fri, 26 Jun 2026 11:16:13 +0000",
-      "url": "https://www.fool.com/coverage/etfs/2026/06/26/voog-vs-vong-which-vanguard-growth-etf-is-the-better-buy/?.tsrc=rss",
+      "title": "ETF League Tables: Vanguard Sheds $11.6B",
+      "published": "Mon, 29 Jun 2026 21:00:35 +0000",
+      "url": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-vanguard-sheds-116b?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss&.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -107,6 +107,6 @@
     "https://finance.yahoo.com/quote/VOO"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 670.26,
+  "paper_trade_price": 681.01,
   "asset_type": "stock"
 }
