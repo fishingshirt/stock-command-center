@@ -2,28 +2,28 @@
   "task_id": "",
   "subject": "MTUM analysis",
   "ticker": "MTUM",
-  "timestamp": "2026-06-30T12:31:24.362187+00:00",
+  "timestamp": "2026-07-01T12:31:47.270292+00:00",
   "recommendation": "BUY",
   "confidence": 85,
-  "summary": "MTUM @ $336.0 \u2014 BUY (85% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 91.7% of 52-week range \u2014 limited upside | RSI: 59.05 | P/E: 35.74907 | Strategy: GROWTH",
-  "signal_score": 0.625,
+  "summary": "MTUM @ $342.83 \u2014 BUY (85% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 97.6% of 52-week range \u2014 limited upside | RSI: 63.05 | P/E: 36.475754 | Strategy: GROWTH",
+  "signal_score": 0.6,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "MTUM",
-    "current_price": 336.0,
-    "previous_close": 325.74,
-    "day_change_pct": 3.15,
-    "sma_20": 325.36,
-    "sma_50": 305.9,
-    "sma_200": 264.97,
-    "rsi_14": 59.05,
+    "current_price": 342.83,
+    "previous_close": 336.0,
+    "day_change_pct": 2.03,
+    "sma_20": 326.67,
+    "sma_50": 307.27,
+    "sma_200": 265.42,
+    "rsi_14": 63.05,
     "52_week_high": 345.59,
     "52_week_low": 229.42,
-    "price_vs_52w_pct": 91.7,
-    "volume_surge": 1.41,
-    "avg_volume": 1244732,
+    "price_vs_52w_pct": 97.6,
+    "volume_surge": 1.51,
+    "avg_volume": 1258067,
     "market_cap": null,
-    "pe_trailing": 35.74907,
+    "pe_trailing": 36.475754,
     "pe_forward": null,
     "peg_ratio": null,
     "eps_ttm": null,
@@ -33,31 +33,26 @@
     "profit_margin": null,
     "short_ratio": null,
     "beta": null,
-    "return_5d_pct": 1.89,
-    "return_1mo_pct": 6.13,
-    "return_3mo_pct": 45.76,
+    "return_5d_pct": 4.39,
+    "return_1mo_pct": 5.27,
+    "return_3mo_pct": 39.95,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
       "score": 1.0,
-      "note": "Positive 1mo momentum +6.13%"
+      "note": "Positive 1mo momentum +5.27%"
     },
     {
       "name": "3mo_momentum",
       "score": 1.5,
-      "note": "Strong 3mo momentum +45.76%"
-    },
-    {
-      "name": "day_spike",
-      "score": 0.5,
-      "note": "Big daily move +3.15%"
+      "note": "Strong 3mo momentum +39.95%"
     },
     {
       "name": "sma20",
       "score": 0.5,
-      "note": "Price above SMA20 (325.36)"
+      "note": "Price above SMA20 (326.67)"
     },
     {
       "name": "golden_cross",
@@ -67,17 +62,17 @@
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (264.97) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (265.42) \u2014 confirmed uptrend"
     },
     {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 35.74907x"
+      "note": "Elevated P/E 36.475754x"
     },
     {
       "name": "52w",
       "score": -1.0,
-      "note": "Near 52-week high (91.7% of range)"
+      "note": "Near 52-week high (97.6% of range)"
     },
     {
       "name": "sentiment",
@@ -89,7 +84,7 @@
     "Bullish news sentiment detected"
   ],
   "warnings": [
-    "Price at 91.7% of 52-week range \u2014 limited upside"
+    "Price at 97.6% of 52-week range \u2014 limited upside"
   ],
   "sentiment": {
     "score": 100.0,
@@ -99,6 +94,12 @@
     "total_mentions": 4
   },
   "news": [
+    {
+      "title": "MTUM Investors: Watch Micron\u2019s Weight at the November Reconstitution",
+      "published": "Wed, 01 Jul 2026 11:55:56 +0000",
+      "url": "https://247wallst.com/investing/2026/07/01/mtum-investors-watch-microns-weight-at-the-november-reconstitution/?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
     {
       "title": "Momentum and Small-Caps Lead Market Amid Big IPO",
       "published": "Fri, 12 Jun 2026 18:18:08 +0000",
@@ -122,18 +123,12 @@
       "published": "Tue, 09 Jun 2026 13:26:41 +0000",
       "url": "https://247wallst.com/investing/2026/06/09/apple-just-delivered-its-75-per-share-ai-moment-at-wwdc-wall-street-says-the-stock-could-hit-440-by-year-end/?.tsrc=rss",
       "source": "Yahoo Finance"
-    },
-    {
-      "title": "The Dow Wobbles as Wall Street Chases Chips, Other Momentum Stocks",
-      "published": "Mon, 08 Jun 2026 18:31:08 +0000",
-      "url": "https://finance.yahoo.com/m/17c7fe52-5972-346e-9b8c-6e0b5916f7bc/the-dow-wobbles-as-wall.html?.tsrc=rss",
-      "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/MTUM"
   ],
   "paper_trade_signal": "BUY",
-  "paper_trade_price": 336.0,
+  "paper_trade_price": 342.83,
   "asset_type": "stock"
 }

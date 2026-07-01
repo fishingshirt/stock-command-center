@@ -2,72 +2,67 @@
   "task_id": "",
   "subject": "TTWO analysis",
   "ticker": "TTWO",
-  "timestamp": "2026-06-30T12:31:12.252105+00:00",
+  "timestamp": "2026-07-01T12:31:27.094587+00:00",
   "recommendation": "ACCUMULATE",
   "confidence": 67,
-  "summary": "TTWO @ $247.15 \u2014 ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | Warnings: RSI 80.12 \u2014 possible reversal risk | RSI: 80.12 | Strategy: GROWTH",
+  "summary": "TTWO @ $249.98 \u2014 ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | Warnings: RSI 81.73 \u2014 possible reversal risk | RSI: 81.73 | Strategy: MOMENTUM",
   "signal_score": 0.294,
-  "strategy": "GROWTH",
+  "strategy": "MOMENTUM",
   "key_metrics": {
     "ticker": "TTWO",
-    "current_price": 247.15,
-    "previous_close": 238.53,
-    "day_change_pct": 3.61,
-    "sma_20": 225.55,
-    "sma_50": 224.11,
-    "sma_200": 230.79,
-    "rsi_14": 80.12,
+    "current_price": 249.98,
+    "previous_close": 247.15,
+    "day_change_pct": 1.15,
+    "sma_20": 226.7,
+    "sma_50": 224.87,
+    "sma_200": 230.81,
+    "rsi_14": 81.73,
     "52_week_high": 264.79,
     "52_week_low": 187.63,
-    "price_vs_52w_pct": 77.1,
-    "volume_surge": 1.72,
-    "avg_volume": 2373685,
-    "market_cap": 45887512576,
+    "price_vs_52w_pct": 80.8,
+    "volume_surge": 1.69,
+    "avg_volume": 2407285,
+    "market_cap": 46412951552,
     "pe_trailing": null,
-    "pe_forward": 24.792204,
+    "pe_forward": 25.076088,
     "peg_ratio": 3.33,
-    "eps_ttm": -1.63,
+    "eps_ttm": -1.62,
     "eps_forward": 9.96886,
     "revenue_growth": 0.061,
     "earnings_growth": null,
     "profit_margin": -0.0448,
     "short_ratio": 3.09,
     "beta": 0.982,
-    "return_5d_pct": 1.86,
-    "return_1mo_pct": 8.89,
-    "return_3mo_pct": 28.0,
+    "return_5d_pct": 6.03,
+    "return_1mo_pct": 12.41,
+    "return_3mo_pct": 26.13,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
-      "score": 1.0,
-      "note": "Positive 1mo momentum +8.89%"
+      "score": 1.5,
+      "note": "Strong 1mo momentum +12.41%"
     },
     {
       "name": "3mo_momentum",
       "score": 1.5,
-      "note": "Strong 3mo momentum +28.0%"
-    },
-    {
-      "name": "day_spike",
-      "score": 0.5,
-      "note": "Big daily move +3.61%"
+      "note": "Strong 3mo momentum +26.13%"
     },
     {
       "name": "rsi",
       "score": -2.0,
-      "note": "RSI extremely overbought 80.12"
+      "note": "RSI extremely overbought 81.73"
     },
     {
       "name": "sma20",
       "score": 0.5,
-      "note": "Price above SMA20 (225.55)"
+      "note": "Price above SMA20 (226.7)"
     },
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (230.79) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (230.81) \u2014 confirmed uptrend"
     },
     {
       "name": "peg",
@@ -84,16 +79,34 @@
     "Bullish news sentiment detected"
   ],
   "warnings": [
-    "RSI 80.12 \u2014 possible reversal risk"
+    "RSI 81.73 \u2014 possible reversal risk"
   ],
   "sentiment": {
     "score": 100.0,
     "label": "BULLISH",
-    "bullish": 3,
+    "bullish": 2,
     "bearish": 0,
-    "total_mentions": 3
+    "total_mentions": 2
   },
   "news": [
+    {
+      "title": "Why Take-Two Interactive (TTWO) Outpaced the Stock Market Today",
+      "published": "Tue, 30 Jun 2026 21:50:06 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-two-interactive-ttwo-outpaced-215006886.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Brokers Suggest Investing in Take-Two (TTWO): Read This Before Placing a Bet",
+      "published": "Tue, 30 Jun 2026 13:31:21 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/brokers-suggest-investing-two-ttwo-133121757.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Has Roblox Stock Finally Turned The Corner?",
+      "published": "Tue, 30 Jun 2026 13:05:01 +0000",
+      "url": "https://www.trefis.com/articles/605132/has-roblox-stock-finally-turned-the-corner/2026-06-30?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
     {
       "title": "Take-Two (TTWO) Stock Is Up, What You Need To Know",
       "published": "Mon, 29 Jun 2026 22:34:15 +0000",
@@ -105,30 +118,12 @@
       "published": "Mon, 29 Jun 2026 02:35:11 +0000",
       "url": "https://247wallst.com/investing/2026/06/28/gaming-etf-becomes-growth-fund-trailing-dividend-payout-no-longer-reflects-new-holdings/?.tsrc=rss",
       "source": "Yahoo Finance"
-    },
-    {
-      "title": "Gonna buy Take-Two shares before the GTA 6 release? Here's how blockbuster game launches actually move stocks",
-      "published": "Sun, 28 Jun 2026 12:15:00 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gonna-buy-two-shares-gta-121500369.html?.tsrc=rss",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Viral post says GTA 6 cost as much to build as the $1.5B+ Burj Khalifa \u2014 analysts say Take-Two could recoup that in days",
-      "published": "Sat, 27 Jun 2026 18:45:00 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/viral-post-says-gta-6-184500207.html?.tsrc=rss",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Take Two (TTWO) Reveals GTA VI Pricing And Digital Only Launch Details",
-      "published": "Fri, 26 Jun 2026 21:10:10 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/two-ttwo-reveals-gta-vi-211010207.html?.tsrc=rss",
-      "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/TTWO"
   ],
   "paper_trade_signal": "ACCUMULATE",
-  "paper_trade_price": 247.15,
+  "paper_trade_price": 249.98,
   "asset_type": "stock"
 }

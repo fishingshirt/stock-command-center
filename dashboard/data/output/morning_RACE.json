@@ -2,52 +2,52 @@
   "task_id": "",
   "subject": "RACE analysis",
   "ticker": "RACE",
-  "timestamp": "2026-06-30T12:31:00.205238+00:00",
+  "timestamp": "2026-07-01T12:31:09.389368+00:00",
   "recommendation": "ACCUMULATE",
   "confidence": 66,
-  "summary": "RACE @ $368.34 \u2014 ACCUMULATE (66% confidence) | RSI: 56.75 | P/E: 35.970703 | Strategy: GROWTH",
+  "summary": "RACE @ $372.29 \u2014 ACCUMULATE (66% confidence) | RSI: 56.04 | P/E: 36.356445 | Strategy: GROWTH",
   "signal_score": 0.25,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "RACE",
-    "current_price": 368.34,
+    "current_price": 372.29,
     "previous_close": 368.34,
-    "day_change_pct": 0.0,
-    "sma_20": 355.15,
-    "sma_50": 347.01,
-    "sma_200": 370.98,
-    "rsi_14": 56.75,
+    "day_change_pct": 1.07,
+    "sma_20": 356.31,
+    "sma_50": 347.09,
+    "sma_200": 370.47,
+    "rsi_14": 56.04,
     "52_week_high": 519.1,
     "52_week_low": 312.51,
-    "price_vs_52w_pct": 27.0,
-    "volume_surge": 1.02,
-    "avg_volume": 645087,
-    "market_cap": 64825929728,
-    "pe_trailing": 35.970703,
-    "pe_forward": 30.135578,
+    "price_vs_52w_pct": 28.9,
+    "volume_surge": 1.09,
+    "avg_volume": 625183,
+    "market_cap": 65497784320,
+    "pe_trailing": 36.356445,
+    "pe_forward": 30.36592,
     "peg_ratio": 4.09,
     "eps_ttm": 10.24,
-    "eps_forward": 12.222762,
+    "eps_forward": 12.260126,
     "revenue_growth": 0.032,
     "earnings_growth": 0.013,
     "profit_margin": 0.22187,
     "short_ratio": 4.59,
     "beta": 0.595,
-    "return_5d_pct": 6.81,
-    "return_1mo_pct": 5.47,
-    "return_3mo_pct": 13.87,
+    "return_5d_pct": 6.75,
+    "return_1mo_pct": 5.22,
+    "return_3mo_pct": 9.97,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
       "score": 1.0,
-      "note": "Positive 1mo momentum +5.47%"
+      "note": "Positive 1mo momentum +5.22%"
     },
     {
       "name": "sma20",
       "score": 0.5,
-      "note": "Price above SMA20 (355.15)"
+      "note": "Price above SMA20 (356.31)"
     },
     {
       "name": "golden_cross",
@@ -57,7 +57,7 @@
     {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 35.970703x"
+      "note": "Elevated P/E 36.356445x"
     },
     {
       "name": "peg",
@@ -75,6 +75,24 @@
   },
   "news": [
     {
+      "title": "Ford And Ferrari Left Tesla, Rivian, Every Other Auto Rival In The Dust In H1 \u2014 Here's How They Did It",
+      "published": "Wed, 01 Jul 2026 04:16:22 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/ford-ferrari-tesla-rivian-auto-rivals-h1/cZm3GERR7KG?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "Director sentenced for using Netflix funds to trade crypto",
+      "published": "Tue, 30 Jun 2026 20:30:00 +0000",
+      "url": "https://finance.yahoo.com/video/director-sentenced-using-netflix-funds-203000772.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
+      "title": "KLIM AND RESEARCH FRONTIERS ENTER INTO LICENSING AGREEMENT",
+      "published": "Tue, 30 Jun 2026 12:30:00 +0000",
+      "url": "https://finance.yahoo.com/technology/articles/klim-research-frontiers-enter-licensing-123000147.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
+    {
       "title": "FERRARI N.V.: PERIODIC REPORT ON THE BUYBACK PROGRAM",
       "published": "Mon, 29 Jun 2026 12:26:00 +0000",
       "url": "https://finance.yahoo.com/news/ferrari-n-v-periodic-report-122600451.html?.tsrc=rss",
@@ -85,30 +103,12 @@
       "published": "Sun, 28 Jun 2026 15:06:46 +0000",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ferrari-bit-race-replaces-marketing-150646647.html?.tsrc=rss",
       "source": "Yahoo Finance"
-    },
-    {
-      "title": "She billed Medicare $906 million for hospice patients \u2014 then spent it on a Ferrari and a Bulgari necklace",
-      "published": "Sat, 27 Jun 2026 21:45:00 +0000",
-      "url": "https://finance.yahoo.com/news/she-billed-medicare-906-million-for-hospice-patients--then-spent-it-on-a-ferrari-and-a-bulgari-necklace-214500227.html?.tsrc=rss",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Ferrari marketing chief quits after launching car that looks like a Nissan",
-      "published": "Thu, 25 Jun 2026 13:17:32 +0000",
-      "url": "https://uk.finance.yahoo.com/news/ferrari-marketing-chief-quits-launching-131732530.html?.tsrc=rss",
-      "source": "Yahoo Finance"
-    },
-    {
-      "title": "Ferrari marketing chief ousted after launching car that looks like a Nissan",
-      "published": "Thu, 25 Jun 2026 13:17:32 +0000",
-      "url": "https://www.telegraph.co.uk/business/2026/06/25/ferrari-marketing-chief-ousted/?.tsrc=rss",
-      "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/RACE"
   ],
   "paper_trade_signal": "ACCUMULATE",
-  "paper_trade_price": 368.34,
+  "paper_trade_price": 372.29,
   "asset_type": "stock"
 }

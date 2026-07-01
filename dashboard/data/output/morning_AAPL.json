@@ -2,29 +2,29 @@
   "task_id": "",
   "subject": "AAPL analysis",
   "ticker": "AAPL",
-  "timestamp": "2026-06-30T12:30:36.327829+00:00",
+  "timestamp": "2026-07-01T12:30:31.276848+00:00",
   "recommendation": "ACCUMULATE",
-  "confidence": 64,
-  "summary": "AAPL @ $281.74 \u2014 ACCUMULATE (64% confidence) | RSI: 35.35 | P/E: 34.150303 | Strategy: GROWTH",
-  "signal_score": 0.167,
+  "confidence": 69,
+  "summary": "AAPL @ $289.36 \u2014 ACCUMULATE (69% confidence) | Bullish: Bullish news sentiment detected | RSI: 49.07 | P/E: 35.073936 | Strategy: GROWTH",
+  "signal_score": 0.375,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "AAPL",
-    "current_price": 281.74,
-    "previous_close": 283.78,
-    "day_change_pct": -0.72,
-    "sma_20": 296.77,
-    "sma_50": 291.78,
-    "sma_200": 269.35,
-    "rsi_14": 35.35,
+    "current_price": 289.36,
+    "previous_close": 281.74,
+    "day_change_pct": 2.7,
+    "sma_20": 295.93,
+    "sma_50": 292.17,
+    "sma_200": 269.65,
+    "rsi_14": 49.07,
     "52_week_high": 317.4,
     "52_week_low": 201.5,
-    "price_vs_52w_pct": 69.2,
-    "volume_surge": 2.05,
-    "avg_volume": 52813456,
-    "market_cap": 4138015391744,
-    "pe_trailing": 34.150303,
-    "pe_forward": 29.320671,
+    "price_vs_52w_pct": 75.8,
+    "volume_surge": 2.08,
+    "avg_volume": 53276708,
+    "market_cap": 4249933053952,
+    "pe_trailing": 35.073936,
+    "pe_forward": 30.113684,
     "peg_ratio": 2.29,
     "eps_ttm": 8.25,
     "eps_forward": 9.60892,
@@ -33,21 +33,21 @@
     "profit_margin": 0.27152002,
     "short_ratio": 2.88,
     "beta": 1.086,
-    "return_5d_pct": -4.27,
-    "return_1mo_pct": -8.02,
-    "return_3mo_pct": 14.34,
+    "return_5d_pct": -1.27,
+    "return_1mo_pct": -8.2,
+    "return_3mo_pct": 13.3,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
       "score": -0.5,
-      "note": "Negative 1mo momentum -8.02%"
+      "note": "Negative 1mo momentum -8.2%"
     },
     {
       "name": "sma20",
       "score": -0.5,
-      "note": "Price below SMA20 (296.77)"
+      "note": "Price below SMA20 (295.93)"
     },
     {
       "name": "golden_cross",
@@ -55,9 +55,14 @@
       "note": "SMA20 > SMA50 (short-term uptrend)"
     },
     {
+      "name": "sma200",
+      "score": 1.0,
+      "note": "Price well above SMA200 (269.65) \u2014 confirmed uptrend"
+    },
+    {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 34.150303x"
+      "note": "Elevated P/E 35.073936x"
     },
     {
       "name": "peg",
@@ -77,46 +82,54 @@
     {
       "name": "volume",
       "score": 0.5,
-      "note": "Volume surge 2.05x average"
+      "note": "Volume surge 2.08x average"
+    },
+    {
+      "name": "sentiment",
+      "score": 1.0,
+      "note": "Bullish news sentiment (100.0)"
     }
   ],
-  "reasons": [],
+  "reasons": [
+    "Bullish news sentiment detected"
+  ],
   "warnings": [],
   "sentiment": {
-    "score": 0,
-    "label": "NEUTRAL",
-    "bullish": 0,
-    "bearish": 0
+    "score": 100.0,
+    "label": "BULLISH",
+    "bullish": 1,
+    "bearish": 0,
+    "total_mentions": 1
   },
   "news": [
     {
-      "title": "Apple Supplier Luxshare Plans Hong Kong Share Sale",
-      "published": "Tue, 30 Jun 2026 12:26:39 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-supplier-luxshare-plans-hong-122639512.html?.tsrc=rss",
+      "title": "MTUM Investors: Watch Micron\u2019s Weight at the November Reconstitution",
+      "published": "Wed, 01 Jul 2026 11:55:56 +0000",
+      "url": "https://247wallst.com/investing/2026/07/01/mtum-investors-watch-microns-weight-at-the-november-reconstitution/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "'Not constructive': Tim Cook blames Micron for Apple's $300 price hike. Micron suggests Apple helped cause the shortage",
-      "published": "Tue, 30 Jun 2026 12:15:00 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/not-constructive-tim-cook-blames-121500109.html?.tsrc=rss",
+      "title": "Trump\u2019s Crypto Billions, Apple Stock, and More From His Latest Financial Filing",
+      "published": "Wed, 01 Jul 2026 10:50:00 +0000",
+      "url": "https://finance.yahoo.com/m/3486bc98-633e-3474-bc5c-416036db2f61/trump%E2%80%99s-crypto-billions%2C.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Apple Supplier Leak Exposes iPhone 18 Details",
-      "published": "Tue, 30 Jun 2026 12:14:10 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-supplier-leak-exposes-iphone-121410097.html?.tsrc=rss",
+      "title": "Stock Markets Enter a Crucial Period as Investors Play Defense to Inflation Risks",
+      "published": "Wed, 01 Jul 2026 10:18:00 +0000",
+      "url": "https://finance.yahoo.com/m/2840b238-3c67-3899-93bd-2d9f11687aff/stock-markets-enter-a-crucial.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Magnificent Seven stocks lose $2.3 trillion in June 2026",
-      "published": "Tue, 30 Jun 2026 12:13:43 +0000",
-      "url": "https://qz.com/magnificent-seven-stocks-trillion-loss-ai-spending-063026?.tsrc=rss",
+      "title": "EU says it held 'constructive' talks with Apple CEO Cook after Siri AI clash",
+      "published": "Wed, 01 Jul 2026 07:39:16 +0000",
+      "url": "https://finance.yahoo.com/technology/articles/eu-tech-chief-apple-ceo-073916599.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Invesco QQQ Is Magnificent, but This 1 ETF Might Be Even Better Right Now",
-      "published": "Tue, 30 Jun 2026 12:06:00 +0000",
-      "url": "https://www.fool.com/investing/2026/06/30/invesco-qqq-magnificent-this-etf-might-better-qqqe/?.tsrc=rss",
+      "title": "As Big Tech showers employees with perks to win the talent war, Nvidia built a nearly $5 trillion company by making people pay for their own lunch",
+      "published": "Wed, 01 Jul 2026 07:00:00 +0000",
+      "url": "https://finance.yahoo.com/technology/articles/big-tech-showers-employees-perks-070000576.html?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -124,6 +137,6 @@
     "https://finance.yahoo.com/quote/AAPL"
   ],
   "paper_trade_signal": "ACCUMULATE",
-  "paper_trade_price": 281.74,
+  "paper_trade_price": 289.36,
   "asset_type": "stock"
 }
