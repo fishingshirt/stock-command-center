@@ -6,14 +6,6 @@ This is the single source of truth for all research and build tasks. Do not edit
 
 ## To Do
 
-### Task ID: 20260702-006
-**Subject:** RACE analysis
-**Assigned Bot:** researcher_bot
-**Priority:** medium
-**Created:** 2026-07-02
-**Details:**
-Real-time market analysis for RACE. Auto-generated watchlist task.
-
 ### Task ID: 20260702-007
 **Subject:** TTWO analysis
 **Assigned Bot:** researcher_bot
@@ -88,7 +80,14 @@ Real-time market analysis for MTUM. Auto-generated watchlist task.
 
 ## In Progress
 
-_(No tasks in this section.)_
+### Task ID: 20260702-006
+**Subject:** RACE analysis
+**Assigned Bot:** researcher_bot
+**Priority:** medium
+**Created:** 2026-07-02
+**Started At:** 2026-07-02T06:00:27.926487+00:00
+**Details:**
+Real-time market analysis for RACE. Auto-generated watchlist task.
 
 ## Done
 
