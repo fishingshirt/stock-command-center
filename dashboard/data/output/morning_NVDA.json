@@ -2,30 +2,30 @@
   "task_id": "",
   "subject": "NVDA analysis",
   "ticker": "NVDA",
-  "timestamp": "2026-07-01T12:30:47.137351+00:00",
+  "timestamp": "2026-07-02T12:30:47.190925+00:00",
   "recommendation": "ACCUMULATE",
-  "confidence": 65,
-  "summary": "NVDA @ $200.09 \u2014 ACCUMULATE (65% confidence) | Bullish: Bullish news sentiment detected | RSI: 43.18 | P/E: 30.68865 | Strategy: GROWTH",
-  "signal_score": 0.222,
+  "confidence": 69,
+  "summary": "NVDA @ $197.58 \u2014 ACCUMULATE (69% confidence) | Bullish: Bullish news sentiment detected | RSI: 47.38 | P/E: 30.30368 | Strategy: GROWTH",
+  "signal_score": 0.375,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "NVDA",
-    "current_price": 200.09,
-    "previous_close": 194.97,
-    "day_change_pct": 2.63,
-    "sma_20": 205.72,
-    "sma_50": 209.83,
-    "sma_200": 190.63,
-    "rsi_14": 43.18,
+    "current_price": 197.58,
+    "previous_close": 200.09,
+    "day_change_pct": -1.25,
+    "sma_20": 204.47,
+    "sma_50": 209.74,
+    "sma_200": 190.73,
+    "rsi_14": 47.38,
     "52_week_high": 236.54,
-    "52_week_low": 152.97,
-    "price_vs_52w_pct": 56.4,
-    "volume_surge": 1.0,
-    "avg_volume": 159181457,
-    "market_cap": 4846379859968,
-    "pe_trailing": 30.68865,
-    "pe_forward": 15.675591,
-    "peg_ratio": 0.59,
+    "52_week_low": 157.34,
+    "price_vs_52w_pct": 50.8,
+    "volume_surge": 0.99,
+    "avg_volume": 159232662,
+    "market_cap": 4785584996352,
+    "pe_trailing": 30.30368,
+    "pe_forward": 15.478952,
+    "peg_ratio": 0.61,
     "eps_ttm": 6.52,
     "eps_forward": 12.76443,
     "revenue_growth": 0.852,
@@ -33,21 +33,21 @@
     "profit_margin": 0.62966,
     "short_ratio": 1.72,
     "beta": 2.202,
-    "return_5d_pct": 0.55,
-    "return_1mo_pct": -10.1,
-    "return_3mo_pct": 13.98,
+    "return_5d_pct": 0.94,
+    "return_1mo_pct": -7.89,
+    "return_3mo_pct": 11.51,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
-      "score": -1.5,
-      "note": "Weak 1mo momentum -10.1%"
+      "score": -0.5,
+      "note": "Negative 1mo momentum -7.89%"
     },
     {
       "name": "sma20",
       "score": -0.5,
-      "note": "Price below SMA20 (205.72)"
+      "note": "Price below SMA20 (204.47)"
     },
     {
       "name": "death_cross",
@@ -57,17 +57,17 @@
     {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 30.68865x"
+      "note": "Elevated P/E 30.30368x"
     },
     {
       "name": "pe_forward",
       "score": 1.0,
-      "note": "Forward P/E 15.675591x < trailing 30.68865x (expected growth)"
+      "note": "Forward P/E 15.478952x < trailing 30.30368x (expected growth)"
     },
     {
       "name": "peg",
       "score": 1.0,
-      "note": "PEG 0.59 < 1.0 \u2014 growth cheap vs price"
+      "note": "PEG 0.61 < 1.0 \u2014 growth cheap vs price"
     },
     {
       "name": "revenue_growth",
@@ -82,7 +82,7 @@
     {
       "name": "sentiment",
       "score": 1.0,
-      "note": "Bullish news sentiment (100.0)"
+      "note": "Bullish news sentiment (33.3)"
     }
   ],
   "reasons": [
@@ -90,41 +90,41 @@
   ],
   "warnings": [],
   "sentiment": {
-    "score": 100.0,
+    "score": 33.3,
     "label": "BULLISH",
-    "bullish": 5,
-    "bearish": 0,
-    "total_mentions": 5
+    "bullish": 2,
+    "bearish": 1,
+    "total_mentions": 3
   },
   "news": [
     {
-      "title": "The 3 Best Dividend Aristocrats for 2026: The Halftime Scorecard",
-      "published": "Wed, 01 Jul 2026 12:10:51 +0000",
-      "url": "https://247wallst.com/investing/2026/07/01/the-3-best-dividend-aristocrats-for-2026-the-halftime-scorecard/?.tsrc=rss",
+      "title": "Does Iren's Golden State Warriors Partnership Make Any Sense?",
+      "published": "Thu, 02 Jul 2026 12:12:00 +0000",
+      "url": "https://www.fool.com/investing/2026/07/02/does-irens-golden-state-warriors-partnership-make/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Is Solana Poised for a Massive Breakout Rally?",
-      "published": "Wed, 01 Jul 2026 12:06:00 +0000",
-      "url": "https://www.fool.com/investing/2026/07/01/is-solana-poised-for-a-massive-breakout-rally/?.tsrc=rss",
+      "title": "A Revolutionary Technology Narrative Has Surged\u2014Don\u2019t Take the Bait",
+      "published": "Thu, 02 Jul 2026 12:05:38 +0000",
+      "url": "https://247wallst.com/investing/2026/07/02/a-revolutionary-technology-narrative-has-surged-dont-take-the-bait/?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Here Are Wednesday\u2019s Best Wall Street Analyst Research Calls: Abbott Laboratories, Circle Internet, Dow, Kratos Defense, Lockheed Martin, Salesforce, ServiceNow,SpaceX, and More",
-      "published": "Wed, 01 Jul 2026 12:03:14 +0000",
-      "url": "https://247wallst.com/investing/2026/07/01/here-are-wednesdays-best-wall-street-analyst-research-calls-abbott-laboratories-circle-internet-dow-kratos-defense-lockheed-martin-salesforce-servicenowspacex-and-more/?.tsrc=rss",
+      "title": "The average investor is running away from 'Magnificent 7' stocks",
+      "published": "Thu, 02 Jul 2026 12:02:04 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/article/the-average-investor-is-running-away-from-magnificent-7-stocks-120204013.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Big Tech's first half was a story of hardware versus software",
-      "published": "Wed, 01 Jul 2026 12:03:11 +0000",
-      "url": "https://finance.yahoo.com/technology/article/big-techs-first-half-was-a-story-of-hardware-versus-software-120311290.html?.tsrc=rss",
+      "title": "Quantum Computing Stocks: Europe's IQM To Debut On Nasdaq",
+      "published": "Thu, 02 Jul 2026 12:01:46 +0000",
+      "url": "https://finance.yahoo.com/m/0b5d9601-b313-3860-9db7-6c60a3095070/quantum-computing-stocks%3A.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Here\u2019s a Massive Reason You Should Buy SpaceX Before July 7th",
-      "published": "Wed, 01 Jul 2026 12:00:34 +0000",
-      "url": "https://247wallst.com/investing/2026/07/01/heres-a-massive-reason-you-should-buy-spacex-before-july-7th/?.tsrc=rss",
+      "title": "3 Dividend Stocks to Buy Hand Over Fist in July",
+      "published": "Thu, 02 Jul 2026 12:00:08 +0000",
+      "url": "https://247wallst.com/investing/2026/07/02/3-dividend-stocks-to-buy-hand-over-fist-in-july/?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
@@ -132,6 +132,6 @@
     "https://finance.yahoo.com/quote/NVDA"
   ],
   "paper_trade_signal": "ACCUMULATE",
-  "paper_trade_price": 200.09,
+  "paper_trade_price": 197.58,
   "asset_type": "stock"
 }

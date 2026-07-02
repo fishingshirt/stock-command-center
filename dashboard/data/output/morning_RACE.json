@@ -2,52 +2,52 @@
   "task_id": "",
   "subject": "RACE analysis",
   "ticker": "RACE",
-  "timestamp": "2026-07-01T12:31:09.389368+00:00",
+  "timestamp": "2026-07-02T12:30:59.476530+00:00",
   "recommendation": "ACCUMULATE",
   "confidence": 66,
-  "summary": "RACE @ $372.29 \u2014 ACCUMULATE (66% confidence) | RSI: 56.04 | P/E: 36.356445 | Strategy: GROWTH",
+  "summary": "RACE @ $374.66 \u2014 ACCUMULATE (66% confidence) | RSI: 62.37 | P/E: 36.623657 | Strategy: GROWTH",
   "signal_score": 0.25,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "RACE",
-    "current_price": 372.29,
-    "previous_close": 368.34,
-    "day_change_pct": 1.07,
-    "sma_20": 356.31,
-    "sma_50": 347.09,
-    "sma_200": 370.47,
-    "rsi_14": 56.04,
+    "current_price": 374.66,
+    "previous_close": 372.29,
+    "day_change_pct": 0.64,
+    "sma_20": 357.35,
+    "sma_50": 347.12,
+    "sma_200": 369.98,
+    "rsi_14": 62.37,
     "52_week_high": 519.1,
     "52_week_low": 312.51,
-    "price_vs_52w_pct": 28.9,
-    "volume_surge": 1.09,
-    "avg_volume": 625183,
-    "market_cap": 65497784320,
-    "pe_trailing": 36.356445,
-    "pe_forward": 30.36592,
-    "peg_ratio": 4.09,
-    "eps_ttm": 10.24,
-    "eps_forward": 12.260126,
+    "price_vs_52w_pct": 30.1,
+    "volume_surge": 1.19,
+    "avg_volume": 626931,
+    "market_cap": 65914744832,
+    "pe_trailing": 36.623657,
+    "pe_forward": 30.54356,
+    "peg_ratio": 4.28,
+    "eps_ttm": 10.23,
+    "eps_forward": 12.266416,
     "revenue_growth": 0.032,
     "earnings_growth": 0.013,
     "profit_margin": 0.22187,
     "short_ratio": 4.59,
     "beta": 0.595,
-    "return_5d_pct": 6.75,
-    "return_1mo_pct": 5.22,
-    "return_3mo_pct": 9.97,
+    "return_5d_pct": 6.38,
+    "return_1mo_pct": 8.79,
+    "return_3mo_pct": 11.47,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
       "score": 1.0,
-      "note": "Positive 1mo momentum +5.22%"
+      "note": "Positive 1mo momentum +8.79%"
     },
     {
       "name": "sma20",
       "score": 0.5,
-      "note": "Price above SMA20 (356.31)"
+      "note": "Price above SMA20 (357.35)"
     },
     {
       "name": "golden_cross",
@@ -57,12 +57,12 @@
     {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 36.356445x"
+      "note": "Elevated P/E 36.623657x"
     },
     {
       "name": "peg",
       "score": -1.0,
-      "note": "PEG 4.09 > 2.0 \u2014 expensive growth"
+      "note": "PEG 4.28 > 2.0 \u2014 expensive growth"
     }
   ],
   "reasons": [],
@@ -74,6 +74,12 @@
     "bearish": 0
   },
   "news": [
+    {
+      "title": "Kerrigan Advisors Represents Paramount Automotive in Sale of Foreign Cars Italia Charlotte & Greensboro to Hendrick Automotive Group",
+      "published": "Wed, 01 Jul 2026 21:17:00 +0000",
+      "url": "https://finance.yahoo.com/small-business/articles/kerrigan-advisors-represents-paramount-automotive-211700689.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
     {
       "title": "Ford And Ferrari Left Tesla, Rivian, Every Other Auto Rival In The Dust In H1 \u2014 Here's How They Did It",
       "published": "Wed, 01 Jul 2026 04:16:22 +0000",
@@ -97,18 +103,12 @@
       "published": "Mon, 29 Jun 2026 12:26:00 +0000",
       "url": "https://finance.yahoo.com/news/ferrari-n-v-periodic-report-122600451.html?.tsrc=rss",
       "source": "Yahoo Finance"
-    },
-    {
-      "title": "Ferrari (BIT:RACE) Replaces Marketing Chief After EV Launch Draws Backlash",
-      "published": "Sun, 28 Jun 2026 15:06:46 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ferrari-bit-race-replaces-marketing-150646647.html?.tsrc=rss",
-      "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/RACE"
   ],
   "paper_trade_signal": "ACCUMULATE",
-  "paper_trade_price": 372.29,
+  "paper_trade_price": 374.66,
   "asset_type": "stock"
 }

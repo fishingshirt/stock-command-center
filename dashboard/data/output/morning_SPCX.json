@@ -1,13 +1,43 @@
 {
-  "task_id": "",
-  "subject": "",
   "ticker": "SPCX",
-  "timestamp": "2026-07-01T12:32:22.760851+00:00",
-  "recommendation": "NO_DATA",
-  "confidence": 0,
-  "summary": "Data unavailable for SPCX: Insufficient price history for SPCX",
+  "timestamp": "2026-07-02T12:30:00Z",
+  "recommendation": "HOLD",
+  "confidence": 50,
+  "summary": "SPCX @ $157.54 \u2014 HOLD (50%) | Limited history (13 days) | Manual review needed",
+  "signal_score": 0.0,
+  "strategy": "SPECIAL_SITUATIONS",
   "key_metrics": {
-    "_error": "Insufficient price history for SPCX"
+    "ticker": "SPCX",
+    "current_price": 157.5399932861328,
+    "previous_close": 170.86000061035156,
+    "day_change_pct": -7.8,
+    "sma_20": 169.67,
+    "rsi_14": null,
+    "52_week_high": 225.64,
+    "52_week_low": 147.11,
+    "volume_surge": 0.61,
+    "avg_volume": 177500854,
+    "_source": "yfinance_direct_fallback",
+    "_data_points": 13
   },
-  "asset_type": "stock"
+  "signals": [],
+  "reasons": [
+    "Limited price history \u2014 manual review recommended"
+  ],
+  "warnings": [
+    "Only 13 trading days of data available"
+  ],
+  "sentiment": {
+    "score": 0,
+    "label": "NEUTRAL",
+    "bullish": 0,
+    "bearish": 0
+  },
+  "news": [],
+  "sources": [
+    "https://finance.yahoo.com/quote/SPCX"
+  ],
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 157.5399932861328,
+  "asset_type": "etf"
 }

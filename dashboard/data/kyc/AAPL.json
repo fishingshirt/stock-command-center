@@ -1,15 +1,17 @@
 {
   "ticker": "AAPL",
-  "timestamp": "2026-07-02T12:01:33.242104+00:00",
+  "timestamp": "2026-07-02T14:01:54.478343+00:00",
   "compliance_score": "NO_DATA",
   "risk_level": "NO_DATA",
   "sanctions_risk": "NO_DATA \u2014 Premium API required (OFAC/dowJones Watchlist)",
   "pep_exposure": "NO_DATA \u2014 Premium API required (DowJones/Refinitiv PEP)",
   "esg_score": "NO_DATA \u2014 Premium API required (MSCI/Refinitiv/Sustainalytics)",
-  "controversy_count": 0,
+  "controversy_count": 1,
   "jurisdiction_risk": "NO_DATA",
-  "flags": [],
-  "pass": true,
+  "flags": [
+    "Headline flagged: Top EU court dismisses Google appeal of $4.5 billion antitrust fine"
+  ],
+  "pass": false,
   "derived_from": {
     "sector": null,
     "country": null,

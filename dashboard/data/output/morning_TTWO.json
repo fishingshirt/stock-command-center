@@ -2,72 +2,77 @@
   "task_id": "",
   "subject": "TTWO analysis",
   "ticker": "TTWO",
-  "timestamp": "2026-07-01T12:31:27.094587+00:00",
+  "timestamp": "2026-07-02T12:31:11.334599+00:00",
   "recommendation": "ACCUMULATE",
-  "confidence": 67,
-  "summary": "TTWO @ $249.98 \u2014 ACCUMULATE (67% confidence) | Bullish: Bullish news sentiment detected | Warnings: RSI 81.73 \u2014 possible reversal risk | RSI: 81.73 | Strategy: MOMENTUM",
-  "signal_score": 0.294,
+  "confidence": 69,
+  "summary": "TTWO @ $250.32 \u2014 ACCUMULATE (69% confidence) | Bullish: Bullish news sentiment detected | Warnings: RSI 84.06 \u2014 possible reversal risk | RSI: 84.06 | Strategy: MOMENTUM",
+  "signal_score": 0.368,
   "strategy": "MOMENTUM",
   "key_metrics": {
     "ticker": "TTWO",
-    "current_price": 249.98,
-    "previous_close": 247.15,
-    "day_change_pct": 1.15,
-    "sma_20": 226.7,
-    "sma_50": 224.87,
-    "sma_200": 230.81,
-    "rsi_14": 81.73,
+    "current_price": 250.32,
+    "previous_close": 249.98,
+    "day_change_pct": 0.14,
+    "sma_20": 228.1,
+    "sma_50": 225.54,
+    "sma_200": 230.83,
+    "rsi_14": 84.06,
     "52_week_high": 264.79,
     "52_week_low": 187.63,
-    "price_vs_52w_pct": 80.8,
-    "volume_surge": 1.69,
-    "avg_volume": 2407285,
-    "market_cap": 46412951552,
+    "price_vs_52w_pct": 81.2,
+    "volume_surge": 1.53,
+    "avg_volume": 2421045,
+    "market_cap": 46476079104,
     "pe_trailing": null,
-    "pe_forward": 25.076088,
-    "peg_ratio": 3.33,
-    "eps_ttm": -1.62,
-    "eps_forward": 9.96886,
+    "pe_forward": 25.113974,
+    "peg_ratio": 3.49,
+    "eps_ttm": -1.63,
+    "eps_forward": 9.96736,
     "revenue_growth": 0.061,
     "earnings_growth": null,
     "profit_margin": -0.0448,
     "short_ratio": 3.09,
     "beta": 0.982,
-    "return_5d_pct": 6.03,
-    "return_1mo_pct": 12.41,
-    "return_3mo_pct": 26.13,
+    "return_5d_pct": 4.86,
+    "return_1mo_pct": 16.0,
+    "return_3mo_pct": 25.24,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
       "score": 1.5,
-      "note": "Strong 1mo momentum +12.41%"
+      "note": "Strong 1mo momentum +16.0%"
     },
     {
       "name": "3mo_momentum",
       "score": 1.5,
-      "note": "Strong 3mo momentum +26.13%"
+      "note": "Strong 3mo momentum +25.24%"
     },
     {
       "name": "rsi",
       "score": -2.0,
-      "note": "RSI extremely overbought 81.73"
+      "note": "RSI extremely overbought 84.06"
     },
     {
       "name": "sma20",
       "score": 0.5,
-      "note": "Price above SMA20 (226.7)"
+      "note": "Price above SMA20 (228.1)"
+    },
+    {
+      "name": "golden_cross",
+      "score": 1.0,
+      "note": "SMA20 > SMA50 (short-term uptrend)"
     },
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (230.81) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (230.83) \u2014 confirmed uptrend"
     },
     {
       "name": "peg",
       "score": -1.0,
-      "note": "PEG 3.33 > 2.0 \u2014 expensive growth"
+      "note": "PEG 3.49 > 2.0 \u2014 expensive growth"
     },
     {
       "name": "sentiment",
@@ -79,7 +84,7 @@
     "Bullish news sentiment detected"
   ],
   "warnings": [
-    "RSI 81.73 \u2014 possible reversal risk"
+    "RSI 84.06 \u2014 possible reversal risk"
   ],
   "sentiment": {
     "score": 100.0,
@@ -89,6 +94,12 @@
     "total_mentions": 2
   },
   "news": [
+    {
+      "title": "An Investment Perspective on Take-Two Interactive Software (TTWO) Amid Market Speculation",
+      "published": "Wed, 01 Jul 2026 12:32:45 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investment-perspective-two-interactive-software-123245277.html?.tsrc=rss",
+      "source": "Yahoo Finance"
+    },
     {
       "title": "Why Take-Two Interactive (TTWO) Outpaced the Stock Market Today",
       "published": "Tue, 30 Jun 2026 21:50:06 +0000",
@@ -112,18 +123,12 @@
       "published": "Mon, 29 Jun 2026 22:34:15 +0000",
       "url": "https://finance.yahoo.com/markets/stocks/articles/two-ttwo-stock-know-223415199.html?.tsrc=rss",
       "source": "Yahoo Finance"
-    },
-    {
-      "title": "Gaming ETF Becomes Growth Fund; Trailing Dividend Payout No Longer Reflects New Holdings",
-      "published": "Mon, 29 Jun 2026 02:35:11 +0000",
-      "url": "https://247wallst.com/investing/2026/06/28/gaming-etf-becomes-growth-fund-trailing-dividend-payout-no-longer-reflects-new-holdings/?.tsrc=rss",
-      "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/TTWO"
   ],
   "paper_trade_signal": "ACCUMULATE",
-  "paper_trade_price": 249.98,
+  "paper_trade_price": 250.32,
   "asset_type": "stock"
 }

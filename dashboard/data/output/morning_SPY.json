@@ -2,28 +2,28 @@
   "task_id": "",
   "subject": "SPY analysis",
   "ticker": "SPY",
-  "timestamp": "2026-07-01T12:32:42.361769+00:00",
-  "recommendation": "ACCUMULATE",
-  "confidence": 68,
-  "summary": "SPY @ $746.77 \u2014 ACCUMULATE (68% confidence) | Bullish: Bullish news sentiment detected | Warnings: Price at 90.5% of 52-week range \u2014 limited upside | RSI: 55.8 | P/E: 26.745169 | Strategy: GROWTH",
-  "signal_score": 0.333,
+  "timestamp": "2026-07-02T12:31:58.576663+00:00",
+  "recommendation": "HOLD",
+  "confidence": 50,
+  "summary": "SPY @ $745.76 \u2014 HOLD (50% confidence) | Warnings: Bearish news sentiment detected | RSI: 62.4 | P/E: 26.708996 | Strategy: GROWTH",
+  "signal_score": 0.0,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "SPY",
-    "current_price": 746.77,
-    "previous_close": 741.0,
-    "day_change_pct": 0.78,
-    "sma_20": 741.09,
-    "sma_50": 734.28,
-    "sma_200": 687.8,
-    "rsi_14": 55.8,
+    "current_price": 745.76,
+    "previous_close": 746.77,
+    "day_change_pct": -0.14,
+    "sma_20": 740.5,
+    "sma_50": 735.06,
+    "sma_200": 688.28,
+    "rsi_14": 62.4,
     "52_week_high": 760.4,
-    "52_week_low": 616.61,
-    "price_vs_52w_pct": 90.5,
-    "volume_surge": 1.08,
-    "avg_volume": 55060049,
+    "52_week_low": 617.87,
+    "price_vs_52w_pct": 89.7,
+    "volume_surge": 1.04,
+    "avg_volume": 54709445,
     "market_cap": null,
-    "pe_trailing": 26.745169,
+    "pe_trailing": 26.708996,
     "pe_forward": null,
     "peg_ratio": null,
     "eps_ttm": null,
@@ -33,77 +33,70 @@
     "profit_margin": null,
     "short_ratio": null,
     "beta": null,
-    "return_5d_pct": 1.85,
-    "return_1mo_pct": -1.43,
-    "return_3mo_pct": 14.26,
+    "return_5d_pct": 1.56,
+    "return_1mo_pct": -0.87,
+    "return_3mo_pct": 14.01,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (687.8) \u2014 confirmed uptrend"
-    },
-    {
-      "name": "52w",
-      "score": -1.0,
-      "note": "Near 52-week high (90.5% of range)"
+      "note": "Price well above SMA200 (688.28) \u2014 confirmed uptrend"
     },
     {
       "name": "sentiment",
-      "score": 1.0,
-      "note": "Bullish news sentiment (100.0)"
+      "score": -1.0,
+      "note": "Bearish news sentiment (-100.0)"
     }
   ],
-  "reasons": [
-    "Bullish news sentiment detected"
-  ],
+  "reasons": [],
   "warnings": [
-    "Price at 90.5% of 52-week range \u2014 limited upside"
+    "Bearish news sentiment detected"
   ],
   "sentiment": {
-    "score": 100.0,
-    "label": "BULLISH",
-    "bullish": 2,
-    "bearish": 0,
-    "total_mentions": 2
+    "score": -100.0,
+    "label": "BEARISH",
+    "bullish": 0,
+    "bearish": 1,
+    "total_mentions": 1
   },
   "news": [
     {
-      "title": "The Smartest S&P 500 ETF to Buy With $1,000 Right Now",
-      "published": "Wed, 01 Jul 2026 10:20:00 +0000",
-      "url": "https://www.fool.com/investing/2026/07/01/smartest-sp-500-etf-to-buy-with-1000-now-spym/?.tsrc=rss",
+      "title": "Stock Market Today: Dow Rises Ahead Of Key Jobs Report; Tesla Deliveries Due (Live Coverage)",
+      "published": "Thu, 02 Jul 2026 12:14:35 +0000",
+      "url": "https://finance.yahoo.com/m/0a954eac-e1d5-3f96-bc7a-92420fa6338c/stock-market-today%3A-dow-rises.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Why a $50,000 401(k) Loan at 50 Could Quietly Cost You $100,000 by Retirement",
-      "published": "Tue, 30 Jun 2026 23:22:35 +0000",
-      "url": "https://247wallst.com/personal-finance/2026/06/30/why-a-50000-401k-loan-at-50-could-quietly-cost-you-100000-by-retirement/?.tsrc=rss",
+      "title": "6 S&P 500 Stocks Turn $100,000 Into $3.5 Million In 6 Months",
+      "published": "Thu, 02 Jul 2026 11:47:59 +0000",
+      "url": "https://finance.yahoo.com/m/9e9e1cb2-1a08-3390-b56c-697cdcc73272/6-s%26p-500-stocks-turn.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "S&P 500, Nasdaq End Higher As Chipmakers Rally, While Dow Posts Best First Half In Five Years \u2014 LUNR, AMZN, PLTR, XYZ, AVAV In Focus",
-      "published": "Tue, 30 Jun 2026 22:57:35 +0000",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-higher-as-chipmakers-rally-while-dow-posts-best-first-half-in-five-years-lunr-amzn-pltr-xyz-avav-in-focus/cZ1QvpOR70p?.tsrc=rss",
+      "title": "Nasdaq, S&P 500, Dow Futures Subdued Ahead Of June Jobs Report: Why TSLA, MU, NBIS, NVDA, SMCI, IREN Are In Focus",
+      "published": "Thu, 02 Jul 2026 08:52:59 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/stock-market-today-dow-nasdaq-sp500-futures-jobs-report-tsla-mu-nbis-smci-iren/cZmegFDR7Sd?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Exchange-Traded Funds Mixed, Equity Futures Lower Pre-Bell Ahead of Key Economic Reports",
-      "published": "Tue, 30 Jun 2026 13:00:43 +0000",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-mixed-equity-130043691.html?.tsrc=rss",
+      "title": "S&P 500, Nasdaq Futures Climb While Dow Futures Fall Ahead Of Key Jobs Report: META, MU, JACK, CEG Stocks In Focus",
+      "published": "Thu, 02 Jul 2026 01:54:38 +0000",
+      "url": "https://stocktwits.com/news-articles/markets/equity/sp500-nasdaq-futures-climb-while-dow-futures-fall-ahead-of-key-jobs-report/cZme21AR71V?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "S&P 500, Nasdaq, Dow Futures Retreat Ahead Of High-Stakes US-Iran Talks: SLS, QS, NKE, JACK In Focus",
-      "published": "Tue, 30 Jun 2026 01:50:13 +0000",
-      "url": "https://stocktwits.com/news-articles/markets/equity/sp500-nasdaq-dow-futures-retreat-ahead-of-high-stakes-us-iran-talks-sls-qs-nke-jack-in-focus/cZ1fCDmR7Ls?.tsrc=rss",
+      "title": "\u2018How\u2019s Your 401(k)?\u2019: Trump Shrugs Off His Billion-Dollar Crypto Haul as Just a Rising Market",
+      "published": "Thu, 02 Jul 2026 00:03:42 +0000",
+      "url": "https://247wallst.com/investing/2026/07/01/hows-your-401k-trump-shrugs-off-his-billion-dollar-crypto-haul-as-just-a-rising-market/?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/SPY"
   ],
-  "paper_trade_signal": "ACCUMULATE",
-  "paper_trade_price": 746.77,
+  "paper_trade_signal": "HOLD",
+  "paper_trade_price": 745.76,
   "asset_type": "stock"
 }

@@ -2,72 +2,67 @@
   "task_id": "",
   "subject": "AAPL analysis",
   "ticker": "AAPL",
-  "timestamp": "2026-07-01T12:30:31.276848+00:00",
-  "recommendation": "ACCUMULATE",
-  "confidence": 69,
-  "summary": "AAPL @ $289.36 \u2014 ACCUMULATE (69% confidence) | Bullish: Bullish news sentiment detected | RSI: 49.07 | P/E: 35.073936 | Strategy: GROWTH",
-  "signal_score": 0.375,
+  "timestamp": "2026-07-02T12:30:35.294008+00:00",
+  "recommendation": "BUY",
+  "confidence": 80,
+  "summary": "AAPL @ $294.38 \u2014 BUY (80% confidence) | RSI: 52.05 | P/E: 35.59613 | Strategy: GROWTH",
+  "signal_score": 0.429,
   "strategy": "GROWTH",
   "key_metrics": {
     "ticker": "AAPL",
-    "current_price": 289.36,
-    "previous_close": 281.74,
-    "day_change_pct": 2.7,
-    "sma_20": 295.93,
-    "sma_50": 292.17,
-    "sma_200": 269.65,
-    "rsi_14": 49.07,
+    "current_price": 294.38,
+    "previous_close": 289.36,
+    "day_change_pct": 1.73,
+    "sma_20": 294.88,
+    "sma_50": 292.6,
+    "sma_200": 269.96,
+    "rsi_14": 52.05,
     "52_week_high": 317.4,
     "52_week_low": 201.5,
-    "price_vs_52w_pct": 75.8,
-    "volume_surge": 2.08,
-    "avg_volume": 53276708,
-    "market_cap": 4249933053952,
-    "pe_trailing": 35.073936,
-    "pe_forward": 30.113684,
-    "peg_ratio": 2.29,
-    "eps_ttm": 8.25,
+    "price_vs_52w_pct": 80.1,
+    "volume_surge": 2.05,
+    "avg_volume": 53586159,
+    "market_cap": 4323663937536,
+    "pe_trailing": 35.59613,
+    "pe_forward": 30.636118,
+    "peg_ratio": 2.34,
+    "eps_ttm": 8.27,
     "eps_forward": 9.60892,
     "revenue_growth": 0.166,
     "earnings_growth": 0.218,
     "profit_margin": 0.27152002,
     "short_ratio": 2.88,
     "beta": 1.086,
-    "return_5d_pct": -1.27,
-    "return_1mo_pct": -8.2,
-    "return_3mo_pct": 13.3,
+    "return_5d_pct": 6.99,
+    "return_1mo_pct": -5.12,
+    "return_3mo_pct": 15.13,
     "_source": "yfinance"
   },
   "signals": [
     {
       "name": "1mo_momentum",
       "score": -0.5,
-      "note": "Negative 1mo momentum -8.2%"
+      "note": "Negative 1mo momentum -5.12%"
     },
     {
-      "name": "sma20",
-      "score": -0.5,
-      "note": "Price below SMA20 (295.93)"
-    },
-    {
-      "name": "golden_cross",
-      "score": 1.0,
-      "note": "SMA20 > SMA50 (short-term uptrend)"
+      "name": "3mo_momentum",
+      "score": 1.5,
+      "note": "Strong 3mo momentum +15.13%"
     },
     {
       "name": "sma200",
       "score": 1.0,
-      "note": "Price well above SMA200 (269.65) \u2014 confirmed uptrend"
+      "note": "Price well above SMA200 (269.96) \u2014 confirmed uptrend"
     },
     {
       "name": "pe",
       "score": -0.5,
-      "note": "Elevated P/E 35.073936x"
+      "note": "Elevated P/E 35.59613x"
     },
     {
       "name": "peg",
       "score": -1.0,
-      "note": "PEG 2.29 > 2.0 \u2014 expensive growth"
+      "note": "PEG 2.34 > 2.0 \u2014 expensive growth"
     },
     {
       "name": "revenue_growth",
@@ -82,61 +77,53 @@
     {
       "name": "volume",
       "score": 0.5,
-      "note": "Volume surge 2.08x average"
-    },
-    {
-      "name": "sentiment",
-      "score": 1.0,
-      "note": "Bullish news sentiment (100.0)"
+      "note": "Volume surge 2.05x average"
     }
   ],
-  "reasons": [
-    "Bullish news sentiment detected"
-  ],
+  "reasons": [],
   "warnings": [],
   "sentiment": {
-    "score": 100.0,
-    "label": "BULLISH",
-    "bullish": 1,
-    "bearish": 0,
-    "total_mentions": 1
+    "score": 0,
+    "label": "NEUTRAL",
+    "bullish": 0,
+    "bearish": 0
   },
   "news": [
     {
-      "title": "MTUM Investors: Watch Micron\u2019s Weight at the November Reconstitution",
-      "published": "Wed, 01 Jul 2026 11:55:56 +0000",
-      "url": "https://247wallst.com/investing/2026/07/01/mtum-investors-watch-microns-weight-at-the-november-reconstitution/?.tsrc=rss",
+      "title": "Top EU court dismisses Google appeal of $4.5 billion antitrust fine",
+      "published": "Thu, 02 Jul 2026 12:20:43 +0000",
+      "url": "https://finance.yahoo.com/technology/articles/top-eu-court-dismisses-google-122043661.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Trump\u2019s Crypto Billions, Apple Stock, and More From His Latest Financial Filing",
-      "published": "Wed, 01 Jul 2026 10:50:00 +0000",
-      "url": "https://finance.yahoo.com/m/3486bc98-633e-3474-bc5c-416036db2f61/trump%E2%80%99s-crypto-billions%2C.html?.tsrc=rss",
+      "title": "Here's how much more expensive your devices have gotten thanks to AI",
+      "published": "Thu, 02 Jul 2026 12:11:00 +0000",
+      "url": "https://finance.yahoo.com/technology/article/heres-how-much-more-expensive-your-devices-have-gotten-thanks-to-ai-121100267.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "Stock Markets Enter a Crucial Period as Investors Play Defense to Inflation Risks",
-      "published": "Wed, 01 Jul 2026 10:18:00 +0000",
-      "url": "https://finance.yahoo.com/m/2840b238-3c67-3899-93bd-2d9f11687aff/stock-markets-enter-a-crucial.html?.tsrc=rss",
+      "title": "FOMO Vs. FOMU: What Do Apple, Nvidia And These IPOs Reveal?",
+      "published": "Thu, 02 Jul 2026 11:17:18 +0000",
+      "url": "https://finance.yahoo.com/m/628177a9-0d08-337f-9cb0-24eb4efe6816/fomo-vs.-fomu%3A-what-do-apple%2C.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "EU says it held 'constructive' talks with Apple CEO Cook after Siri AI clash",
-      "published": "Wed, 01 Jul 2026 07:39:16 +0000",
-      "url": "https://finance.yahoo.com/technology/articles/eu-tech-chief-apple-ceo-073916599.html?.tsrc=rss",
+      "title": "This Market Rotation From Tech Could Be a Longer-Term Adjustment",
+      "published": "Thu, 02 Jul 2026 10:39:00 +0000",
+      "url": "https://finance.yahoo.com/m/1cdc1514-a1d4-3aa5-b26d-3128e0868aef/this-market-rotation-from.html?.tsrc=rss",
       "source": "Yahoo Finance"
     },
     {
-      "title": "As Big Tech showers employees with perks to win the talent war, Nvidia built a nearly $5 trillion company by making people pay for their own lunch",
-      "published": "Wed, 01 Jul 2026 07:00:00 +0000",
-      "url": "https://finance.yahoo.com/technology/articles/big-tech-showers-employees-perks-070000576.html?.tsrc=rss",
+      "title": "Market Chatter: Apple Plans Five New iPhone Models",
+      "published": "Thu, 02 Jul 2026 09:56:01 +0000",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-apple-plans-five-095601583.html?.tsrc=rss",
       "source": "Yahoo Finance"
     }
   ],
   "sources": [
     "https://finance.yahoo.com/quote/AAPL"
   ],
-  "paper_trade_signal": "ACCUMULATE",
-  "paper_trade_price": 289.36,
+  "paper_trade_signal": "BUY",
+  "paper_trade_price": 294.38,
   "asset_type": "stock"
 }
